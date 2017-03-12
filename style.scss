@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 20px/1.4 $georgia;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   color: $darkerGray;
   font-weight: bold;
 
@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+
 }
 
 h1 {
@@ -49,6 +50,11 @@ h1 {
   a {
     color: inherit;
   }
+  
+}
+
+h1.title {
+  font-family: $helveticaNeue;
 }
 
 h2 {
@@ -118,6 +124,9 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  font-size: 14px;
+  //margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 // Specify the color of the selection
@@ -194,9 +203,9 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-family: $rocksalt;
+  font-weight: bold;
+  font-size: 34px;
   letter-spacing: 1px;
 }
 
@@ -213,7 +222,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   font-size: 18px;
 
   @include mobile {
@@ -251,7 +260,7 @@ nav {
   border-bottom: none;
 }
 
-.post {
+.post {  
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
