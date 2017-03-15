@@ -5,14 +5,19 @@ category: "Personal Journal"
 date: 2017-03-12 10:40:00 PM
 ---
 
+<style type="text/css">
+    li {
+        list-style-type: none;
+    }
+</style>
 
-## reason #1: I want to be able to write blogs even when I don't have an internet connection
+## Reason #1: I want to be able to write blogs even when I don't have an internet connection
 - Git solves this problem.["Most operations in Git only need local files and resources to operate..."](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 <br /> <br />
 I actually already [attempted last year to transfer my blog to GitHub](https://jboyflaga2.github.io/Transferring-blog-to-GitHub/) but I have choosen not to use it this time because it has a _weird_ name (just like my current blog -- refer to reason #2); and a friend of mine, Joash Tubaga, suggested that using _"jboy"_ for a name sounds childish; I should be using my real name. And I was convinced.
 
 
-## reason #2: I want to be able to use emojis in my blog
+## Reason #2: I want to be able to use emojis in my blog
 
 - :sweat_smile: :+1: :musical_note:
 <br /> <br />
@@ -20,45 +25,41 @@ I actually already [attempted last year to transfer my blog to GitHub](https://j
 
 
 
-## reason #3: Writing code on GitHub flavored Markdown is simpler
+## Reason #3: Writing code on GitHub flavored Markdown is simpler
 - JavaScript code
-
-``` JavaScript
-function test() {
-    console.log("test");
-}
+``` javascript
+    function test() {
+        console.log("test");
+    }
 ```
 
-<br />
 - C# code
+``` csharp
+    using System;
 
-``` C#
-
-using System;
-
-public class Circle : Shape
-{
-    private double radius;
-
-    public Circle(double radius)
+    public class Circle : Shape
     {
-        this.radius = radius;
-    }
+        private double radius;
 
-    public double Radius
-    {
-        get { return this.radius;}
-        set { this.radius = value;}
-    }
+        public Circle(double radius)
+        {
+            this.radius = radius;
+        }
 
-    override public double ComputeArea() 
-    { 
-        return Math.PI * Math.Pow(radius, 2);
+        public double Radius
+        {
+            get { return this.radius;}
+            set { this.radius = value;}
+        }
+
+        override public double ComputeArea() 
+        { 
+            return Math.PI * Math.Pow(radius, 2);
+        }
     }
-}
 ```
 
-## reason #4: My current blog has a _weird_ name
+## Reason #4: My current blog has a _weird_ name
 
 - [jboyflaga2.blogspot.com](http://jboyflaga2.blogspot.com). Yes! With a _"2"_ at the end. It sounds unprofessional. :blush:
 <br /> <br />
