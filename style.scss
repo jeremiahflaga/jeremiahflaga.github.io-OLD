@@ -54,7 +54,7 @@ h1 {
 }
 
 h1.title {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
 }
 
 h2 {
@@ -114,6 +114,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -125,8 +126,13 @@ img {
   font-style: italic;
   color: $gray;
   font-size: 14px;
-  //margin-top: 40px;
   margin-bottom: 30px;
+}
+
+.post-tags {  
+  font-style: italic;
+  color: $gray;
+  font-size: 14px;
 }
 
 // Specify the color of the selection
@@ -262,11 +268,11 @@ nav {
 
 .post {  
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    margin: .8em;
+    //border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 20px;
     font-style: italic;
   }
 

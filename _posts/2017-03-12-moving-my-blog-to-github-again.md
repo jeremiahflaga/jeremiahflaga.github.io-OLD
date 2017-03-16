@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why am I moving my blog to GitHub! -- Again.
-category: "Personal Journal"
+tags: Thoughts
 date: 2017-03-12 10:40:00 PM
 ---
 
@@ -14,7 +14,7 @@ date: 2017-03-12 10:40:00 PM
 ## Reason #1: I want to be able to write blogs even when I don't have an internet connection
 - Git solves this problem.["Most operations in Git only need local files and resources to operate..."](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 <br /> <br />
-I actually already [attempted last year to transfer my blog to GitHub](https://jboyflaga2.github.io/Transferring-blog-to-GitHub/) but I have choosen not to use it this time because it has a _weird_ name (just like my current blog -- refer to reason #2); and a friend of mine, Joash Tubaga, suggested that using _"jboy"_ for a name sounds childish; I should be using my real name. And I was convinced.
+I actually already [attempted last year to transfer my blog to GitHub](https://jboyflaga2.github.io/Transferring-blog-to-GitHub/) but I have choosen not to use it this time because it has a _weird_ name (just like my current blog -- refer to reason #4 below); and a friend of mine, Joash Tubaga, suggested that using _"jboy"_ for a name sounds childish; I should be using my real name. And I was convinced.
 
 
 ## Reason #2: I want to be able to use emojis in my blog
