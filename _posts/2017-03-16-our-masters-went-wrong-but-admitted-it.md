@@ -2,8 +2,9 @@
 layout: post
 title: Some of our masters went wrong; but they admitted it
 tags: Thoughts Programming
-date: 2017-03-16 02:40:00 PM
+date: 2017-03-16 06:40:00 AM UTC
 ---
+<!-- March 16, 2017 02:40:00 PM Philippine Time -->
 
 <!-- Jboy: started writing about 10 PM yesterday; stopped at about 2 AM; went to bed;started again at noon; finished at about 2:40 PM -->
 

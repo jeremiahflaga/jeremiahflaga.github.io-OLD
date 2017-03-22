@@ -2,8 +2,9 @@
 layout: post
 title: Why am I moving my blog to GitHub! -- Again.
 tags: Thoughts
-date: 2017-03-12 10:40:00 PM
+date: 2017-03-12 02:40:00 PM UTC
 ---
+<!-- March 12, 2017 10:40:00 PM Philippine Time -->
 
 <style type="text/css">
     li {
