@@ -89,3 +89,17 @@ I remember saying that in the past...
 
 [here it is -- the team rule](https://github.com/KidapawanProgrammersClub/KidProgClubImportantDocs/blob/62fe0bb47b50308c608bfc23cc51397fd727ffc0/Club%20Rules.md#-the-team-rule)
 -->
+
+## Update (March 22, 2017): Uncle Bob also admitted a mistake
+
+In his [blog post last March 3](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html), he said this about the one-to-one correspondence between unit tests and production code:
+
+> I **used to** tout this as an advantage because I could find every unit test by simply putting the word “Test” after the class that was being tested.
+
+He also said something that he learned in the last 16 years about TDD.
+
+> As the tests get more specific, the production code gets more generic.
+
+I do not yet fully understand what that means. I hope he will explain that more later.
+
+... Or maybe I should already start practicing TDD so that I will understand that statement!
