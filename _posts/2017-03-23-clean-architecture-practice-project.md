@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Clean Architecture Practice Project
-tags: Programming
-date: 2017-03-22 06:25:00 PM UTC
+tags: [Programming, Clean Code, Clean Architecture, TDD]
+date: 2017-03-23 01:00:00 AM UTC
 ---
 
-<!-- March 23, 2017 2:25:00 AM Philippine Time -->
+<!-- March 23, 2017 9:00:00 AM Philippine Time -->
 
 <small>(Originally written on March 21, 2017)</small>
 
