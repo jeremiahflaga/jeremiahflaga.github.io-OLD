@@ -196,6 +196,7 @@ img.emoji {
 
   img {
     border-radius: 5px;
+    box-shadow: none;
   }
 }
 
@@ -256,6 +257,15 @@ nav {
   }
 }
 
+blockquote {
+  //margin: 0em 0em;
+  //border-left: 5px solid $lightGray;
+  padding: 0em 1.5em;
+  color: $gray;
+  font-size: 18px;
+  font-style: italic;
+}
+
 //
 // .main
 //
@@ -270,7 +280,19 @@ nav {
   border-bottom: none;
 }
 
-.post {  
+.posts > .post > .post-tags {
+  padding-left: 0.8em;
+}
+
+.posts > .post > .date {
+  padding-left: 0.8em;
+}
+
+.posts > .post > .entry {
+  padding-left: 0.8em;
+}
+
+.post {
   blockquote {
     //margin: 0em 0em;
     border-left: 5px solid $lightGray;

@@ -7,10 +7,12 @@ date: 2017-03-27 02:40:00 PM UTC
 
 <!-- March 27, 2017 10:40:00 PM Philippine Time -->
 
-The second book on programming that I (ever) bought already arrived! :relieved:
+The second book on programming that I (ever) bought already arrived! :relieved: Whew!
 
 
 ![24 Deadly Sins of Software Security book](/images/2017/24-deadly-sins-of-software-security-book.jpg)
+
+<!--more-->
 
 <small>[_It was not actually delivered to my place. I had to go to the Davao Post Office (PhilPost) to get it. It arrived last February 28, two weeks after it was dispatched from the UK, but they (PhilPost) did not deliver it to the destination address._ :disappointed: ]</small>
 
@@ -53,7 +55,7 @@ If using digital books is working best for you then great! -- buy digital books 
 I forgot where I got this idea... I think I got that from either John Sonmez or Scott Hanselman.
 
 
-4. **I know that I can still be able to learn how to use new languages or frameworks** using the documentation of those languages and frameworks, and tutorials available online -- I need to be creative. 
+4. **I know that I can still be able to learn how to use new languages or frameworks** using the documentation of those languages and frameworks, and tutorials available online -- I need to be creative/resourceful. 
 <br />
 I got that from John Sonmez.
 

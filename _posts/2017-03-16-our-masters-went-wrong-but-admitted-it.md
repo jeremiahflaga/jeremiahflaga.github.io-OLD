@@ -18,6 +18,7 @@ I really liked this statement attributed to him:
 Well, instead of trying to predict the future, which we as humans are really bad at (take a look at Sci-Fi from the 60’s), instead you should learn the stuff that doesn’t change around a lot. **Learn the things that have been known since the 70’s and has been true since.**
 Learn programming in general."
 
+<!--more-->
 
 I learned a similar approach to learning from John Sonmez ...
 <br />

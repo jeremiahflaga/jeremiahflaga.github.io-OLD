@@ -6,7 +6,7 @@
 name: Jeremiah Flaga
 
 # Short bio or description (displayed in the header)
-description: Software Developer
+description: My thoughts and experiences on programming and other things
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jeremiahflaga/jeremiahflaga.github.io/master/images/Jboy2017-Real-2(200x200).jpg
@@ -85,3 +85,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+excerpt_separator: <!--more-->

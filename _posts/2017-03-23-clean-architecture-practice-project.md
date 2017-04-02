@@ -15,6 +15,8 @@ date: 2017-03-23 01:00:00 AM UTC
 
 Last year, I was able to read Uncle Bob Martin's article titled ["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). While reading that article I thought that he is just explaining how _most_ software developers do architecture in the real world.
 
+<!--more-->
+
 But two days ago, I learned that he is writing a new book titled "Clean Architecture" to be released this August 2017. _(I'm going to buy that book.)_
 
 I realized that this **"Clean Architecture"** idea is new. I have to learn it. _(Maybe it's not really new; but maybe the majority of developers does not know about it yet?!)_

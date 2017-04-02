@@ -3,6 +3,7 @@ layout: post
 title: Why am I moving my blog to GitHub! -- Again.
 tags: Thoughts
 date: 2017-03-12 02:40:00 PM UTC
+excerpt_separator: <!--more-->
 ---
 <!-- March 12, 2017 10:40:00 PM Philippine Time -->
 
@@ -17,6 +18,7 @@ date: 2017-03-12 02:40:00 PM UTC
 <br /> <br />
 I actually already [attempted last year to transfer my blog to GitHub](https://jboyflaga2.github.io/Transferring-blog-to-GitHub/) but I have choosen not to use it this time because it has a _weird_ name (just like my current blog -- refer to reason #4 below); and a friend of mine, Joash Tubaga, suggested that using _"jboy"_ for a name sounds childish; I should be using my real name. And I was convinced.
 
+<!--more-->
 
 ## Reason #2: I want to be able to use emojis in my blog
 

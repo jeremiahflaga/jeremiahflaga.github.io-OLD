@@ -3,11 +3,14 @@ layout: post
 title: I think we need to replace the word "god" in "god object"
 tags: Thoughts Programming
 date: 2017-03-28 09:45:00 PM UTC
+published: false
 ---
 
 <!-- March 29, 2017 5:45:00 AM Philippine Time -->
 
 I don't know who first coined the phrase "god object" but i think it's time for us to refrain from using that phrase already.
+
+<!--more-->
 
 If we continue using that phrase, the next generation of programmers might confuse God with "god".
 

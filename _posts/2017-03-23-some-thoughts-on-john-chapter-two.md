@@ -3,6 +3,7 @@ layout: post
 title: Some thoughts on John chapter two
 tags: Thoughts Bible
 date: 2017-03-22 05:40:00 PM UTC
+published: false
 ---
 
 <!-- March 23, 2017 1:40:00 AM Philippine Time -->
@@ -16,6 +17,8 @@ In verse 19 Jesus says
 > _"destroy **this** temple and in three days I will raise it up"_. 
 
 Then verse 21 says that he was speaking about the _"temple of his body"_. <small>_(I'm a programmer. I want my periods outside the quote :smile: ... and they don't look bad with the font I am using! Hmmm.)_<small>
+
+<!--more-->
 
 Notice that he used the word "**_this_**" to refer to his body.
 
