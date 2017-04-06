@@ -15,10 +15,20 @@ Next time, if someone is going to ask me that question, or a similar question, i
 
 > So be very careful when answering this question.
 
-> The question is, "Is the word 'cat' in the Bible?"
+> The question is, **"Is the word 'cat' in the Bible?"**
 
 :smile:
 
-P.S.
+_P.S._
 <br />
 I got this idea, about _'cats'_, from one of Ken Ham's talks about dinosaurs years ago.
+
+_Disclaimer:_
+<br />
+I am not claiming that I am able to defend the idea of Trinity to everybody. 
+
+I can only be able to give bible passages on the deity of Jesus Christ (like in Hebrews 1 and John 1) and the Holy Spirit (in Acts 5).
+
+What I'm claiming is that it is absurd to **_not_** believe in the trinity just because the _**very 'word'**_ is not in the bible; because, for example, we believe that God created _'cats'_ and _'dinosaurs'_ even though the the Bible does not specifically say that _"God created cats"_ and _"God created dinosaurs"_.
+
+If we are going to argue against the idea of the trinity, we must not use this _"Is the word 'Trinity' in the Bible?"_ question.
