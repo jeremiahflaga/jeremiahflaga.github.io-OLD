@@ -18,3 +18,7 @@ Next time, if someone is going to ask me that question, or a similar question, i
 > The question is, "Is the word 'cat' in the Bible?"
 
 :smile:
+
+P.S.
+<br />
+I got this idea, about _'cats'_, from one of Ken Ham's talks about dinosaurs years ago.
