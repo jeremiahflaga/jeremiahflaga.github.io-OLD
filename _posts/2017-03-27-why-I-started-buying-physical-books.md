@@ -73,12 +73,14 @@ _I got that from my notes on "The Magic of Thinking Big" which I read last 2006 
 8. [**God exists.**](http://www.datpostmil.com/the-great-debate-greg-bahnsen-vs-gordon-stein/) I should be trusting him. 
 
 
-9. **I thought** (last year) **that I will never become a full time programmer again**. So there will be no need to have programming books.
-
+9. **I plan to buy physical books only of those called _"language agnostic"_ books**
 
 10. **I was convicted to stop illegally downloading copyrighted materials online** while  watching ["The Atheist Delusion"](http://www.atheistmovie.com/) of Ray Comfort last year (2016). <small>* ** ***</small>
 <br />
-This conviction was reinforced by [Dr. Phil Kamibayashiyama](http://www.bjmbc.org/faculty.html) during his lectures on "The Reformation" at Malaybalay, Bukidnon last year (also); and also by an acquaintance named Ian Cemacio when I heard him say that he already stopped downloading movies online because that's the conviction God has given him :smile:)
+This conviction was reinforced by [Dr. Phil Kamibayashiyama](http://www.bjmbc.org/faculty.html) during his lectures on "The Reformation" at Malaybalay, Bukidnon last year (also); and also by an acquaintance named Ian Cemacio when I heard him say that he already stopped downloading movies online because that's the conviction God has given him. :smile:
+<br />
+I also thought (last year) that I will never become a full time programmer again. So there will be no need to have programming books.
+
 
 ## Confession
 I started downloading books illegally last 2009 I think (two years after my _rebellion years_ started. I just googled for _"free eBook for [name of language, framework, etc.]"_ and many sites will show up. At first I did not know that it was illegal. But after a few months I realized that it was.
@@ -91,14 +93,14 @@ I'm not perfect; I might commit other mistakes in the future. But I'm happy that
 
 
 
-<br /><br />
+<br />
 
 
 **P.S.**
 <br />
 If someone with power is concerned about us not have easy access to good programming books here in the Philippines, please do something so that we will have easy access to them. I believe that this small good things that you will do will have more impact than the big evil things that exist.
 
-<br /><br />
+<br />
 
 <small>
 Footnotes:
@@ -110,11 +112,11 @@ This pressure, and many others, helped me in wanting to leave Christianity. _"Ch
 </small>
 
 <small>
-** I'm not condemning fellow Christians who are still downloading copyrighted materials. But I am not hesitant to that it is wrong. I would like to plead with you to consider this: Telling people the truth is not the same as condemning people. Saying that "it is wrong" is not the same as saying that "you will always be wrong" or "you are not a Christian anymore".
+** I'm not condemning fellow Christians who are still downloading copyrighted materials. But I am not hesitant to say that it is wrong. I would like to plead with you to consider this: Telling people the truth is not the same as condemning people. Saying that "it is wrong" is not the same as saying that "you will always be wrong" or "you are not a Christian anymore".
 </small>
 
 <small>
-*** … For atheists out there, I would like to say this: At least Christians have an explanation on why we sometimes behave the wrong way. 
+*** … For atheists out there, I would like to say this: _"At least Christians have an explanation on why we sometimes behave the wrong way."_
 </small>
 
 <small>

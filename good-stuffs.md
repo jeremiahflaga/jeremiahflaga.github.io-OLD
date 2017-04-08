@@ -41,9 +41,7 @@ The SOLID Principles of Uncle Bob Martin
 <br /><br />
 >When we move from a higher level of abstraction to a lower one, the execution of the tasks in the less abstract level is **how** we implement the more abstract level.
 
-
-
-
+<!--
 > ![Respect Levels of Abstraction image](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/01/respect_levels_of_abstraction2.png)
 
 > I deem respecting the levels of abstraction to be the most important principle in programming, because it automatically implies many other best practices.
@@ -52,7 +50,7 @@ If you think about this principle when designing your code and constantly ask yo
 <br /><br />
 By identifying what things the code does and replacing each one with a label, we know how to raise levels of abstraction in order to make code more expressive.
 
-
+-->
 
 
 ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/) by Jonathan Boccara
@@ -61,9 +59,15 @@ By identifying what things the code does and replacing each one with a label, we
 
 
 
-
+<!--
 ["Am I really a developer or just a good googler?"](http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx) by Scott Hanselman
+-->
 
+
+
+[Don’t Get Obsessed With Design Patterns](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/) by Joel Rodriguez
+
+> I believe that knowing object-oriented design principles and applying best practices like SOLID, KISS and YAGNI are far more important than design patterns themselves. If you apply these principles, **patterns will come out naturally**.
 
 
 
@@ -88,7 +92,7 @@ Learn the fundamentals that we figured out in the 70s and that have been true si
 
 ## Music
 
-[Greg Howlett's music lessons](http://greghowlett.com/blog/?affid=5114))
+[Greg Howlett's music lessons](http://greghowlett.com/blog/?affid=5114)
 
 <!--
 [Another appetizer for the upcoming big music question](https://greghowlett.com/blog/music-philosophy/appetizer.aspx?affid=5114) by Greg Howlett

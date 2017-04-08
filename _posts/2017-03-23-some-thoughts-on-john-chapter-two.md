@@ -3,7 +3,7 @@ layout: post
 title: Some thoughts on John chapter two
 tags: Thoughts Bible
 date: 2017-03-22 05:40:00 PM UTC
-published: false
+published: true
 ---
 
 <!-- March 23, 2017 1:40:00 AM Philippine Time -->

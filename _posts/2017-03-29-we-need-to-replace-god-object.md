@@ -3,7 +3,7 @@ layout: post
 title: I think we need to replace the word "god" in "god object"
 tags: Thoughts Programming
 date: 2017-03-28 09:45:00 PM UTC
-published: false
+published: true
 ---
 
 <!-- March 29, 2017 5:45:00 AM Philippine Time -->
