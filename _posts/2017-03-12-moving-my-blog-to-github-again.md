@@ -25,7 +25,8 @@ I actually already [attempted last year to transfer my blog to GitHub](https://j
 - :sweat_smile: :+1: :musical_note:
 <br /> <br />
 :smiley_cat: :scream_cat: :dog:
-
+<br /> <br />
+:arrow_left: :arrow_right: :arrow_up:
 
 
 ## Reason #3: Writing code on GitHub flavored Markdown is simpler

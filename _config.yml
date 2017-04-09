@@ -59,6 +59,8 @@ permalink: /:year/:month/:day/:title/
 
 timezone: UTC
 
+paginate: 5
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
@@ -81,6 +83,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jemoji # GitHub-flavored Emoji plugin for Jekyll
+  - jekyll-paginate
 #  - tzinfo-data
 
 # Exclude these files from your production _site

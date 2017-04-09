@@ -54,5 +54,4 @@ While listening to it, I paused the video at about 32:40 mins to write something
 
 One of the writings that refutes flat earth is this one posted below. It contains only 0s and 1s but some of our ancestors invented some things that can turn these 0s and 1s into picture(s) and sounds! Isn't that wonderful!?
 
-[Insert here video of "Dr. Jason Lisle DESTROYS Flat Earth NONSENSE!"]
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbYbCB5Zj_E" frameborder="0" allowfullscreen></iframe>

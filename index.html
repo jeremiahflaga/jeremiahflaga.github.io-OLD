@@ -1,9 +1,11 @@
 ---
 layout: default
+title: Jeremiah Flaga
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
+<div class="posts">  
+  <!-- This loops through the paginated posts -->
+  {% for post in paginator.posts %}
     <article class="post">
 
       <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -19,6 +21,23 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    </article>  
   {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">:arrow_left: Previous
+      </a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">(Page {{ paginator.page }} of {{ paginator.total_pages }})</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next :arrow_right:</a>
+    {% else %}
+      <span class="next ">Next</span>      
+    {% endif %}
+  </div>
+
 </div>

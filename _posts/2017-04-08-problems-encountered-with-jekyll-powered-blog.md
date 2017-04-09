@@ -48,3 +48,8 @@ When I tried `gem install tzinfo-data -install-dependencies`, my machine install
 So I googled and found that I needed to do this: `gem install tzinfo-data -include-dependencies --install-dir C:\Ruby23-x64\lib\ruby\gems\2.3.0`
 
 That's it!
+
+
+## Problem: How to add pagination
+
+Just go to the docs [jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
