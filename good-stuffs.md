@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Articles, Books, Videos and other stuffs which greatly influenced how I think
+title: Good Stuffs
 permalink: /good-stuffs/
 ---
 
-<small>[This also serves as a reminder for myself of some of the most important things to remember always.]</small>
+## Articles, Books, Videos and other stuffs which greatly influenced how I think
+
+<small>_[This also serves as a reminder for myself of some of the most important things to remember always._]</small>
 
 
 ---
@@ -17,17 +19,17 @@ permalink: /good-stuffs/
 
 > The important decisions that a Software Architect makes are the ones that allow you to **NOT** make the decisions about the database, and the webserver, and the frameworks.
 
+The SOLID Principles of Uncle Bob Martin
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/oar-T2KovwE?list=PLC9xJAJbCB0s7BFxKtFDwQZb3IxEUjzT7" frameborder="0" allowfullscreen></iframe>
 
 
 ["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) by Uncle Bob Martin
 
-
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Nsjsiz2A9mg" frameborder="0" allowfullscreen></iframe>
 
 The "Clean Code" book of Uncle Bob Martin
 
-
-
-The SOLID Principles of Uncle Bob Martin
 
 
 
@@ -104,6 +106,8 @@ Learn the fundamentals that we figured out in the 70s and that have been true si
 
 
 ## Life
+
+The Bible _of course!_
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
 
