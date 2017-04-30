@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "As the tests become more specific, the production code becomes more generic"
-tags: Programming TDD
+tags: [Programming, TDD]
 date: 2017-04-05 05:05:00 PM UTC
 ---
 

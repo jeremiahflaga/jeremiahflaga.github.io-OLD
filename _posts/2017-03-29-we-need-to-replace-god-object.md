@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I think we need to replace the word "god" in "god object"
-tags: Thoughts Programming
+tags: [Thoughts (Programming)]
 date: 2017-03-28 09:45:00 PM UTC
 published: true
 ---

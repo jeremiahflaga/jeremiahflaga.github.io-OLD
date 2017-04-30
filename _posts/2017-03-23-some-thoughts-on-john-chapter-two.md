@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some thoughts on John chapter two
-tags: Thoughts Bible
+tags: [Thoughts (Bible)]
 date: 2017-03-22 05:40:00 PM UTC
 published: true
 ---
