@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is the word 'Trinity' in the Bible?
-tags: Thoughts
+tags: Thoughts Bible
 date: 2017-04-06 05:25:00 PM UTC
 published: false
 ---

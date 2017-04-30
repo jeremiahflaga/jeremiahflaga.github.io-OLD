@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr. Jason Lisle's facebook post on induction
-tags: Thoughts
+tags: [Miscellaneous]
 date: 2017-04-27 11:10:00 PM UTC
 ---
 
