@@ -7,14 +7,18 @@ date: 2017-04-27 11:10:00 PM UTC
 
 <!-- April 27, 2017 07:10:00 PM Philippine Time -->
 
+Dr. Jason Lisle is the author of the book "The Ultimate Proof of Creation".
 
-A few days ago, Dr. Jason lisle posted something on facebook about _induction_. There are two people who asked questions about it and Dr. Lisle answered them.
+![The Ultimate Proof of Creation - Book](/images/2017/ultimate-proof-of-creation-book.jpg)
+
+
+A few days ago, he posted something on facebook about _induction_. There are two people who asked questions about it and Dr. Lisle answered them.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjason.lisle.9%2Fposts%2F10212889530902433&width=500" width="500" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-I'm going to put that discussion here in my blog so that it will not be lost on facebook. We seldom see discussions like this so I believe it is very important for them not to be lost.
+I'm interested about discussions like that so I'm going to put that discussion here in my blog so that it will not be lost on facebook. We seldom see discussions like this so I believe it is very important for them not to be lost.
 
-Also, I'm not claiming that I understand everything in this discussion but I'm putting them here so I/you can easily refer to it someday when I/we are already well equipped to understand them. :smile:
+Also, I'm not claiming that I understand everything in that discussion but I'm putting them here so that I/you can easily refer to it someday when I/we are already well equipped to understand them. :smile:
 
 
 <!--more-->
