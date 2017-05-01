@@ -13,7 +13,7 @@ Like I said before, [I started to buying physical programming books](/2017/03/27
 
 About a month ago, I started to look for the next book to buy. I was considering books on TDD, OOP, or Architecture; and something that can help me do unit testing because I'm planning to introduce it to the current project I am working on. 
 
-The book title "Growing Object Oriented Software Guided by Tests" sounded very good. So I started googling for reviews for that book.
+The book title ["Growing Object Oriented Software Guided by Tests"](https://www.bookdepository.com/book/9780321503626?a_aid=jflaga) sounded very good. So I started googling for reviews for that book.
 
 <!--more-->
 
@@ -37,9 +37,9 @@ All that was in my mind is that as long as I am able to make the dependencies of
 
 My initial thoughts about the reasoning behind the advise of the authors is that, maybe, they were thinking about the _requirements constantly changing_ problem: when the requirements change, the implementation might change, and our code might change so that the pattern that we previously used is not the same as the pattern we are using in the new implementation. And if we previously named our classes based on the known patterns, and now we change it to use a different pattern, the ones that will be reading our code in the future might get confused. _"Why is this class named like this pattern when it is using another pattern?"_
 
-Well, I'm not sure. I already have the book. It arrived about a week ago. So I have to finish the book to confirm those thoughts. :smile:
+Well, I'm not sure. I already have [the book](https://www.bookdepository.com/book/9780321503626?a_aid=jflaga). It arrived about a week ago. So I have to finish the book to confirm those thoughts. :smile:
 
-![Growing Object-Oriented Software Guided By Tests - Book](/images/2017/growing-oo-software-guided-by-tests-book.jpg)
+[![Growing Object-Oriented Software Guided By Tests - Book](/images/2017/growing-oo-software-guided-by-tests-book.jpg)](https://www.bookdepository.com/book/9780321503626?a_aid=jflaga)
 
 <br /><br />
 

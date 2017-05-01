@@ -10,8 +10,10 @@ date: 2017-03-27 02:40:00 PM UTC
 
 The second book on programming that I (ever) bought already arrived! :relieved: Whew!
 
+[24 Deadly Sins of Software Security](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga)
 
-![24 Deadly Sins of Software Security book](/images/2017/24-deadly-sins-of-software-security-book.jpg)
+
+[![24 Deadly Sins of Software Security book](/images/2017/24-deadly-sins-of-software-security-book.jpg)](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga)
 
 <!--more-->
 

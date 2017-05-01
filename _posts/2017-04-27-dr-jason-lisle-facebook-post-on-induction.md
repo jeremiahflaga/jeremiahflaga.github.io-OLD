@@ -8,9 +8,9 @@ date: 2017-04-27 11:10:00 PM UTC
 
 <!-- April 27, 2017 07:10:00 PM Philippine Time -->
 
-Dr. Jason Lisle is the author of the book "The Ultimate Proof of Creation".
+Dr. Jason Lisle is the author of the book ["The Ultimate Proof of Creation".](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga)
 
-![The Ultimate Proof of Creation - Book](/images/2017/ultimate-proof-of-creation-book.jpg)
+[![The Ultimate Proof of Creation - Book](/images/2017/ultimate-proof-of-creation-book.jpg)](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga)
 
 
 A few days ago, he posted something on facebook about _induction_. There are two people who asked questions about it and Dr. Lisle answered them.

@@ -2,7 +2,7 @@
 layout: post
 title: Is the word 'Trinity' in the Bible?
 category: Bible
-tags: [Thoughts, Bible, Trinity, Cats, Dinosaurs]
+tags: [Thoughts, Bible, Trinity, Cats, Dinosaurs, Ken Ham]
 date: 2017-04-06 05:25:00 PM UTC
 ---
 
