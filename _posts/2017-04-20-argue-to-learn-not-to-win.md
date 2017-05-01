@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Argue to learn, not to win.
-tags: [Thoughts (Programming), Thoughts (Miscellaneous)]
+category: Programming
+tags: [Thoughts, Programming]
 date: 2017-04-20 12:10:00 PM UTC
 ---
 

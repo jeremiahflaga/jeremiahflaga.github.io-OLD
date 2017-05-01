@@ -1,7 +1,8 @@
 ---
 layout: post
 title: My third physical book on programming&#58; Growing Object-Oriented Software Guided By Tests
-tags: [Thoughts (Programming)]
+category: Programming
+tags: [Thoughts, Programming, Book, OOP, TDD, SOLID Principles, Design Patterns, Joel Rodriguez]
 date: 2017-04-30 03:40:00 PM UTC
 ---
 

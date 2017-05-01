@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Dr. Jason Lisle's facebook post on induction
-tags: [Thoughts (Miscellaneous), Presuppositionalism]
+category: Miscellaneous
+tags: [Jason Lisle, Presuppositionalism, Induction, Laws of Logic, The Ultimate Proof of Creation]
 date: 2017-04-27 11:10:00 PM UTC
 ---
 

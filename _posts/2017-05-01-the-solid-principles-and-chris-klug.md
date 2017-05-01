@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The SOLID Principles (and Chris Klug's take on it)
-tags: [Programming, OOP, SOLID Principles, Robert Martin, Micheal Feathers, Chris Klug, OOP, OOD, TDD]
+category: Programming
+tags: [Programming, SOLID Principles, Robert Martin, Micheal Feathers, Chris Klug, OOP, OOD, TDD]
 date: 2017-05-01 01:30:00 PM UTC
 ---
 

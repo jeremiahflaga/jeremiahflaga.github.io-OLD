@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "As the tests become more specific, the production code becomes more generic"
-tags: [Programming, TDD]
+category: Programming
+tags: [Programming, TDD, Robert Martin, Clean Code]
 date: 2017-04-05 05:05:00 PM UTC
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Some of our masters went wrong; but they admitted it
-tags: [Thoughts (Programming)]
+category: Programming
+tags: [Thoughts, Programming, Mattias Petter Johansson, John Sonmez, Robert Martin, Jesus Christ, Gospel]
 date: 2017-03-16 06:40:00 AM UTC
 ---
 <!-- March 16, 2017 02:40:00 PM Philippine Time -->

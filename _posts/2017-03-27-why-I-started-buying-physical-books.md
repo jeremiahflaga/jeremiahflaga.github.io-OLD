@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Why I started buying physical books
-tags: [Thoughts (Programming)]
+category: Programming
+tags: [Thoughts, Programming, Book, John Sonmez, Scott Hanselman, Phil Kamibayashiyama]
 date: 2017-03-27 02:40:00 PM UTC
 ---
 

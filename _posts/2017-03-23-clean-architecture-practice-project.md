@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Clean Architecture Practice Project
-tags: [Programming, Clean Code, Clean Architecture, TDD]
+category: Programming
+tags: [Programming, Clean Code, Clean Architecture, TDD, Robert Martin, Matthew Renze]
 date: 2017-03-23 01:00:00 AM UTC
 ---
 

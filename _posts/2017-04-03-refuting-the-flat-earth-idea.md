@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Possible refutation of the flat earth idea (when you don't know science like me)
-tags: [Thoughts (Miscellaneous)]
+category: Miscellaneous
+tags: [Thoughts, Flat Earth, Jason Lisle, Preconditions of Intelligibility]
 date: 2017-04-03 06:40:00 PM UTC
 ---
 

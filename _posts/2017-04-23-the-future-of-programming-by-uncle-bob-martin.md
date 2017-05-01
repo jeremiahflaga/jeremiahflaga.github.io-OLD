@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The future of programming by Uncle Bob Martin
-tags: Programming
+category: Programming
+tags: [Programming, Robert Martin, Clean Architecture, Jesus Christ, Gospel]
 date: 2017-04-23 03:10:00 PM UTC
 ---
 

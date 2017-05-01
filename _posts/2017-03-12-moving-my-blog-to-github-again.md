@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Why am I moving my blog to GitHub! -- Again.
-tags: [Thoughts (Miscellaneous)]
+category: Miscellaneous
+tags: [Blogging, Jekyll, Markdown]
 date: 2017-03-12 02:40:00 PM UTC
 excerpt_separator: <!--more-->
 ---
