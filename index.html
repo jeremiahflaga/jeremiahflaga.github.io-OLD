@@ -9,18 +9,20 @@ title: Jeremiah Flaga
     <article class="post">
 
       <h1 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<!--      
+
+      <!--
       {% include post-tags.html %}
-      
+      -->
+
       <div class="date">
         {{ post.date | date: "%B %e, %Y" }}
-      </div>-->
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       
     </article>  
   {% endfor %}
