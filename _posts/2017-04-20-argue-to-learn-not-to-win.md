@@ -12,7 +12,7 @@ From the book "How to Win Friends and Influence People" I learned that the best 
 
 
 <!--more-->
-But last night I read this from "Growing Object-Oriented Software Guided By Tests":
+But last night I read this from ["Growing Object-Oriented Software Guided By Tests"](https://www.bookdepository.com/book/9780321503626?a_aid=jflaga):
 
 ![Argue to learn, not to win - from GOOSGBT](/images/2017/Argue-to-learn-from-GOOSGBT.jpg)
 
