@@ -23,7 +23,7 @@ Here are some points from the talk which I think are important, at least to me. 
 
 at about 9:00
 
-> When he started programming in the 70's, half of the programmers were women.
+> During the early days of software, roughly half of the programmers were women!
 
 
 at about 13:00

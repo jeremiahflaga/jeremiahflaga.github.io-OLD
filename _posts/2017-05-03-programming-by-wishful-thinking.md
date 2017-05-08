@@ -2,13 +2,13 @@
 layout: post
 title: Programming by wishful thinking and why we need to read
 category: Programming
-tags: [Programming, Harold Abelson, Gerald Jay Sussman]
+tags: [Programming, Harold Abelson, Gerald Jay Sussman, Book]
 date: 2017-05-03 12:00:00 PM UTC
 ---
 
 <!-- May 3, 2017 08:00:00 PM Philippine Time -->
 
-Having been influenced by the idea of TDD (even though I have never done it before) and the idea of "respecting levels of abstraction", (and Clean Code of course), in my recent tasks at work, because we do not have tests, I just make myself imagine that the UI layer (the Presenters, Controllers, etc.) contains the tests.
+Having been influenced by the idea of TDD (even though I have never done it before) and the idea of ["respecting levels of abstraction"](https://simpleprogrammer.com/2017/01/27/respecting-abstraction/), (and the Clean Code book of course), in my recent tasks at work, because we do not have tests, I just make myself imagine that the UI layer (the Presenters, Controllers, etc.) contains the tests.
 
 <!--more-->
 
@@ -78,7 +78,7 @@ This reminds me that there is nothing new under the sun. When [we do not read th
 
 This also reminds me of one of the reasons why we need to read (or watch lectures):
 
-> The problems that we encounter today might have already been solved by someone else. We don't have to do everything by trial and error. We have to learn from the experiences of others.
+> [The problems that we encounter today might have already been solved by someone else.](https://ryanholiday.net/how-to-read-more-a-lot-more/) We don't have to do everything by trial and error. We have to learn from the experiences of others.
 
 
 (If you have comments about my English, and other things, please tell me : smile:)
