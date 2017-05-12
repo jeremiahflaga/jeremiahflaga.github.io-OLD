@@ -39,7 +39,9 @@ int steps = fitbitHelper.getSteps(date);
 <div class="sidebar">
 At the user interface level, I want to avoid doing something like this:
 
-<code>int steps = fitbitHelper.getSteps(date, acessToken, etc.);</code>
+``` java
+int steps = fitbitHelper.getSteps(date, acessToken, etc.);
+```
 
 ...because at this point, I do not want to care about <i>"how"</i> I get the number of steps from Fitbit. At this point, I only care about getting the number of steps -- the <i>"what"</i>.
 </div>
