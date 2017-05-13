@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<div class="sidebar">
+<div class="float-right">
     <img src="/images/jboy-with-starfish(200x200).jpg" />
 </div>
 
