@@ -23,7 +23,7 @@ I would like to be involved in software projects that are _greenfield_ and whose
 
 If you have a greenfield software project and needs a team member who thinks (_or wants to think_) like that, please [contact me](mailto:flaga.jeremiah@gmail.com).
 
-
+<!--
 ### More Information
 
 For more information about why I started this blog, please read [my first post on this blog](/2017/03/12/moving-my-blog-to-github-again/).
@@ -36,3 +36,4 @@ Old GitHub accounts: [github.com/jboyflaga](https://github.com/jboyflaga), [gith
 ### Contact me
 
 [flaga.jeremiah@gmail.com](mailto:flaga.jeremiah@gmail.com)
+-->
