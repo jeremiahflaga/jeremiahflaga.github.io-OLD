@@ -36,7 +36,7 @@ Tsk! Tsk!
 
 Can't we just be happy when others succeed? We can make these successful people our friends and ask them how they became successful. We might be able to copy their methods towards success and become successful ourselves someday!
 
-We should so something to _remove_ that from our _genes_.
+We should do something to _remove_ that _bad attitude_ from our _genes_. :smile:
 
 And, by the way, that book was not written for Filipinos. It was written for everybody. So maybe this bad "Crab Mentality" attitude is not a _"Filipino-only"_ problem. Maybe it is everybody's problem!?
 
