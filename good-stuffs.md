@@ -13,13 +13,16 @@ permalink: /good-stuffs/
 
 ## Programming
 
+> "The software shouldn't be at the center of a programmer's world, instead a programmer should [focus on the benefit that the software is supposed to deliver](https://martinfowler.com/bliki/CraftmanshipAndTheCrevasse.html)." - Martin Fowler
+
+> "Software developers tend to be software addicts who think their job is to write code. But it's not. [Their job is to solve problems.](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html) Don't celebrate the creation of code, celebrate the creation of solutions." -  Jeff Atwood
 
 
 ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) by Uncle Bob Martin
 
 > The important decisions that a Software Architect makes are the ones that allow you to **NOT** make the decisions about the database, and the webserver, and the frameworks.
 
-The SOLID Principles of Uncle Bob Martin
+The [SOLID Principles](/2017/05/01/the-solid-principles-and-chris-klug/) of Uncle Bob Martin
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/oar-T2KovwE?list=PLC9xJAJbCB0s7BFxKtFDwQZb3IxEUjzT7" frameborder="0" allowfullscreen></iframe>
 
@@ -28,7 +31,7 @@ The SOLID Principles of Uncle Bob Martin
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Nsjsiz2A9mg" frameborder="0" allowfullscreen></iframe>
 
-The "Clean Code" book of Uncle Bob Martin
+The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflaga) book of Uncle Bob Martin
 
 
 
@@ -107,10 +110,16 @@ Learn the fundamentals that we figured out in the 70s and that have been true si
 
 ## Life
 
+[The Gospel of Jesus Christ](https://answersingenesis.org/about/good-news/)
+
+
 The Bible _of course!_
 
+
+The ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) book by Dale Carnegie
+
+> [![How to Win Friends and Influence People book](/images/2017/how-to-win-friends-book-old.jpg)](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga)
+
+
+
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
-
-The "How to Win Friends and Influence People" book by Dale Carnegie
-
-> ![How to Win Friends and Influence People book](/images/2017/how-to-win-friends-book-old.jpg)

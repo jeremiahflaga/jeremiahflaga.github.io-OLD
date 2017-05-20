@@ -16,13 +16,13 @@ date: 2017-05-01 01:30:00 PM UTC
 * I – Interface Segregation Principle (ISP)
 * D – Dependency Inversion Principle (DIP)
 
-Only last year did I become aware of the importance of the [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) (or SDOLI) Principles. I heard about these principles many years ago when I was just beginning my career as a software developer but I did not give much time understanding them. I concentrated instead on learning about frameworks and technologies which Uncle Bob calls _"the details"_ instead of the center of our application.
+Only last year did I become aware of the importance of the SOLID (or [SDOLI](https://www.hanselman.com/blog/HanselminutesPodcast145SOLIDPrinciplesWithUncleBobRobertCMartin.aspx)) Principles. I heard about these principles many years ago when I was just beginning my career as a software developer but I did not give much time understanding them. I concentrated instead on learning about frameworks and technologies which Uncle Bob calls _"the details"_ instead of the center of our application.
 
 <!--more-->
 
 The SOLID Principles came from Uncle Bob Martin's [series of articles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) that were written during the mid 90s.
 
-The original order was OLDIS. But Micheal Feathers pointed out to Uncle Bob that if he rearranged the letters they can become SOLID. _Then SOLID was born!_
+The original order, _if we follow the dates the papers were written_, was OLDIS. But Micheal Feathers pointed out to Uncle Bob that if he rearranged the letters they can become SOLID. _Then SOLID was born!_
 
 ## Uncle Bob Martin's talk on SOLID
 

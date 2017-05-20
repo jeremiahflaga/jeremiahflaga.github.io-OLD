@@ -377,7 +377,19 @@ TDD makes writing code fun.
 
 TDD makes you write decoupled code (decoupled code == testable code) which can make the design of the system better.
 
-TDD gives you a suite of tests that you trust with your life. And when you have that site of tests, you can do many other things like cleaning code and cleaning the design.
+TDD gives you a suite of tests that you trust with your life. And when you have that suite of tests, you can do many other things like cleaning code and cleaning the design.
+
+
+
+<div class="sidebar float-right">
+<strong>This is from Uncle Bob's article <a href="https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable">"So... You want your code to be maintainable."</a></strong>
+
+<p><i>
+"So how do we get good design? Well, that’s tricky. Oh it’s not too tricky to get a good design in place at first. <strong>The tricky part is to keep the design good.</strong> That’s the problem, you see. It’s not that the design starts out so bad (although sometimes...) rather it is that the design degrades over time as the system changes."
+</i></p>
+</div>
+
+
 
 Nothing makes code more flexible and maintainable than having a suite of tests by a huge order of magnitude.
 
@@ -386,7 +398,6 @@ Nothing makes code more flexible and maintainable than having a suite of tests b
 > You give me an application that is badly designed but has a comprehensive suite of tests. I can make the design better because I have a suite of tests.
 
 > **A suite of tests is more important than a good design.**
-
 
 **Question:**
 

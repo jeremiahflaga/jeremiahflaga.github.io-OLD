@@ -19,9 +19,7 @@ I am software developer and loves programming.
 
 <small>_I also love music and is able to play simple piano (I'm not an expert on the piano :smile: )_</small>
 
-I would like to be involved in software projects that are _greenfield_ and whose team members likes to practice TDD and who agrees with Uncle Bob Martin on his [_expectations on programmers_](/2017/05/13/expecting-professionalism-by-uncle-bob-martin/). The reason is because I want to see how good software looks like so that someday I can be able to help fix the rotting software projects existing today -- those software that don't have tests.
-
-If you have a greenfield software project and needs a team member who thinks (_or wants to think_) like that, please [contact me](mailto:flaga.jeremiah@gmail.com).
+I would like to be involved in software projects whose team members likes to practice TDD and who agrees with Uncle Bob Martin on his [_expectations on programmers_](/2017/05/13/expecting-professionalism-by-uncle-bob-martin/). If you have a greenfield software project and needs a team member who thinks (_or wants to think_) like that, please [contact me](mailto:flaga.jeremiah@gmail.com).
 
 <!--
 ### More Information
