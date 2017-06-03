@@ -2,8 +2,8 @@
 layout: post
 title: Another "one" principle -- The Most Important Design Guideline of Scott Meyers
 category: Programming
-tags: [Design, TDD Scott Meyers, Jonathan Boccara, Steve McConnell, Robert Martin, Scott Hanselman, Michael Feathers]
-date: 2017-06-03 04:00:00 PM UTC
+tags: [Software Design, TDD, Scott Meyers, Jonathan Boccara, Steve McConnell, Robert Martin, Scott Hanselman, Michael Feathers]
+date: 2017-06-03 05:00:00 PM UTC
 ---
 
 <!-- June 4, 2017 01:00:00 AM Philippine Time -->
@@ -11,13 +11,14 @@ date: 2017-06-03 04:00:00 PM UTC
 
 We programmers tend to be lazy. We don't want to know or remember all those many design principles or guidelines our masters are trying to teach us.
 
-<!--more-->
 
 - SOLID.
 - Favor composition over inheritance.
 - Separate those things that change from those that don't.
 - All those design patterns (I only know a few :smile: I'm so lazy!).
 - etc.
+
+<!--more-->
 
 Jonathan Boccara said the the [principle that rules them all](https://simpleprogrammer.com/2017/01/27/respecting-abstraction/) is 
 
@@ -109,6 +110,7 @@ I think this guideline of Scott Myers is also related to [_"programming by wishf
 
 Well, who cares right? Everyone reading the masters knows that all these principles/guidelines are related to each other:
 
+<center>:wavy_dash::wavy_dash:</center>
 
 > ["The Single Responsibility and Open/Closed Principle are the Same"](http://michaelfeathers.typepad.com/michael_feathers_blog/2013/07/the-single-responsibility-principle-leads-to-good-openclosed-characteristics.html)
 <br />
@@ -121,6 +123,8 @@ Well, who cares right? Everyone reading the masters knows that all these princip
 > Uncle Bob: "Yes. Well, if you're following the SOLID principles what you're really doing is managing dependencies. All of those principles is about **managing the dependencies between modules**."
 <br /><br />
 > -- from [Hanselminutes 150 - Uncle Bob Martin: SOLID, this time with feeling](https://hanselminutes.com/150/uncle-bob-martin-solid-this-time-with-feeling) -- starting at about 32:30 in the podcast
+
+<center>:wavy_dash::wavy_dash:</center>
 
 	
 <!--
