@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $gray-from-alan-barber;
-  font: 20px/1.4 $cursive;
+	background: $lightGray;
+  font: 20px/1.4 $georgia;
   color: $darkGray;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $cursive;
+  font-family: $georgia;
   color: $darkerGray;
   font-weight: bold;
 
@@ -58,7 +58,7 @@ h1 {
 }
 
 h1.title {
-  font-family: $cursive;
+  font-family: $georgia;
 }
 
 h2 {
@@ -219,7 +219,7 @@ img.emoji {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $cursive;
+  font-family: $georgia;
   font-weight: bold;
   font-size: 34px;
   letter-spacing: 1px;
@@ -238,7 +238,7 @@ img.emoji {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $cursive;
+  font-family: $georgia;
   font-size: 18px;
 
   @include mobile {
@@ -370,3 +370,17 @@ small {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+    
+  .float-right {
+    float: none;
+  }
+
+  .float-left {
+    float: none;
+  }
+}
