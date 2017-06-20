@@ -2,7 +2,7 @@
 layout: post
 title: Code review&#58; the solution to the problem of "WTFs per minute"
 category: Programming
-tags: [Code Review, Robert Martin, WTFs/minute, The Crafstman series]
+tags: [Code Review, Robert Martin, WTFs/minute, The Crafstman series, Pair Programming, Mob Programming]
 date: 2017-06-20 03:30:00 PM UTC
 ---
 
@@ -45,3 +45,8 @@ I remember this conversation from the [third of The Crafstman series]() of Uncle
 > “Not anymore.” I said, meekly. “You’ve had a big influence on it.”
 <br /><br />
 > “We both have.” he said, “And that’s the way that Mr. C likes it. **He doesn’t want any single person owning code**...
+
+<br /><br />
+**PS:**
+
+Of course _pair programming_ and _mob programming_ can also prevent the catastrophy. :blush:
