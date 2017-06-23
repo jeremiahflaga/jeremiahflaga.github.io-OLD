@@ -4,16 +4,18 @@ title: Good Stuffs
 permalink: /good-stuffs/
 ---
 
-## Articles, Books, Videos and other stuffs which greatly influenced how I think
+## Some of the articles, books, videos and other stuffs which influenced how I think today
 
-<small>_[This also serves as a reminder for myself of some of the most important things to remember always._]</small>
+<small>_[This also serves as a reminder for myself of some of the most important things to remember always.]_</small>
 
 
 ---
 
 ## Programming
 
+<!-- 
 > "The software shouldn't be at the center of a programmer's world, instead a programmer should [focus on the benefit that the software is supposed to deliver](https://martinfowler.com/bliki/CraftmanshipAndTheCrevasse.html)." - Martin Fowler
+-->
 
 > "Software developers tend to be software addicts who think their job is to write code. But it's not. [Their job is to solve problems.](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html) Don't celebrate the creation of code, celebrate the creation of solutions." -  Jeff Atwood
 
@@ -70,7 +72,7 @@ By identifying what things the code does and replacing each one with a label, we
 
 
 
-[Don’t Get Obsessed With Design Patterns](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/) by Joel Rodriguez
+["Don’t Get Obsessed With Design Patterns"](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/) by Joel Rodriguez
 
 > I believe that knowing object-oriented design principles and applying best practices like SOLID, KISS and YAGNI are far more important than design patterns themselves. If you apply these principles, **patterns will come out naturally**.
 
@@ -110,7 +112,7 @@ Learn the fundamentals that we figured out in the 70s and that have been true si
 
 ## Life
 
-[The Gospel of Jesus Christ](https://answersingenesis.org/about/good-news/)
+[The Gospel of Jesus Christ](https://www.gotquestions.org/what-is-the-gospel.html)
 
 
 The Bible _of course!_

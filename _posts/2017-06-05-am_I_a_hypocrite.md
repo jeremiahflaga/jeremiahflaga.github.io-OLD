@@ -11,7 +11,7 @@ date: 2017-06-05 08:00:00 PM UTC
 
 <u title="June 4, 2017">Sunday.</u>
 
-The text of the sermon was Ephesians 4: 1-4 and Philippians 2:3ff.
+The text of the sermon was Ephesians 4: 1-4 (and Philippians 2:3ff).
 
 One Christian trait that was presented was "lowliness of mind" -- not to think of ourselves as being higher than others.
 
@@ -25,6 +25,8 @@ I am guilty of that, I think. Many times, I think of myself as better than other
 When adding new features (and even when debugging), you have to read code that someone else wrote <small>(sometimes, that _"someone else"_ could be me, only that I forgot that it was me! :laughing:)</small>
 
 _"Why is this written like this?"_ <small>(in my mind only)</small>
+
+_"What!!"_ <small>(verbally :smile:)</small>
 
 _"WT*!"_ <small>(also in my mind only of course :smile:)</small>
 
@@ -49,15 +51,17 @@ From where did I learn to use those words?
 
 About three years ago, the book Clean Code was introduced to us by a workmate. (By that time, I had already heard about this book but I have not read it yet.)
 
-It had this joke I cannot forget: _"the only valid measurement of code quality"_.
+It has this joke I cannot forget: _"the only valid measurement of code quality: WTFs/minute"_.
 
 
-![The only valid measurement of code quality - WTFs/minute](http://www.osnews.com/images/comics/wtfm.jpg)
+[![The only valid measurement of code quality - WTFs/minute](http://www.osnews.com/images/comics/wtfm.jpg)](http://www.osnews.com/story/19266/WTFs_m)
 
 
 That was funny. But I never planned of using those words -- _"WTF"_. It was against my conscience to use bad words. :laughing:
 
-But, alas, depressing moments come! -- The depressing moments never experienced before. -- _"I want to leave Christianity!"_
+But, alas, depressing moments come --- the depressing moments never experienced before! Filthy words started to come out of my heart. Then from my heart to my mouth. --- _"I want to leave Christianity!"_
+
+(_Wait! What?!_ You want to leave? I thought _"you, wanting to leave"_ is the _reason_ of the depressing moments, not the _result!_ Oh well... maybe it is both.)
 
 The joke became real.
 
