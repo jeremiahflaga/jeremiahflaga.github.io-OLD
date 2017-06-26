@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Am I a hypocrite?
-category: Miscellaneous
+category: Thoughts
 tags: [Christianity, Hypocrisy, Debugging]
 date: 2017-06-05 08:00:00 PM UTC
 ---

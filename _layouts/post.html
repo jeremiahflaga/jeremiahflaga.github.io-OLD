@@ -8,9 +8,12 @@ layout: default
   {% include post-tags.html %}
 -->
 
+  {% include post-categories.html %}
+    
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}
   </div>
+
 
   <div class="entry">
     {{ content }}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the 48 Laws of Power
-category: Miscellaneous
+category: Thoughts
 tags: [48 Laws of Power, How to Win Friends and Influence People]
 date: 2017-05-29 01:00:00 PM UTC
 ---

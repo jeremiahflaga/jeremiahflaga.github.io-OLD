@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Crab Mentality might not be a Filipino-only problem
-category: Miscellaneous
-tags: [Miscellaneous, John Sonmez]
+category: Thoughts
+tags: [John Sonmez, Crab Mentality, Filipino, How to Win Friends and Influence People]
 date: 2017-05-20 05:45:00 PM UTC
 ---
 
