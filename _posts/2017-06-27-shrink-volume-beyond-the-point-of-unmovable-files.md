@@ -3,10 +3,10 @@ layout: post
 title: How to shrink a disk volume beyond the point where any unmovable files are located
 category: Miscellaneous
 tags: [HP, Windows 10, Disk Partitions]
-date: 2017-06-27 12:00:00 PM UTC
+date: 2017-06-26 06:10:00 PM UTC
 ---
 
-<!-- June 27, 2017 08:00:00 PM Philippine Time -->
+<!-- June 27, 2017 02:10:00 AM Philippine Time -->
 
 When I tried to [reset my HP Laptop](/2017/06/26/reset-hp-laptop-without-deleting-partitions/) and tried to shrink my system partition (C:), _Windows 10_ did not allow me to shrink it down to 300GB. I was only allowed to shrink it down to about 500GB.
 
