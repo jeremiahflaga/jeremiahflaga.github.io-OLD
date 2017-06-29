@@ -6,7 +6,7 @@ tags: [Python, virtualenv, ModuleNotFoundError, TDD with Python, TDD]
 date: 2017-06-29 01:15:00 PM UTC
 ---
 
-<!-- June 29, 2017 09:15:00 AM Philippine Time -->
+<!-- June 29, 2017 09:15:00 PM Philippine Time -->
 
 Experiencing this error when you try to execute commands inside your Python virtual environment?
 

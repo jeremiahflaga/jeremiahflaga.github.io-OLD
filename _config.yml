@@ -6,7 +6,7 @@
 name: Jeremiah Flaga
 
 # Short bio or description (displayed in the header)
-description: My thoughts and experiences on programming atbp.
+description: My thoughts and experiences on programming, life, atbp.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/jekyll-logo.png
@@ -27,7 +27,7 @@ footer-links:
   linkedin: jeremiahflaga
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: jboyflaga
   stackoverflow: users/1451757/jboy-flaga # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
