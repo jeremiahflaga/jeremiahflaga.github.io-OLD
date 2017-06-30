@@ -19,7 +19,7 @@ At the end, the _pseudo-proof_ that I gave was this:
 
 > "You don't really believe that the earth is flat."
 
-Lame answer. :laughter:
+Lame answer. :laughing:
 
 They would have replied:
 
