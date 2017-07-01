@@ -26,7 +26,7 @@ Should we _force_ a team to do TDD when they are not _yet_ familiar with it? ---
 
 Of course not! I believe that that will cause a disaster --- a hatred for TDD; a hatred towards those who promote TDD.
 
-Very bad.
+Very bad. TDD is supposed to be fun!
 
 Should we _force_ someone to pair program when he is not comfortable about doing it?
 
@@ -101,7 +101,7 @@ But to tap myself in the back, I think I am not _that_ prone to being very dogma
 I am also influenced by Greg Howlett with this [_rule/philosophy_ in music](https://greghowlett.com/blog/music-philosophy/absolutes.aspx): _**"if it sounds good, it is good", (even if it doesn't follow the rules musicians know or teach)**_.
 
 Also, I am influenced with the idea of [_Christian liberty_](https://www.gotquestions.org/Christian-liberty.html), which says something like _**"there are things that are not clear in the Bible --- we should not be dogmatic about them".**_ <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
-Christians might be dogmatic on many things, most especially on the _existence of the Biblical God_ :laughing:, but Christians also know that there are many things that we might know _for sure_ in this life. <sup id="footnote-indicator-2">[[2]](#footnote-2)</sup>
+Christians might be [dogmatic on many things](https://noneutrality.org/2015/11/17/the-myth-of-neutrality/), most especially on the _existence of the Biblical God_ :laughing:, but Christians also know that there are many things that we might know _for sure_ in this life. <sup id="footnote-indicator-2">[[2]](#footnote-2)</sup>
 
 And... Oh... Maybe you will agree with me that this very post is evidence that I am not _that_ dogmatic! :innocent: :grin:
 
