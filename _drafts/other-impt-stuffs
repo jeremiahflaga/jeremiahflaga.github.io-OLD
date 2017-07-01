@@ -3,3 +3,8 @@ HTML colon
 
 In Markdown, how do I start a line with a number without creating a list?
 1986\. What a great season.
+
+
+Footnotes
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>One example of something...</small>

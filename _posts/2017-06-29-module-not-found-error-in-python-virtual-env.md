@@ -43,9 +43,7 @@ to
 <br />
 `Z:\<your NEW folder>` **and** `/Z/<your NEW folder>`
 
-4. If you are using the Command Prompt of Windows, you also have to change the path in the file `/Scripts/activate.bat`.
-<br /><br />
-Line `#2` in my case:
+4. If you are using the Command Prompt of Windows, you also have to change the path in the file `/Scripts/activate.bat`. (line `#2` in my case)
 <br />
 ```
 set "VIRTUAL_ENV=Z:\<folder>"

@@ -46,7 +46,7 @@ I remember this conversation from the [third of The Crafstman series](https://dr
 <br /><br />
 > “We both have.” he said, “And that’s the way that Mr. C likes it. **He doesn’t want any single person owning code**...
 
-<br /><br />
-**PS:**
+<br />
+### PS:
 
 Of course _pair programming_ and _mob programming_ can also prevent the catastrophy. :blush:
