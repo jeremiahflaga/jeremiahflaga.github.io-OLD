@@ -26,7 +26,7 @@ footer-links:
   instagram:
   linkedin: jeremiahflaga
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: /images/rss.svg # just type anything here for a working RSS icon
   twitter: jboyflaga
   stackoverflow: users/1451757/jboy-flaga # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
