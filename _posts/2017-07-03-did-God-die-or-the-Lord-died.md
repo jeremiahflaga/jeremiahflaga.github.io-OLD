@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Did God die? Or should it be "the Lord died"?
-category: Programming
-tags: [Computer Science, Wladston Filho]
+category: Thoughts
+tags: [God, Lord, Death]
 date: 2017-07-03 10:25:00 PM UTC
 ---
 
