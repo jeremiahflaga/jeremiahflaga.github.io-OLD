@@ -8,7 +8,7 @@ date: 2017-07-02 06:00:00 PM UTC
 
 <!-- July 3, 2017 02:00:00 AM Philippine Time -->
 
-Late March this year, I saw a post by the facebook page named "Code Energy" that the author of the book "Computer Science Distilled" will be giving a free digital copy of the book to those who will PM him.
+Late March this year, I saw a post by the facebook page named ["Code Energy"](https://www.facebook.com/code.energy/) that the author of a book, ["Computer Science Distilled",](https://www.bookdepository.com/Computer-Science-Distilled-Wladston-Ferreir-Filho-Raimondo-Pictet/9780997316025?a_aid=jflaga) will be giving a free digital copy of the book to those who will message him.
 
 I tried to ask the author for a free copy (making the promise that I will buy his second book after I read an excerpt of Chapter 2 published online)
 
@@ -36,7 +36,7 @@ He is a very kind author! He wants to help people! :+1: :+1:
 
 I already finished the book! It took me a very long time to finish it because there are other things I had to do/read.
 
-I think the author has a similar mindset as the author of https://betterexplained.com --- explain Maths/CS in simple terms to capture the interest of people to study more about them.
+I think the author has a similar mindset as the author of [betterexplained.com](https://betterexplained.com) --- explain Maths/CS in simple terms to capture the interest of people to study more about them.
 
 I believe that it is a very good book for software developers who wants an overview of computer science.
 

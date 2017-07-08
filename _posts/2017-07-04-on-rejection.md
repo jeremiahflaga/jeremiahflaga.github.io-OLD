@@ -17,7 +17,7 @@ But **_what if_** rejection is just part of the normal way things work?
 
 I mean, we know about the principle of _sowing and reaping._ Some people call it _karma_. We rejected God _(I'm assuming the Christian worldview here :smile:)._ The _sowing and reaping_ principle demands that we also experience rejection and hurt.
 
-**_What if_** it is the case that every human being who have lived past the [innocence stage of a child](put link about the age of accountability here), will experience rejection one way or another before death? --- Because we all rejected God! _(I'm assuming the Christian worldview here)._
+**_What if_** it is the case that every human being who have lived past the [innocence stage of a child](https://www.gotquestions.org/age-of-accountability.html), will experience rejection one way or another before death? --- Because we all rejected God! _(I'm assuming the Christian worldview here)._
 
 But someone, in the Psalms, also said that God is so merciful He gives us less than the punishment that we deserve. --- That could mean that the sum of the hurt from all the rejections we experience in this life is far less than the hurt God experienced and experiences from our rejections of him.
 

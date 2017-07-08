@@ -27,6 +27,6 @@ It has this lyrics in the Chorus:
 
 Toinks!
 
-But Dr. James White said that [death is _not cessation of existence_](https://youtu.be/ZnElgAnN414), so maybe it's still okay to use the word "God" (or "Diyos") when talking about the death on the cross??
+But Dr. James White in his recent debate said that [death is _not cessation of existence_](https://youtu.be/ZnElgAnN414), so maybe it's still okay to use the word "God" (or "Diyos") when talking about the death on the cross??
 
 [The] Google [search engine, in a sense] is our friend... Let's see if we can find some answers.
