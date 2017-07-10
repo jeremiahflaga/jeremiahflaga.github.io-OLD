@@ -10,6 +10,8 @@ date: 2017-07-02 06:00:00 PM UTC
 
 Late March this year, I saw a post by the facebook page named ["Code Energy"](https://www.facebook.com/code.energy/) that the author of a book, ["Computer Science Distilled",](https://www.bookdepository.com/Computer-Science-Distilled-Wladston-Ferreir-Filho-Raimondo-Pictet/9780997316025?a_aid=jflaga) will be giving a free digital copy of the book to those who will message him.
 
+![computer-science-distilled.png](/images/2017/computer-science-distilled.png)
+
 I tried to ask the author for a free copy (making the promise that I will buy his second book after I read an excerpt of Chapter 2 published online)
 
 <!--more-->
