@@ -2,23 +2,29 @@
 layout: post
 title: What made me to stop relying on atheism to save me from the God of Christianity
 categories: [Thoughts]
-tags: [Atheism, Christianity, Greg Bahnsen]
+tags: [Atheism, Christianity, Greg Bahnsen, Gordon Stein, Agnosticism]
 date: 2017-07-10 03:00:00 PM UTC
+published: true
 ---
 
 <!-- July 10, 2017 11:00:00 PM Philippine Time -->
 
 
-Last weekend, someone told me that he felt kind of uneasy with a classmate because this classmate told him that he is an atheist (through some videos he watched online).
+Last weekend, a teenager at church told me that he felt kind of uneasy with a classmate because this classmate claims to be an atheist (through some videos he watched online).
 
 So I thought of posting this because it might help others (who will accidentally :laughing: be directed to this blog) who are also struggling about things like this.
 
-**So what made me stop relying on atheism to save me from God?**
+(Also, Scott Hanselman said that we only have about [...] keystorkes before we die. I think I'm going to save a few keystrokes if I put this here in my blog.)
 
-... these statements of Dr. Greg Bahnsen in his debate with Dr. Gordon Stein: "Does God Exists?" ...
+**So what made me stop relying on atheism to give me reasons to run away from God?**
 
-You can go [here](insert youtube link here) to listen to the debate; and [here](insert link of the transcript here) for the transcript.
+:drumroll:
 
+<!--more-->
+
+... these statements of Dr. Greg Bahnsen in his debate with Dr. Gordon Stein: "Does God Exists?":
+
+(You can go [here](insert youtube link here) to listen to the debate; and [here](insert link of the transcript here) for the transcript.)
 
 
 ## 1. [For every _expert_, there is an equal and opposite _expert_](insert link here) :smile:
@@ -43,8 +49,6 @@ question.
 
 
 ## 2. Athiests are not neutral
-
-<!--more-->
 
 <small>(from page 3 of the transcript)</small>
 
@@ -104,15 +108,15 @@ is true or not, then extra logical things are not something in the analysis of l
 <br /><br />
 > **Bahnsen:** Are claims about extra logical entities allowed or disallowed in your world view?
 <br /><br />
-> **Stein:** It depends on what we're talking about. If we're talking about things like Zen
+> **Stein:** **It depends** on what we're talking about. If we're talking about things like Zen
 Buddhism, and they confine themselves to these philosophical speculations, then
 yes. If you're talking about science, no.
 <br /><br />
-> **Bahnsen:** That sounds very arbitrary.
+> **Bahnsen:** That sounds **very arbitrary**.
 
 
 
-## 5. There is no problem of evil in an atheist's universe (when we _know_ there is a problem of evil in our world)
+## 5. There is no problem of evil in an atheist's universe (but we _know_ there is a problem of evil in our world)
 
 <small>(from page 32 of the transcript)</small>
 
@@ -139,7 +143,7 @@ greater happiness to those women that he is torturing. ...
 You have said that there has been no adequate evidence put forth for God's existence.
 What for you personally would constitute adequate evidence for God's existence?
 <br /><br />
-> **Stein:** ... Any kind of a supernatural being putting it into appearance and doing miracles that
+> **Stein:** ... We could call it **a miracle** right before your eyes. That would be evidence I would accept. ... Any kind of a supernatural being putting it into appearance and doing miracles that
 could not be stage magic would also be evidence that I would accept. ...
 <br /><br />
 > **Bahnsen:** Dr. Stein, I think, is really not reflecting on the true nature of atheism and human
@@ -157,6 +161,8 @@ their mind.
 **People are not made theists by miracles. People must change their world views; their hearts must be changed. They need to be converted. That what it takes, and that's what it would take for Dr. Stein to finally believe it. If this podium rose up five feet off the ground and stayed there, Dr. Stein would eventually have in the future some naturalistic explanation because they believe things on faith, by which I mean that they believe things as which they have not proven by their senses.**
 
 
+
+
 <br />
 
 ### PS:
@@ -165,4 +171,40 @@ Maybe agnosticism makes much more sense??
 
 Maybe not... I already found a worldview that can make sense of things atheism cannot make sense of. :grin:
 
-And, besides, agnosticism says something like "we cannot know anything for sure", right? So there is a possiblitily that the statement _"we **cannot** know anything for sure"_ is **false**. So there is this possiblity that we **can** know some things for sure!! Now, what if the Christian worldview is one of those things that we can know for sure to be **true**?
+And, besides, agnosticism says something like "we cannot know anything for sure", right? So in an agnostic universe, there is a possiblitily that the statement _"we **cannot** know anything for sure"_ is **false**. So there is this possiblity that we **can** know some things for sure!! Now, what if the Christian worldview is one of those things that we can know for sure to be **true**?
+
+
+<hr />
+
+
+## What is an **explanation**?
+
+Another important point from that debate is Dr. Bahnsen's standard on what constitute an _explanation_:
+
+(If this **_explanation_** thing is already formalized somewhere, please point to me where :smile:)
+
+<small>(from page 32 of the transcript)</small>
+
+
+> ... He says
+there aren't going to be answers unless I include how it took place. What is God's method,
+and why did he do it? Well, I don't accept those standards. I don't accept that this is a
+requirement for an **explanation** at all. And he doesn't give us a good reason except that he's
+not going to [be] satisfied or it's unhelpful to him.
+
+
+<small>(from page 27 of the transcript)</small>
+
+> [That "logic reflects the thinking of God"] answers the general metaphysical issue of how there can be universal, invariant, abstract entities in a particular person's worldview.
+<br /><br />
+> ... The statement that "God made the cow" **has meaning apart from my being able to explain the mechanics** of God making a cow.
+<br /><br />
+> Likewise, the statement that the laws of logic are intelligible within a Christian theistic universe has meaning...
+
+<small>(or... ??the statement that "the laws of logic reflects the thinking of God" has meaning apart from my being able to explain how that works??)</small>
+
+This thing about _explanation_ also came up in the [Bahnsen-Smith debate](http://theophilus-defendingthefaith.blogspot.com/2015/08/reasoning-by-presupposition-bahnsen.html)
+
+
+
+
