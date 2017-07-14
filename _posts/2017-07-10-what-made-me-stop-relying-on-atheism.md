@@ -14,7 +14,9 @@ Last weekend, a teenager at church told me that he felt kind of uneasy with a cl
 
 So I thought of posting this because it might help others (who will accidentally :laughing: be directed to this blog) who are also struggling about things like this.
 
+<!--
 (Also, Scott Hanselman said that we only have about [...] keystorkes before we die. I think I'm going to save a few keystrokes if I put this here in my blog.)
+-->
 
 **So what made me stop relying on atheism to give me reasons to run away from God?**
 
@@ -22,19 +24,20 @@ So I thought of posting this because it might help others (who will accidentally
 
 <!--more-->
 
-... these statements of Dr. Greg Bahnsen in his debate with Dr. Gordon Stein: "Does God Exists?":
+... these statements of Dr. Greg Bahnsen in his debate with Dr. Gordon Stein: ["Does God Exists?":](https://presupp101.wordpress.com/2012/07/14/how-to-use-the-trandscendental-argument-for-the-existence-of-god/)
 
-(You can go [here](insert youtube link here) to listen to the debate; and [here](insert link of the transcript here) for the transcript.)
+(You can go [here](https://www.youtube.com/watch?v=ZLZdOGCE5KQ) to listen to the debate; and [here](https://presupp101.files.wordpress.com/2012/07/apol_bahnsen_stein_debate_transcript.pdf) for the transcript.)
 
 
-## 1. [For every _expert_, there is an equal and opposite _expert_](insert link here) :smile:
+
+## 1. [For every _expert_, there is an equal and opposite _expert_](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#Proposed_fourth_law) :smile:
 
 <small>(from page 1 of the transcript)</small>
 
 > The personalities of those individuals who adhere to different systems of thought are not
 really relevant to the truth or falsity of the claims made by those systems. **Atheists and Christians can equally be found** emotional, unlearned, intolerant or rude in their approaches.
 
-
+<!--
 <small>(from page 22 of the transcript)</small>
 
 > ... However, we still hear him saying that laws of logic are a
@@ -45,7 +48,7 @@ of logic exist or that they are justified. **It's just this way.**"
 this evening? God exists because **it's just that way.** You just can't avoid it. You see, that's not
 debate, that's not argument, and it's not rational. And therefore, we have, interestingly, an illustration in our very debate tonight that atheists cannot sustain a rational approach to this
 question.
-
+-->
 
 
 ## 2. Athiests are not neutral
@@ -72,6 +75,8 @@ terms of that controlling and unproved assumption. ...
 
 ## 3. Atheists also believe in _presupposed-and-evidenced_ things 
 
+There are things that are referred to by Dr. Bahnsen as _"presupposed and evidenced"_. Atheists also believe in these things without having, what they call, a _non-circular_ reason for believeing in them.
+
 <small>(from page 14 of the transcript)</small>
 
 > **Stein:** So, in other words, the fact that God is good is something that God told you;
@@ -90,7 +95,33 @@ presupposition which is what you said a minute ago.
 <br /><br />
 > **Stein:** I would disagree with that. ...
 
-( --- Oops! I think I am presupposing the Christian worldview on this one. But... well... [everyone has a worldview](insert here link on worldviews). :smile: ---)
+(Oooops! I think I am presupposing the Christian worldview on this one. But... well... [everyone has a worldview](http://www.defendingthebible.org/worldviews.html). :smile:)
+
+<!--
+<small>(from page 28 of the transcript)</small>
+
+> ...
+<br /><br />
+> **Bahnsen:** Well, physicists have their [own] presuppositions by which they exclude contrary
+evidence, too... In other words, you haven't experienced all the electrons, but you
+would generalize that all the electrons under certain conditions repel each other.
+<br /><br />
+> **Stein:** Just statistically, on the basis of past observation.
+<br /><br />
+> **Bahnsen:** But we don't know that it's going to be that way ten minutes after this debate
+then.
+<br /><br />
+> **Stein:** But we see no evidence that things have switched around, do we?
+<br /><br />
+> **Bahnsen:** Do you accept the Zen Buddhist logic that allows for koans, the different kind of
+logic that you referred to which is used by Zen Buddhists?
+<br /><br />
+> **Stein:** I'd use the word "extra logical"; it's outside the normal kinds of logic. It's not
+necessarily a different kind of logic, but it's just non logical - accepted in place of
+logic.
+-->
+
+
 
 ## 4. It seems like it's okay for atheists to be illogical sometimes
 
@@ -169,9 +200,9 @@ their mind.
 
 Maybe agnosticism makes much more sense??
 
-Maybe not... I already found a worldview that can make sense of things atheism cannot make sense of. :grin:
+Maybe not... The things we observe and experience in reality makes sense in the Christian worldview. So there is no need to find another one. :grin:
 
-And, besides, agnosticism says something like "we cannot know anything for sure", right? So in an agnostic universe, there is a possiblitily that the statement _"we **cannot** know anything for sure"_ is **false**. So there is this possiblity that we **can** know some things for sure!! Now, what if the Christian worldview is one of those things that we can know for sure to be **true**?
+<!--And, besides, agnosticism says something like "we cannot know anything for sure", right? So in an agnostic universe, there is a possiblitily that the statement _"we **cannot** know anything for sure"_ is **false**. So there is this possiblity that we **can** know some things for sure!! Now, what if the Christian worldview is one of those things that we can know for sure to be **true**?-->
 
 
 <hr />
@@ -181,7 +212,9 @@ And, besides, agnosticism says something like "we cannot know anything for sure"
 
 Another important point from that debate is Dr. Bahnsen's standard on what constitute an _explanation_:
 
+<!--
 (If this **_explanation_** thing is already formalized somewhere, please point to me where :smile:)
+-->
 
 <small>(from page 32 of the transcript)</small>
 
@@ -204,6 +237,8 @@ not going to [be] satisfied or it's unhelpful to him.
 <small>(or... ??the statement that "the laws of logic reflects the thinking of God" has meaning apart from my being able to explain how that works??)</small>
 
 This thing about _explanation_ also came up in the [Bahnsen-Smith debate](http://theophilus-defendingthefaith.blogspot.com/2015/08/reasoning-by-presupposition-bahnsen.html)
+
+> **Bahnsen:** Does appealing to God **explain** anything? Well, of course when you ask philosophically: **what is an explanation?**  The answer is, of course, it does.  It may strike you as being as easy as a Sunday school child’s understanding, but if I’ve got a Heavenly Father who created the entire universe and controls every detail, even to the hairs on my head, and I say of this creative personality who has this sovereign might and plan that he sees to it that gravity holds on planet Earth day by day by day—that does in fact explain it, but it may not be the explanation that you want.  I’m just talking about now what counts as an explanation.  **An explanation is something which enables you to predict the future and to account for why you predict it that way.**
 
 
 
