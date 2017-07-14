@@ -23,7 +23,7 @@ But someone, in the Psalms, also said that God is so merciful He gives us less t
 
 And more... [He took upon him our punishment.](https://www.gotquestions.org/what-is-the-gospel.html)
 
-And **_what if_** the reason why God _permitted_ us to reject him in the first place is because he wants us to have a firsthand experience of what rejection is --- it's effects and the hurt that it brings --- so that someday, in eternity, we will never choose to reject him again??
+And **_what if_** the reason why God _permitted_ us to reject him in the first place is because he wants us to have a firsthand experience of what rejection is --- it's effects and the hurt that it brings (when the law of sowing and reaping kicks in) --- so that someday, in eternity, we will never choose to reject him again??
 
 <!--
 Remember the Devil? Was he given the kind of test of rejection like we were given? I don't know. But why does it seem that he is incapable of repentance? Does that have something to do with the principle of sowing and reaping? Maybe his capability of rejecting God was so small but he still chose to rebel? --- The greater the rejection you sow, the greater its effect on you?
