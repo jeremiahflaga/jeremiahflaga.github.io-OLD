@@ -30,8 +30,8 @@ footer-links:
   twitter: jboyflaga
   stackoverflow: users/1451757/jboy-flaga # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/112073690010557146791 # anything in your profile username that comes after plus.google.com/
-  googleplus2: u/0/109601844801189977905
+  googleplus: #u/0/112073690010557146791 # anything in your profile username that comes after plus.google.com/
+  googleplus2: #u/0/109601844801189977905
 
   
 # Enter your Disqus shortname (not your username) to enable commenting on posts
