@@ -29,19 +29,22 @@ NOTE: You should be connected to the internet until the end of these steps
 
 **1.5.** Wait until the installation is finished
 
+## 2. Edit your PATH environment variable to include the directory where the C++ compiler is located
+
+![edit-environment-variables.png](/images/2017/edit-environment-variables.png)
 
 
-## 2. Install "Code Runner" extension in VS Code
+## 3. Install "Code Runner" extension in VS Code
 
-**2.1.** Search for the extension called "Code Runner" then install it
+**3.1.** In VS Code, search for the extension called "Code Runner" then install it
 
 ![vscode-code-runner-extension.png](/images/2017/vscode-code-runner-extension.png)
 
-**2.2.** Restart VS Code
+**3.2.** Restart VS Code
 
-**2.3.** Open you C++ file in VS Code
+**3.3.** Open you C++ file in VS Code
 
-**2.4.** Run your code using "Code Runner"
+**3.4.** Run your code using "Code Runner"
 
 From the docs of "Code Runner":
 
