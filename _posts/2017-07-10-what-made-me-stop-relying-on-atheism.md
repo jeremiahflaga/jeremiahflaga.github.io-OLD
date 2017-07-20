@@ -29,7 +29,6 @@ So I thought of posting this because it might help others (who will accidentally
 (You can go [here](https://www.youtube.com/watch?v=ZLZdOGCE5KQ) to listen to the debate; and [here](https://presupp101.files.wordpress.com/2012/07/apol_bahnsen_stein_debate_transcript.pdf) for the transcript.)
 
 
-
 ## 1. [For every _expert_, there is an equal and opposite _expert_](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#Proposed_fourth_law) :smile:
 
 <small>(from page 1 of the transcript)</small>
@@ -212,34 +211,8 @@ Maybe not... The things we observe and experience in reality makes sense in the 
 
 Another important point from that debate is Dr. Bahnsen's standard on what constitute an _explanation_:
 
+[**Update (July 20, 2017):** I have decided to make a separate post for this **_"What is an explanation?"_** part. Please go [here](http://127.0.0.1:4000/2017/07/20/what-is-an-explanation/) to read it.]
+
 <!--
 (If this **_explanation_** thing is already formalized somewhere, please point to me where :smile:)
 -->
-
-<small>(from page 32 of the transcript)</small>
-
-
-> ... He says
-there aren't going to be answers unless I include how it took place. What is God's method,
-and why did he do it? Well, I don't accept those standards. I don't accept that this is a
-requirement for an **explanation** at all. And he doesn't give us a good reason except that he's
-not going to [be] satisfied or it's unhelpful to him.
-
-
-<small>(from page 27 of the transcript)</small>
-
-> [That "logic reflects the thinking of God"] answers the general metaphysical issue of how there can be universal, invariant, abstract entities in a particular person's worldview.
-<br /><br />
-> ... The statement that "God made the cow" **has meaning apart from my being able to explain the mechanics** of God making a cow.
-<br /><br />
-> Likewise, the statement that the laws of logic are intelligible within a Christian theistic universe has meaning...
-
-<small>(or... ??the statement that "the laws of logic reflects the thinking of God" has meaning apart from my being able to explain how that works??)</small>
-
-This thing about _explanation_ also came up in the [Bahnsen-Smith debate](http://theophilus-defendingthefaith.blogspot.com/2015/08/reasoning-by-presupposition-bahnsen.html)
-
-> **Bahnsen:** Does appealing to God **explain** anything? Well, of course when you ask philosophically: **what is an explanation?**  The answer is, of course, it does.  It may strike you as being as easy as a Sunday school child’s understanding, but if I’ve got a Heavenly Father who created the entire universe and controls every detail, even to the hairs on my head, and I say of this creative personality who has this sovereign might and plan that he sees to it that gravity holds on planet Earth day by day by day—that does in fact explain it, but it may not be the explanation that you want.  I’m just talking about now what counts as an explanation.  **An explanation is something which enables you to predict the future and to account for why you predict it that way.**
-
-
-
-

@@ -5,7 +5,8 @@ HTML colon (:)
 HTML question mark (?)
 &#63;
 
-
+HTML for apostrophe
+&#39;
 
 In Markdown, how do I start a line with a number without creating a list?
 1986\. What a great season.

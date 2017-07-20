@@ -15,3 +15,9 @@ permalink: /triumphs/
 My GitHub account: [github.com/jeremiahflaga](https://github.com/jeremiahflaga)
 
 Old GitHub accounts: [github.com/jboyflaga](https://github.com/jboyflaga), [github.com/jboyflaga2](https://github.com/jboyflaga2)
+
+
+<!-- 
+include post on victory over p
+Include Dr. Lisle's post on Epistemologically self-conscious????
+ -->
