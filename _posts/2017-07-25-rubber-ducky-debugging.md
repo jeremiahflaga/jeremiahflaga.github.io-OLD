@@ -3,7 +3,7 @@ layout: post
 title: Rubber Ducky Debugging
 categories: [Programming]
 tags: [Ana Bell, MIT 6.0001, Rubber Ducky Debugging]
-date: 2017-07-25 03:0045:00 PM UTC
+date: 2017-07-25 03:00:00 PM UTC
 ---
 
 <!-- July 25, 2017 11:00:00 PM Philippine Time -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is an <i>Explanation?</i> (or What is an <i>Answer?</i>)
-categories: [Let&#39;s Ask Our Masters]
+categories: [Let&#39;s ask our masters]
 tags: [God, Explanation, Greg Bahnsen, Gordon Stein, George Smith]
 date: 2017-07-20 07:00:00 PM UTC
 ---
