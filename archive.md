@@ -24,3 +24,9 @@ permalink: /archive/
    {% endfor %}
 
 </section>
+
+## Old Blogs:
+   
+[jboyflaga2.blogspot.com](https://jboyflaga2.blogspot.com)
+
+[jeremiahflaga.blogspot.com](https://jeremiahflaga.blogspot.com)
