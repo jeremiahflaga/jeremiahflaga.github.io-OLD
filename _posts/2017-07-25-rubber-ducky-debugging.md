@@ -14,20 +14,22 @@ It's called **_"rubber ducky debugging"!_**
 
 <!--more-->
 
-I first heard about that technique in an article from [simpleprogrammer.com.](https://simpleprogrammer.com/)
+I already heard about this technique before; in an article from somewhare in the web (I cannot remember anymore where).
 
 If I remember it correctly, the writer said that if we have a problem or a bug in our code, and we find it hard to figure out the cause of the problem, we should try to explain it to a co-worker. 
 
 But our co-workers are busy of course! We can, instead, provide for ourselves a rubber ducky and then try to explain to the rubber ducky our problem.
 
-If I remember it correctly, the writer said that the process of explaining our problem helps us organize the problem in our brain and helps us in figuring out the solution to that problem.
+If I remember it correctly, the writer said that the process of explaining our problem helps us organize that problem in our brain, and helps us in figuring out the solution to that problem.
 
-Good that this is included in the lectures because it seems like I will be needing this technique in the next few weeks of my life!
+It's good that this is included in the lectures<sup id="footnote-indicator-2">[[2]](#footnote-2)</sup> because it seems like I will be needing this technique in the next few weeks of my life! :smile:
 
 Happy _rubber ducky debugging!_ :+1:
+
+... Or happy _talking to the wall debugging_, as in my case.
 
 <br />
 
 ---
 
-<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>... from Lecture 7 (with Dr. Ana Bell) of MIT OpenCourseWare's "6.0001 - Introduction to Computer Science and Programming in Python" (Fall 2016)</small>
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup><sup id="footnote-2">[[2]](#footnote-indicator-2)</sup> <small>... from Lecture 7 (with Dr. Ana Bell) of [MIT OpenCourseWare's "6.0001 - Introduction to Computer Science and Programming in Python" (Fall 2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)</small>
