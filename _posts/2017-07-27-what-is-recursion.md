@@ -6,7 +6,7 @@ tags: [Recursion, Eric Grimson, MIT 6.0001]
 date: 2017-07-27 01:45:00 PM UTC
 ---
 
-<!-- July 27, 2017 09:45:00 AM Philippine Time -->
+<!-- July 27, 2017 09:45:00 PM Philippine Time -->
 
 ### _Recursion?... Perhaps you mean [Recursion](https://www.google.com.ph/search?q=recursion)!?..._ :smile:
 
