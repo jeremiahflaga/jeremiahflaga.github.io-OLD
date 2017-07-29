@@ -105,6 +105,10 @@ If someone with power is concerned about us not have easy access to good program
 
 <br />
 
+[**Update** July 30, 2017: I created a [page that links to some _good_ and free books online.](/free-books/) If you know of other _good_ and free books, please tell me in the comments and I will add them to the list. Thanks!]
+
+<br />
+
 <small>
 Footnotes:
 </small>

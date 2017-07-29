@@ -25,6 +25,9 @@ permalink: /archive/
 
 </section>
 
+
+## [Want some _good_ and free books?](/free-books/) 
+
 ## Old Blogs:
    
 [jboyflaga2.blogspot.com](https://jboyflaga2.blogspot.com)

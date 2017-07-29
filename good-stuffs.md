@@ -125,3 +125,7 @@ The ["How to Win Friends and Influence People"](https://www.bookdepository.com/b
 
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
+
+
+
+## [Want some _good_ and free books?](/free-books/) 
