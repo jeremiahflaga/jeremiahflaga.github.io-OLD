@@ -58,9 +58,11 @@ nor safe. God help me. Amen."
 
 If you are interested, you can read a summary of Martin Luther's life [here](http://www.christianitytoday.com/history/people/theologians/martin-luther.html).
 
-Also, it's interesting that Luther, like all of us (I believe), had made some, what we consider, [faults](http://www.christianitytoday.com/history/issues/issue-39/was-luther-anti-semitic.html).
+Also, it's interesting that Luther, like all of us (I believe), had some, what we consider, [faults](http://www.christianitytoday.com/history/issues/issue-39/was-luther-anti-semitic.html).
 
+<!--
 But, as Dr. Kamibayashiyama pointed out in his lectures on the reformation, if I remember his words correctly, **we have to be gracious** to those great men from the past because we saw the results of their mistakes while they were not able to see them --- we are standing on their shoulders... (or something like that).
+-->
 
 Also interesting is this excerpt from ["Luther's Living Legacy: What has Luther left to us, 500 years later?"](http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html)
 
