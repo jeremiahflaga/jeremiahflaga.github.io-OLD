@@ -16,6 +16,8 @@ During his lectures on "The Reformation and Fundamentalism History" at Malaybala
 
 <small>(Note: Some Christians are celebrating the 500th Anniversary of the Reformation this year, 2017)</small>
 
+<!--more-->
+
 
 ## Other Luther quotes related to sola scriptura:
 
