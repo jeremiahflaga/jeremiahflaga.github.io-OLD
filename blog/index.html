@@ -1,4 +1,4 @@
----
+{% comment %} ---
 layout: default
 title: Blog
 ---
@@ -12,29 +12,15 @@ title: Blog
       </a>
     </h1>
 
-    <div>
-      Category: 
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-      <a href="/blog/categories/#{{category|slugize}}" class="post-tag">{{category}}</a>
-      {% endfor %}
-    </div>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-  
-    {% comment %} <span class="post-date">{{ post.date | date_to_string }}</span>
     {% if post.tags %} | 
     {% for tag in post.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
     {% endfor %}
-    {% endif %} {% endcomment %}
+    {% endif %}
 
     <article>
-      {{ post.excerpt | markdownify }} 
-      {% comment %} {{ post.content }} {% endcomment %}
+      {{ post.excerpt | markdownify }}
     <article>
     <div class="post-more">
       {% if site.disqus_short_name %}
@@ -62,4 +48,4 @@ title: Blog
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
+ {% endcomment %}

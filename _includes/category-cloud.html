@@ -1,9 +1,0 @@
-<div class="tag-cloud">
-{% for category in site.categories %}
-  <span style="font-size: {{ category | last | size | times: 30 | divided_by: site.categories.size | plus: 70  }}%">
-    <a href="{{ site.baseurl }}/categories/#{{ category | first | slugize }}">
-      {{ category | first }}
-    </a>
-  </span>
-{% endfor %}
-</div>
