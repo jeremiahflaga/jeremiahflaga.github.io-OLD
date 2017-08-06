@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <div>
+  <div class="category-list">
     Category: 
     {% if post %}
       {% assign categories = post.categories %}
@@ -20,15 +20,15 @@ layout: default
   <article>
     {{ content }}
   </article>
-
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {% if page.tags %} | 
-  Tags:
-  {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
-  {% endfor %}
-  {% endif %}
-
+  
+  <div class="tag-list" style="padding-top: 50px">
+    {% if page.tags %}
+    Tags:
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+    {% endfor %}
+    {% endif %}
+  </div>
 </div>
 
 <div class="related">
