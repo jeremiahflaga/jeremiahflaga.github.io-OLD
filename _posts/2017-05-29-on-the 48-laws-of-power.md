@@ -12,7 +12,7 @@ A friend told me about these _48 Laws of Power_ many months ago.
 
 I tried to google for it a few days after I heard about it.
 
-<span class="sidebar float-right">
+<span class="message message-compressed float-right">
 _(I already knew about the ["friend being envious"](/2017/05/20/crab-mentality-not-a-filipino-only-problem) part.)_
 </span>
 

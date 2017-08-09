@@ -2,7 +2,7 @@
 layout: post
 title: Rubber Ducky Debugging
 categories: [Programming]
-tags: [Ana Bell, MIT 6.0001, Rubber Ducky Debugging]
+tags: [Ana Bell, MIT OCW 6.0001, Rubber Ducky Debugging]
 date: 2017-07-25 03:00:00 PM UTC
 ---
 

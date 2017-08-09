@@ -64,7 +64,7 @@ And now...
 
 <center>:wavy_dash::wavy_dash:</center>
 
-<span class="sidebar float-right">
+<span class="message message-compressed float-right">
 _Note that **TDD**, the discipline that Uncle Bob is promoting in his talks and in his blog, is also in here. Hmmm..._
 </span>
 

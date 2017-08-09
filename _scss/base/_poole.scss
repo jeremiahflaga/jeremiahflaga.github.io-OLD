@@ -281,6 +281,23 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.message-compressed {
+  width: 15em;
+}
+
+.float-right {
+  float: right;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.float-left {
+  float: left;
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
 
 /*
  * Container

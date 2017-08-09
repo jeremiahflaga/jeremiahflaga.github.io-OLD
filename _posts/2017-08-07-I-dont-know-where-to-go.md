@@ -28,9 +28,9 @@ And only for a while...
 <br />
 What keeps you from taking back the gift?
 <br />
-Life had lots of meaning;
+Life was full of meaning;
 <br />
-Lots of purpose...
+Full of purpose...
 <br />
 What keeps me from again desiring it?
 

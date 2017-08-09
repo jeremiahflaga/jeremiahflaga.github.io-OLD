@@ -21,7 +21,7 @@ Here are my notes.
 
 
 
-<div class="sidebar float-left">
+<div class="message message-compressed float-left">
 	<strong>Summary of Uncle Bob's Expectations</strong>
 	<ol>
 		<li>
@@ -381,7 +381,7 @@ TDD gives you a suite of tests that you trust with your life. And when you have 
 
 
 
-<div class="sidebar float-right">
+<div class="message message-compressed float-right">
 <strong>This is from Uncle Bob's article <a href="https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable">"So... You want your code to be maintainable."</a></strong>
 
 <p><i>
