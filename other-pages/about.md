@@ -20,6 +20,8 @@ I am software developer and loves programming!
 
 I would also like to love mathematics, computer science, music, philosophy, and theology, but it seems like they don't have time for me today. Maybe someday they will!! --- a hundred years from now?? :grin:
 
+I have created an online [resum&eacute;](/resume/), in case you are interested in hiring me. :smile:
+
 <!--
 King Solomon said that the whole duty of man is to serve God and keep his commandments. We failed on that. But the good news is that someone else did them for us.
 -->
