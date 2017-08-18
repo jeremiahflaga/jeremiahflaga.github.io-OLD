@@ -4,6 +4,12 @@ title: Good Stuffs
 permalink: /good-stuffs/
 ---
 
+<style>
+blockquote {
+    margin-left: 2rem;
+}
+</style>
+
 ## Some of the articles, books, videos and other stuffs which influenced how I think today
 
 <small>_[This also serves as a reminder for myself of some of the most important things to remember always.]_</small>
@@ -17,12 +23,15 @@ permalink: /good-stuffs/
 > "The software shouldn't be at the center of a programmer's world, instead a programmer should [focus on the benefit that the software is supposed to deliver](https://martinfowler.com/bliki/CraftmanshipAndTheCrevasse.html)." - Martin Fowler
 -->
 
-> "Software developers tend to be software addicts who think their job is to write code. But it's not. [Their job is to solve problems.](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html) Don't celebrate the creation of code, celebrate the creation of solutions." -  Jeff Atwood
+
+<blockquote style="border: none">
+"Software developers tend to be software addicts who think their job is to write code. But it's not. <a href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html">Their job is to solve problems.</a> Don't celebrate the creation of code, celebrate the creation of solutions." — Jeff Atwood
+</blockquote>
 
 
 ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) by Uncle Bob Martin
 
-> The important decisions that a Software Architect makes are the ones that allow you to **NOT** make the decisions about the database, and the webserver, and the frameworks.
+> "The important decisions that a Software Architect makes are the ones that allow you to **NOT** make the decisions about the database, and the webserver, and the frameworks."
 
 The [SOLID Principles](/2017/05/01/the-solid-principles-and-chris-klug/) of Uncle Bob Martin
 
@@ -44,9 +53,9 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 ["Respecting Levels of Abstraction"](https://simpleprogrammer.com/2017/01/27/respecting-abstraction/) by Jonathan Boccara
 
->A given level of abstraction is characterized by **what** is done in it. 
+> "A given level of abstraction is characterized by **what** is done in it."
 <br /><br />
->When we move from a higher level of abstraction to a lower one, the execution of the tasks in the less abstract level is **how** we implement the more abstract level.
+> "When we move from a higher level of abstraction to a lower one, the execution of the tasks in the less abstract level is **how** we implement the more abstract level."
 
 <!--
 > ![Respect Levels of Abstraction image](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/01/respect_levels_of_abstraction2.png)
@@ -62,7 +71,7 @@ By identifying what things the code does and replacing each one with a label, we
 
 ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/) by Jonathan Boccara
 
-> ... **consider that the code you’re working on is your code**. Even if you haven’t written it yourself, and regardless of how good or bad you think it is, this is your code, and you have responsibility over it. 
+> "... **consider that the code you’re working on is your code**. Even if you haven’t written it yourself, and regardless of how good or bad you think it is, this is your code, and you have responsibility over it."
 
 
 
@@ -74,24 +83,24 @@ By identifying what things the code does and replacing each one with a label, we
 
 ["Don’t Get Obsessed With Design Patterns"](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/) by Joel Rodriguez
 
-> I believe that knowing object-oriented design principles and applying best practices like SOLID, KISS and YAGNI are far more important than design patterns themselves. If you apply these principles, **patterns will come out naturally**.
+> "I believe that knowing object-oriented design principles and applying best practices like SOLID, KISS and YAGNI are far more important than design patterns themselves. If you apply these principles, **patterns will come out naturally**."
 
 
 
 ["Don’t Overwhelm Yourself Trying to Learn Too Much"](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) by John Sonmez
 
-> I think the best way to improve your skills and to learn what you need to do is to do the learning as close to the time you need the information as possible –- **just-in-time learning**.
+> "I think the best way to improve your skills and to learn what you need to do is to do the learning as close to the time you need the information as possible –- **just-in-time learning**."
 
 
 
 
 ["Staying relevant as a programmer"](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43) by Mattias Petter Johansson or MPJ
 
-> Are we forever cursed to do this constant tooling rodeo, where we try to hold on in the job market for dear life, learning new tools as the plop up all over the place?
+> "Are we forever cursed to do this constant tooling rodeo, where we try to hold on in the job market for dear life, learning new tools as the plop up all over the place?
 <br /><br />
-Instead of trying to predict the future, which we humans are really bad at — just look at sci-fi movies from the 60-ies — **you should learn the stuff that doesn’t change around a lot**.
+"Instead of trying to predict the future, which we humans are really bad at — just look at sci-fi movies from the 60-ies — **you should learn the stuff that doesn’t change around a lot**.
 <br /><br />
-Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in *general*. Don’t be better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period.
+"Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in *general*. Don’t be better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
 
 ---
