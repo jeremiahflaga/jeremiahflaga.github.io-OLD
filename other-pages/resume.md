@@ -182,13 +182,13 @@ published: true
 
 1. I would like to be involved in new projects that will be written from scratch, where I can have influence on the decisions that will be made (or at least I am in a position where I know the reasons behind the decisions being made).
 <br /><br />
-I would just like to add that if I will be involved in developing a new software from scratch, I would highly recommend using the Clean Architecture model of Uncle Bob Martin (or something similar to it) and, if possible, use TDD also; because, as you might have already known, it is hard to create software that is _easy to change_. Many software developers believe that this Clean Architecture model and TDD can greatly help in making software easy to change.
+I would just like to add that if I will be involved in developing a new software from scratch, I would highly recommend using the [Clean Architecture model](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) of Uncle Bob Martin (or something similar to it) and, if possible, use TDD also; because, as you might have already known, it is hard to create software that is _easy to change_. Many software developers believe that this Clean Architecture model and TDD can greatly help in making software easy to change.
 <br /><br />
 ... And businesses (and programmers involved in a software project) will greatly benefit if we do something to make software easy to change.
 
 2. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out some of his talks, "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience. 
 <br /><br />
-I'm not yet an expert, but, as what I read in an article about apprenticeship by David H. Hoover, 
+I'm not yet an expert, but, as what I read in an [article about apprenticeship](https://s3.amazonaws.com/apprentice.us/Apprenticeship-Programs.pdf) by David H. Hoover, 
 <br />
 > "The mentor doesn't necessarily need to be a master of software development. In
 fact, there are advantages to having a mentor who is closer in proximity to the
