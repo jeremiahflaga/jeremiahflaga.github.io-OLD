@@ -4,6 +4,10 @@ title: Free Books
 permalink: /free-books/
 ---
 
+Because I am now advocating against the illegal distribution of books online, I will put links here to some freely available books...
+
+> If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we have ignored.
+
 [Programming Abstractions in C++](URL of this Course Reader: http://www-cs-faculty.stanford.edu/~eroberts/CS106BX-Reader.pdf) by Eric Roberts
 
 - This is the course reader of Stanford's CS-106B, an introductory data structures and algorithms course
@@ -20,9 +24,11 @@ permalink: /free-books/
 - Learn TDD and Django
  -->
 
+[Domain-Driven Design Quickly from InfoQ](http://infoq.com/books/domain-driven-design-quickly) by Abel Avram and Floyd Marinescu
+
 [The Anatomy Of Domain-Driven Design - Booklet](https://leanpub.com/theanatomyofdomain-drivendesign) by Scott Millett and Samuel Knight
 
-[Structure and Interpretation of Computer Programs (SICP)](https://sicpebook.wordpress.com/ebook/)  by Abelson & Sussman
+[Structure and Interpretation of Computer Programs (SICP)](https://sicpebook.wordpress.com/ebook/) by Abelson & Sussman
 
 [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/)
 
