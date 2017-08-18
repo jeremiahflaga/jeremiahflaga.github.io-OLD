@@ -62,11 +62,11 @@ published: true
       </td>
     </tr>
     <tr>
-      <td>Software Development Principles:</td>
+      <td>Software Development Principles and Practices:</td>
       <td>
         <p>SOLID, DRY, YAGNI</p>
         <p>
-        I also believe in Agile Software Development principles and practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development.
+        I also believe in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development.
         </p>
         <p>
         I also believe that TDD can greatly help us make software that is easy to change.
@@ -134,12 +134,12 @@ published: true
 </h2>
 
 
-[**Jairosolutions**](www.jairosolutions.com)
+[**Jairosolutions**](http://www.jairosolutions.com)
 
 - .NET Developer (April 2012 – October 2012)
 
 
-[**Mynd Dynamic Team, Inc.**](www.myndconsulting.com)
+[**Mynd Dynamic Team, Inc.**](http://www.myndconsulting.com/)
 
 - .NET Developer (December 2012 – May 2016)
 - Android Developer (October 2016 – Present)
@@ -195,6 +195,10 @@ fact, there are advantages to having a mentor who is closer in proximity to the
 apprentice's level of experience."
 
 3. And, if possible, I would also like to be mentored by someone who have much experience in the software development industry.
+
+4. I cannot work alone, because I am not yet an expert... most expecially when I am involved in a project where I am not yet familiar with the frameworks or libraries that are being used. 
+<br /><br />
+But I believe I can help with the architecture of new projects, even when I am not yet familiar with the specific frameworks and libraries that will be used in that project --- I can learn about the frameworks and libraries _inline_, I mean, during my vacant times. :smile:
 
 
 Thank you! :smile:
