@@ -38,6 +38,10 @@ published: true
       <td>Mobile:</td>
       <td>+63918 374 5134</td>
     </tr>
+    <tr>
+      <td>Blog:</td>
+      <td><a href="http://jeremiahflaga.github.io">jeremiahflaga.github.io</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -54,10 +58,11 @@ published: true
     <tr>
       <td>Architecture:</td>
       <td>
-        <p>Clean Architecture model through Uncle Bob Martin's blog posts and talks</p>
-        <p>
-        A little knowledge on some DDD concepts</p>
+        <p>Clean Architecture model through Uncle Bob Martin's blog posts and talks, and through some sample projects I found online</p>
         <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory
+        </p>
+        <p>
+        <small>Also, a little knowledge on some DDD concepts</small>
         </p>
       </td>
     </tr>
@@ -99,7 +104,7 @@ published: true
       <td>.NET:</td>
       <td>
         <p>C#, VB.NET, LINQ</p>
-        <p>ASP.NET MVC, WPF, Entity Framework, Moq</p>
+        <p>ASP.NET Web Forms, ASP.NET MVC, WinForms, WPF, Entity Framework, Moq</p>
       </td>
     </tr>
     <tr>
@@ -176,7 +181,7 @@ published: true
 
 ----------------------------------------------------------
 
-<h2>
+<h2 id="preferences">
     <strong style="color: #6a9fb5">Some preferences with work:</strong>
 </h2>
 
@@ -186,7 +191,7 @@ I would just like to add that if I will be involved in developing a new software
 <br /><br />
 ... And businesses (and programmers involved in a software project) will greatly benefit if we do something to make software easy to change.
 
-2. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out some of his talks, "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience. 
+2. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out [in one of his talks](https://youtu.be/BSaAMQVq01E?t=4277), "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience. 
 <br /><br />
 I'm not yet an expert, but, as what I read in an [article about apprenticeship](https://s3.amazonaws.com/apprentice.us/Apprenticeship-Programs.pdf) by David H. Hoover, 
 <br />

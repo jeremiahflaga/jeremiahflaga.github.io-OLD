@@ -18,14 +18,19 @@ table.resume,
 .basic-info tbody tr td:nth-child(1),
 .resume tbody tr td:nth-child(1) {
   font-weight: bold;
-  display: inline-block;
+  // display: inline;
+  vertical-align: top;
+  text-align: right;
 }
 
 .resume tbody tr td:nth-child(2) {
   border-left: 1px solid grey;
+}
+
+.resume tbody tr {  
   border-bottom: 1px solid #eee;
 }
 
-.resume tbody tr:last-child td:nth-child(2) {  
+.resume tbody tr:last-child {  
   border-bottom: none;
 }
