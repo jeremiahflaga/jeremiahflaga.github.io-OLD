@@ -22,6 +22,10 @@ I would also like to love mathematics, computer science, music, philosophy, and 
 
 I have created an online [resum&eacute;](/resume/), in case you are interested in hiring me. :smile:
 
+### Contact me
+
+[flaga.jeremiah@gmail.com](mailto:flaga.jeremiah@gmail.com)
+
 <!--
 King Solomon said that the whole duty of man is to serve God and keep his commandments. We failed on that. But the good news is that someone else did them for us.
 -->
@@ -43,7 +47,4 @@ My GitHub account: [github.com/jeremiahflaga](https://github.com/jeremiahflaga)
 
 Old GitHub accounts: [github.com/jboyflaga](https://github.com/jboyflaga), [github.com/jboyflaga2](https://github.com/jboyflaga2)
 
-### Contact me
-
-[flaga.jeremiah@gmail.com](mailto:flaga.jeremiah@gmail.com)
 -->
