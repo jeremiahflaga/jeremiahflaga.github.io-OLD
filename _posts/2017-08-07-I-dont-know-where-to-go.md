@@ -4,6 +4,7 @@ title: I don't know where to go...
 categories: [Thoughts]
 tags: [God, Life]
 date: 2017-08-07 03:30:00 PM UTC
+published: false
 ---
 
 <!-- August 07, 2017 11:30:00 PM Philippine Time -->
