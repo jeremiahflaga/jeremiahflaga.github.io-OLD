@@ -4,9 +4,12 @@ title: Free Books
 permalink: /free-books/
 ---
 
+<!--
 Because I am now advocating against the illegal distribution of books online, I will put links here to some freely available books...
 
 > If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we have ignored.
+
+-->
 
 ## Programming Books
 
