@@ -201,9 +201,9 @@ apprentice's level of experience."
 
 3. And, if possible, I would also like to be mentored by someone who have much experience in the software development industry.
 
-4. I cannot work alone, because I am not yet an expert... most expecially when I am involved in a project where I am not yet familiar with the frameworks or libraries that are being used. 
+4. If I will be working on an existing project, I cannot work alone, at least for the first few weeks, because I am not yet an expert... most expecially when I am involved in a project where I am not yet familiar with the frameworks or libraries that are being used. 
 <br /><br />
-But I believe I can help with the architecture of new projects, even when I am not yet familiar with the specific frameworks and libraries that will be used in that project --- I can learn about the frameworks and libraries _inline_, I mean, during my vacant times. :smile:
+But if I will be involved in new projects... I believe that I can _help_ with the architecture of _new_ projects, even when I am not yet familiar with the specific frameworks and libraries that will be used in that project --- I can learn about the frameworks and libraries _inline_, I mean, during my vacant times. :smile:
 
 
 Thank you! :smile:
