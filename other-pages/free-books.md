@@ -3,13 +3,29 @@ layout: page
 title: Free Books
 permalink: /free-books/
 ---
+<!-- 
+<sup id="footnote-indicator-1"><a href="#footnote-1">[1]</a></sup>
+ -->
+<small>In one of his talks, Martin Fowler said this:</small>
 
-<!--
-Because I am now advocating against the illegal distribution of books online, I will put links here to some freely available books...
+> <small>"We need to think of ways, small or large, individual or combined with others, to make the world a better place."</small>
+<br />
+> <small>--- Martin Fowler</small>
 
-> If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we have ignored.
+<small>
+This is my way of contributing to making our world a better place... 
+</small>
 
--->
+<small>
+I am advocating for the legal distribution of books online (and of course against the illegal distribution of books online :smile: ). And because of that, I will put here links to some freely available books to help those who need books but cannot afford to buy those that are for sale...
+</small>
+
+> <small>If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we have ignored.</small>
+
+If you know of other good and free books available online, please tell me in the comments section below.
+
+Enjoy!
+
 
 ## Programming Books
 
@@ -69,3 +85,27 @@ Because I am now advocating against the illegal distribution of books online, I 
 
 [The Apologetic Implications of Self-Deception](https://biblicalthinker.files.wordpress.com/2013/01/the-apologetic-implications-of-self-deception.pdf) by Greg L. Bahnsen
 
+
+
+--------------------------
+
+
+{% if site.disqus_short_name %}
+<div class="comments">
+  <h2>Comments</h2>
+  <div id="disqus_thread"></div>
+  <script>
+var disqus_config = function () {
+  this.page.url = '{{ site.url }}{{ page.url }}'; // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = '{{ page.id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = '//{{ site.disqus_short_name }}.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+{% endif %}
