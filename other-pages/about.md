@@ -20,7 +20,9 @@ I am software developer and loves programming!
 
 I would also like to love mathematics, computer science, music, philosophy, and theology, but it seems like they don't have time for me today. Maybe someday they will!! --- a hundred years from now?? :grin:
 
+<!--
 I have created an online [resum&eacute;](/resume/), in case you are interested in hiring me. :smile:
+-->
 
 ### Contact me
 
