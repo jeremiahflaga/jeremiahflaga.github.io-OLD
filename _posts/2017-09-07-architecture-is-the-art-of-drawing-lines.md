@@ -32,7 +32,7 @@ Those are the boundaries.
 
 And all **arrowed lines that cross those boundaries** always points inwards --- towards the **most important part/s** of the system.
 
-The reason why they are pointing inwards is so that the _most important part_ will not become slaves of the _less important parts_ (the _details_, as what Uncle Bob calls them) --- so that the _most important part_ will not be affected by the changes that will be made outside the boundaries.
+The reason why they are pointing inwards is so that the _most important part_ will not become slaves of the _details_, as what Uncle Bob calls them, --- so that the _most important part_ will not be affected by the changes that will be made outside its boundaries.
 
 We can redraw the diagram that Uncle Bob uses in that talk to look like this:
 
