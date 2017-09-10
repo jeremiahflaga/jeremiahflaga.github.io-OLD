@@ -66,14 +66,13 @@ Enjoy!
 [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks) - from syncfusion.com
 
 
-
 ### Some "for review" books of Kent Beck I found publicly available online
 
 [Test-Driven Development By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck
 
 [Smalltalk Best Practice Patterns Volume 1: Coding](https://pdfs.semanticscholar.org/e025/d7b42423a45fe0c22bc13ab1d5be5a22b616.pdf) by Kent Beck
 
-
+---
 
 ## Other books
 
@@ -85,6 +84,10 @@ Enjoy!
 
 [The Apologetic Implications of Self-Deception](https://biblicalthinker.files.wordpress.com/2013/01/the-apologetic-implications-of-self-deception.pdf) by Greg L. Bahnsen
 
+
+---
+
+## <span class="red-text">NOTE:</span> You can also use the free trial of [Safari Books Online](https://www.safaribooksonline.com) if you don't yet have money to buy the book/s that you need
 
 
 --------------------------
