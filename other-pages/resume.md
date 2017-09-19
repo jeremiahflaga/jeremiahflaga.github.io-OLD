@@ -49,10 +49,12 @@ published: true
 <table class="resume">
   <tbody>
     <tr>
-      <td>Architecture:</td>
+      <td>Software Architecture or Design:</td>
       <td>
-        <p>Clean Architecture model through Uncle Bob Martin's blog posts and talks, and through some sample projects I found online</p>
-        <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory
+        <p>The SOLID principles</p>
+        <p>Clean Architecture model through Uncle Bob Martin's blog posts and talks, through some sample projects I found online, and through the draft of his upcoming book with the same name, available at <a  href="https://www.safaribooksonline.com">Safari Books Online</a>
+        </p>
+        <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory, Command
         </p>
         <p>
         <small>Also, a little knowledge on some DDD concepts</small>
@@ -60,14 +62,13 @@ published: true
       </td>
     </tr>
     <tr>
-      <td>Software Development Principles and Practices:</td>
+      <td>Software Development Practices:</td>
       <td>
-        <p>SOLID, DRY, YAGNI</p>
         <p>
-        I also believe in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development.
+        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development
         </p>
         <p>
-        I also believe that TDD can greatly help us make software that is easy to change.
+        Believes that TDD can greatly help us make software that is maintainable
         </p>
       </td>
     </tr>
@@ -79,9 +80,9 @@ published: true
           <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, and through 
           <a  href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
         </p>
-        <p>I also have a copy of the book Computer Science Distilled of Wladston Filho</p>
+        <p>Had read "Computer Science Distilled" of Wladston Filho</p>
         <p>
-        I also completed the first part of the <a href="http://jeremiahflaga.blogspot.com/search/label/Nand2Tetris">"Nand to Tetris" course</a>
+        Completed the first part of the <a href="http://jeremiahflaga.blogspot.com/search/label/Nand2Tetris">"Nand to Tetris" course</a>
         </p>
       </td>
     </tr>
@@ -89,8 +90,32 @@ published: true
       <td>Databases:</td>
       <td>
         <p>
-        I took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)</small>
+        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)</small>
         </p>
+        <p>
+        <strong>ORM:</strong> Entity Framework
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Unit Testing: </td>
+      <td>
+        <p>
+          xUnit, Moq, JUnit
+        </p>
+        <p>
+        Knows how to create fake object by hand :laughing:
+        </p>
+        <p>
+        Had read "Professional Test Driven Developmnt with C#" in the past
+        </p>
+        <p>
+        Have read most chapters of "GOOS (Growing Object Oriented Software Guided by Tests)"</p>
+        <p>
+        Completed the first part of the part of "Test Driven Development with Python"
+        </p>
+        <p>
+        Have read the first few chapters of "Working Effectively with Legacy Code"</p>
       </td>
     </tr>
     <tr>
@@ -116,8 +141,13 @@ published: true
     <tr>
       <td>Other:</td>
       <td>
-        <p>A bit of Python</p>
         <p>Googling Stackoverflow :smile:</p>
+        <p>I know a little bit of Python.</p>
+        <p>I also like solving some algorithmic problem, but am able to solve only the simple ones, :smile: at least for now... <br/>
+        You can view my solutions to some problems
+        <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
+        </p>
+        <p>An avid fan of Uncle Bob Martin (I visit his blog often).</p>
       </td>
     </tr>
   </tbody>
@@ -132,15 +162,48 @@ published: true
 </h2>
 
 
-[**Jairosolutions**](http://www.jairosolutions.com)
-
-- .NET Developer (April 2012 – October 2012)
 
 
-[**Mynd Dynamic Team, Inc.**](http://www.myndconsulting.com/)
+- Software Developer (April 2012 – October 2012)
+<br /> -- for web using .NET
+<br /> -- at [**Jairosolutions**](http://www.jairosolutions.com) 
 
-- .NET Developer (December 2012 – May 2016)
-- Android Developer (October 2016 – Present)
+- Software Developer (December 2012 – May 2016)
+<br /> -- for web using .NET
+<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
+
+- Software Developer (October 2016 – Present)
+<br /> -- for mobile using Android
+<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
+
+
+----------------------------------------------------------
+
+<h2 id="preferences">
+    <strong style="color: #6a9fb5">Some preferences with future work:</strong>
+</h2>
+
+NOTE: These are only _preferences_. I'm not trying to give mandates to the kind of work you should be giving me. :smile:
+
+1. I would like to be involved in new projects that will be written from scratch, where I can have influence on the decisions that will be made (or at least I am in a position where I know the reasons behind the decisions being made).
+<br /><br />
+I would just like to add that if I will be involved in developing a new software from scratch, I would highly recommend using the [Clean Architecture model](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) of Uncle Bob Martin (or something similar to it), and use TDD also; because, as you might have already known, it is hard to create software that is _easy to change_. Many software developers believe that this Clean Architecture model and TDD can greatly help in making software easy to change.
+<br /><br />
+... also, our clients (and the programmers involved in the software project) will greatly benefit if we do something to make software easy to change.
+
+2. And, if possible, I would also like to be mentored by someone who have much experience in the software development industry.
+
+3. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out [in one of his talks](https://youtu.be/BSaAMQVq01E?t=4277), "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience.
+
+
+<!--
+<br /><br />
+I'm not yet an expert, but, as what I read in an [article about apprenticeship](https://s3.amazonaws.com/apprentice.us/Apprenticeship-Programs.pdf) by David H. Hoover, 
+<br />
+> "The mentor doesn't necessarily need to be a master of software development. In
+fact, there are advantages to having a mentor who is closer in proximity to the
+apprentice's level of experience."
+-->
 
 
 ----------------------------------------------------------
@@ -172,36 +235,14 @@ published: true
 - TESDA (three months) - Short Entry Course on VB.NET & ASP.NET Development
 
 
-----------------------------------------------------------
 
-<h2 id="preferences">
-    <strong style="color: #6a9fb5">Some preferences with work:</strong>
-</h2>
-
-
-1. If I will be working on an existing project, I might be needing lots of help in understanding the structure of the project in the first few weeks... most expecially when I am involved in a project where I am not yet familiar with the frameworks or libraries that are being used. 
+<!--
+4. If I will be working on an existing project, I might be needing lots of help in understanding the structure of the project in the first few weeks... most expecially when I am involved in a project where I am not yet familiar with the frameworks or libraries that are being used. 
 <br /><br />
 But if I will be involved in new projects... I believe that I can _help_ with the architecture of _new_ projects, even when I am not yet familiar with the specific frameworks and libraries that will be used in that project --- I can learn about the frameworks and libraries _inline_, I mean, during my vacant times. :smile:
 
-2. And, if possible, I would also like to be mentored by someone who have much experience in the software development industry.
-
-3. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out [in one of his talks](https://youtu.be/BSaAMQVq01E?t=4277), "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience.
-<br /><br />
-I'm not yet an expert, but, as what I read in an [article about apprenticeship](https://s3.amazonaws.com/apprentice.us/Apprenticeship-Programs.pdf) by David H. Hoover, 
-<br />
-> "The mentor doesn't necessarily need to be a master of software development. In
-fact, there are advantages to having a mentor who is closer in proximity to the
-apprentice's level of experience."
-
-4. If it is possible, I would like to be involved in new projects that will be written from scratch, where I can have influence on the decisions that will be made (or at least I am in a position where I know the reasons behind the decisions being made).
-<br /><br />
-I would just like to add that if I will be involved in developing a new software from scratch, I would highly recommend using the [Clean Architecture model](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) of Uncle Bob Martin (or something similar to it) and, if possible, use TDD also; because, as you might have already known, it is hard to create software that is _easy to change_. Many software developers believe that this Clean Architecture model and TDD can greatly help in making software easy to change.
-<br /><br />
-... And businesses (and programmers involved in a software project) will greatly benefit if we do something to make software easy to change.
-
 Thank you! :smile:
 
-<!--
 I think I am enjoying more when I am involved design part of creating software systems --- by _design_ I mean the design or architecture of the software and not the UI part.
 
 And because I concentrate on the _design_ part of the system, I think I can still be able to work on **new** projects even when I am not yet very familiar with the specific frameworks or libraries those projects, as long as my teammates are already familiar with the frameworks or libraries that we will be using.
