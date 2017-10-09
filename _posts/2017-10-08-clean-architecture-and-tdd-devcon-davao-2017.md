@@ -2,7 +2,7 @@
 layout: post
 title:  The Gospel of Uncle Bob and Kent Beck&#58; Clean Architecture and TDD
 categories: [Programming]
-tags: [Clean Architecture, TDD, Robert Martin, Kent Beck]
+tags: [Clean Architecture, TDD, Robert Martin, Kent Beck, DevCon Davao 2017]
 date: 2017-10-08 02:40:00 PM UTC
 ---
 
