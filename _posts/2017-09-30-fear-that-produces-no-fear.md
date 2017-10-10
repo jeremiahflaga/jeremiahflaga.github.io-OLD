@@ -30,9 +30,9 @@ They want us to think of other people, our coleagues, when we code.
 
 They want us to think of those future programmers who will inherit our code base.
 
-> _"Will my coleagues, and the future programmers, be able to understand our code? Or will they spit tons of WTFs when they see our code?"_
+> _"Will our coleagues, and the future programmers, be able to understand our code?..."_
 
-You see, we, programmers, most expecially those who already have years of experience coding, have this secret fear --- **the fear of becoming slaves of our software creations,** or the software creations of others.
+You see, we, programmers, most especially those who already have years of experience coding, have this secret fear --- **the fear of becoming slaves of our software creations**.
 
 The fear that we will be controlled by our software instead of us controlling our software.
 
