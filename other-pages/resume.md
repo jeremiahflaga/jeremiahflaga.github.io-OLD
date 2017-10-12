@@ -90,10 +90,16 @@ published: true
       <td>Databases:</td>
       <td>
         <p>
-        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)</small>
+          SQL
         </p>
         <p>
-        <strong>ORM:</strong> Entity Framework
+          SQL Server, SQLite
+        </p>
+        <p>
+        <strong>ORM:</strong> Entity Framework in .NET
+        </p>
+        <p>
+        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)</small>
         </p>
       </td>
     </tr>
@@ -136,6 +142,10 @@ published: true
       <td>Android:</td>
       <td>
         <p>Java, RxJava</p>
+        <p>Took 
+          <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
+        </a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -166,16 +176,32 @@ published: true
 
 - Software Developer (April 2012 – October 2012)
 <br /> -- for web using .NET
-<br /> -- at [**Jairosolutions**](http://www.jairosolutions.com) 
+<br /> -- at [**Jairosolutions**](http://www.jairosolutions.com)
+<br /> -- Involved in creating contest pages for www.verizoninsider.com
+
 
 - Software Developer (December 2012 – May 2016)
 <br /> -- for web using .NET
-<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
+<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
+<br /> -- Involved in maintaining desktop and web apps for insurance of Common Census
+
 
 - Software Developer (October 2016 – Present)
 <br /> -- for mobile using Android
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
+<br /> -- Involved in developing versions 2 and 3 of Dr Oz app for Android
 
+
+----------------------------------------------------------
+
+<h2 id="talks">
+    <strong style="color: #6a9fb5">Talks:</strong>
+</h2>
+
+- [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
+
+
+<!-- 
 
 ----------------------------------------------------------
 
@@ -194,6 +220,8 @@ I would just like to add that if I will be involved in developing a new software
 2. And, if possible, I would also like to be mentored by someone who have much experience in the software development industry.
 
 3. I'm also interested in mentoring beginning programmers because, as what Uncle Bob Martin points out [in one of his talks](https://youtu.be/BSaAMQVq01E?t=4277), "We're in a state of perpetual inexperience" because half of the programmers in the world have less than five years of experience.
+
+-->
 
 
 <!--
