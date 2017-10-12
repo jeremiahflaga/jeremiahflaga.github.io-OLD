@@ -65,6 +65,8 @@ Enjoy!
 
 [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks) - from syncfusion.com
 
+Competitive Programmer's Handbook by Antti Laaksonen
+
 
 ### Some "for review" books of Kent Beck I found publicly available online
 
