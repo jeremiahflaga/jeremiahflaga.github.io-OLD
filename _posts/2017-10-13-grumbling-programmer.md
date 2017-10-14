@@ -6,7 +6,7 @@ tags: [Grumbling, Legacy Code, Jonathan Boccara, Eric Evans]
 date: 2017-10-12 03:35:00 PM UTC
 ---
 
-<!-- October 13, 2017 02:00:00 PM Philippine Time -->
+<!-- October 13, 2017 11:35:00 PM Philippine Time -->
 
 
 Sometimes (or many times?), I am one of those grumbling programmers. (Read this [blog post](/2017/06/05/am_I_a_hypocrite/) of mine a few months ago)...
