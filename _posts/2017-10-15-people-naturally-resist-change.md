@@ -3,7 +3,7 @@ layout: post
 title:  '"People naturally resists change"'
 categories: [Programming, Thoughts]
 tags: [Change, TDD, Woody Zuill, Robert Martin]
-date: 2017-10-14 03:30:00 PM UTC
+date: 2017-10-15 03:30:00 PM UTC
 ---
 
 <!-- October 15, 2017 11:30:00 PM Philippine Time -->
