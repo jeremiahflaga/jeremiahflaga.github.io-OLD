@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Grumbling Programmer
-categories: [Programming, Life]
+categories: [Programming, Thoughts]
 tags: [Grumbling, Legacy Code, Jonathan Boccara, Eric Evans]
 date: 2017-10-12 03:35:00 PM UTC
 ---
