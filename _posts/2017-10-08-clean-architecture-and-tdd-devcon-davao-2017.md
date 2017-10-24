@@ -8,7 +8,7 @@ date: 2017-10-08 02:40:00 PM UTC
 
 <!-- October 08, 2017 10:40:00 PM Philippine Time -->
 
-I was priviledged to talk about Clean Architecture and TDD last October 7, 2017 at DevCon Davao 2017.
+I was priviledged to [talk about Clean Architecture and TDD last October 7, 2017 at DevCon Davao 2017](https://www.facebook.com/DevConDavao/photos/a.214811222012023.1073741829.132896293536850/843342242492248/).
 
 The title of the talk was "Clean Architecture and TDD Awareness Talk".
 
