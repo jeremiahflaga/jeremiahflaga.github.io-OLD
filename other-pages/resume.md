@@ -61,17 +61,17 @@ published: true
         </p>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>Software Development Practices:</td>
       <td>
         <p>
-        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development
+        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
         </p>
         <p>
         Believes that TDD can greatly help us make software that is maintainable
         </p>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>Basic Computer Science Concepts:</td>
       <td>
@@ -87,6 +87,32 @@ published: true
       </td>
     </tr>
     <tr>
+      <td>.NET:</td>
+      <td>
+        <p>C#, VB.NET, LINQ</p>
+        <p>ASP.NET Web Forms, ASP.NET MVC, WinForms, WPF, Entity Framework, Moq</p>
+        <p>Completed <a href="/files/certificates/DotNet-Cert-TESDA.jpg">"Short Entry Course on VB.NET and ASP.NET Development" last 2012</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>Web:</td>
+      <td>
+        <p>HTML, Bootstrap, JavaScript</p>
+        <p>KnockoutJS, jQuery</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Android:</td>
+      <td>
+        <p>Java</p>
+        <p>RxJava, Retrofit</p>
+        <p>Took 
+          <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
+        </a>
+        </p>
+      </td>
+    </tr>    
+    <tr>
       <td>Databases:</td>
       <td>
         <p>
@@ -99,7 +125,9 @@ published: true
         <strong>ORM:</strong> Entity Framework in .NET
         </p>
         <p>
-        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)</small>
+        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> 
+        <!-- (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:) -->
+        </small>
         </p>
       </td>
     </tr>
@@ -110,42 +138,18 @@ published: true
           xUnit, Moq, JUnit
         </p>
         <p>
-        Knows how to create fake object by hand :laughing:
+        Knows how to create fake objects by hand :grin:
         </p>
         <p>
         Had read "Professional Test Driven Developmnt with C#" in the past
         </p>
         <p>
-        Have read most chapters of "GOOS (Growing Object Oriented Software Guided by Tests)"</p>
+        Have read most chapters of <a href="https://www.bookdepository.com/book/9780321503626?a_aid=jflaga">"GOOS (Growing Object Oriented Software Guided by Tests)"</a></p>
         <p>
-        Completed the first part of the part of "Test Driven Development with Python"
+        Completed the first part of the part of <a href="https://www.obeythetestinggoat.com/pages/book.html">"Test Driven Development with Python"</a>
         </p>
         <p>
         Have read the first few chapters of "Working Effectively with Legacy Code"</p>
-      </td>
-    </tr>
-    <tr>
-      <td>.NET:</td>
-      <td>
-        <p>C#, VB.NET, LINQ</p>
-        <p>ASP.NET Web Forms, ASP.NET MVC, WinForms, WPF, Entity Framework, Moq</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Web:</td>
-      <td>
-        <p>HTML, Bootstrap, JavaScript</p>
-        <p>KnockoutJS</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Android:</td>
-      <td>
-        <p>Java, RxJava</p>
-        <p>Took 
-          <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
-        </a>
-        </p>
       </td>
     </tr>
     <tr>
@@ -157,7 +161,14 @@ published: true
         You can view my solutions to some problems
         <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
         </p>
-        <p>An avid fan of Uncle Bob Martin (I visit his blog often).</p>
+        <p>An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>GitHub:</td>
+      <td>
+        <p><a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a></p>
+        <p><a href="https://github.com/jboyflaga">(old GitHub account) github.com/jboyflaga</a></p>
       </td>
     </tr>
   </tbody>
@@ -177,13 +188,13 @@ published: true
 - Software Developer (April 2012 – October 2012)
 <br /> -- for web using .NET
 <br /> -- at [**Jairosolutions**](http://www.jairosolutions.com)
-<br /> -- Involved in creating contest pages for www.verizoninsider.com
+<br /> -- Involved in creating contest pages for [www.verizoninsider.com](http://www.getmodal.com/portfolio/verizon-insider/)
 
 
 - Software Developer (December 2012 – May 2016)
 <br /> -- for web using .NET
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
-<br /> -- Involved in maintaining desktop and web apps for insurance of Common Census
+<br /> -- Involved in maintaining desktop and web apps for insurance of [Common Census](http://www.commoncensus.com/)
 
 
 - Software Developer (October 2016 – Present)
@@ -195,7 +206,7 @@ published: true
 ----------------------------------------------------------
 
 <h2 id="talks">
-    <strong style="color: #6a9fb5">Talks:</strong>
+    <strong style="color: #6a9fb5">Talk:</strong>
 </h2>
 
 - [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
@@ -233,7 +244,7 @@ fact, there are advantages to having a mentor who is closer in proximity to the
 apprentice's level of experience."
 -->
 
-
+<!-- 
 ----------------------------------------------------------
 
 
@@ -261,7 +272,7 @@ apprentice's level of experience."
 - Three semesters at Notre Dame of Kidapawan College (Computer Science)
 - Many semesters at Colegio de Kidapwan (Computer Science - not yet finished)
 - TESDA (three months) - Short Entry Course on VB.NET & ASP.NET Development
-
+ -->
 
 
 <!--
