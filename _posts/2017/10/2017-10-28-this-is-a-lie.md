@@ -8,7 +8,7 @@ date: 2017-10-28 11:15:00 AM UTC
 
 <!-- October 28, 2017 07:15:00 PM Philippine Time -->
 
-About three weeks before my [talk](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017) for DevCon Davao 2017 last October 7, I read the "Rough Cuts" of Uncle Bob Martin's book "Clean Architecture" available at Safari Books Online. _(I might find gems in it I can use to answer questions that might be thrown at me during the talk! :smile:)_
+About four weeks before my [talk](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017) for DevCon Davao 2017 last October 7, I started reading the "Rough Cuts" of Uncle Bob Martin's book "Clean Architecture: A Craftsman's Guide to Software Structure and Design" available at Safari Books Online. _(I might find gems in it I can use to answer questions that might be thrown at me during the talk! :smile:)_
 
 The book was very good. Some blurry concepts, which I read in Uncle Bob's blog and heard in his talks, were cleared.
 
