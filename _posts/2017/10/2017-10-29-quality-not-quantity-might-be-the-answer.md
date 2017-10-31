@@ -71,7 +71,11 @@ The people involved in the _Software Craftsmanship movement_ seems to suggest th
 > --- from Uncle Bob Martin's book "The Clean Coder"
 
 
-_Where to get mentors, then?_
+_Wow!_
+
+We ought to be mentors then!
+
+That would be hard. :smile:
 
 
 <!--
