@@ -3,24 +3,10 @@ layout: page
 title: Free Books
 permalink: /free-books/
 ---
-<!-- 
-<sup id="footnote-indicator-1"><a href="#footnote-1">[1]</a></sup>
- -->
-<small>In one of his talks, Martin Fowler said this:</small>
 
-> <small>"We need to think of ways, small or large, individual or combined with others, to make the world a better place."</small>
-<br />
-> <small>--- Martin Fowler</small>
 
-<small>
-This is my way of contributing to making our world a better place... 
-</small>
+This is my way of contributing to making our world a better place <sup id="footnote-indicator-1"><a href="#footnote-1">[1]</a></sup> :smile: ... 
 
-<small>
-I am advocating for the legal distribution of books online (and of course against the illegal distribution of books online :smile: ). And because of that, I will put here links to some freely available books to help those who need books but cannot afford to buy those that are for sale...
-</small>
-
-> <small>If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we have ignored.</small>
 
 If you know of other good and free books available online, please tell me in the comments section below.
 
@@ -78,6 +64,12 @@ Competitive Programmer's Handbook by Antti Laaksonen
 
 ## Other books
 
+[In the Beginning Was Information](available for free at answersingenesis.org --- google for it, for now) by Werner Gitt
+
+[Square One: The Foundations of Knowledge](google for it, for now) by Steve Patterson
+
+[What's the Big Deal About Bitcoin?](google for it, for now) by Steve Patterson
+
 [14 Free eBooks for You](http://www.desiringgod.org/articles/14-free-ebooks-for-you) - from desiringgod.com
 
 [Free Ebooks by John Frame and Vern Poythress](https://frame-poythress.org/ebooks/)
@@ -89,7 +81,28 @@ Competitive Programmer's Handbook by Antti Laaksonen
 
 ---
 
-## <span class="red-text">NOTE:</span> You can also use the free trial of [Safari Books Online](https://www.safaribooksonline.com) if you don't yet have money to buy the book/s that you need
+**NOTE:** You can also use the free trial of [Safari Books Online](https://www.safaribooksonline.com) if you don't yet have money to buy the book/s that you need
+
+
+-----
+
+
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>In one of his talks, Martin Fowler said this:</small>
+
+> <small>"We need to think of ways, small or large, individual or combined with others, to make the world a better place."</small>
+<br />
+> <small>--- Martin Fowler</small>
+
+<small>
+This is my way of contributing to making our world a better place... 
+</small>
+
+<small>
+I am advocating for the legal distribution of books online (and of course against the illegal distribution of books online :smile: ). And because of that, I will put here links to some freely available books to help those who need books but cannot afford to buy those that are for sale...
+</small>
+
+> <small>If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we are ignoring.</small>
+
 
 
 --------------------------

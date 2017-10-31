@@ -92,52 +92,14 @@ published: true
         </small>
         </p>
       </td>
-    </tr>
-    <tr>
-      <td>Software Architecture or Design:</td>
-      <td>
-        <p>The SOLID principles</p>
-        <p>Clean Architecture model through Uncle Bob Martin's blog posts and talks, through some sample projects I found online, and through the draft of his upcoming book with the same name, available at <a  href="https://www.safaribooksonline.com">Safari Books Online</a>
-        </p>
-        <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory, Command
-        </p>
-        <p>
-        <small>Also, a little knowledge on some DDD concepts</small>
-        </p>
-      </td>
-    </tr>
-    <!-- <tr>
-      <td>Software Development Practices:</td>
-      <td>
-        <p>
-        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming and mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
-        </p>
-        <p>
-        Believes that TDD can greatly help us make software that is maintainable
-        </p>
-      </td>
-    </tr> -->
-    <tr>
-      <td>Basic Computer Science Concepts:</td>
-      <td>
-        <p>
-          Learned CS through free materials of
-          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, and through 
-          <a  href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
-        </p>
-        <p>Had read "Computer Science Distilled" of Wladston Filho</p>
-        <p>
-        Completed the first part of the <a href="http://jeremiahflaga.blogspot.com/search/label/Nand2Tetris">"Nand to Tetris" course</a>
-        </p>
-      </td>
-    </tr>
+    </tr>    
     <tr>
       <td>Unit Testing: </td>
       <td>
         <p>
           xUnit, Moq, JUnit
         </p>
-        <p>
+        <!-- <p>
         Knows how to create fake objects by hand :grin:
         </p>
         <p>
@@ -149,7 +111,46 @@ published: true
         Completed the first part of the part of <a href="https://www.obeythetestinggoat.com/pages/book.html">"Test Driven Development with Python"</a>
         </p>
         <p>
-        Have read the first few chapters of "Working Effectively with Legacy Code"</p>
+        Have read the first few chapters of "Working Effectively with Legacy Code"
+        </p> -->
+      </td>
+    </tr>
+    <tr>
+      <td>Software Architecture or Design:</td>
+      <td>
+        <p>The SOLID principles</p>
+        <p>Clean Architecture model of Uncle Bob Martin
+        </p>
+        <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory, Command
+        </p>
+        <p>
+        <small>Also, a little knowledge on some DDD concepts</small>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Software Development Practices:</td>
+      <td>
+        <p>
+        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
+        </p>
+        <p>
+        Believes that TDD can greatly help us make software that is maintainable
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Basic Computer Science Concepts:</td>
+      <td>
+        <p>
+          Learned CS through free materials of
+          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, and through 
+          <a  href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
+        </p>
+        <p>... also through "Computer Science Distilled" of Wladston Filho</p>
+        <p>
+        Completed the first part of the <a href="http://jeremiahflaga.blogspot.com/search/label/Nand2Tetris">"Nand to Tetris" course</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -162,6 +163,10 @@ published: true
         <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
         </p>
         <p>An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).</p>
+        <p>
+        <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
+        </p>
+        <p>I read.</p>
       </td>
     </tr>
     <tr>
