@@ -3,10 +3,10 @@ layout: post
 title: Two witnesses against the 'Copenhagen Interpretation' thing
 categories: [Thoughts]
 tags: [Logic, Science, Philosophy, Paradox, Carver Mead, Steve Patterson, Schrodinger's Cat, Copenhagen Interpretation]
-date: 2017-11-17 02:30:00 PM UTC
+date: 2017-11-17 03:45:00 PM UTC
 ---
 
-<!-- November 2, 2017 11:30:00 PM Philippine Time -->
+<!-- November 17, 2017 11:45:00 PM Philippine Time -->
 
 ---
 
