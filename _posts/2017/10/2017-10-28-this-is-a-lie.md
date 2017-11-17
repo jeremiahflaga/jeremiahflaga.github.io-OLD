@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"This is a lie"'
-categories: [Miscellaneous]
+categories: [Thoughts]
 tags: [Science, Philosophy, Paradox, Robert Martin, Clean Architecture, Steve Patterson, Jason Lisle, Greg Bahnsen, Albert Mohler, Worldview]
 date: 2017-10-28 11:15:00 AM UTC
 ---

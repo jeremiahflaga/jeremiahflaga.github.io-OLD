@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Can a scientist be close-minded?
-categories: [Miscellaneous]
+categories: [Thoughts]
 tags: [Science, Werner Gitt, Jason Lisle, Carver Mead, Vern Poythress, Worldview]
 date: 2017-10-25 03:30:00 PM UTC
 ---
