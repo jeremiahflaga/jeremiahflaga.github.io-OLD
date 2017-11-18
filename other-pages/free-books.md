@@ -31,7 +31,7 @@ Enjoy!
 - Learn TDD and Django
  -->
 
- [Design Principles and Design Patterns](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/materials_adicionals/principles_and_patterns.pdf) by Uncle Bob Martin
+ [Design Principles and Design Patterns](https://docs.google.com/file/d/0BxR1naE0JfyzV2JVbkYwRE5odGM/edit) by Uncle Bob Martin
 
  [The Craftsman Series](https://github.com/sensui/the-craftsman-book) by Uncle Bob Martin
 
