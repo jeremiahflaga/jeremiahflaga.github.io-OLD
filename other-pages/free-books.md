@@ -15,6 +15,16 @@ Enjoy!
 
 ## Programming Books
 
+### TDD books
+
+[Test-Driven Development: Extensive Tutorial](https://leanpub.com/tdd-ebook/read)
+
+[Bad Tests, Good Tests](http://practicalunittesting.com/btgt.php)
+
+[Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
+
+### Other programming books
+
 [Programming Abstractions in C++](URL of this Course Reader: http://www-cs-faculty.stanford.edu/~eroberts/CS106BX-Reader.pdf) by Eric Roberts
 
 - This is the course reader of Stanford's CS-106B, an introductory data structures and algorithms course
@@ -24,8 +34,6 @@ Enjoy!
 - From here you will learn the basics of Computer Architecture. There is also a free course on Coursera available for this.
 
 ---
-
-[Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
 
 <!-- 
 - Learn TDD and Django
@@ -52,6 +60,8 @@ Enjoy!
 [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks) - from syncfusion.com
 
 Competitive Programmer's Handbook by Antti Laaksonen
+
+[LOTS of Free Programming Books at www.eduhub.io](http://www.eduhub.io/b/free-programming-books)
 
 
 ### Some "for review" books of Kent Beck I found publicly available online
