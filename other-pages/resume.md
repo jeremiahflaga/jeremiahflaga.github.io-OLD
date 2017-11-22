@@ -84,7 +84,7 @@ published: true
           SQL Server, SQLite
         </p>
         <p>
-        <strong>ORM:</strong> Entity Framework in .NET
+        <strong>ORM:</strong> Entity Framework in .NET, Sugar ORM in Android
         </p>
         <p>
         Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> 
@@ -113,6 +113,14 @@ published: true
         <p>
         Have read the first few chapters of "Working Effectively with Legacy Code"
         </p> -->
+      </td>
+    </tr>  
+    <tr>
+      <td>Source Control: </td>
+      <td>
+        <p>
+          Git
+        </p>
       </td>
     </tr>
     <tr>
@@ -145,11 +153,11 @@ published: true
         <p>
           Learned CS through free materials of
           <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, and through 
-          <a  href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
+          <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
         </p>
-        <p>... also through "Computer Science Distilled" of Wladston Filho</p>
+        <p>... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho</p>
         <p>
-        Completed the first part of the <a href="http://jeremiahflaga.blogspot.com/search/label/Nand2Tetris">"Nand to Tetris" course</a>
+        Completed the first part of the <a href="/2017/10/14/nand2tetris-certificate-2015">"Nand to Tetris" course</a>
         </p>
       </td>
     </tr>
@@ -166,7 +174,7 @@ published: true
         <p>
         <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
         </p>
-        <p>I read.</p>
+        <p><strong>I read.</strong></p>
       </td>
     </tr>
     <tr>
