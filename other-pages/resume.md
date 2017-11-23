@@ -213,7 +213,7 @@ published: true
 - Software Developer (October 2016 – Present)
 <br /> -- for mobile using Android
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
-<br /> -- Involved in developing versions 2 and 3 of Dr Oz app for Android
+<br /> -- Involved in developing versions 2 and the initial stage of version 3 of the Dr. Oz app for Android
 
 
 ----------------------------------------------------------
