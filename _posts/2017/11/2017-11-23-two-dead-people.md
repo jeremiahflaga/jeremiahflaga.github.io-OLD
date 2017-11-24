@@ -10,10 +10,13 @@ published: false
 <!-- November 24, 2017 11:30:00 PM Philippine Time -->
 
 > Any fool can criticize, condemn, and complain --- and most fools do.
-<br /><br />
-> But it takes character and self-control to be understanding and forgiving.
+> <br /><br /> But it takes character and self-control to be understanding and
+> forgiving.
 
-I got that from the book ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga). (This book is very dear to me because it helped me change the way I view other people --- it changed, to a large degree, my cynicism.)
+I got that from the book
+["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga).
+(This book is very dear to me because it helped me change the way I view other
+people --- it changed, to a large degree, my cynicism.)
 
 In the same chapter where I got that quote, the book says this:
 
@@ -25,22 +28,19 @@ Does that mean it is okay to judge people when they are _already dead_?
 
 Okay... Let's do some judging of some dead people!
 
-
 <!--more-->
 
 ...
 
+[Helen Gurley Brown](https://albertmohler.com/2012/08/24/why-the-sexual-revolution-needed-a-sexual-revolutionary/)
+is dead!
 
-[Mary Eddy]  is dead!
-
-Hugh Hefner is dead!
-
+[Hugh Hefner](https://albertmohler.com/2012/08/24/why-the-sexual-revolution-needed-a-sexual-revolutionary/)
+is dead!
 
 _We should be celebrating!_
 
-
 Two less...
-
 
 Oh! They produced more people much _worse_ than them?
 
@@ -52,25 +52,24 @@ I hope they will already stop propagating the legacy of those two dead people.
 
 If only I were a very intelligent person...
 
-... and knows machine learning, 
+... and knows machine learning,
 
 ... and knows how to create a virus,
 
-... and knows how to hack computers, 
+... and knows how to hack computers,
 
-... and knows many other great things, 
+... and knows many other great things,
 
 ... and don't have anything else to do,
 
-... I would create something that will scan all servers and destroy those ones that needs to be destroyed!
+... I would create something that will scan all servers and destroy those ones
+that needs to be destroyed!
 
 :laughing: :laughing:
-
 
 _I'm just joking!_
 
 :laughing:
-
 
 _Or maybe I am not!_
 
@@ -78,14 +77,14 @@ _Or maybe I am not!_
 
 _I'm just joking. Really_ :smile:
 
-
 But I'm hoping that someone very intelligent will do...
 
 Ooops!
 
 I mean...
 
-I heard one hacker in the past who said something like, _"That would be revenge!"_
+I heard one hacker in the past who said something like, _"That would be
+revenge!"_
 
 :laughing:
 
@@ -95,7 +94,9 @@ _I'm just joking._
 
 _Please don't._
 
-Uncle Bob Martin said that those kinds of acts are unethical or something like that --- dishonorable, he said.
+Uncle Bob Martin said that those kinds of acts are unethical or something like
+that ---
+[dishonorable, he said](http://blog.cleancoder.com/uncle-bob/2017/09/29/TheUnscrupulousMeme.html).
 
 :smile:
 
@@ -105,7 +106,7 @@ But if you don't care about this _dishonorable thing_...
 
 :laughing:
 
-_I'm just joking!_ 
+_I'm just joking!_
 
 :laughing:
 
