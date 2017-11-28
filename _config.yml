@@ -49,10 +49,10 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
-  # Home:
-  #   - '/'
-  Blog:
+  Home:
     - '/'
+  Blog:
+    - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
     - { Archive: '/blog/archive/' }
