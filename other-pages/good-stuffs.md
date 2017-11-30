@@ -184,9 +184,13 @@ The Bible _of course!_
 
 The ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) book by Dale Carnegie
 
-> [![How to Win Friends and Influence People book](/images/2017/how-to-win-friends-book-old.jpg)](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga)
+<a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">
+<img src="/images/2017/how-to-win-friends-book-old.jpg" height="250">
+</a>
 
-
+<!-- 
+[![How to Win Friends and Influence People book](/images/2017/how-to-win-friends-book-old.jpg)](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga)
+-->
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
 
