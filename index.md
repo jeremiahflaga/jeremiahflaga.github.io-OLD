@@ -13,6 +13,8 @@ Most of the things I write will not be interesting to you... so, instead of poin
 
 -----
 
+[What is the most basic rule when writing code?](/2017/11/30/the-most-basic-rule-when-writing-code/)
+
 ["This is a lie"](/2017/10/28/this-is-a-lie/)
 
 [Clean Architecture: An equivalent to one language(?)](/2017/08/09/clean-architecture-an-equivalent-to-one-language/)
@@ -22,7 +24,13 @@ Most of the things I write will not be interesting to you... so, instead of poin
 [Argue to learn, not to win.](/2017/04/20/argue-to-learn-not-to-win/)
 
 
+-----
+
+
+[more...](/blog/)
+
 <br />
+
 
 
 {% comment %} 
