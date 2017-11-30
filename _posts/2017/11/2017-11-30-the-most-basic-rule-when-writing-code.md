@@ -33,7 +33,9 @@ I like simple, but/and/yet all-encompassing rules _(partly because I'm not very 
 
 I found another simple rule!
 
-In the introduction videos of the [Nand2Tetris course](put like here to coursera course), Noam Nisan and Shimon Schocken calls it _"The Main Secret of Computer Science"_
+In the introduction videos of the [Nand2Tetris course](put like here to coursera course), Noam Nisan and Shimon Schocken calls it _"The Main Secret of Computer Science"_:
+
+![The Main Secret of Computer Science](/images/2017/main-secret-of-computer-science.png)
 
 > Don't worry about the **"how"**, only about the **"what"**.
 <br /><br />
@@ -47,6 +49,7 @@ Steve Freeman and Nat Pryce, the authors of the [GOOS book](https://www.bookdepo
 
 [Jonathan Boccara]((https://simpleprogrammer.com/2017/01/27/respecting-abstraction/)) declared it  as _**"the principle that rules them all"**: respecting levels of abstraction_. 
 
+> ... abstraction is characterized by **what** a particular piece of code intends to do as opposed to **how** it is implemented
 
 ### "what" over "how"
 
