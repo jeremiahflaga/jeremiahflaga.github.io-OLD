@@ -41,8 +41,11 @@ published: true
 
 ----------------------------------------------------------
 
+<h3>
+<a href="/open-application-letter-2018/">Open Application Letter...</a>
+</h3>
+
 <strong>
-<a href="/open-application-letter-2018/">Open Application Letter</a>
 </strong>
 
 ----------------------------------------------------------
@@ -125,7 +128,20 @@ published: true
       <td>Source Control: </td>
       <td>
         <p>
-          Git
+          Git, SVN
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Basic Computer Science Concepts:</td>
+      <td>
+        <p>
+          Learned CS through free materials of
+          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/2017/10/14/nand2tetris-certificate-2015">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
+          <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
+        </p>
+        <p>
+          ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
         </p>
       </td>
     </tr>
@@ -149,21 +165,7 @@ published: true
         Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
         </p>
         <p>
-        Believes that TDD can greatly help us make software that is maintainable
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>Basic Computer Science Concepts:</td>
-      <td>
-        <p>
-          Learned CS through free materials of
-          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, and through 
-          <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
-        </p>
-        <p>... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho</p>
-        <p>
-        Completed the first part of the <a href="/2017/10/14/nand2tetris-certificate-2015">"Nand to Tetris" course</a>
+        Believes that <a href="/tdd-quotes/">TDD</a> can greatly help us make software that is maintainable
         </p>
       </td>
     </tr>
@@ -218,8 +220,8 @@ published: true
 
 - Software Developer (October 2016 – Present)
 <br /> -- for mobile using Android
-<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/) 
-<br /> -- Involved in developing versions 2 and the initial stage of version 3 of the Dr. Oz app for Android
+<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
+<br /> -- Involved in developing versions 2 and 3 of the Dr. Oz app for Android
 
 
 ----------------------------------------------------------

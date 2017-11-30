@@ -129,6 +129,10 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 ### TDD
 
+[Some TDD Quotes](/tdd-quotes/)
+
+<!--
+
 [So... You want your code to be maintainable](https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable) by Uncle Bob Martin
 
 > "**Nothing makes a system more flexible than a suite of tests.** Nothing. Good architecture and design are important; but the effect of a robust suite of tests is an order of magnitude greater. It’s so much greater because those tests enable you to improve the design.
@@ -156,6 +160,8 @@ Michael Feathers (of Working Effectively with Legacy Code)
 matter how pretty or object-oriented or wellencapsulated it is.
 <br /><br />
 > "With tests, we can change the behavior of our code quickly and verifiably. Without them, we really don't know if our code is getting better or worse."
+
+-->
 
 
 ---
