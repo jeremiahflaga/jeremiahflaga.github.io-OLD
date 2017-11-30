@@ -5,48 +5,59 @@ permalink: /resume/
 published: true
 ---
 
-<div class="float-left">
-<img src="/images/Jboy2017-Real-2(200x200).jpg" title="Profile Image" alt="Profile Image" />
-</div>
-
 <h2>
     <strong style="color: #6a9fb5">Jeremiah Flaga</strong>
 </h2>
 
-
 ----------------------------------------------------------
 
 
-<table class="basic-info">
-  <tbody>
-    <tr>
-      <td>Email:</td>
-      <td>flaga.jeremiah@gmail.com</td>
-    </tr>
-    <tr>
-      <td>Skype:</td>
-      <td>jboyflaga</td>
-    </tr>
-    <tr>
-      <td>Mobile:</td>
-      <td>+63918 374 5134</td>
-    </tr>
-    <tr>
-      <td>Blog:</td>
-      <td><a href="/">jeremiahflaga.github.io</a></td>
-    </tr>
-  </tbody>
-</table>
+<div>
+
+  <div class="float-left">
+    <img src="/images/Jboy2017-Real-2-Orig.jpg" title="Profile Image" alt="Profile Image" height="200" />
+  </div>
 
 
-----------------------------------------------------------
+  <table class="basic-info">
+    <tbody>
+      <tr>
+        <td>Email:</td>
+        <td>flaga.jeremiah@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Skype:</td>
+        <td>jboyflaga</td>
+      </tr>
+      <tr>
+        <td>Mobile:</td>
+        <td>+63918 374 5134</td>
+      </tr>
+      <tr>
+        <td>Blog:</td>
+        <td><a href="/">jeremiahflaga.github.io</a></td>
+      </tr>
+    </tbody>
+  </table>
 
-<h3>
-<a href="/open-application-letter-2018/">Open Application Letter...</a>
-</h3>
 
-<strong>
-</strong>
+  <table class="basic-info">
+    <tbody>
+      <tr>
+        <td></td>
+        <td colspan="2">
+          <strong>
+            <a href="/open-application-letter-2018/">Open Application Letter...</a>
+          </strong>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
+
+
 
 ----------------------------------------------------------
 
