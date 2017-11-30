@@ -38,9 +38,9 @@ blockquote {
 
 
 
-The [SOLID Principles](https://www.youtube.com/embed/oar-T2KovwE?list=PLC9xJAJbCB0s7BFxKtFDwQZb3IxEUjzT7) of Uncle Bob Martin
+The [SOLID Principles](https://www.youtube.com/embed/oar-T2KovwE?list=PLC9xJAJbCB0s7BFxKtFDwQZb3IxEUjzT7) of Software Design
 
-["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html) by Uncle Bob Martin ([blog](http://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html) [posts](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [videos](https://www.youtube.com/embed/Nsjsiz2A9mg), and book)
+["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html) model of Uncle Bob Martin ([blog](http://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html) [posts](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [videos](https://www.youtube.com/embed/Nsjsiz2A9mg), and book)
 
 > "The goal of software architecture is to minimize the manpower required to build and maintain the required system."
 

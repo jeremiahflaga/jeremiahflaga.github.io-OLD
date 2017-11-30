@@ -33,11 +33,17 @@ published: true
     </tr>
     <tr>
       <td>Blog:</td>
-      <td><a href="http://jeremiahflaga.github.io">jeremiahflaga.github.io</a></td>
+      <td><a href="/">jeremiahflaga.github.io</a></td>
     </tr>
   </tbody>
 </table>
 
+
+----------------------------------------------------------
+
+<strong>
+<a href="/open-application-letter-2018/">Open Application Letter</a>
+</strong>
 
 ----------------------------------------------------------
 
