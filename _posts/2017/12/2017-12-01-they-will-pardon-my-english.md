@@ -22,7 +22,7 @@ They will _"pardon my english"_... I hope... :smile:
 
 <!--more-->
 
-That image is from Fernendo Cejas' talk [_"It is about philosophy: culture of a good programmer"_](insert link here). It's a very good talk. I intend to listen to it again and again.
+That image is from Fernendo Cejas' talk [_"It is about philosophy: culture of a good programmer"_](https://www.youtube.com/watch?v=Vf10yV1BNtk). It's a very good talk. I intend to listen to it again and again.
 
 I learned about Fernando Cejas a few months ago while searching for [samples of projects that use the "Clean Architecture" approach](/2017/08/16/clean-architecture-sample-projects/) of Uncle Bob Martin. He gave an example of Clean Architecture in Android.
 

@@ -101,7 +101,7 @@ Steve Patterson, who is actually not a physicist but a philosopher, said this ab
 <br /><br />
 > <small> --- (from page 112 of the free version of his book ["Square One: The Foundations of Knowledge"](http://steve-patterson.com/wp-content/uploads/2016/12/SquareOne_PDF.pdf))</small>
 
-And in his article titled ["Everything is Grounded in Logic", he said this](put link here):
+And in his article titled ["Everything is Grounded in Logic", he said this](http://steve-patterson.com/everything-is-grounded-in-logic/):
 
 > "... logic applies to every sentence in every area of study, regardless of how abstract or concrete. This allows the philosopher to state, with utter certainty: **in any field of thought, propositions which entail logical contradictions are false**. This is equally true from economics to gender studies to quantum physics"
 
@@ -131,7 +131,7 @@ Three witnesses against this _CI thing_.
 
 _(I'm just joking about using that bible verse out of context here :smile:)_
 
-But I'm a programmer; and in programming, there are only three numbers (according to [Sandro Mancuso](put link here to Testing and Refactoring Legacy Code by Sandro Mancuso)): _**zero**_, _**one**_, and _**many**_.
+But I'm a programmer; and in programming, there are only three numbers (according to [Sandro Mancuso](https://www.youtube.com/watch?v=_NnElPO5BU0)): _**zero**_, _**one**_, and _**many**_.
 
 We should change that verse, then, for the programmers who are reading this:
 

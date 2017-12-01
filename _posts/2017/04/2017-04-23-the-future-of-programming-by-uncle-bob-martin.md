@@ -15,9 +15,9 @@ Last Friday, while riding home from Davao, I listened to his talk on "The Future
 
 <!--more-->
 
-[
-insert link here of youtube video
-]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecIWPzGEbFc" frameborder="0" allowfullscreen></iframe>
+
 
 Here are some points from the talk which I think are important, at least to me. :smile:
 
