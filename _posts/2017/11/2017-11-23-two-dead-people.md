@@ -4,7 +4,6 @@ title: Two Dead People
 categories: [Thoughts]
 tags: []
 date: 2017-11-23 03:30:00 PM UTC
-published: false
 ---
 
 <!-- November 24, 2017 11:30:00 PM Philippine Time -->
