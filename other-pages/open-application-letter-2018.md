@@ -2,6 +2,7 @@
 layout: page
 title: Open Application Letter
 permalink: /open-application-letter-2018/
+published: false
 ---
 
 

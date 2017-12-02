@@ -2,7 +2,7 @@
 layout: page
 title: Resum&eacute;
 permalink: /resume/
-published: true
+published: false
 ---
 
 <h2>
