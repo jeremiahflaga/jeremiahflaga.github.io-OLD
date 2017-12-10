@@ -38,6 +38,8 @@ This gives me, and many others, _hope_. --- It's okay to make _"grammatical mist
 
 Also, it's more of a mistake not writing anything than making some grammatical mistakes, right?
 
-And, in Fernando Cejas' case, it's more of a mistake for him not to share his knowledge and experiences than making that _'only one'_ grammatical mistake.
+And, in Fernando Cejas' case, it's more of a mistake for him not to share his knowledge and experiences than making that _one_ grammatical mistake.
 
 :+1:
+
+Kung sa bagay, people who are not very good at grammer will be the ones who will survive the AI apocalypse, because these AI things might not be able to readunderstand centenses wid rong isfelling & rong grammers. :laughing:
