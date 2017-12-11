@@ -3,10 +3,10 @@ layout: post
 title: '"They will pardon my english"'
 categories: [Thoughts]
 tags: [Fernando Cejas, John Sonmez]
-date: 2017-12-01 03:30:00 PM UTC
+date: 2017-12-10 03:30:00 PM UTC
 ---
 
-<!-- December 1, 2017 11:30:00 PM Philippine Time -->
+<!-- December 10, 2017 11:30:00 PM Philippine Time -->
 
 Okay... 
 
