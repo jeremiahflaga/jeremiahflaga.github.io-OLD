@@ -47,3 +47,42 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 > "The idea that the high level design and architecture of a system emerge from TDD is, frankly, absurd. **Before you begin to code any software project, you need to have some architectural vision in place. TDD will not, and can not, provide this vision.** That is not TDD’s role."
 
+
+
+#### Micheal Feathers (The Deep Synergy Between Testability and Good Design - NDC 2010)
+
+> "If your code is not testable, then it is not a good design."
+
+> "In general, every time you encounter a testability problem, there is an underlying design problem."
+
+> "There is a big difference between mentally knowing about coupling and feeling the pain of coupling... But when we actually write tests, we feel **concrete pain**. The concrete pain is not because testing is difficult, it's because we need to change our design."
+
+> "I can have all these interesting thoughts about design. But if I write my tests first, it's an instant concrete reminder of whether things are actually aligned pretty well with good design principles or not."
+
+> "If you're finding trouble testing things, reconsider your design and end up with something better."
+
+
+
+#### Uncle Bob Martin (Expecting Professionalism - Kuppelsalen, Copenhagen - December 15, 2015)
+
+
+> TDD minimizes debugging time.
+
+> TDD is a good way to make code example for the programmer to read.
+
+> TDD makes writing code fun.
+
+> TDD makes you write decoupled code (decoupled code == testable code) which can make the design of the system better.
+
+
+> TDD gives you a suite of tests that you trust with your life. And when you have that suite of tests, you can do many other things like cleaning code and cleaning the design.
+<br /><br />
+> Nothing makes code more flexible and maintainable than having a suite of tests by a huge order of magnitude.
+<br /><br />
+> You give me an application that is beautifully designed but there's no tests. I'll be afraid to touch it. It will rot.
+<br /><br />
+> You give me an application that is badly designed but has a comprehensive suite of tests. I can make the design better because I have a suite of tests.
+<br /><br />
+> A suite of tests is more important than a good design.
+
+
