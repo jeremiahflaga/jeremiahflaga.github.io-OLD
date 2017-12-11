@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resum&eacute;
-permalink: /resume/
-published: false
+permalink: /resume-2018/
+published: true
 ---
 
 <h2>
@@ -17,6 +17,27 @@ published: false
   <div class="float-left">
     <img src="/images/Jboy2017-Real-2-Orig.jpg" title="Profile Image" alt="Profile Image" height="200" />
   </div>
+
+  <table class="basic-info">
+    <tbody>
+      <tr>
+        <td></td>
+        <td colspan="2">
+          <strong>
+            <a href="/open-application-letter-2018/">Open Application Letter...</a>
+          </strong>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="2">
+          <strong>
+            <a href="/anti-resume-2018/">Anti-resum&eacute;...</a>
+          </strong>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 
   <table class="basic-info">
@@ -40,19 +61,6 @@ published: false
     </tbody>
   </table>
 
-
-  <table class="basic-info">
-    <tbody>
-      <tr>
-        <td></td>
-        <td colspan="2">
-          <strong>
-            <a href="/open-application-letter-2018/">Open Application Letter...</a>
-          </strong>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
 </div>
 

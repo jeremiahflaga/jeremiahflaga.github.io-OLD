@@ -1,14 +1,24 @@
 ---
 layout: page
-title: Open Application Letter 2018
+title: Open Application Letter
 permalink: /open-application-letter-2018/
 ---
 
+<style>
+  h3 {
+    color: #6a9fb5;
+  }
+</style>
 
 
+Dear Sir/Ma'am,
+
+I already resigned from my current job so please don't be alarmed about this "open application letter" thing (I, kind of, already have permission from my current employer to do this). I promise that, when I get hired at your company, I will not be sending "open application letters" to other companies while I'm still employed at your company. :smile:
+
+My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team need.
 
 
-
+I'm Jeremiah
 
 I am available for the following positions:
 
@@ -20,7 +30,7 @@ TDD Preacher
 TDD Guide
 TDD Law Enforcer
 
-### 1. .NET Programmer
+### (a) .NET Programmer
 
 I have about four years of experience working using .NET.
 
@@ -32,14 +42,14 @@ But if your Web API team is full already, then I have to push myself to be good 
 > Don't be an EF expert. Let the creators of EF be the expert with EF
 
 
-### 2. Design Partner
+### (b) Design Partner
 
 By "design" I mean "software design".
 
-Perhaps you have someone in your team a bery good sofware designer, of a budding designer, and you want to keep him for the next years to come, one way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
+Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
 
 
-### 3. A Thinking Rubber Duck
+### (c) A Thinking Rubber Duck
 
 
 Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem.
@@ -54,7 +64,7 @@ Through this, I can also become familiar with the whole system and might someday
 
 
 
-### 3. Design Guardian (for new projects, through TDD)
+### (d) Design Guardian (for new projects, through TDD)
 
 Software systems with good design saves a lot of time and headaches for programmers when they need to change something, or when they need to add new features, or when they have a bug to fix.
 
@@ -88,9 +98,20 @@ First of all, it would be best if I have a design partner, or you will assign me
 Well, I will do what 
 
 
-###2. TDD Preacher/Guide
+### (e) TDD Preacher/Guide
 
 > "... preaching sermons to the unconverted in the hope of redeeming them (or at least their code)." Tomek Kaczanowski
+
+
+
+### (f) TDD Law Enforcer
+
+ We programmers are lazy sometimes. We tend not to care about things --- "as long as it is working, it is okay"
+
+ You might need someone to enforce TDD and not abandon that discipline even during times of crisis and panic.
+
+    "The only way to go fast is to go well" ---- Uncle Bob Martin
+
 
 
 
@@ -192,17 +213,6 @@ It would also be great working with you if your company has an existing mentorin
  ### A Human rubber duck
 
  I might not be the best designer you will ever have, but if you let me talk to people about design, or teach them a little bit about design, that might trigger the designer part within those developers and they will try to become better designers themselves.
-
-
- ### TDD Law Enforcer
-
- We programmers are lazy sometimes. We tend not to care about things --- "as long as it is working, it is okay"
-
- You might need someone to enforce TDD and not abandon that discipline even during times of crisis and panic.
-
-    "The only way to go fast is to go well" ---- Uncle Bob Martin
-
-
 
 
 
