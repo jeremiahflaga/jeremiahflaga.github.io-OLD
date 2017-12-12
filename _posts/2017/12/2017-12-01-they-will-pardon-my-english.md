@@ -34,7 +34,7 @@ He committed a mistake! If I am not mistaken, they call it a _"grammatical mista
 
 Well, he is not alone in the _mistake-committers universe_. [Some of our other masters also committed some mistakes in the past!](/2017/03/16/our-masters-went-wrong-but-admitted-it/)
 
-This gives me, and many others, _hope_. --- It's okay to make _"grammatical mistakes"_ after all! ... Yehey ... sometimes, of course. _(It would be very bad if our every sentence contains grammatical mistakes.)_
+This gives me, and many others, _hope_. --- It's okay to make _"grammatical mistakes"_ after all! ... Yehey ... sometimes, of course. _(It would be very bad if our every sentence contains grammatical mistakes. But I think I can argue that committing a grammatical mistake in every sentence is still better than not speaking or writing at all.)_
 
 Also, it's more of a mistake not writing anything than making some grammatical mistakes, right?
 
