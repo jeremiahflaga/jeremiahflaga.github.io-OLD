@@ -75,11 +75,12 @@ _Wow!_
 
 But... _where to get mentors?_ 
 
-<small>_(I reading someone named Jakob who offers mentorship! ... Jakob Holderbaum)_</small>
+<small>_(I remember reading someone named Jakob who offers mentorship! ... [Jakob Holderbaum](https://jakob.io))_</small>
 
-But... that also means that we ought to be mentors (or become mentors someday)!
 
 <!--
+
+But... that also means that we ought to be mentors (or become mentors someday)!
 
 That would be hard. :smile:
 
