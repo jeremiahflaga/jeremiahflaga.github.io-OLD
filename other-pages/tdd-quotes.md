@@ -12,7 +12,7 @@ Ergo, these quotes...
 
 
 
-#### Uncle Bob Martin ([So... You want your code to be maintainable?](https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable))
+### Uncle Bob Martin <small>([So... You want your code to be maintainable?](https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable))</small>
 
 > "**Nothing makes a system more flexible than a suite of tests.** 
 <br /><br />
@@ -25,16 +25,7 @@ Good architecture and design are important; but the effect of a robust suite of 
 "And write your tests using the Three Laws of TDD."
 
 
-
-#### Joshua Kerievsky (Refactoring to Patterns)
-
-> "Test-driven development and continuous refactoring, two of the many excellent XP practices, have dramatically improved the way I build software. 
-<br /><br />
->" I’ve found that these two practices have helped me and the organizations I’ve worked for **spend less time over-engineering and under-engineering** and more time creating high-quality, function-rich code, produced on time."
-
-
-
-#### Michael Feathers (Working Effectively with Legacy Code)
+### Michael Feathers <small>(Working Effectively with Legacy Code)</small>
 
 > "**Code without tests is bad code.** It doesn't matter how well written it is; it doesn't
 matter how pretty or object-oriented or well encapsulated it is.
@@ -43,19 +34,19 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-#### Uncle Bob Martin ([TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html)) 
+### Uncle Bob Martin <small>([TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html))</small>
 
 > "The idea that the high level design and architecture of a system emerge from TDD is, frankly, absurd. **Before you begin to code any software project, you need to have some architectural vision in place. TDD will not, and can not, provide this vision.** That is not TDD’s role."
 
 
 
-#### Micheal Feathers (The Deep Synergy Between Testability and Good Design - NDC 2010)
+### Micheal Feathers <small>(The Deep Synergy Between Testability and Good Design - NDC 2010)</small>
 
 > "If your code is not testable, then it is not a good design."
 
 > "In general, every time you encounter a testability problem, there is an underlying design problem."
 
-> "There is a big difference between mentally knowing about coupling and feeling the pain of coupling... But when we actually write tests, we feel **concrete pain**. The concrete pain is not because testing is difficult, it's because we need to change our design."
+> "There is a big difference between mentally knowing about coupling and feeling the pain of coupling... But **when we actually write tests, we feel concrete pain**. The concrete pain is not because testing is difficult, it's because we need to change our design."
 
 > "I can have all these interesting thoughts about design. But if I write my tests first, it's an instant concrete reminder of whether things are actually aligned pretty well with good design principles or not."
 
@@ -63,7 +54,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-#### Uncle Bob Martin (Expecting Professionalism - Kuppelsalen, Copenhagen - December 15, 2015)
+### Uncle Bob Martin <small>(Expecting Professionalism - Kuppelsalen, Copenhagen - December 15, 2015)</small>
 
 
 > TDD minimizes debugging time.
@@ -72,7 +63,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 > TDD makes writing code fun.
 
-> TDD makes you write decoupled code (decoupled code == testable code) which can make the design of the system better.
+> **TDD makes you write decoupled code** (decoupled code == testable code) which can make the design of the system better.
 
 
 > TDD gives you a suite of tests that you trust with your life. And when you have that suite of tests, you can do many other things like cleaning code and cleaning the design.
@@ -84,5 +75,13 @@ matter how pretty or object-oriented or well encapsulated it is.
 > You give me an application that is badly designed but has a comprehensive suite of tests. I can make the design better because I have a suite of tests.
 <br /><br />
 > A suite of tests is more important than a good design.
+
+
+
+### Joshua Kerievsky <small>(Refactoring to Patterns)</small>
+
+> "Test-driven development and continuous refactoring, two of the many excellent XP practices, have dramatically improved the way I build software. 
+<br /><br />
+>" I’ve found that these two practices have helped me and the organizations I’ve worked for **spend less time over-engineering and under-engineering and more time creating high-quality, function-rich code, produced on time**."
 
 

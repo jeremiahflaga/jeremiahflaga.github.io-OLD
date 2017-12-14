@@ -42,4 +42,4 @@ And, in Fernando Cejas' case, it's more of a mistake for him not to share his kn
 
 :+1:
 
-Kung sa bagay, people who are not very good at grammer will be the ones who will survive the AI apocalypse, because these AI things might not be able to readunderstand centenses wid rong isfelling & rong grammers. :laughing:
+Kung sa bagay, people who are not very good at grammer will be the ones who will survive the AI apocalypse, because these AI things might not be able to readunderstand centenses wid rong isfelling & wong grammers. :laughing:

@@ -4,6 +4,7 @@ title: Home
 ---
 
 
+
 Hi, I'm Jeremiah Flaga, also known as _Jboy_. I am software developer and loves programming! 
 
 I also like writing about stuffs that I learned recently, and about some thoughts that cross my mind.
@@ -24,13 +25,30 @@ Most of the things I write will not be interesting to you... so, instead of poin
 [Argue to learn, not to win.](/2017/04/20/argue-to-learn-not-to-win/)
 
 
------
-
 
 [more...](/blog/)
 
 <br />
 
+
+
+-----
+
+
+First things first... I'm a biased person, and one of my biases is that _"everyone is biased"_. If you say that you are neutral, then that is already proof that you are biased because you already stated your disagreement with me (and with many others who believe that everyone has biases).
+
+[Here are some quotes about this _"everyone is biases"_ thing.](/everyone-is-biased-quotes/)
+
+On some issues, I think my set of [biases](/everyone-is-biased-quotes/) on that issue is the best, so I hold on to them tightly. But I'm still learning. I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
+
+------
+
+
+
+I'm also a TDD advocate, so I collected some [quotes about TDD](/tdd-quotes/).
+
+
+<br />
 
 
 {% comment %} 

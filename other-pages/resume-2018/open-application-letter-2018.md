@@ -114,10 +114,28 @@ Well, I will do what
 
 
 
+### Other
+
+the jobs above might sound good to, but I got those description because of previous experiences
+
+
+it's possible that what you need is not in the list... but if you suspect that i am fit for that kind of job, please contact me with the details of the kind of job you are offering and I will see if I will be able to do it.
 
 
 
 
+
+### About sideline jobs
+
+In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals i want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
+
+Because of that, you will be sure that when I sleep at night, I will only be dreaming about the problems that I encounter while working at your company, and not about problems of other companies.
+
+
+
+### I don't think I'm mean
+
+I believe that being mean will pugong my goal of fixing software systems (when I'm hired to fix one), because I know that I can work alone when fixing existing software systems.
 
 
 

@@ -1,13 +1,24 @@
 ---
 layout: page
-title: Resum&eacute;
+title: R&eacute;sum&eacute;
 permalink: /resume-2018/
 published: true
 ---
 
-<h2>
-    <strong style="color: #6a9fb5">Jeremiah Flaga</strong>
-</h2>
+
+<style>
+  h2 {
+    color: #6a9fb5;
+  }
+</style>
+
+
+
+
+
+
+
+## **Jeremiah M. Flaga**
 
 ----------------------------------------------------------
 
@@ -17,28 +28,6 @@ published: true
   <div class="float-left">
     <img src="/images/Jboy2017-Real-2-Orig.jpg" title="Profile Image" alt="Profile Image" height="200" />
   </div>
-
-  <table class="basic-info">
-    <tbody>
-      <tr>
-        <td></td>
-        <td colspan="2">
-          <strong>
-            <a href="/open-application-letter-2018/">Open Application Letter...</a>
-          </strong>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td colspan="2">
-          <strong>
-            <a href="/anti-resume-2018/">Anti-resum&eacute;...</a>
-          </strong>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
 
   <table class="basic-info">
     <tbody>
@@ -61,6 +50,26 @@ published: true
     </tbody>
   </table>
 
+  <table class="basic-info">
+    <tbody>
+      <tr>
+        <td></td>
+        <td colspan="2">
+          <strong>
+            <a href="/open-application-letter-2018/">Open Application Letter...</a>
+          </strong>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td colspan="2">
+          <strong>
+            <a href="/anti-resume-2018/">Anti-r&eacute;sum&eacute;...</a>
+          </strong>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 </div>
 
@@ -69,10 +78,7 @@ published: true
 
 ----------------------------------------------------------
 
-
-<h2>
-    <strong style="color: #6a9fb5">Technical Knowledge</strong>
-</h2>
+## **Technical Knowledge**
 
 <table class="resume">
   <tbody>
@@ -218,11 +224,7 @@ published: true
 ----------------------------------------------------------
 
 
-<h2>
-    <strong style="color: #6a9fb5">Work Experience</strong>
-</h2>
-
-
+## **Work Experience**
 
 
 - Software Developer (April 2012 – October 2012)
@@ -234,7 +236,7 @@ published: true
 - Software Developer (December 2012 – May 2016)
 <br /> -- for web using .NET
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
-<br /> -- Involved in maintaining desktop and web apps for insurance of [Common Census](http://www.commoncensus.com/)
+<br /> -- Involved in maintaining desktop and web apps of [Common Census] for insurance(http://www.commoncensus.com/)
 
 
 - Software Developer (October 2016 – Present)
@@ -246,10 +248,24 @@ published: true
 ----------------------------------------------------------
 
 <h2 id="talks">
-    <strong style="color: #6a9fb5">Talk:</strong>
+    <strong>Talk:</strong>
 </h2>
 
+
 - [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
+
+
+----------------------------------------------------------
+
+
+## **I'm an initiate**
+
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), I consider myself to be (at least) an **_"Initiate"_**, because I try to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
+
+But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
+
+
+
 
 
 <!-- 
