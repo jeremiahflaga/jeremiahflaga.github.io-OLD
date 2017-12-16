@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Anti-r&eacute;sum&eacute;
-permalink: /anti-resume-2018/
+permalink: /anti-resume/
+published: false
 ---
 
 <style>
@@ -30,22 +31,22 @@ This anti-r&eacute;sum&eacute; (together with my r&eacute;sum&eacute;) will help
 
 <!-- [I also think that antiresume matches with this idea of TDD, or writing tests] -->
 
-
+(Note: I'm not a sexist. In the following page(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)
 
 ### **I never experienced being an Algorithmer**
 
-In my [r&eacute;sum&eacute;](/resume-2018#im-an-initiate), I considered myself as an Initiate, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an Algorithmer, even though it is much lower than the Initiate in that hierarchy --- I do not have special knowledge in higher mathematics. (Please note that Terence McGhee places the Algorithmer in the same rank as the Chump Coder.)
+In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an Initiate, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an Algorithmer, even though it is much lower than the Initiate in that hierarchy --- I do not have special knowledge in higher mathematics. (Please note that Terence McGhee places the Algorithmer in the same rank as the Chump Coder.)
 
 But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one.
 
-And working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer.
+And working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn al lot from me.
 
 
 ### **I'm not an expert on frameworks**
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
-> --- Vaughn Vernon
+> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/))
 
 
 
@@ -71,7 +72,12 @@ Of course that is not always possible if I will be working on existing projects.
 You can hire me to _help_ you decouple your code from frameworks...
 
 
-Please note that in my [Open Application Letter](/open-application-letter-2018/), I never applied for a job where expertise in specific frameworks is needed. I only applied for jobs where the major tasks involves decoupling the business rules from frameworks. (Of course I understand that there are frameworks/libraries that we have to couple with the business rules, such as the standard libraries in Java or .NET.) If you need expertise in specific frameworks, I am not fit for that job, at least for now.
+Please note that in my [Open Application Letter](/open-application-letter/), I never applied for a job where expertise in specific frameworks is needed. I only applied for jobs where the major tasks involves decoupling the business rules from frameworks. (Of course I understand that there are frameworks/libraries that we have to couple with the business rules, such as the standard libraries in Java or .NET.) If you need expertise in specific frameworks, I am not fit for that job, at least for now.
+
+
+
+I have a considerable amount of knowledge about frameworks and their uses, but for now, I want to concentrate on creating domain models (and decoupling them from frameworks). I will just spend time to become am expert on frameworks later.
+
 
 
 ### Focused on modeling the business structure (i don't know what to call it)
@@ -112,7 +118,7 @@ If the unit tests of your system run very slow, you might be interested in hirin
 
 ### I have almost no knowledge about software security
 
-When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. (But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already practice code review or pair programming, then this will not be a problem)
+When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. (But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem)
 
 Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
 
@@ -138,9 +144,27 @@ It would be great if there is some kind of something where I am allowed to say i
 
 I will get frustrated sometime, or maybe oftentimes, when I know that we can do better with things but we are not doing something about it.
 
+
+I would like to suggest that there be a system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the system... and that we do something about it, or at least plan to do something about it.... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
+
+
+
+
+
 It gives me this feeling that the memebers of the team do not seem to care.
 
-If you want to hear examples about this please ask me during the interview
+It would be great if your company have this kind of system where I can be able to voice my opinion, for example, when I see something that we are doing which is bad. 
+
+This kind of system will breed trust to each member of the team...
+
+
+I don't want to play the blaming game because I don't know what my coleauges, managers or employer in the past were experiencings when they decided to do things the way they did them.
+
+
+If you want to hear examples about this please ask me during the interview.
+
+
+I understand that there are times when I don't need to ask for permission when I do something which I think will benefit my employers or my coleagues, but I just don't want to play politics, so I have to ask for permission about these things before I get hired.
 
 
 Examples:
@@ -233,12 +257,19 @@ I want to help spread this idea of professionalism in the sovtware development c
 
 
 
+### I'm not very patient wehn working with the UI
+
+I'm not very good with UI. But I can manage to workin with UIs if I need to work on them.
+
+But if I will be working with a visual designer, I believe that he will not be having a problem working with me beause I intend to decouple my code from the UI so that my code will not be very affected with UI changes and UI changes will not affect so much my code.
+
+
 
 
 --------------------
 
 
-**_If you are looking for my [Resum&eacute;](/resume-2018/), you can view it [here](/resume-2018/)_**
+**_If you are looking for my [Resum&eacute;](/resume/), you can view it [here](/resume/)_**
 
 
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Rethinking the use of TDD
-categories: [Thoughts]
-tags: [Greg Howlett, Music]
+categories: [Programming]
+tags: [TDD, Jimmy Bogard]
 date: 2017-12-13 03:30:00 PM UTC
 published: false
 ---
@@ -19,6 +19,8 @@ This is what Jimmy Bogard said in the conclusion of his talk, "Crafting Wicked D
 	
 That last sentence makes me rethink the use of TDD in creating (almost) bug-free software.
 
+
+<!--more-->
 
 Adding to that is what Dijstra said about tests:
 
@@ -40,4 +42,17 @@ Which of course Uncle Bob Martin also talked about in his book, Clean Architectu
 
 (Oh! He quoted Dijkstra... I did not remember that...)
 
-<!--more-->
+
+
+
+
+Having tests might also give us false assurance....
+
+In the end, I think what needs to be changed is how software developers think about bug-free software --- "are going to do something to fix this?" or "all software has bugs, its still okay if our software also contains bugs"
+
+
+Because, with what I know about TDD, we will not be having that DateTime.Now... nut his code has that in there and it still looks good.
+
+
+The essense of things: kend beck said that the first reason why he writes tests is so that there is fast feedback on whether what he is doing is correct or not.
+

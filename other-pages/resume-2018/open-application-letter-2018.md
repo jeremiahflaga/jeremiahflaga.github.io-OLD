@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Open Application Letter
-permalink: /open-application-letter-2018/
+permalink: /open-application-letter/
+published: false
 ---
 
 <style>
@@ -47,6 +48,8 @@ But if your Web API team is full already, then I have to push myself to be good 
 By "design" I mean "software design".
 
 Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
+
+
 
 
 ### (c) A Thinking Rubber Duck
@@ -98,6 +101,9 @@ First of all, it would be best if I have a design partner, or you will assign me
 Well, I will do what 
 
 
+I' not a proponent of good design just for the sake of having a good design. I'm a proponent of good design because it helps in eliminating bugs, and good design helps in eliminating errors that programmers can make.
+
+
 ### (e) TDD Preacher/Guide
 
 > "... preaching sermons to the unconverted in the hope of redeeming them (or at least their code)." Tomek Kaczanowski
@@ -136,6 +142,13 @@ Because of that, you will be sure that when I sleep at night, I will only be dre
 ### I don't think I'm mean
 
 I believe that being mean will pugong my goal of fixing software systems (when I'm hired to fix one), because I know that I can work alone when fixing existing software systems.
+
+
+
+
+### In case I did not pass the standard of your senior developer(s)
+
+... I can become his apprentice, teaching me about design and other things, so that I can pass on his legacy to the next generation of programmers.
 
 
 
