@@ -29,20 +29,7 @@ Most of the things I write will not be interesting to you... so, instead of poin
 [more...](/blog/)
 
 
-
 -----
-
-<!-- 
-First things first... 
--->
-
-I'm a _biased_ person, and one of my set of biases is this: **_"everyone is biased"_**, including you and me. (That means that my being biased is consistent with one of my set of biases.) If you say that you are _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone has his own set of biases).  :grinning:
-
-[Here are some quotes about this _"everyone is biased"_ thing.](/everyone-is-biased-quotes/)
-
-On some issues, I think my set of [biases](/everyone-is-biased-quotes/) on that issue is the best, [so I hold on to them tightly. But I'm still learning.](https://simpleprogrammer.com/2012/09/16/have-strong-convictions-but-hold-on-to-them-loosely/) I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
-
-------
 
 
 I'm also a TDD advocate, so I collected some [quotes about TDD](/tdd-quotes/).
