@@ -30,7 +30,7 @@ at about 13:00
 
 > He said that we should read "The Annotated Turing"
 
-I will buy it after I already bought the other books that I need now like the book "Working Effectively with Legacy Code" and "Clean Code".
+I will buy it after I already bought the other books that I need now like the book ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055) and ["Clean Code"](https://www.bookdepository.com/Clean-Code-Robert-C-Martin/9780132350884).
 
 
 at about 52:00
