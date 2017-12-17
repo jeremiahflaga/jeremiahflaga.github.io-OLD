@@ -5,17 +5,11 @@ permalink: /resume/
 published: true
 ---
 
-
 <style>
   h2 {
     color: #6a9fb5;
   }
 </style>
-
-
-
-
-
 
 
 ## **Jeremiah M. Flaga**
@@ -26,7 +20,7 @@ published: true
 <div>
 
   <div class="float-left">
-    <img src="/images/Jboy2017-Real-2-Orig.jpg" title="Profile Image" alt="Profile Image" height="200" />
+    <img src="/images/Jboy2017-Real-2-Original.jpg" title="Profile Image" alt="Profile Image" height="200" />
   </div>
 
   <table class="basic-info">
@@ -229,28 +223,24 @@ published: true
 
 - Software Developer (April 2012 – October 2012)
 <br /> -- for web using .NET
-
-<!-- 
 <br /> -- at [**Jairosolutions**](http://www.jairosolutions.com)
 <br /> -- Involved in creating contest pages for [www.verizoninsider.com](http://www.getmodal.com/portfolio/verizon-insider/)
- -->
+<!-- <br /> -- This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an in-house project. -->
 
- This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an inner project.
 
 - Software Developer (December 2012 – May 2016)
 <br /> -- for web using .NET
-<!-- 
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
-<br /> -- Involved in maintaining desktop and web apps of [Common Census] for insurance(http://www.commoncensus.com/)
- -->
+<br /> -- Involved in maintaining desktop and web apps of [Common Census](http://www.commoncensus.com/) for insurance
+
 
 - Software Developer (October 2016 – Present)
 <br /> -- for mobile using Android
-
-<!-- 
 <br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
 <br /> -- Involved in developing versions 2 and 3 of the Dr. Oz app for Android
- -->
+
+
+
 
 ----------------------------------------------------------
 
