@@ -40,7 +40,7 @@ I'm a _biased_ person, and one of my set of biases is this: **_"everyone is bias
 
 [Here are some quotes about this _"everyone is biased"_ thing.](/everyone-is-biased-quotes/)
 
-On some issues, I think my set of [biases](/everyone-is-biased-quotes/) on that issue is the best, so I hold on to them tightly. But I'm still learning. I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
+On some issues, I think my set of [biases](/everyone-is-biased-quotes/) on that issue is the best, [so I hold on to them tightly. But I'm still learning.](https://simpleprogrammer.com/2012/09/16/have-strong-convictions-but-hold-on-to-them-loosely/) I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
 
 ------
 
