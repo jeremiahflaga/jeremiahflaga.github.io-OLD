@@ -43,7 +43,7 @@ It is Scott Myers' _"Most Important Design Guideline":_
 > **Make interfaces easy to use correctly and hard to use incorrectly.**
 
 
-<span class="middlebar float-left">
+<span class="message">
 _Now, we can stop here and use our imaginations to come up with ideas on how to use that guideline in our code... But if we want to have some initial ideas on how to apply that guideline, then read on... :smile:_
 </span>
 
@@ -51,8 +51,9 @@ Scott Myers is the author of [Effective Modern C++](https://www.bookdepository.c
 
 And now...
 
-
 <center>:drum_roll: :drum_roll: <small><i>(there's no drum roll!!!)</i></small></center>
+
+<br />
 
 ...here is the video of Scott Myers talking about his most important guideline:
 

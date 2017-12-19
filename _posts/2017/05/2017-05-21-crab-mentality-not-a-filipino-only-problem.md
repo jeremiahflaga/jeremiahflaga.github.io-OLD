@@ -62,7 +62,7 @@ There is another example related to this "crab mentality" thing which I found la
 
 This is an excerpt of that email (I'm still asking for permission to post the whole email :blush:)
 
-<div class="middlebar">
+<div class="message">
     ...
 <br /><br />
     Mark my words:

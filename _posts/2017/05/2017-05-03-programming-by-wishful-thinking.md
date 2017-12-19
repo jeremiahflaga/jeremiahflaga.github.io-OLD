@@ -36,7 +36,7 @@ int steps = fitbitHelper.getSteps(date);
 ...to get number of steps from Fitbit for a specific date.
 
 
-<div class="middlebar">
+<div class="message">
 At the user interface level, I want to avoid doing something like this:
 
 <p>
