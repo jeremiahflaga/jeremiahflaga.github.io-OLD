@@ -3,11 +3,10 @@ layout: post
 title: TDD might help in teaching about design, even without a teacher
 categories: [Programming]
 tags: [TDD, Software Design, Michael Feathers, Martin Fowler]
-date: 2017-12-18 06:00:00 PM UTC
-published: false
+date: 2017-12-19 06:20:00 PM UTC
 ---
 
-<!-- December 19, 2017 2:40:00 AM Philippine Time -->
+<!-- December 20, 2017 2:20:00 AM Philippine Time -->
 
 
 In his talk, "The Deep Synergy Between Testability and Good Design (NDC 2010)", [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055) said these:
@@ -19,11 +18,62 @@ In his talk, "The Deep Synergy Between Testability and Good Design (NDC 2010)", 
 > "If you're finding trouble testing things, reconsider your design and end up with something better."
 
 
-Perhaps TDD can be used in teaching design when no teacher is available to teach design??
+Perhaps writing tests can be used in teaching design when no teacher is available to teach design!?
 
 <!--more-->
 
 We can just tell the student, _"If it is hard to test, the design must be wrong. Try to find another solution."_
+
+<span class="message message-compressed float-right">
+_If you don't know why good design matters... Good design will lead to less bugs, which means happy customers; and less time fixing bugs, which means happy programmers! Yehey!_
+</span>
+
+And... Do we have a better way of writing testable code than writing the tests _first_? --- _TFD! I mean, TDD!_
+
+Writing the tests _first_ surely will help us write testable code... And testable code is a very good indication of good design, as what Michael Feather said.
+
+We can thus tell the student this instead: _"Write your tests first before writing your production code. This process will help you write testable production code. And testable code is a very good indication of well designed code."_
+
+### Tests are tools
+
+<span class="message message-compressed float-right">
+_"... [TDD] practitioners discovered that writing tests first made a significant improvement to the design process."_ --- Martin Fowler
+</span>
+
+We should remember that the tests are just tools. They are just a means to an end. They are tools to help us when designing software (just as software are just tools in helping make the lives of people better [I hope], or easier at least).
+
+
+We should not write tests just for the sake of writing tests; just so we have something to brag about --- _"See! I'm writing tests!!!"_. 
+
+We should not write tests just because we are _required_ to write tests. _No!_ That would be boring! :grinning:
+
+If we do not have the right reasons for writing tests, we should not be writing them at all. They will just be a waste of time.
+
+Oh no!... I have to take that back. We have to write tests... but we should try to understand the reasons for doing so. We should not be writing tests _blindly_.
+
+
+### Testability does not imply good design
+
+Also, Michael Feathers said that being testable _does not imply_ good design, but well designed systems are testable. There is a **_direction_** to this synergy between testability and good design, he said.
+
+_Well designed? It **must** be testable!_
+
+_Testable? It **might** be well designed!_
+
+Okay... back to my main point...
+
+
+> Student: "Where are you going?"
+<br /><br />
+> Teacher: "I'm going to fight a war... I don't have so much time to spend with you... Just remember that if it is hard to test, the design must be wrong. And writing your tests first will help you write testable code... and testability is a very good indication of good design."
+<br /><br />
+> Student: "Does that mean that I have to first learn about what good design looks like?"
+
+
+
+
+<!-- 
+--------
 
 Perhaps the reason why the rule _"Hard to test means bad design"_ works is because tests are a measure of the quality of the design?? --- "If it endured the many tests, it might be a good design."
 
@@ -37,9 +87,16 @@ So it's still possible to create poorly designed systems which are still testabl
 
 I don't know...
 
-But... maybe the reason why a poorly designed system might still be testable is bacause it has _not yet_ gone through _many_ testings?? Maybe the process is not yet complete? Maybe the tests only cover a small percentage of the production code? 
+But... maybe the reason why a poorly designed system might still be testable is bacause it has _not yet_ gone through _many_ testings?? Maybe the process is not yet complete? Maybe the tests only cover a small percentage of the production code? Or maybe the tests are wrong?
 
-Or maybe the tests are wrong?
+I don't know...
+
+
+Ahh! Perhaps 
+
+
+
+
 
 
 Maybe we also should have tests for our tests, so we can be sure that our tests are right!
@@ -48,21 +105,11 @@ What should be the tests for our tests? How will we know that our tests are righ
 
 Maybe we can use the production code itself to determine if the tests are right. If our tests produce good design then our tests must be right!
 
-<!-- _What? Arguing in circles?!!!_ -->
-
 _What? With that, you are already assuming that you know what good design is!!!_
 
 Of course! Of course!
 
 We always assume that we know what good design is before we can produce good design. It doesn't matter whether we are writing tests or not.
-
-<!-- We first must know what good design looks like before we can know that tests produce good design. -->
-
-<!-- 
-Okay... That was just a joke :smile:...
-
-I think we are now confusing things here. 
--->
 
 We should remember that the tests are just tools. They are just a means to an end. They are tools to help us when designing software (just as software are just tools in helping make the lives of people better _[I hope]_, or easier _[I hope, still]_, at least).
 
@@ -80,7 +127,7 @@ Okay... back to the _"teaching design"_ thing...
 
 And remember that TDD cannot produce design. It can only _help_ produce design.
 
-
+ -->
 
 
 <!-- 
