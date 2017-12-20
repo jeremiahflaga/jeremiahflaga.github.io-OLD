@@ -62,6 +62,10 @@ Today, we already have google which which can serve as our garage for facts. We 
 
 
 
+Then when my first employer made us study DDD, and I learned about what they call having a _ubiquitous language_ between the business people and the programmers, and using the _ubiquituos language_ when creating the domain model, I _began_ to realize that this domain model thing is a very important part of a software system.
+
+
+
 Then about two years ago,
 
 > uncle bob martin on web servers and databases and frameworks
@@ -80,9 +84,9 @@ I have a considerable amount of knowledge about frameworks and their uses, but f
 
 
 
-### Focused on modeling the business structure (i don't know what to call it)
+### Focused on separating the business logic from other parts of the system
 
-Being influenced by people who promote DDD (Note: I only know a little about DDD), I am the kind of person who would like to focus on learning about the domain of the business ... and modeling that domain intead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in...
+Being influenced by people who promote DDD (Note: I only know a little about DDD), I am the kind of person who _would like to_ focus on learning about the domain of the business... and modeling that domain intead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in...
 
 Giving more focus on the domain will help remove mistakes that 
 
@@ -264,6 +268,11 @@ I'm not very good with UI. But I can manage to workin with UIs if I need to work
 But if I will be working with a visual designer, I believe that he will not be having a problem working with me beause I intend to decouple my code from the UI so that my code will not be very affected with UI changes and UI changes will not affect so much my code.
 
 
+
+
+### I don't know how to do this CQRS and Event Sourcing thing
+
+... even thought I think this will have a very important role in the next few years
 
 
 --------------------

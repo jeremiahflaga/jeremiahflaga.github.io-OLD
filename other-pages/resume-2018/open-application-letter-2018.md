@@ -14,14 +14,14 @@ published: false
 
 Dear Sir/Ma'am,
 
-I already resigned from my current job so please don't be alarmed about this "open application letter" thing (I, kind of, already have permission from my current employer to do this). I promise that, when I get hired at your company, I will not be sending "open application letters" to other companies while I'm still employed at your company. :smile:
+I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be sending open application letters to other companies while I'm still employed at your company. :smile:
 
-My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team need.
+My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 
 
-I'm Jeremiah
+I'm Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
-I am available for the following positions:
+I am available for the following roles:
 
 .NET Programmer
 Design Partner
@@ -31,7 +31,70 @@ TDD Preacher
 TDD Guide
 TDD Law Enforcer
 
+Apprentice
+
+
+
+Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... 
+
+
+
+
+### (a) Team member in a new project
+
+
+
+
+### (a) Design Partner
+
+_(By "design" I mean "software design".)_
+
+> Two is better than one.
+
+Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired or get bored and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad 
+
+I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system. So I believe that one of the primary tasks of the software designer is to keep the business rules separate from the other parts of the system, and keep them well structured.
+
+You want to separate the "business rules" or "domain objects" from the other parts of the system
+
+
+Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
+
+
+
+1. Protecting the design from rotting
+2. 
+
+
+### (b) Design Apprentice
+
+
+Your software designer might be _lots-of-years_ ahead of me, and being a _design partner_ does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
+
+
+
+Or perhaps your software designer is leaving in a few years and he is looking for an apprentice to train... I can become his apprentice.
+
+
+
+
+
+
+
 ### (a) .NET Programmer
+
+
+If you read my anti-resume, you might already know that I'm not an expert on frameworks 
+
+In the .NET world, the frameworks I am quite familiar with (but far from being an expert in) are:
+
+- Windows Forms
+- WCF
+- ASP.NET Web Forms
+- ASP.NET MVC
+- Entity Framework
+
+(in the .NET world, those frameworks/libraries would be ASP.NET MVC, Entity Framework)
 
 I have about four years of experience working using .NET.
 
@@ -43,11 +106,9 @@ But if your Web API team is full already, then I have to push myself to be good 
 > Don't be an EF expert. Let the creators of EF be the expert with EF
 
 
-### (b) Design Partner
+### Python Programmer (on projects that use TDD)
 
-By "design" I mean "software design".
-
-Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
+I see TDD listed in almost every job description for a Python developer I see online
 
 
 
@@ -109,6 +170,11 @@ I' not a proponent of good design just for the sake of having a good design. I'm
 > "... preaching sermons to the unconverted in the hope of redeeming them (or at least their code)." Tomek Kaczanowski
 
 
+TDD Preacher?
+
+Not really. Maybe someday I can become one. But today?... I don't know how to create sermons.
+
+
 
 ### (f) TDD Law Enforcer
 
@@ -117,8 +183,6 @@ I' not a proponent of good design just for the sake of having a good design. I'm
  You might need someone to enforce TDD and not abandon that discipline even during times of crisis and panic.
 
     "The only way to go fast is to go well" ---- Uncle Bob Martin
-
-
 
 ### Other
 

@@ -2,12 +2,20 @@
 layout: page
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: true
+published: false
 ---
 
 <style>
   h2 {
     color: #6a9fb5;
+  }
+
+  h3 {
+    color: #515151;
+  }
+
+  .indented {
+    padding-left: 1rem;
   }
 </style>
 
@@ -215,31 +223,177 @@ published: true
 </table>
 
 
+
+----------------------------------------------------------
+
+
+## **I'm an initiate**
+
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I try to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
+
+But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
+
+
 ----------------------------------------------------------
 
 
 ## **Work Experience**
 
+### **April 2012 - October 2012** <small>(6 months)</small>
 
-- Software Developer (April 2012 – October 2012)
-<br /> -- for web using .NET
-<br /> -- at [**Jairosolutions**](http://www.jairosolutions.com)
-<br /> -- Involved in creating contest pages for [www.verizoninsider.com](http://www.getmodal.com/portfolio/verizon-insider/)
-<!-- <br /> -- This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an in-house project. -->
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          Software Developer for web using .NET at <strong><a  href="http://www.jairosolutions.com">Jairosolutions</a></strong>
+        </p>  
+        <p>
+          Involved in creating contest pages for <a  href="http://www.getmodal.com/portfolio/verizon-insider/">www.verizoninsider.com</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>      
+        <p>
+          <strong>Contributions:</strong>
+        </p>
+        <p class="indented">
+          Nothing extraordinary. Just finished the tasks assigned to me such as the twitter feed...
+        </p>
+        <p>
+          <strong>Lesson(s) Learned:</strong>
+        </p>
+        <p class="indented">
+          This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an in-house project. But I was not involved in the in-house project
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
-- Software Developer (December 2012 – May 2016)
-<br /> -- for web using .NET
-<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
-<br /> -- Involved in maintaining desktop and web apps of [Common Census](http://www.commoncensus.com/) for insurance
 
 
-- Software Developer (October 2016 – Present)
-<br /> -- for mobile using Android
-<br /> -- at [**Mynd Consulting**](http://www.myndconsulting.com/)
-<br /> -- Involved in developing versions 2 and 3 of the Dr. Oz app for Android
+### **December 2012 – May 2016** <small>(3 years, 5 months)</small>
+
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          Software Developer for web using .NET at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
+        </p>  
+        <p>
+          Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          <strong>Contributions:</strong>
+        </p>
+        <p class="indented">
+          Nothing extraordinary. Just did the tasks assigned to me.
+        </p>
+        <p>
+          <strong>Lesson(s) Learned:</strong>
+        </p>
+        <p class="indented">          
+          This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written.
+          <br /><br />
+          There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests?... those that used DateTime.Now, and static methods, and extension methods (which basically are still static methods), those parts that use Service Locator... I skipped them :evil-laugh:. Of course I first tried to find solutions to the 
+          <br /><br />
+          I think the tests were a waste of time because there were parts of the system that I skipped testing, because I did not know how to test them. And partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as "Working Effectively with Legacy Code" exists. I've heard the term 'refactoring' by that time, but I did not yet realize that refactoring should have been part of the process of testing legacy code.)
+          <br /><br />
+          I should have told my team lead during that time that I think writing those tests was just a waste of time. If I told them about it, they would have had the opportunity to explain why those tests should be written and But I was very timid at that time and was afraid to express my opinions.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
+
+
+
+<!--March 2-4, 2016 -->
+### **March 2-4, 2016**
+
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        I read Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
+        <br /><br />
+        <strong><em>I would say that this is the time of my enlightenment.</em></strong>
+        <br /><br />
+        Read the blog post yourself... you will also be enlightened.
+        <br /><br />
+        (Of course I'm not saying that this is the only thing that brought enlightenment to me, because as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html> )
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+### **October 2016 – January 2018** <small>(1 year, 2 months)</small>
+
+
+
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          Software Developer for mobile using Android at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
+        </p>  
+        <p>
+          Involved in developing versions 2 and 3 of the Dr. Oz app for Android
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          <strong>Contributions:</strong>
+        </p>
+        <p class="indented">
+          Nothing extraordinary. Just did the tasks assigned to me.
+          <br /><br />
+          But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things, I tried to use those knowledge in my coding.
+        </p>
+        <p>
+          <strong>Lesson(s) Learned:</strong>
+        </p>
+        <p class="indented">
+          This is where I learned that before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and your values match... then okay!
+          <br /><br />
+          This is also where I learned that I need to speak up. But I'm not yet doing that because I did not have permission to speak up when I was hired for this job.... (Of course I understand that I don't always need permission to do something that will benefit my employers and teammates, but I'm not yet very courageous enough to speak up without permission.)
+          <br /><br />
+          In my next job, I would like to request to let anybody in the team to speak up.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ----------------------------------------------------------
@@ -250,17 +404,6 @@ published: true
 
 
 - [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
-
-
-----------------------------------------------------------
-
-
-## **I'm an initiate**
-
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), I consider myself to be (at least) an **_"Initiate"_**, because I try to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
-
-But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
-
 
 
 
