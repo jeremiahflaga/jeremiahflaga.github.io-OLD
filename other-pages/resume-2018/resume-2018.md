@@ -229,7 +229,7 @@ published: false
 
 ## **I'm an initiate**
 
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I try to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I <em>try</em> to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
 
 But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
 
@@ -269,7 +269,9 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <strong>Lesson(s) Learned:</strong>
         </p>
         <p class="indented">
-          This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an in-house project. But I was not involved in the in-house project
+          This is where I was first exposed to DDD, because our employer made us study DDD because we will be using it in an in-house project. But I was not lucky to be involved in the in-house project because the employement of three junior developers, which inlcuded me, lasted for only 6 months.
+          <br /><br />
+          I just saw the initial structure of the project. I saw that there was a <code>Core</code> module, which I now understand to be the module which holds the business rules in the project. There was also an <code>Infrastructure</code> module, which holds the data layer and some other parts of the system. There was no presentation layer yet during the time that I saw the project.
         </p>
       </td>
     </tr>
@@ -289,7 +291,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       <td>
         <p>
           Software Developer for web using .NET at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
-        </p>  
+        </p> 
         <p>
           Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
         </p>
@@ -308,14 +310,34 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
         <p>
           <strong>Lesson(s) Learned:</strong>
         </p>
-        <p class="indented">          
-          This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written.
-          <br /><br />
-          There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests?... those that used DateTime.Now, and static methods, and extension methods (which basically are still static methods), those parts that use Service Locator... I skipped them :evil-laugh:. Of course I first tried to find solutions to the 
-          <br /><br />
-          I think the tests were a waste of time because there were parts of the system that I skipped testing, because I did not know how to test them. And partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as "Working Effectively with Legacy Code" exists. I've heard the term 'refactoring' by that time, but I did not yet realize that refactoring should have been part of the process of testing legacy code.)
-          <br /><br />
-          I should have told my team lead during that time that I think writing those tests was just a waste of time. If I told them about it, they would have had the opportunity to explain why those tests should be written and But I was very timid at that time and was afraid to express my opinions.
+        <p class="indented">
+          <ol>
+            <li> 
+              I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors (most especially if they don't want the juniors to litter the project :grin:).
+              <br /><br />
+              When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer (provided of course that they also share some of their knowledge with me. :smile:)
+            </li>
+            <br />
+            <li>
+              This is the time where I, and my teammates, plunged into the Clean Code book because one of our team leads made us read one chapter each week and spend about an hour each week discussing that chapter.
+              <br /><br />
+              Unfortunately, for some reasons unknown to me, our discussions stopped after a few meetings. We did not finish the book. We only discussed up to chapter five, I think. And I read only up to chapter 8 of the book.
+            </li>
+            <br />
+            <li>
+              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written.
+              <br /><br />
+              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? --- those that used DateTime.Now, and static methods, and extension methods (which basically are still static methods), those parts that use Service Locator --- I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things...
+              <br /><br />
+              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them). And partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as "Working Effectively with Legacy Code" exists.)
+              <br /><br />
+              Don't get me wrong here. During that time I already have a great appreciation about the benefits of having unit tests --- it's been three years already since I first heard about unit testing and TDD.
+              <br /><br />
+              But I think I should have told my team leads during that time about my opinion that writing those tests was just a waste of time. If I told them about it, they might have had the opportunity to explain why those tests should be written, and they might have helped me look for ways to write tests for the untestables. But I was very timid during that time and was afraid to express my opinions.
+              <br /><br />
+              Today, through Uncle Bob Martin's influence, I am a <a href="/tdd-quotes/">TDD advocate</a>. So I'm not against writing tests despite that experience. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also. (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a>.)
+            </li>
+          </ol>
         </p>
       </td>
     </tr>
@@ -326,7 +348,6 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
 
 
-<!--March 2-4, 2016 -->
 ### **March 2-4, 2016**
 
 <table class="resume">
@@ -335,13 +356,19 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       <td>
       </td>
       <td>
-        I read Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
+        I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
         <br /><br />
         <strong><em>I would say that this is the time of my enlightenment.</em></strong>
         <br /><br />
         Read the blog post yourself... you will also be enlightened.
+        <!-- <br /><br />
+        Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier -->
         <br /><br />
-        (Of course I'm not saying that this is the only thing that brought enlightenment to me, because as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html> )
+        Of course I'm not saying that this is the only thing that brought enlightenment to me, because... 
+        <!-- 
+        as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>
+        -->
+        rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
       </td>
     </tr>
   </tbody>
@@ -364,7 +391,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           Software Developer for mobile using Android at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>  
         <p>
-          Involved in developing versions 2 and 3 of the Dr. Oz app for Android
+          Involved in developing versions 2 and 3 of the Dr. Oz app for Android devices
         </p>
       </td>
     </tr>
@@ -379,21 +406,64 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           Nothing extraordinary. Just did the tasks assigned to me.
           <br /><br />
           But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things, I tried to use those knowledge in my coding.
+          <br /><br />
+          Also, before the work on the next version of the app I was involved in started, I tried to do something to separate into another module the data layer from the presentation layer, because I was planning, through this separation, to slowly transfer the business rules into another module... and I can be able to create tests for the business rules. Yehey!
+          <br /><br />
+          But because I am not a master of the art of persuation, my plan was not pushed. :sad:
+          <br /><br />
+          Well, it did not matter that much because I knew that I was (and is still) not an expert on Android development, and there might be some issues that I know nothing about that might have made the separation bad for the future of the app.
         </p>
         <p>
           <strong>Lesson(s) Learned:</strong>
         </p>
         <p class="indented">
-          This is where I learned that before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and your values match... then okay!
-          <br /><br />
-          This is also where I learned that I need to speak up. But I'm not yet doing that because I did not have permission to speak up when I was hired for this job.... (Of course I understand that I don't always need permission to do something that will benefit my employers and teammates, but I'm not yet very courageous enough to speak up without permission.)
-          <br /><br />
-          In my next job, I would like to request to let anybody in the team to speak up.
+          <ol>
+            <li>
+              This is where I learned that before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and your values match... then okay!
+            </li>
+            <br />
+            <li>
+              This is also where I learned that I need to speak up. But I'm not yet doing that because I did not have permission to speak up when I was hired for this job.... (Of course I understand that I don't always need permission to do something that will benefit my employers and teammates, but I'm not yet very courageous enough to speak up without permission.)
+              <br /><br />
+              If you intend to hire me, please note that one of my requirements for getting hired is to let anybody in the team I will be involved in, including me, to speak up if he thinks the team is doing something wrong (such as my experience with writing tests in a previous job), or there is something wrong about the code base... and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
+            </li>
+          </ol>
         </p>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+----------------------------------------------------------
+
+
+## **More Lessons Learned**
+
+
+<dl>
+
+  <dt>The business rules must be separated</dt>
+  <dd>
+    There must be a very clear separation of the business logic layer from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    <br /><br />
+    It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to all new functionalities to the system, and to fix bugs.
+  </dd>
+
+
+  <dt>The team must have a common set of values</dt>
+  <dd>
+  </dd>
+
+</dl>
+
+
+<br />
+<li>
+  This is also where I learned that I need to speak up. But I'm not yet doing that because I did not have permission to speak up when I was hired for this job.... (Of course I understand that I don't always need permission to do something that will benefit my employers and teammates, but I'm not yet very courageous enough to speak up without permission.)
+  <br /><br />
+  If you intend to hire me, please note that one of my requirements for getting hired is to let anybody in the team I will be involved in, including me, to speak up if he thinks the team is doing something wrong (such as my experience with writing tests in a previous job which I said something about), or there is something wrong about the code base... and that the team must do something to either convince everybody that it is not wrong or to fix that wrong.
+</li>
 
 
 ----------------------------------------------------------
@@ -407,6 +477,20 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
 
 
+----------------------------------------------------------
+
+
+## I am for hire as a "Business Rules Guardian"
+
+With my current skillset, this is the best that I can give you: being a to _help_ guide each member of a team to separate the business rules from the other parts of the system. (Please note that I used the word _help_, because with this kind of task I will be needing the cooperation of each member of the team I will be involved in.)
+
+1. You can hire me to become part of the team that will start a project from scratch. I will make sure that the business rules is separated from the other parts of the system. If I am not yet familiar with the language(s), frameworks/libraries that your team will use, I can spend about a month studying those things.
+
+
+2. Help your team separate the business rules from the other parts of an software system.
+
+
+3. Help in the maintenance mode of a well designed system.
 
 <!-- 
 

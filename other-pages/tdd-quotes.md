@@ -4,7 +4,7 @@ title: TDD Quotes
 permalink: /tdd-quotes/
 ---
 
-I believe, like Uncle Bob Martin does, that, _today_, TDD (or Test-Driven Development) is one of the hallmarks of professionalism in the software development world.
+I believe, like [Uncle Bob Martin does](http://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html), that, _today_, TDD (or Test-Driven Development) is one of the hallmarks of professionalism in the software development world.
 
 So I would like to convince myself and my fellow software developers to embrace TDD. :smile:
 
@@ -37,6 +37,10 @@ matter how pretty or object-oriented or well encapsulated it is.
 ### Uncle Bob Martin <small>([TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html))</small>
 
 > "The idea that the high level design and architecture of a system emerge from TDD is, frankly, absurd. **Before you begin to code any software project, you need to have some architectural vision in place. TDD will not, and can not, provide this vision.** That is not TDD’s role."
+<br /><br />
+> However, this does not mean that designs do not emerge from TDD –-- they do; just not at the highest levels. **The designs that emerge from TDD are one or two steps above the code**; and they are intimately connected to the code, and to the red-green-refactor cycle.
+<br /><br />
+> It works like this: ..."
 
 
 

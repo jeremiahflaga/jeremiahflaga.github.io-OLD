@@ -25,7 +25,7 @@ published: false
 
 You think having an anti-r&eacute;sum&eacute; will put me at a disadvantage? ...
 
-This anti-r&eacute;sum&eacute; (together with my r&eacute;sum&eacute;) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :grinning:
+This anti-r&eacute;sum&eacute; (together with my r&eacute;sum&eacute;) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :smile:
 
 
 
@@ -103,7 +103,14 @@ If I will
 
 
 
+
+
 ### I'm the kind of person who is not comfortable accepting praise if I am not very confident about the project I'm working on. 
+
+
+
+
+
 
 
 ### I work very well, even during trying hours, _only if_ there is rapid feedback from the system I am working on
@@ -195,6 +202,11 @@ So if I am tasked of deployment and no one else is to guide me, I will just goog
 
 All I know about functional programming is that the use of assignment is forbidden/discouraged and that there is heavy use of recursion.
 
+
+
+### I know nothing about estimating
+
+Today, the only method I have to honestly estimate the time to be spent to finish a project is to do at least two of the most important features of the app, then use the time spent on those two features to estimate the time that will be spent on the whole project.
 
 
 

@@ -35,14 +35,16 @@ Apprentice
 
 
 
-Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... 
-
-
+Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because [I might be a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx)
 
 
 ### (a) Team member in a new project
 
 
+
+If you have an upcoming project that you will be developing from scratch, I would like to present myself to become part of the team. I believe that I can help with the design/architecture of the project (as long as it is using an Object-Oriented language such as C#, Java, or Python).
+
+I am most familiar with If your team will be using a language or frameworks that I'm not familiar with
 
 
 ### (a) Design Partner
@@ -51,7 +53,7 @@ _(By "design" I mean "software design".)_
 
 > Two is better than one.
 
-Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired or get bored and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad 
+Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired or get bored and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad. He can help me with my decisions also. He can be able to point out if I make something bad.
 
 I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system. So I believe that one of the primary tasks of the software designer is to keep the business rules separate from the other parts of the system, and keep them well structured.
 
