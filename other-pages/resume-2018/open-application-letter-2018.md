@@ -2,7 +2,7 @@
 layout: page
 title: Open Application Letter
 permalink: /open-application-letter/
-published: false
+published: true
 ---
 
 <style>
@@ -14,15 +14,23 @@ published: false
 
 Dear Sir/Ma'am,
 
-I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be sending open application letters to other companies while I'm still employed at your company. :smile:
-
+<div class="message">
+I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
+<br /><br />
 My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
+<br /><br />
+<em>(I actually also have a secret agenda for doing this. But it is secret, so I'm not going to tell you what it is. But this secret agenda is for the good of the software industry, so you have nothing to worry about it.)</em>
+</div>
 
+I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
-I'm Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
+I am applying primarily for a role of being a [Design Guide](#design-guide).
 
-I am available for the following roles:
+Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
+If you want to have a better way of measuring whether I'm a phony or not, you can view my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/anti-resume/).
+
+<!-- 
 .NET Programmer
 Design Partner
 
@@ -31,25 +39,33 @@ TDD Preacher
 TDD Guide
 TDD Law Enforcer
 
-Apprentice
+Apprentice 
+-->
 
 
+## Here are the roles you can hire me for:
 
-Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because [I might be a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx)
-
-
-### (a) Team member in a new project
-
-
-
-If you have an upcoming project that you will be developing from scratch, I would like to present myself to become part of the team. I believe that I can help with the design/architecture of the project (as long as it is using an Object-Oriented language such as C#, Java, or Python).
-
-I am most familiar with If your team will be using a language or frameworks that I'm not familiar with
-
-
-### (a) Design Partner
+<h3 id="design-guide">
+  <strong>(a) Design Guide</strong>
+</h3>
 
 _(By "design" I mean "software design".)_
+
+I'm not saying that I'm already an expert on design. But I choose this name, "Design Guide", to be the primary role I want to apply for in your company because I want to help in opening the eyes of recruiters (and my fellow software developers also) that being an expert on using frameworks is not supposed to be the focus of programmers. Our focus should be on how to structure our software so that it is maintainable, because this will bring more value to the business than being an expert on frameworks.
+
+There are already lots of software developers out there who understands this.
+
+You might already have a design guide in your company. If that is the case, I would like to apply as a Design Partner
+
+
+One of the things I will do if I am hired for this job is to point out mistakes in the current design of the software I will be involved in. If your current designers have huge egoes, then I am not fit in working with them.
+
+Of course this does not mean that they have to believe everything that I say. My teammates should be willing to defend their design if they think it is not wrong. If they think that I'm the one who is wrong, they must also be willing to point out to me.
+
+
+<h3 id="design-partner">
+  <strong>(b) Design Partner</strong>
+</h3>
 
 > Two is better than one.
 
@@ -83,37 +99,6 @@ Or perhaps your software designer is leaving in a few years and he is looking fo
 
 
 
-### (a) .NET Programmer
-
-
-If you read my anti-resume, you might already know that I'm not an expert on frameworks 
-
-In the .NET world, the frameworks I am quite familiar with (but far from being an expert in) are:
-
-- Windows Forms
-- WCF
-- ASP.NET Web Forms
-- ASP.NET MVC
-- Entity Framework
-
-(in the .NET world, those frameworks/libraries would be ASP.NET MVC, Entity Framework)
-
-I have about four years of experience working using .NET.
-
-If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system because I'm not very good with the UI part of a software system.
-
-But if your Web API team is full already, then I have to push myself to be good at the UI also :smile:
-
-
-> Don't be an EF expert. Let the creators of EF be the expert with EF
-
-
-### Python Programmer (on projects that use TDD)
-
-I see TDD listed in almost every job description for a Python developer I see online
-
-
-
 
 ### (c) A Thinking Rubber Duck
 
@@ -127,6 +112,15 @@ I can replace that rubber duck instead because some programmers might need to ta
 
 
 Through this, I can also become familiar with the whole system and might someday help with bringing the code into being testable.
+
+
+### (a) Team member in a new project
+
+
+
+If you have an upcoming project that you will be developing from scratch, I would like to present myself to become part of the team. I believe that I can help with the design/architecture of the project (as long as it is using an Object-Oriented language such as C#, Java, or Python).
+
+I am most familiar with If your team will be using a language or frameworks that I'm not familiar with
 
 
 
@@ -185,6 +179,46 @@ Not really. Maybe someday I can become one. But today?... I don't know how to cr
  You might need someone to enforce TDD and not abandon that discipline even during times of crisis and panic.
 
     "The only way to go fast is to go well" ---- Uncle Bob Martin
+
+
+
+### (a) .NET Programmer
+
+> "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
+<br /><br />
+> Terence McGhee
+
+If you read my anti-resume, you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
+
+In the .NET world, the frameworks I have experience working with (but far from being an expert in) are:
+
+- Windows Forms
+- WCF
+- ASP.NET Web Forms
+- ASP.NET MVC
+- Entity Framework
+- StructureMap
+- Moq
+
+
+
+I have about four years of experience working using .NET.
+
+If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system because I'm not very good with the UI part of a software system.
+
+But if your Web API team is full already, then I have to push myself to be good at the UI also :smile:
+
+
+> Don't be an EF expert. Let the creators of EF be the expert with EF
+
+
+### Python Programmer (on projects that use TDD)
+
+I see TDD listed in almost every job description for a Python developer I see online
+
+
+
+
 
 ### Other
 

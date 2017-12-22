@@ -25,7 +25,7 @@ published: false
 
 You think having an anti-r&eacute;sum&eacute; will put me at a disadvantage? ...
 
-This anti-r&eacute;sum&eacute; (together with my r&eacute;sum&eacute;) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :smile:
+This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/)) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :smile:
 
 
 
@@ -35,11 +35,9 @@ This anti-r&eacute;sum&eacute; (together with my r&eacute;sum&eacute;) will help
 
 ### **I never experienced being an Algorithmer**
 
-In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an Initiate, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an Algorithmer, even though it is much lower than the Initiate in that hierarchy --- I do not have special knowledge in higher mathematics. (Please note that Terence McGhee places the Algorithmer in the same rank as the Chump Coder.)
+In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an **Initiate**, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an **Algorithmer**, even though it is much lower than the Initiate in that hierarchy --- I do not have special knowledge in higher mathematics. (Please note that Terence McGhee places the Algorithmer in the same rank as the Chump Coder.)
 
-But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one.
-
-And working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn al lot from me.
+But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, of course.
 
 
 ### **I'm not an expert on frameworks**
@@ -47,6 +45,11 @@ And working with an Algorithmer will benefit me --- I believe that I will learn 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
 > --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/))
+
+
+You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
+
+Wait... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks. 
 
 
 
@@ -129,7 +132,7 @@ If the unit tests of your system run very slow, you might be interested in hirin
 
 ### I have almost no knowledge about software security
 
-When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. (But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem)
+When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do follow correct guidelines.
 
 Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
 

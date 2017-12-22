@@ -1,8 +1,8 @@
 ---
 layout: page
-title: R&eacute;sum&eacute;
-permalink: /resume/
-published: true
+title: Values of Programming Teams
+permalink: /programming-team-values/
+published: false
 ---
 
 
