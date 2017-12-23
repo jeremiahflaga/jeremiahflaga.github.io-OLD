@@ -13,7 +13,9 @@ published: true
 
 
 <div class="float-right">
-  <img src="/images/Jboy2017-Anti-Resume.jpg" title="Jboy2017-Anti-Resume" alt="Jboy2017-Anti-Resume" height="300" />
+  <a href="/images/Jboy2017-Anti-Resume-Original.jpg">
+    <img src="/images/Jboy2017-Anti-Resume-Small.jpg" title="Jboy Anti Resume Image" alt="Jboy Anti Resume Image" height="300" />
+  </a>
 </div>
 
 

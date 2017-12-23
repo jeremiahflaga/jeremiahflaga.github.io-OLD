@@ -28,7 +28,9 @@ published: true
 <div>
 
   <div class="float-left">
-    <img src="/images/Jboy2017-Real-2-Original.jpg" title="Profile Image" alt="Profile Image" height="200" />
+    <a href="/images/Jboy2017-Real-2-Original.jpg">
+      <img src="/images/Jboy2017-Real-2(200x200).jpg" title="Profile Image" alt="Profile Image" height="200" />
+    </a>
   </div>
 
   <table class="basic-info">
