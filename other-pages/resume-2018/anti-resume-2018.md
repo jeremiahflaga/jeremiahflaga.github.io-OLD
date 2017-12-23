@@ -49,7 +49,22 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
-Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks, such as separating the business rules from the other parts of the system. 
+Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks, such as separating the business rules from the other parts of the system. The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
+
+(I intend to someday become an expert on some frameworks of course.)
+
+You might ask, _"What is my excuse for not being an expert on frameworks?"_
+
+... My excuse is this statement from "The Magic of Thinking Big", which I read ten years ago
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
+
+> "It is more important to use your mind to think than use it as a warehouse for facts."
+<br /><br />
+> "The ability to know how to get information is more important than using the mind as a garage for facts"
+
+
+Today, we already have [the] google [serach engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using.
+
 
 
 ### I have almost no knowledge about software security
@@ -65,6 +80,16 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 
 
 ### More to come...
+
+
+
+
+
+--------------------
+
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>_(I have already forgotten most things I read from this book. But if you have also read this book, you can use some quotes in it to correct me someday when I'm already working with you and I did something wrong. But, of course, if the quote you will use is in disagreement with some of my core values, then I might try to defend myself. :smile: I hope you will also listen during those times when I try to defend myself.)_</small>
+
+
 
 <!--
 
@@ -88,7 +113,6 @@ Then when my first employer made us study DDD, and I learned about what they cal
 
 
 
-Then about two years ago,
 
 > uncle bob martin on web servers and databases and frameworks
 
@@ -302,12 +326,5 @@ But if I will be working with a visual designer, I believe that he will not be h
 **_If you are looking for my [Resum&eacute;](/resume/), you can view it [here](/resume/)_**
 
 
-
-
---------------------
-
-
-
-<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>_(I have already forgotten most things I read from this book. But if you have also read this book, you can use some quotes in it to correct me someday when I'm already working with you and I did something wrong. But, of course, if the quote you will use is in disagreement with some of my core values, then I might try to defend myself. :smile: I hope you will also listen during those times when I try to defend myself.)_</small>
 
  -->
