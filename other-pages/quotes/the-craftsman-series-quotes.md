@@ -66,6 +66,53 @@ I thought about this for a minute. At last Jerry had asked me something that mig
 ```
 
 
+<h3 id="6">
+    The Craftsman #6: Once Is Not Enough
+</h3>
+
+> “What I’m doing here is called **Intentional Programming**.” Jerry said. **I’m calling code that doesn’t yet exist.** As I do so, I **express my intent** about what that code should look like, and how it should behave.”
+
+
+> “But how do you know `SocketService` will need the `connections` method?”
+<br /><br />
+“Oh, it probably doesn’t. I’m just putting it there so I can test it.”
+<br /><br />
+“Isn’t that wasteful?” I queried?
+<br /><br />
+Jerry looked me sternly in the eye and replied: **“Nothing that makes a test easy is wasted, Alphonse. We often add methods to classes simply to make the classes easier to test.”**
+<br /><br />
+I didn’t like the `connections()` method, but I held my tongue for the moment.
+
+
+> “What’s going on?” I asked.
+<br /><br />
+Jerry smiled. “See if you can figure it out, Alphonse. Trace it through.”
+<br /><br />
+“OK, let’s see. The test program calls `serve`, which creates the socket and calls `accept`. Oh! `accept` doesn’t return until it gets a connection! And so `serve` never returns, and we never get to call `connect`.”
+<br /><br />
+Jerry nodded. “So how are you going to fix this Alphonse?”
+<br /><br />
+I thought about this for a minute. I needed to call the `connect` function after calling `accept`, but
+when you call `accept`, it won’t return until you call `connect`. At first this sounded impossible.
+<br /><br />
+**“It’s not impossible, Alphonse.”** said Jerry. **“You just have to create a thread.”**
+<br /><br />
+I thought about this a little more. Yes, I could put the call to accept in a separate thread. Then I could invoke that thread and then call connect.
+
+
+> I repeatedly pushed the button. In ten attempts I saw three failures. Was I losing my mind? How can
+a program behave like that?
+<br /><br />
+“How did you know, Jerry? Are you related to the oracle of Aldebran?”
+<br /><br />
+“No, **I’ve just written this kind of code before, and I know a little bit about what to expect.** Can you work out what’s happening? Think it through carefully.”
+
+
+> “I think you’re right.” Jerry said. “**The two events – accept and close – are asynchronous, and the system is sensitive to their order.** We call that a **race condition**. We have to make sure we always win the race.
+
+
+
+
 
 <h3 id="11">
     The Craftsman #11: What's main() got to do with it
