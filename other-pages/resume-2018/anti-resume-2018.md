@@ -19,7 +19,7 @@ published: true
 
 > "People don't walk around with anti-r&eacute;sum&eacute;s telling you what they have not studied or experienced (it's the job of their competitors to do that), but it would be nice if they did."
 <br /><br />
-> --- Nassim Nicholas Taleb
+> --- Nassim Nicholas Taleb <small>(from ["Why You Should Surround Yourself With More Books Than You'll Ever Have Time to Read"](https://www.inc.com/jessica-stillman/why-you-should-stop-feeling-bad-about-all-those-books-you-buy-dont-read.html?cid=sf01002&sr_share=facebook))</small>
 
 
 
