@@ -376,7 +376,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
         <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
         <br /><br />
         <p class="indented">
-          <em>Architecture is not about frameworks and databases and..."</em>
+          <em>"Architecture is not about frameworks and databases and..."</em>
         </p>
         I thought architecture is about how to combine all these frameworks together to form an application!
         <br /><br />

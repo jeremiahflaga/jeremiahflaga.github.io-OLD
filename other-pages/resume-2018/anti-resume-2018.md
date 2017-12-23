@@ -65,7 +65,7 @@ You might ask, _"What is my excuse for not being an expert on frameworks?"_
 
 Today, we already have [the] google [serach engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using.
 
-I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, than being an expert on frameworks. But like I said, I'm still willing to study and read more about a specific framework if I need to. :smile:
+I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, and learning about the domain of the project I am working on, than being an expert on frameworks. But like I said above, I'm still willing to read and study more about a specific framework when I think my job requires a deeper knowledge about that specific framework. :smile:
 
 ## **I have almost no knowledge about software security**
 

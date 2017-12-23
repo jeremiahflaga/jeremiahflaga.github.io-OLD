@@ -65,6 +65,8 @@ Apprentice
 
 [(e) .NET Programmer](#dotnet-programmer)
 
+[(f) Python Programmer (on projects that use TDD)](#python-programmer)
+
 <h2 id="design-guide">
   <strong>(a) Design Guide</strong>
 </h2>
@@ -155,9 +157,24 @@ But if your Web API team is full already, then I have to push myself to be good 
 
 
 
-### More coming...
+<h2 id="python-programmer">
+  <strong>(f) Python Programmer (on projects that use TDD)</strong>
+</h2>
 
 
+I see [TDD](/tdd-quotes/) listed in almost every job description for a Python developer I see online.
+
+If you are doing TDD in your Python project, I'm also interested about joining your team.
+
+But please note also that, even though I first encountered Python many years ago already, my recent significant experience with Python is only when I read the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experience using python in a _real-world_ project.
+
+
+
+
+
+## More coming...
+
+<br />
 
 
 <h2 id="about-sideline-jobs">
@@ -237,12 +254,6 @@ Not really. Maybe someday I can become one. But today?... I don't know how to cr
  You might need someone to enforce TDD and not abandon that discipline even during times of crisis and panic.
 
     "The only way to go fast is to go well" ---- Uncle Bob Martin
-
-
-
-### Python Programmer (on projects that use TDD)
-
-I see TDD listed in almost every job description for a Python developer I see online
 
 
 
