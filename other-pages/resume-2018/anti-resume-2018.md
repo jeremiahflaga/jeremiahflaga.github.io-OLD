@@ -55,7 +55,7 @@ Wait!... I am not saying that being an expert on frameworks is not important. Wh
 
 You might ask, _"What is my excuse for not being an expert on frameworks?"_
 
-... My excuse is this statement from "The Magic of Thinking Big", which I read ten years ago
+... My excuse is this statement from "The Magic of Thinking Big", which I read from our school's library ten years ago
 <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
 
 > "It is more important to use your mind to think than use it as a warehouse for facts."
@@ -65,7 +65,7 @@ You might ask, _"What is my excuse for not being an expert on frameworks?"_
 
 Today, we already have [the] google [serach engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using.
 
-
+I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, than being an expert on frameworks. But like I said, I'm still willing to study and read more about a specific framework if I need to. :smile:
 
 ## **I have almost no knowledge about software security**
 
