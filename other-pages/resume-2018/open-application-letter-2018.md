@@ -15,20 +15,27 @@ published: true
 Dear Sir/Ma'am,
 
 <div class="message">
+<!-- 
 I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
 <br /><br />
+-->
+
 My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
+
+<!-- 
 <br /><br />
 <em>(I actually also have a secret agenda for doing this. But it is secret, so I'm not going to tell you what it is. But this secret agenda is for the good of the software industry, so you have nothing to worry about it.)</em>
+-->
+
 </div>
 
 I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
-I am applying primarily for a role of being a [Design Guide](#design-guide).
+<!-- I am applying primarily for a role of being a [Design Guide](#design-guide). -->
 
 Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
-If you want to have a better way of measuring whether I'm a phony or not, you can view my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/anti-resume/).
+If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/anti-resume/).
 
 <!-- 
 .NET Programmer
@@ -43,7 +50,11 @@ Apprentice
 -->
 
 
-## Here are the roles you can hire me for:
+<strong>Here are the roles you can hire me for:</strong>
+
+
+<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
+
 
 <h3 id="design-guide">
   <strong>(a) Design Guide</strong>
@@ -51,16 +62,22 @@ Apprentice
 
 _(By "design" I mean "software design".)_
 
-I'm not saying that I'm already an expert on design. But I choose this name, "Design Guide", to be the primary role I want to apply for in your company because I want to help in opening the eyes of recruiters (and my fellow software developers also) that being an expert on using frameworks is not supposed to be the focus of programmers. Our focus should be on how to structure our software so that it is maintainable, because this will bring more value to the business than being an expert on frameworks.
+I'm not saying that I'm already an expert on design, but I'm doing my best to become one.
 
-There are already lots of software developers out there who understands this.
+I have chosen this name, _"Design Guide"_, to be the primary role I want to apply for in your company because one of the things I want to do as a software developer is to make a software system maintainable.
 
-You might already have a design guide in your company. If that is the case, I would like to apply as a Design Partner
+I prefer to be in this role when working on a new project, of course _(everybody wants to work on new projects :grin:)_. But I can also hold this role on projects that are in the maintenance state.
 
+If I am hired to have this role on a **new** project, what I will do is _help_ in deciding how to structure the entire system so that the _"business rules"_ part of the system will be separated from the other parts of the system. I believe that separating the business rules is very important if you want your system to be maintainable. This will mostly be helpful during the maintenance phase of the system, especially when the original developers of the system are not working on that project anymore --- because programmers cannot use google to search about the business rules of a business. They can google for things like how to use a certain framework, but they cannot google for the business rules. They can ask the business owners about them; they can ask someone who is already familiar with the system; but they cannot google for them.
 
-One of the things I will do if I am hired for this job is to point out mistakes in the current design of the software I will be involved in. If your current designers have huge egoes, then I am not fit in working with them.
+If the "business rules" are separated from the other parts of the system, it will be easy for _new_ programmers to fix bugs and add new features, even when the original designers of the system is not present anymore. And if the new programmers find a business rule that they do not understand, they can just ask the business owner about it (when the original programmers of the system are not present anymore).
 
-Of course this does not mean that they have to believe everything that I say. My teammates should be willing to defend their design if they think it is not wrong. If they think that I'm the one who is wrong, they must also be willing to point out to me.
+Then, after deciding on the structure of the entire system, when the actual coding of the features already start, I will pair program with those assigned to do the more complex features of the system and _help_ them with how to design their code. Then when the features that require design guidance are all finished, I will just work on my own in coding the other features.
+
+If I am hired to have this role on an **existing** project (in maintenance state), what I will do is to get familiar with the system by working with the team on fixing bugs and adding new features on the system for a few (or many) weeks. Then when I am already familiar with the system, I will _help_ on _slowly_ separating the business rules from the other parts of the system. Please note that I used the word _help_ in that sentence because I will be needing lots of _help_ from someone who is already familiar with the system while doing this work. I believe I can also do this alone but it will cost me (and you) lots of time and lots of frustration.
+
+But you might already have a design guide in your company. If that is the case, I would like to apply as a [Design Partner](#design-partner).
+
 
 
 <h3 id="design-partner">
@@ -69,50 +86,53 @@ Of course this does not mean that they have to believe everything that I say. My
 
 > Two is better than one.
 
-Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired or get bored and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad. He can help me with my decisions also. He can be able to point out if I make something bad.
+Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired, or get bored, and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad. He can help me with my decisions also. He can be able to point out if I make something bad.
 
-I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system. So I believe that one of the primary tasks of the software designer is to keep the business rules separate from the other parts of the system, and keep them well structured.
-
-You want to separate the "business rules" or "domain objects" from the other parts of the system
-
+_(I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system, of course, and that it must be separated from the other parts of the system.)_
 
 Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
 
 
 
-1. Protecting the design from rotting
-2. 
+<h3 id="design-apprentice">
+  <strong>(c) Design Apprentice</strong>
+</h3>
+
+Your software designer might be _lots-of-years_ ahead of me, and being a [Design Partner](#design-partner) does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
+
+Or perhaps your software designer is leaving in a few years and he is looking for an apprentice to train... I can become his apprentice. :smile:
 
 
-### (b) Design Apprentice
-
-
-Your software designer might be _lots-of-years_ ahead of me, and being a _design partner_ does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
-
-
-
-Or perhaps your software designer is leaving in a few years and he is looking for an apprentice to train... I can become his apprentice.
-
-
-
-
-
-
-
-
-### (c) A Thinking Rubber Duck
-
+<h3 id="thinking-rubber-duck">
+  <strong>(d) A Thinking Rubber Duck</strong>
+</h3>
 
 Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem.
 
-But many programmers do not do that because their coleagues might think that they look like an idiot talking to a rubber duck.
+But many programmers do not do that because they are afraid that their coleagues might think that they are an idiot talking to a rubber duck.
 
-I can replace that rubber duck instead because some programmers might need to talk to someone who can think with them and _help_ them solve the problem.
+I can replace that rubber duck instead, because some programmers need to talk to someone who can _think with them_ and _help_ them solve the problem. I can become a programmer who anyone can call anytime they are stuck.
+
+Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into separating the business rules from the other parts of the syste, or to put it into a state of being testable.
 
 
 
-Through this, I can also become familiar with the whole system and might someday help with bringing the code into being testable.
+### More coming...
 
+
+
+
+<h3 id="about-sideline-jobs">
+  <strong>About sideline jobs</strong>
+</h3>
+
+In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals i want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
+
+Because of that, you will be sure that when I sleep at night, I will only be dreaming about the problems that I encounter while working at your company, and not about problems of other companies. :smile:
+
+
+
+<!--
 
 ### (a) Team member in a new project
 
@@ -231,13 +251,6 @@ it's possible that what you need is not in the list... but if you suspect that i
 
 
 
-### About sideline jobs
-
-In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals i want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
-
-Because of that, you will be sure that when I sleep at night, I will only be dreaming about the problems that I encounter while working at your company, and not about problems of other companies.
-
-
 
 ### I don't think I'm mean
 
@@ -327,7 +340,7 @@ I would prefer working on the Web API part of your software system, because I am
 But if the team that uses TDD also works with UIs, then I will work with them rather than...
 
 
-
+-->
 
 
 
@@ -341,6 +354,7 @@ It would also be great working with you if your company has an existing mentorin
 
 
 
+<!--
  ### A Human rubber duck
 
  I might not be the best designer you will ever have, but if you let me talk to people about design, or teach them a little bit about design, that might trigger the designer part within those developers and they will try to become better designers themselves.
@@ -354,3 +368,5 @@ I must be allowed to question everything.
 I, also, am willing to be questioned about every decision that I make (or made), and I promise I will be very willing to change that decision if I am convinced with the argument of the one who questions.
 
 -----------------
+
+-->

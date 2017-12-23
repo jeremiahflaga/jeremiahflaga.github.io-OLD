@@ -2,7 +2,7 @@
 layout: page
 title: Anti-r&eacute;sum&eacute;
 permalink: /anti-resume/
-published: false
+published: true
 ---
 
 <style>
@@ -31,7 +31,7 @@ This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/
 
 <!-- [I also think that antiresume matches with this idea of TDD, or writing tests] -->
 
-(Note: I'm not a sexist. In the following page(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)
+<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
 
 ### **I never experienced being an Algorithmer**
 
@@ -49,7 +49,15 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
-Wait... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks. 
+Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks, such as separating the business rules from the other parts of the system. 
+
+
+
+### More to come...
+
+<!--
+
+And I intend to be a expert on some frameworks someday.
 
 
 
@@ -260,11 +268,9 @@ In my second job
 So i will not work with you unless I'll be working in a new project where I will have influence about he structure/architecture of the project, or I will be working on an existing project that does not look like it was abandoned by it's designers, or I will be fixing an existing mess.... AND I can mentor the next person that will someday take care of the project I am currently working on (Or the current best designers in you company will mentor me)
 
 
-<!-- 
 Being influenced by people who promote DDD (Note: I only know a little about DDD), I already got past being a framework-focused developer to being a business-model-focused developer.
 
 If your team is still in the stage of being framework-focused, I might not work well with them. Except maybe if you want someone to be influential into making your team business-focused.
- -->
 
 
 
@@ -303,3 +309,5 @@ But if I will be working with a visual designer, I believe that he will not be h
 
 
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>_(I have already forgotten most things I read from this book. But if you have also read this book, you can use some quotes in it to correct me someday when I'm already working with you and I did something wrong. But, of course, if the quote you will use is in disagreement with some of my core values, then I might try to defend myself. :smile: I hope you will also listen during those times when I try to defend myself.)_</small>
+
+ -->

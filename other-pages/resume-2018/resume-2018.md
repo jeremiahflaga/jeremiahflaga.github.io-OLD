@@ -327,7 +327,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
             <li>
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written.
               <br /><br />
-              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used DateTime.Now, and static methods, and extension methods (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
+              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used DateTime.Now, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
               I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a> exists.)
               <br /><br />
@@ -361,13 +361,30 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       <td>
         I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
         <br /><br />
-        <strong><em>I would say that this is the time of my enlightenment.</em></strong> 
+        <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
         <br /><br />
-        <em>"Architecture is not about frameworks and databases and..."</em>
+        <p class="indented">
+          <em>Architecture is not about frameworks and databases and..."</em>
+        </p>
+        I thought architecture is about how to combine all these frameworks together to form an application!
         <br /><br />
-        We, programmers, have placed much of our attention in the wrong places!
+        <p class="indented">
+          <small>
+            <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
+          </small>
+          <br /><br />
+          <small>
+            <em>ASP.NET Web MVC for presentation — Entity Framework for data access — ... </em>
+          </small>
+          <br /><br />
+          <small>
+            <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
+          </small>
+        </p>
+        I placed much of my attention in the wrong places!
         <br /><br />
-        Read the blog post yourself... you will also be enlightened. :smile:
+        <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the there are lots of other materials (and experiences) that helped me come into this kind of enlightenment.</em>
+        <br /><br />
         <!-- 
         <br /><br />
         Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
