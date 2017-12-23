@@ -2,7 +2,7 @@
 layout: page
 title: Anti-r&eacute;sum&eacute;
 permalink: /anti-resume/
-published: true
+published: false
 ---
 
 <style>

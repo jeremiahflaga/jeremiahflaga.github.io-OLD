@@ -2,7 +2,7 @@
 layout: page
 title: Open Application Letter
 permalink: /open-application-letter/
-published: true
+published: false
 ---
 
 <style>
