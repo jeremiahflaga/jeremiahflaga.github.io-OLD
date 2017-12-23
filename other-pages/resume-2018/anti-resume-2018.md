@@ -44,12 +44,23 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
-> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/))
+> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))
 
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
 Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks, such as separating the business rules from the other parts of the system. 
+
+
+### I have almost no knowledge about software security
+
+When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines.
+
+Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
+
+I also read, in the past, about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
+
+But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
 
 
@@ -136,17 +147,6 @@ This problem can be solved if your system allows me to write fast (not slow) uni
 
 If the unit tests of your system run very slow, you might be interested in hiring me to _help_ fix the running time of your unit tests. Please note that I used the word _"help"_ because I will be needing the help of _at least_ one of your developers who is already very familiar with the system whose unit tests' running time you want to fix. It might be possible for me to fix it alone, but it will take way too much time and will give me (and you) too much unecessary frustrations if you allow me to do it alone.
 
-
-
-### I have almost no knowledge about software security
-
-When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do follow correct guidelines.
-
-Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
-
-I also read, in the past, about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
-
-But I have a copy of the book "24 Deadly Sins of Software Security". So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
 
 
