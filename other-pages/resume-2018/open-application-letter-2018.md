@@ -6,7 +6,7 @@ published: true
 ---
 
 <style>
-  h3 {
+  h2 {
     color: #6a9fb5;
   }
 </style>
@@ -49,16 +49,25 @@ TDD Law Enforcer
 Apprentice 
 -->
 
-
-<strong>Here are the roles you can hire me for:</strong>
-
-
 <small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
 
 
-<h3 id="design-guide">
+
+<strong>Here are the roles you can hire me for:</strong>
+
+[(a) Design Guide](#design-guide)
+
+[(b) Design Partner](#design-partner)
+
+[(c) Design Apprentice](#design-apprentice)
+
+[(d) A Thinking Rubber Duck](#thinking-rubber-duck)
+
+[(e) .NET Programmer](#dotnet-programmer)
+
+<h2 id="design-guide">
   <strong>(a) Design Guide</strong>
-</h3>
+</h2>
 
 _(By "design" I mean "software design".)_
 
@@ -80,9 +89,9 @@ But you might already have a design guide in your company. If that is the case, 
 
 
 
-<h3 id="design-partner">
+<h2 id="design-partner">
   <strong>(b) Design Partner</strong>
-</h3>
+</h2>
 
 > Two is better than one.
 
@@ -94,18 +103,18 @@ Perhaps you have someone in your team a very good sofware designer, or a budding
 
 
 
-<h3 id="design-apprentice">
+<h2 id="design-apprentice">
   <strong>(c) Design Apprentice</strong>
-</h3>
+</h2>
 
 Your software designer might be _lots-of-years_ ahead of me, and being a [Design Partner](#design-partner) does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
 
 Or perhaps your software designer is leaving in a few years and he is looking for an apprentice to train... I can become his apprentice. :smile:
 
 
-<h3 id="thinking-rubber-duck">
+<h2 id="thinking-rubber-duck">
   <strong>(d) A Thinking Rubber Duck</strong>
-</h3>
+</h2>
 
 Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem.
 
@@ -113,7 +122,36 @@ But many programmers do not do that because they are afraid that their coleagues
 
 I can replace that rubber duck instead, because some programmers need to talk to someone who can _think with them_ and _help_ them solve the problem. I can become a programmer who anyone can call anytime they are stuck.
 
-Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into separating the business rules from the other parts of the syste, or to put it into a state of being testable.
+Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into separating the business rules from the other parts of the system, or to put it into a state of being testable.
+
+
+<h2 id="dotnet-programmer">
+  <strong>(e) .NET Programmer</strong>
+</h2>
+
+
+> "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
+<br /><br />
+> Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
+
+If you read my [Anti-r&eacute;sum&eacute;](/anti-resume/), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
+
+In the .NET world, some of the frameworks I have experience working with (but far from being an expert in) are:
+
+- Windows Forms
+- Windows Presentation Foundation
+- ASP.NET Web Forms
+- ASP.NET MVC
+- ASP.NET Web API
+- ADO.NET
+- Entity Framework
+- StructureMap
+- Moq
+- (etc.)
+
+If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system because I'm not very good with the UI part of a software system.
+
+But if your Web API team is full already, then I have to push myself to be good at the UI also :smile:
 
 
 
@@ -122,9 +160,9 @@ Also, through this role, I can become familiar with the whole system and might s
 
 
 
-<h3 id="about-sideline-jobs">
+<h2 id="about-sideline-jobs">
   <strong>About sideline jobs</strong>
-</h3>
+</h2>
 
 In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals i want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
 
@@ -200,36 +238,6 @@ Not really. Maybe someday I can become one. But today?... I don't know how to cr
 
     "The only way to go fast is to go well" ---- Uncle Bob Martin
 
-
-
-### (a) .NET Programmer
-
-> "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
-<br /><br />
-> Terence McGhee
-
-If you read my anti-resume, you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
-
-In the .NET world, the frameworks I have experience working with (but far from being an expert in) are:
-
-- Windows Forms
-- WCF
-- ASP.NET Web Forms
-- ASP.NET MVC
-- Entity Framework
-- StructureMap
-- Moq
-
-
-
-I have about four years of experience working using .NET.
-
-If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system because I'm not very good with the UI part of a software system.
-
-But if your Web API team is full already, then I have to push myself to be good at the UI also :smile:
-
-
-> Don't be an EF expert. Let the creators of EF be the expert with EF
 
 
 ### Python Programmer (on projects that use TDD)

@@ -58,7 +58,7 @@ published: true
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/open-application-letter/">Open Application Letter...</a>
+            <a href="/anti-resume/">Anti-r&eacute;sum&eacute;...</a>
           </strong>
         </td>
       </tr>
@@ -66,7 +66,7 @@ published: true
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/anti-resume/">Anti-r&eacute;sum&eacute;...</a>
+            <a href="/open-application-letter/">Open Application Letter...</a>
           </strong>
         </td>
       </tr>
@@ -89,7 +89,10 @@ published: true
       <td>
         <p>C#, VB.NET, LINQ</p>
         <p>ASP.NET Web Forms, ASP.NET MVC, WinForms, WPF, Entity Framework, Moq</p>
-        <p>Completed <a href="/files/certificates/DotNet-Cert-TESDA.jpg">"Short Entry Course on VB.NET and ASP.NET Development" last 2012</a></p>
+        <!-- 
+        <p>Completed <a href="/files/certificates/DotNet-Cert-TESDA.jpg">"Short Entry Course on VB.NET and ASP.NET Development" last 2012</a>
+        </p>
+        -->
       </td>
     </tr>
     <tr>
@@ -104,10 +107,12 @@ published: true
       <td>
         <p>Java</p>
         <p>RxJava, Retrofit</p>
+        <!-- 
         <p>Took 
           <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
         </a>
         </p>
+        -->
       </td>
     </tr>    
     <tr>
@@ -122,11 +127,13 @@ published: true
         <p>
         <strong>ORM:</strong> Entity Framework in .NET, Sugar ORM in Android
         </p>
+        <!-- 
         <p>
-        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a><small> 
-        <!-- (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:) -->
+        Took <a href="/files/certificates/IntroToDB-Cert-Stanford-OpenEdX.pdf">"Introduction to Databases" from Stanford OpenEdX Online last 2014 </a>
+        <small> (I might have already forgotten some of the things I learned from that course, most especially the theory part of relational databases, but I will review them if I need to. :smile:)
         </small>
         </p>
+        -->
       </td>
     </tr>    
     <tr>
@@ -164,7 +171,7 @@ published: true
       <td>
         <p>
           Learned CS through free materials of
-          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/2017/10/14/nand2tetris-certificate-2015">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
+          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/file/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
           <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
         </p>
         <p>
@@ -201,15 +208,20 @@ published: true
       <td>
         <p>Googling Stackoverflow :smile:</p>
         <p>I know a little bit of Python.</p>
-        <p>I also like solving some algorithmic problem, but am able to solve only the simple ones, :smile: at least for now... <br/>
-        You can view my solutions to some problems
-        <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
-        </p>
-        <p>An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).</p>
         <p>
-        <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
+          I also like solving algorithmic problems, but am able to solve only the simple ones, :smile: at least for now... <br/>
+          You can view my solutions to some simple problems
+          <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
         </p>
-        <p><strong>I read.</strong></p>
+        <p>
+          An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).
+        </p>
+        <p>
+          <strong><a href="/why-read/">I read</a>.</strong>
+        </p>
+        <p>
+          <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -514,6 +526,12 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
 
 ----------------------------------------------------------
+
+**If you have not seen them yet, here are the other links which complements my r&eacute;sum&eacute;:**
+
+[**Anti-r&eacute;sum&eacute;**](/anti-resume/)
+
+[**Open Application Letter**](/open-application-letter/)
 
 <!-- 
 

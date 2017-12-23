@@ -6,7 +6,7 @@ published: true
 ---
 
 <style>
-  h3 {
+  h2 {
     color: #507988;
   }
 </style>
@@ -33,14 +33,14 @@ This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/
 
 <small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
 
-### **I never experienced being an Algorithmer**
+## **I never experienced being an Algorithmer**
 
 In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an **Initiate**, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an **Algorithmer**, even though it is much lower than the Initiate in that hierarchy --- I do not have special knowledge in higher mathematics. (Please note that Terence McGhee places the Algorithmer in the same rank as the Chump Coder.)
 
-But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, of course.
+But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, if I will be working with one.
 
 
-### **I'm not an expert on frameworks**
+## **I'm not an expert on frameworks**
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
@@ -67,7 +67,7 @@ Today, we already have [the] google [serach engine] which can serve as our garag
 
 
 
-### I have almost no knowledge about software security
+## **I have almost no knowledge about software security**
 
 When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines.
 
@@ -79,7 +79,7 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 
 
 
-### More to come...
+## **More to come...**
 
 
 
