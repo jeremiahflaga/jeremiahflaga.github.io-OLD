@@ -1,6 +1,8 @@
 ---
 layout: page
 title: TDD Quotes
+categories: [Programming]
+tags: [TDD]
 permalink: /quotes/tdd-quotes/
 ---
 

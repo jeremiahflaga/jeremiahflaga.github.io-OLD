@@ -2,6 +2,7 @@
 layout: page
 title: About Codinfox
 permalink: /about-codinfox/
+published: false
 ---
 
 <p class="message">

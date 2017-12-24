@@ -1,7 +1,7 @@
 ---
 layout: page
 title: '"Everyone is biased" Quotes'
-permalink: /everyone-is-biased-quotes/
+permalink: /quotes/everyone-is-biased-quotes/
 ---
 
 <!-- 
