@@ -201,7 +201,7 @@ published: false
         Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
         </p>
         <p>
-        Believes that <a href="/tdd-quotes/">TDD</a> can greatly help us make software that is maintainable
+        Believes that <a href="/quotes/tdd-quotes/">TDD</a> can greatly help us make software that is maintainable
         </p>
       </td>
     </tr>
@@ -219,7 +219,7 @@ published: false
           An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).
         </p>
         <p>
-          <strong><a href="/why-read/">I read</a>.</strong>
+          <strong><a href="/quotes/why-read/">I read</a>.</strong>
         </p>
         <p>
           <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
@@ -327,6 +327,10 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
         <p class="indented">
           <ol>
             <li> 
+              I learned more about what Object-Oriented programming is. (When I applied for this job, I claimed that I knew OOP. But I )
+            </li>
+            <br />
+            <li> 
               I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors (most especially when the project is in a complex state already, and if the seniors don't want the juniors to mess with the project :grin:).
               <br /><br />
               When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer (provided of course that they also share some of their knowledge with me. :smile:)
@@ -345,11 +349,11 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
               <br /><br />
               I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a> exists.)
               <br /><br />
-              Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation about the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
+              Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation on the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
               <br /><br />
               But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
-              But despite that experience, I'm not against writing tests. I am even a <a href="/tdd-quotes/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
+              But despite that experience, I'm not against writing tests. I am even a <a href="/quotes/tdd-quotes/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
               <!--
               (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a>.)
                -->

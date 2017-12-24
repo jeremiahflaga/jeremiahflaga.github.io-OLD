@@ -132,7 +132,7 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 ### TDD
 
-[Some TDD Quotes](/tdd-quotes/)
+[Some TDD Quotes](/quotes/tdd-quotes/)
 
 <!--
 
