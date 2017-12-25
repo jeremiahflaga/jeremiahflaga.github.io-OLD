@@ -34,3 +34,28 @@ https://greghowlett.com/?affid=5114
 HTML for images (for custom width and height)
 <img src="/images/2017/computer-science-distilled.png" width="48">
 <img src="/images/2017/computer-science-distilled.png" height="250">
+
+
+File tree stucture (from https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html)
+.
+├── db.sqlite3
+├── functional_tests.py
+├── lists
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── manage.py
+└── superlists
+    ├── __init__.py
+    ├── __pycache__
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+
+

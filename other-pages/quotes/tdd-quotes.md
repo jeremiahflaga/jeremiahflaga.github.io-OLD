@@ -91,3 +91,11 @@ matter how pretty or object-oriented or well encapsulated it is.
 >" I’ve found that these two practices have helped me and the organizations I’ve worked for **spend less time over-engineering and under-engineering and more time creating high-quality, function-rich code, produced on time**."
 
 
+
+
+## Other useful TDD quotes
+
+> "TDD isn’t something that comes naturally. It’s a discipline, like a martial art, and just like in a Kung Fu movie, you need a bad-tempered and unreasonable master to force you to learn the discipline."
+<br /><br />
+> --- Harry Percival (from ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_01.html))
+

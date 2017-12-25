@@ -154,13 +154,84 @@ interface.”
 > ... I got to thinking about how remarkable it was to use **tests as a design tool** ...
 
 
+> "If you were just coming onto this project, and I showed you these tests, what would they teach you?"
+<br /><br />
+... **"You mean we wrote these tests as examples to show to others?"**
+<br /><br />
+"That's part of the reason, Alphonse. Yes. **Others will be able to read these tests and see how to work the code we're writing.** They'll also be able to work through our reasoning. Moreover, they'll be able to
+compile and execute these tests in order to prove to themselves that our reasoning was sound."
 
 
+
+
+<h3 id="9">
+    The Craftsman #9: Dangerous Threads
+</h3>
+
+> ... "I wanted two sessions open simultaneously. "
+<br /><br />
+"Why?"
+<br /><br />
+Jerry gave me a curious look and said: "Because then the `serve` method in the `SocketService` class will have been entered twice, in two different threads, before either had had a change to exit. When a function is entered more than once before it exits, it is called **reentrant**."
+<br /><br />
+"But why do you want to test it?"
+<br /><br />
+"Because **reentrant functions often give us the most interesting kinds of problems**."
+
+
+> "We need to put `itsServer.serve` in its own thread so that the loop can return without waiting for it."
+
+
+
+
+
+
+<h3 id="10">
+    The Craftsman #10: Dangling Threads (Iterations Unbound)
+</h3>
+
+
+> "... Joins can take awhile. **It's not good to leave iterator open for long periods when other threads might try to modify the list.**"
+
+> "Alponse, **whenever you have a container being modified by many different threads, there is a chance that the two threads will collide inside the container**. One thread might be in the middle of adding an
+element while another thread is in the middle of deleting one. When that happens the container can get
+corrupted and bizarre things can start happening."
+<br /><br />
+"Oh, so you mean we should synchronize access to the container?"
+<br /><br />
+"Yes, that's exactly what I mean. We need to make sure that while the container is being modified, no
+other thread can access it."
+<br /><br />
+"OK, I can do that. It's pretty simple!" So I proceeded to surround the `add` statement and the two
+remove statements with `synchronized(serverThreads){...}`. I ran the tests, and they all still
+worked.
+
+
+
+> `private List serverThreads = Collections.synchronizedList(new LinkedList());`
+<br /><br />
+> "... Have you heard of the Decorator pattern?"
+<br /><br />
+**"The `synchronizedList` function that we just called wraps the `LinkedList` in a Decorator. All calls to the LinkedList are synchronized by it."**
+<br /><br />
+"That sounds like a pretty good solution." I said.
+<br /><br />
+"Yeah, well, you just have to remember to explicitly synchronize any use of an iterator." He grimaced.
+<br /><br />
+"Really? You mean **iteration isn't synchronized in a synchronized list**?"
 
 
 <h3 id="11">
     The Craftsman #11: What's main() got to do with it
 </h3>
+
+> Jerry looked at me expectantly and asked: "How do you think we should start?"
+<br /><br />
+"I think I'd like to know how the user will use it." I responded.
+<br /><br />
+"Excellent! **Starting from the user's point of view is always a good idea.** So what's the simplest thing
+the user can do with this tool?"
+
 
 > "Excuse me!" Jerry Interrupted. "Do you have a test for that?"
 <br /><br />
