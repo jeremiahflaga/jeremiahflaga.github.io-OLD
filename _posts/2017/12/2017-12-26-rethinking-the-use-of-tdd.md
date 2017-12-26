@@ -2,7 +2,7 @@
 layout: post
 title: Rethinking the use of TDD
 categories: [Programming]
-tags: [TDD, Jimmy Bogard]
+tags: [TDD, Jimmy Bogard, Kent Beck, Robert Martin, DDD]
 date: 2017-12-26 05:00:00 PM UTC
 published: true
 ---
@@ -23,7 +23,7 @@ That last sentence makes me rethink the use of TDD in creating (almost) bug-free
 <!--more-->
 
 
-If you watch the video, Jimmy Bogart moved the business rules (or domain logic) from the `AssignOffer()` method into the entity classes.
+If you watch the video, Jimmy Bogard moved the business rules (or domain logic) from the `AssignOffer()` method into the entity classes.
 
 The original `AssignOffer()` method (at about 16:00 mins in the video) looks like this:
 
