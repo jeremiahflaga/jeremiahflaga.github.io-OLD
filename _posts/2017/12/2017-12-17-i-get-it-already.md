@@ -15,3 +15,9 @@ Each software development team is different from the other. What works in one te
 Each team must agree to some values before each start of a project.
 
 <!--more-->
+
+
+
+
+
+When time will come when we all already do TDD, all software systems will look the same --- they will all look **_"testable"_** :laughing:

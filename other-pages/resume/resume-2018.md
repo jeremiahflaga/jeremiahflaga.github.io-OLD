@@ -486,6 +486,15 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
     It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system, and to fix bugs.
   </dd>
 
+  <dt>"Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)</dt>
+  <dd>
+    Through Uncle Bob's charismatic presentation of TDD, I understood the value of TDD.
+
+    Also, because of my previous experience of writing unit tests after the production code is already written
+  </dd>
+
+  
+
   <dt>The code base should be taken care of</dt>
   <dd>
     Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.

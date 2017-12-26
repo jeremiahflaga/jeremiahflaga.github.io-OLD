@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Great Quotes from "The Craftsman Series" of Uncle Bob Martin
-permalink: /quotes/the-craftsman-series-quotes/
+permalink: /quotes/the-craftsman-series/
 ---
 
 <style>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I am a TDD advocate
+title: '"The heart of the problem is the problem of the heart"'
 categories: [Programming]
 tags: [TDD, Software Design, Michael Feathers, Eddie Bush, Robert Martin]
 date: 2017-12-19 06:20:00 PM UTC

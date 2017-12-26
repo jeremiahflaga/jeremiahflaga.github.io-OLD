@@ -108,7 +108,7 @@ Maybe he is not... because the original code does not seem to have been written 
 
 So maybe Jimmy Bogard is _not_ opposed to TDD... 
 
-Maybe he is opposed only to [writing tests _after-the-fact_](/quotes/expecting-professionalism-by-uncle-bob-martin#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers]((https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055)) :smile:).
+Maybe he is opposed only to [writing tests _after-the-fact_](/quotes/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers]((https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055)) :smile:).
 
 
 Okay! Great!
@@ -117,7 +117,7 @@ But if we can still come up with a good design even when we are not using TDD, m
 
 Or maybe not... Maybe we still need TDD...
 
-Because [TDD has other uses](/quotes/expecting-professionalism-by-uncle-bob-martin#advantages-of-tdd), such as having confidence when cleaning our code base, and having [examples to help others understand our code base](/quotes/the-craftsman-series#8).
+Because [TDD has other uses](/quotes/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd), such as having confidence when cleaning our code base, and having [examples to help others understand our code base](/quotes/the-craftsman-series/#8).
 
 Kent Beck also, in his debate with DHH, said that the first reason why he writes tests was to have fast feedback on whether what he is doing is correct or not. That is one of the advantages of writing tests: _fast feedback_.
 
