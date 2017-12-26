@@ -201,7 +201,7 @@ published: false
         Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
         </p>
         <p>
-        Believes that <a href="/quotes/tdd-quotes/">TDD</a> can greatly help us make software that is maintainable
+        Believes that <a href="/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable
         </p>
       </td>
     </tr>
@@ -353,7 +353,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
               <br /><br />
               But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
-              But despite that experience, I'm not against writing tests. I am even a <a href="/quotes/tdd-quotes/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
+              But despite that experience, I'm not against writing tests. I am even a <a href="/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
               <!--
               (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a>.)
                -->

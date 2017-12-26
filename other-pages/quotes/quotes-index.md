@@ -5,7 +5,7 @@ permalink: /quotes/index
 ---
 
 
-[TDD Quotes](/quotes/tdd-quotes/)
+[TDD Quotes](/quotes/tdd/)
 
 [Why read?](/quotes/why-read/)
 
