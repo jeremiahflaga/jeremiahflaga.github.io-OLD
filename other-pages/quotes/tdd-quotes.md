@@ -92,10 +92,19 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
+### Harry Percival (Preface of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/preface.html))
+
+> I’ve lost count of the number of times I’ve thought “Thanks, tests”, as a functional test uncovers a regression we would never have predicted, or a unit test saves me from making a really silly logic error. **Psychologically, [TDD] made development a much less stressful process. It produces code that’s a pleasure to work with.**
+
+
+
+
+
 
 ## Other useful TDD quotes
 
-> "TDD isn’t something that comes naturally. It’s a discipline, like a martial art, and just like in a Kung Fu movie, you need a bad-tempered and unreasonable master to force you to learn the discipline."
+
+> "**TDD isn’t something that comes naturally. It’s a discipline**, like a martial art, and just like in a Kung Fu movie, you need a bad-tempered and unreasonable master to force you to learn the discipline."
 <br /><br />
-> --- Harry Percival (from ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_01.html))
+> --- Harry Percival (from Chapter 1 of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_01.html))
 

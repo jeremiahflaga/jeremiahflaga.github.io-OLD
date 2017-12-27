@@ -305,10 +305,15 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       <td>
         <p>
           Software Developer for web using .NET at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
-        </p> 
+        </p>
+        <p>
+          Involved in maintaining desktop and web apps for insurance.
+        </p>
+        <!-- 
         <p>
           Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
         </p>
+         -->
       </td>
     </tr>
     <tr>
@@ -368,55 +373,58 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
 
 
+<div class="message">
 
-### **March 2-4, 2016**
+  <h3>
+    <strong>March 2-4, 2016</strong>
+  </h3>
 
-<table class="resume">
-  <tbody>
-    <tr>
-      <td>
-      </td>
-      <td>
-        I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
-        <br /><br />
-        <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
-        <br /><br />
-        <p class="indented">
-          <em>"Architecture is not about frameworks and databases and..."</em>
-        </p>
-        I thought architecture is about how to combine all these frameworks together to form an application!
-        <br /><br />
-        <p class="indented">
-          <small>
-            <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
-          </small>
+  <table class="resume">
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+          I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
           <br /><br />
-          <small>
-            <em>ASP.NET Web MVC for presentation — Entity Framework for data access — ... </em>
-          </small>
+          <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
           <br /><br />
-          <small>
-            <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
-          </small>
-        </p>
-        I placed much of my attention in the wrong places!
-        <br /><br />
-        <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the there are lots of other materials (and experiences) that helped me come into this kind of enlightenment.</em>
-        <br /><br />
-        <!-- 
-        <br /><br />
-        Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
-        <br /><br />
-        Of course I'm not saying that this is the only thing that brought enlightenment to me, because... 
-        as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
-        rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
-         -->
-      </td>
-    </tr>
-  </tbody>
-</table>
+          <p class="indented">
+            <em>"Architecture is not about frameworks and databases and..."</em>
+          </p>
+          I thought architecture is about how to combine all these frameworks together to form an application!
+          <br /><br />
+          <p class="indented">
+            <small>
+              <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
+            </small>
+            <br /><br />
+            <small>
+              <em>ASP.NET Web MVC for presentation — Entity Framework for data access — ... </em>
+            </small>
+            <br /><br />
+            <small>
+              <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
+            </small>
+          </p>
+          I placed much of my attention in the wrong places!
+          <br /><br />
+          <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the there are lots of other materials (and experiences) that helped me come into this kind of enlightenment.</em>
+          <br /><br />
+          <!-- 
+          <br /><br />
+          Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
+          <br /><br />
+          Of course I'm not saying that this is the only thing that brought enlightenment to me, because... 
+          as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
+          rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
+           -->
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-
+</div>
 
 
 ### **October 2016 – January 2018** <small>(1 year, 2 months)</small>
@@ -433,8 +441,13 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           Software Developer for mobile using Android at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>  
         <p>
+          Involved in developing versions 2 and 3 of a mobile app for Android devices
+        </p>
+        <!-- 
+        <p>
           Involved in developing versions 2 and 3 of the Dr. Oz app for Android devices
         </p>
+         -->
       </td>
     </tr>
     <tr>
@@ -447,8 +460,8 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
         <p class="indented">
           Nothing extraordinary. Just did the tasks assigned to me.
           <br /><br />
-          But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things, I tried to use those knowledge in my coding.
-<!--           
+          But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use those knowledge in my coding.
+          <!--           
           <br /><br />
           Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into it
           <br /><br />
@@ -463,7 +476,10 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <strong>Lesson(s) Learned:</strong>
         </p>
         <p class="indented">
-          When developing for mobile, we have to make sure that the mobile app is responsive, so API access and database access should be done in a background thread. Dealing with this threads thing is messy. I still have to learn more about how to properly deal with threads.
+          <!-- 
+          When developing for mobile, we have to make sure that the mobile app is responsive, so API access and database access should be done in a background thread. 
+          -->
+          Dealing with this _threads_ thing is hard. I still have to learn more about how to properly deal with threads.
         </p>
       </td>
     </tr>
@@ -481,6 +497,8 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
   <dt>The business rules must be separated</dt>
   <dd>
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my carrer. So I understand the importance of the business rules in a software system.
+    
     There must be a very clear separation of the business logic layer from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br />
     It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system, and to fix bugs.
@@ -504,7 +522,11 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
   
   <dt>Any member of the team must be allowed to speak up</dt>
   <dd>
-    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base. It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
+    "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one." - Eddie Bush (from "Automated Unit Testing: X-Ray Vision for Code Quality")
+    <br />
+    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
+    <br />
+    (Note: It's okay for me to be told that my code is wrong. If I think that it is not wrong, I will reason with you. But please [argue with me](/2017/04/20/argue-to-learn-not-to-win) if you think that it is really wrong.)
   </dd>
 
   <dt>The team members must have a common set of values</dt>
@@ -512,7 +534,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
     Before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and his values match... then okay!
   </dd>
 
-  <dt>System for asking help</dt>
+  <dt>There must be a system for asking help</dt>
   <dd>
     Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
     <br />

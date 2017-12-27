@@ -2,7 +2,7 @@
 layout: post
 title: Rethinking the use of TDD
 categories: [Programming]
-tags: [TDD, Jimmy Bogard, Kent Beck, Robert Martin, DDD]
+tags: [TDD, Jimmy Bogard, Kent Beck, Robert Martin, DDD, Terence McGhee]
 date: 2017-12-26 05:00:00 PM UTC
 published: true
 ---

@@ -69,6 +69,7 @@ Today, we already have [the] google [serach engine] which can serve as our garag
 
 I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, and learning about the domain of the project I am working on, than being an expert on frameworks. But like I said above, I'm still willing to read and study more about a specific framework when I think my job requires a deeper knowledge about that specific framework. :smile:
 
+
 ## **I have almost no knowledge about software security**
 
 When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines.
@@ -79,6 +80,25 @@ I also read, in the past, about Cross-site Scripting (XSS) and Cross-site Reques
 
 But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
+
+
+## **I will own the mess other people made if...**
+
+I would love to work on a new project where I will have influence on the entire architecture of the system, and on the design of the individual parts.
+
+But most software system in existence today are in the maintenance mode. SO there is a very big possibility that I will be working on one...
+
+I am influenced by this idea of _"collective ownership of the code base"_...
+
+... and also by this quote:
+
+> "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
+<br /><br />
+> from ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)
+
+That will be hard to do, owning the code that somebody else has written, most especially if the code is messy and hard to work with.
+
+If you current code base is messy, I will _help_ own the mess, and will try to _help_ clean up the mess, only if there is proper compensation for it.
 
 
 ## **More to come...**

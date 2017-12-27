@@ -10,19 +10,11 @@ published: false
 <!-- December 20, 2017 2:20:00 AM Philippine Time -->
 
 
-through Uncle Bob's charismatic presentation of TDD
-
-... after hearing Uncle Bob's talk on architecture where at the end part of his talk he talked about the benefit of TDD... also the Fitness project .. where he is confident on deploying it if all the tests run
-
-
-
-I now understand why I have become a TDD advocate these days... 
-
-It's because I understand the value of automated tests, and because of my previous experience of writing unit tests after the production code is already written --- it was hard :D (it was hard because I'm not yet a Michael Feathers)
-
-"Automated unit testing is a gateway drug to Test-Driven Development" - Eddie Bush
-(http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/
-
 
 <!--more-->
 
+
+
+
+
+(I actually have a secret agenda for why I am promoting the separation of the business rules from the other parts of the software system --- when I will become a part of a team that do not practice TDD I will still do TDD 

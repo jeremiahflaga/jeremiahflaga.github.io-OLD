@@ -221,6 +221,7 @@ worked.
 "Really? You mean **iteration isn't synchronized in a synchronized list**?"
 
 
+
 <h3 id="11">
     The Craftsman #11: What's main() got to do with it
 </h3>
@@ -242,6 +243,8 @@ the user can do with this tool?"
 
 > "You see?" He explained. **"I like to evaluate each command line argument in its own function, rather than mixing all that parsing and evaluating code together."**
 
+
+> While I was typing, it struck me as odd that I was writing all the production code, and yet the design was all Jerry's. And yet, all Jerry was doing was writing little test cases. **Can you really specify a design by writing test cases?**
 
 
 <h3 id="12">

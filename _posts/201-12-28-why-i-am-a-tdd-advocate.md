@@ -26,3 +26,10 @@ It's because I understand the value of automated tests, and because of my previo
 
 <!--more-->
 
+
+
+I'm a TDD fan even though I never experience doing TDD in a readl world project.
+
+
+I'm hopeful that TDD will solve many of the problems that programmers are facing.
+
