@@ -291,3 +291,42 @@ CompileFileTransaction." I said. "Is there something wrong with it?"
 <br /><br />
 She stood up, preparing to leave. She looked down at me and said: "No, nothing horribly wrong. But
 do you think that's what the real server is going to do? **Do you think the real server will have a long `if/else` chain of `instanceof` expressions to parse the incoming transactions?**"
+
+
+
+
+<h3 id="15">
+    The Craftsman #15: Ess Are Pee
+</h3>
+
+> Do you know the **Single Responsibility Principle** Jasmine? Have you heard of it? Have you studied it? Well I have. Do you know what it says, Jasmine? It says that a class should have one and only one reason to change, Jasmine. It says that **all the functions and variables of a class should work together towards a single goal**, Jasmine. It says that a class should not try to accomplish more than one goal.
+
+> "Remember the `compileFile` function Jasmine, remember how it used to read the file and pass a
+`char` array into the `CompileFileTransaction`? You asked me what I didn't LIKE about that function.
+Well I'll TELL you what I didn't LIKE about it, Jasmine; it was VIOLATING the SRP! **It had TWO reasons to change, instead of ONE. It depended BOTH on the details of reading a file, AND on the policy of building and sending transactions.** That's TOO MUCH RESPONSIBILITY Jasmine."
+
+
+
+
+<h3 id="16">
+    The Craftsman #16: Excess Politesse
+</h3>
+
+
+> "FileCarrier reads the file with a single read, and writes it with a single write. This works for small examples, but there are a few problems with it. First of all, **I'm not convinced that the read won't abort early**, filling only part of the array. Secondly, **the carried file is going to be transmitted over a socket to another system. That system may use a different line-end character.** So I don't think FileCarrier will work well across foreign systems."
+
+
+<span class="message message-compressed float-right">
+    Template Method pattern used in test... awesome!
+</span>
+
+> ... These five test cases had a lot of duplicate code. Each wrote two files. Each compared the two files. Each deleted the two files. To get rid of this duplication I used the **Template Method pattern**. I moved all the common code into an abstract base class called FileComparator...
+
+
+
+<h3 id="17">
+    The Craftsman #17: Call in the Guards
+</h3>
+
+
+> "Oh, now, dear! How long have you been working here? **You've got to write a test first, dear.** You can't just go off writing the main function! **Where would we be if everyone just wrote the functions without writing the tests first?** I can tell you where -- In a pickle, that's where. No, dear, you delete that and write a test first.

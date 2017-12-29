@@ -26,7 +26,7 @@ This article by James Shore might also be a great help: ["Dependency Injection D
 
 We need to see code...
 
-Uncle Bob did not give us a sample project in his talks and in his blog. He only have some code snippets in one of his blog posts, ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html), but not an entire sample project. (Maybe he will provide a sample project in his [upcoming book](https://www.bookdepository.com/Clean-Architecture-Robert-C-Martin/9780134494166)?)
+Uncle Bob did not give us a sample project in his talks and in his blog. He only have some code snippets in one of his blog posts, ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html), but not an entire sample project. (Maybe he will provide a sample project in his [upcoming book](https://www.bookdepository.com/Clean-Architecture-Robert-C-Martin/9780134494166?a_aid=jflaga)?)
 
 But, luckily, some of our other masters have provided us some sample projects that use the Clean Architecture model.
 

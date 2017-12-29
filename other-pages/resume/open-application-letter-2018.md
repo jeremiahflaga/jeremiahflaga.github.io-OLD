@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Open Application Letter
-permalink: /open-application-letter/
-published: false
+permalink: /resume/open-application-letter/
+published: true
 ---
 
 <style>
@@ -35,7 +35,7 @@ I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years 
 
 Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
-If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/anti-resume/).
+If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/resume/anti-resume/).
 
 <!-- 
 .NET Programmer
@@ -67,6 +67,13 @@ Apprentice
 
 [(f) Python Programmer (on projects that use TDD)](#python-programmer)
 
+[(g) TDD Preacher](#tdd-preacher)
+
+[(h) Other...](#other)
+
+-------------------------------------
+
+
 <h2 id="design-guide">
   <strong>(a) Design Guide</strong>
 </h2>
@@ -75,13 +82,15 @@ _(By "design" I mean "software design".)_
 
 I'm not saying that I'm already an expert on design, but I'm doing my best to become one.
 
-I have chosen this name, _"Design Guide"_, to be the primary role I want to apply for in your company because one of the things I want to do as a software developer is to make a software system maintainable.
+I have chosen this name, _"Design Guide"_, to be the primary role I want to apply for in your company because one of the things I want to do as a software developer is to make a software system maintainable by [separating the business logic part from the other parts of the software system.](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/)
 
-I prefer to be in this role when working on a new project, of course _(everybody wants to work on new projects :grin:)_. But I can also hold this role on projects that are in the maintenance state.
+I prefer to be in this role when working on a new project, of course _(everybody wants to work on new projects :grin:)_. But I can also hold this role on projects that are in the maintenance phase.
 
-If I am hired to have this role on a **new** project, what I will do is _help_ in deciding how to structure the entire system so that the _"business rules"_ part of the system will be separated from the other parts of the system. I believe that separating the business rules is very important if you want your system to be maintainable. This will mostly be helpful during the maintenance phase of the system, especially when the original developers of the system are not working on that project anymore --- because programmers cannot use google to search about the business rules of a business. They can google for things like how to use a certain framework, but they cannot google for the business rules. They can ask the business owners about them; they can ask someone who is already familiar with the system; but they cannot google for them.
+If I am hired to have this role on a **new** project, what I will do is _help_ in deciding how to structure the entire system so that the _"business rules"_ part of the system will be separated from the other parts of the system. I believe that separating the business rules is very important if you want your system to be maintainable. 
 
 If the "business rules" are separated from the other parts of the system, it will be easy for _new_ programmers to fix bugs and add new features, even when the original designers of the system is not present anymore. And if the new programmers find a business rule that they do not understand, they can just ask the business owner about it (when the original programmers of the system are not present anymore).
+
+So this separation thing will be helpful mostly during the maintenance phase of the system, especially when the original developers of the system are not working on that project anymore... because programmers cannot use google to search about the business rules of a business. They can google for things like how to use a certain framework, but they cannot google for the business rules. They can ask the business owners about them, they can ask someone who is already familiar with the system, but they cannot google for them.
 
 Then, after deciding on the structure of the entire system, when the actual coding of the features already start, I will pair program with those assigned to do the more complex features of the system and _help_ them with how to design their code. Then when the features that require design guidance are all finished, I will just work on my own in coding the other features.
 
@@ -131,12 +140,12 @@ Also, through this role, I can become familiar with the whole system and might s
   <strong>(e) .NET Programmer</strong>
 </h2>
 
-
-> "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
+> "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
-> Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
+> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))
 
-If you read my [Anti-r&eacute;sum&eacute;](/anti-resume/), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
+
+If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
 
 In the .NET world, some of the frameworks I have experience working with (but far from being an expert in) are:
 
@@ -151,9 +160,9 @@ In the .NET world, some of the frameworks I have experience working with (but fa
 - Moq
 - (etc.)
 
-If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system because I'm not very good with the UI part of a software system.
+If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [r&eacute;sum&eacute;](/resume/)?)
 
-But if your Web API team is full already, then I have to push myself to be good at the UI also :smile:
+But if your Web API team is full already, or if the role that I need to fill will still involve the UI, then I have to push myself to be good at the UI also :smile:
 
 
 
@@ -166,13 +175,32 @@ I see [TDD](/quotes/tdd/) listed in almost every job description for a Python de
 
 If you are doing TDD in your Python project, I'm also interested about joining your team.
 
-But please note also that, even though I first encountered Python many years ago already, my recent significant experience with Python is only when I read the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experience using python in a _real-world_ project.
+But please note also that, even though I first encountered Python many years ago, my recent significant experience with Python is only when I studied the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experience using python in a _real-world_ project.
+
+
+<h2 id="tdd-preacher">
+  <strong>(g) TDD Preacher</strong>
+</h2>
+
+> "... preaching sermons to the unconverted in the hope of redeeming them (or at least their code)." Tomek Kaczanowski
+
+
+_TDD Preacher?_
+
+No. Not really. Maybe someday I can become one. But today?... I don't know how to create sermons... :laughing: And I'm not good at speaking. :grin:
+
+
+
+<h2 id="other">
+  <strong>(h) Other...</strong>
+</h2>
+
+If the role you need is not in the list above, but if you suspect that I am fit for that kind of job, please contact me with the details of the kind of job you are offering and I will see if I will be able to do it. :smile:
 
 
 
 
-
-## More coming...
+## More next time...
 
 <br />
 
@@ -236,16 +264,6 @@ Well, I will do what
 I' not a proponent of good design just for the sake of having a good design. I'm a proponent of good design because it helps in eliminating bugs, and good design helps in eliminating errors that programmers can make.
 
 
-### (e) TDD Preacher/Guide
-
-> "... preaching sermons to the unconverted in the hope of redeeming them (or at least their code)." Tomek Kaczanowski
-
-
-TDD Preacher?
-
-Not really. Maybe someday I can become one. But today?... I don't know how to create sermons.
-
-
 
 ### (f) TDD Law Enforcer
 
@@ -255,16 +273,6 @@ Not really. Maybe someday I can become one. But today?... I don't know how to cr
 
     "The only way to go fast is to go well" ---- Uncle Bob Martin
 
-
-
-
-
-### Other
-
-the jobs above might sound good to, but I got those description because of previous experiences
-
-
-it's possible that what you need is not in the list... but if you suspect that i am fit for that kind of job, please contact me with the details of the kind of job you are offering and I will see if I will be able to do it.
 
 
 

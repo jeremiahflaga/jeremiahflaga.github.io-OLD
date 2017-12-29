@@ -2,7 +2,7 @@
 layout: page
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: false
+published: true
 ---
 
 <style>
@@ -60,7 +60,7 @@ published: false
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/anti-resume/">Anti-r&eacute;sum&eacute;...</a>
+            <a href="/resume/anti-resume/">Anti-r&eacute;sum&eacute;...</a>
           </strong>
         </td>
       </tr>
@@ -68,7 +68,7 @@ published: false
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/open-application-letter/">Open Application Letter...</a>
+            <a href="/resume/open-application-letter/">Open Application Letter...</a>
           </strong>
         </td>
       </tr>
@@ -90,7 +90,7 @@ published: false
       <td>.NET:</td>
       <td>
         <p>C#, VB.NET, LINQ</p>
-        <p>ASP.NET Web Forms, ASP.NET MVC, WinForms, WPF, Entity Framework, Moq</p>
+        <p>WinForms, WPF, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Web API, Entity Framework, Moq, etc.</p>
         <!-- 
         <p>Completed <a href="/files/certificates/DotNet-Cert-TESDA.jpg">"Short Entry Course on VB.NET and ASP.NET Development" last 2012</a>
         </p>
@@ -227,6 +227,16 @@ published: false
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td>
+        <p>
+          I had read ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) in the past (year 2007 or 2008), and this book has a big impact on how I think today.
+          <br /><br />
+          <em>(I included this because this might give plus points for me... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td>GitHub:</td>
       <td>
         <p><a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a></p>
@@ -243,9 +253,9 @@ published: false
 
 ## **I'm an initiate**
 
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I <em>try</em> to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:), but I'm already aware, through experience, that code that is easy to read is valuable code.
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:), but I'm already aware, through experience, that code that is easy to read is valuable code.
 
-But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
+But I think you can still forgive me if I consider myself a **_Level "Zero" Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns .
 
 
 ----------------------------------------------------------
@@ -262,7 +272,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       </td>
       <td>
         <p>
-          Software Developer for web using .NET at <strong><a  href="http://www.jairosolutions.com">Jairosolutions</a></strong>
+          Software Developer for web using .NET (and Sitecore) at <strong><a  href="http://www.jairosolutions.com">Jairosolutions</a></strong>
         </p>  
         <p>
           Involved in creating contest pages for <a  href="http://www.getmodal.com/portfolio/verizon-insider/">www.verizoninsider.com</a>
@@ -277,13 +287,16 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <strong>Contributions:</strong>
         </p>
         <p class="indented">
-          Nothing extraordinary. Just finished the tasks assigned to me such as creating a Twitter profile widget <a  href="https://jeremiahflaga.blogspot.com/2012/04/customized-twitter-profile-widget.html">which I posted in my old blog</a>.
+          Nothing extraordinary. Just finished the tasks assigned to me.
+          <!--
+           such as creating a Twitter profile widget <a  href="https://jeremiahflaga.blogspot.com/2012/04/customized-twitter-profile-widget.html">which I posted in my old blog</a>.
+          -->
         </p>
         <p>
           <strong>Lesson(s) Learned:</strong>
         </p>
         <p class="indented">
-          This is where I was first exposed to DDD. Our employer made us study DDD because we will be using it in an in-house project. But I was not lucky to be involved in the in-house project because the employement of three junior developers, which inlcuded me, stopped after six months due to some problems unbeknownst to me.
+          This is where I was first exposed to DDD. Our employer made us study DDD because we will be using it in an in-house project. But I was not lucky to be involved in the in-house project because the employement of three junior developers, which inlcuded me, stopped after six months due to a problem unbeknownst to me.
           <br /><br />
           I just saw the initial structure of the project. I saw that there was a <code>Core</code> module, which I now understand to be the module which holds the business rules. There was also an <code>Infrastructure</code> module(s), which holds the data layer and some other parts of the system. There was no presentation layer yet during the time that I saw the project.
         </p>
@@ -333,16 +346,16 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <ol>
             <li> 
               I learned more about what Object-Oriented programming is.
-              <br />
-              (When I applied for this job, I claimed to know OOP. But I later realized that I really did not know OOP. I only knew about what a class is, what an interface is, what an abstract class is, but I did not not yet have a full understanding about their uses.)
-              <br />
-              This is where I <em>started</em> to understand the Dependency Inversion Principle (specifically, the Constructor Injection thing), and the use of the Factory design patters.
+              <br /><br />
+              (When I applied for this job, I claimed to know OOP. But I later realized that I really did not know OOP. I only knew about what a class is, what an interface is, what an abstract class is, what polymorphism is, but I did not not yet have a full understanding about their uses.)
+              <br /><br />
+              This is where I <em>started</em> to understand the Dependency Inversion Principle (specifically, the Constructor Injection thing), the use of the Factory design pattern, and other things.
             </li>
             <br />
             <li> 
               I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors (most especially when the project is in a complex state already, and if the seniors don't want the juniors to mess with the code :grin:).
               <br /><br />
-              When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer (provided of course that they also share some of their knowledge with me. :smile:)
+              (When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer... provided of course that they also share some of their knowledge with me. :smile:)
             </li>
             <br />
             <li>
@@ -352,19 +365,21 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
             </li>
             <br />
             <li>
-              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written.
+              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. --- It was hard. :smile:
+              <br /><br />
+              I think that experience is one of the reasons why I am a <a href="/quotes/tdd/">TDD fan</a> today.
+              <!--
               <br /><br />
               There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used DateTime.Now, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
-              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a> exists.)
+              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
               <br /><br />
               Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation on the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
               <br /><br />
               But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
               But despite that experience, I'm not against writing tests. I am even a <a href="/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
-              <!--
-              (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055">"Working Effectively with Legacy Code"</a>.)
+              (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a>.)
                -->
             </li>
           </ol>
@@ -380,54 +395,43 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 <div class="message">
 
   <h3>
-    <strong>March 2-4, 2016 - Enlightenment Period</strong>
+    <strong>March 2-4, 2016 — Enlightenment Period</strong>
   </h3>
 
-  <table class="resume">
-    <tbody>
-      <tr>
-        <td>
-        </td>
-        <td>
-          I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
-          <br /><br />
-          <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
-          <br /><br />
-          <p class="indented">
-            <em>"Architecture is not about frameworks and databases and..."</em>
-          </p>
-          I thought architecture is about how to combine all these frameworks together to form an application!
-          <br /><br />
-          <p class="indented">
-            <small>
-              <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
-            </small>
-            <br /><br />
-            <small>
-              <em>ASP.NET Web MVC for presentation — Entity Framework for data access — ... </em>
-            </small>
-            <br /><br />
-            <small>
-              <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
-            </small>
-          </p>
-          I placed much of my attention in the wrong places!
-          <br /><br />
-          <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the there are lots of other materials (and experiences) that helped me come into this kind of enlightenment.</em>
-          <br /><br />
-          <!-- 
-          <br /><br />
-          Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
-          <br /><br />
-          Of course I'm not saying that this is the only thing that brought enlightenment to me, because... 
-          as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
-          rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
-           -->
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
+  I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
+  <br /><br />
+  <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
+  <br /><br />
+  <p class="indented">
+    <em>"Architecture is not about frameworks and databases and..."</em>
+  </p>
+  I thought architecture is about how to combine all these frameworks together to form an application!
+  <br /><br />
+  <p class="indented">
+    <small>
+      <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
+    </small>
+    <br /><br />
+    <small>
+      <em>ASP.NET Web MVC for presentation — Entity Framework for data access — ... </em>
+    </small>
+    <br /><br />
+    <small>
+      <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
+    </small>
+  </p>
+  I placed much of my attention in the wrong places!
+  <br /><br />
+  <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.</em>
+  <br /><br />
+  <!-- 
+  <br /><br />
+  Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
+  <br /><br />
+  Of course I'm not saying that this is the only thing that brought enlightenment to me, because... 
+  as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
+  rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
+    -->
 </div>
 
 
@@ -487,12 +491,13 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <ol>
             <li>
               I learned how to work on a Java platform.
-              <br />
+              <br /><br />
               Before this job, I only knew how to do real world apps using .NET. Doing Android made me more confident that I can also do work on other platforms.
             </li>
+            <br />
             <li>
-              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. Yehey!
-              <br />
+              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
+              <br /><br />
               But I still have to learn more about this threads thing.
             </li>
           </ol>
@@ -513,34 +518,44 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
   <dt>The business rules must be separated</dt>
   <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic or domain model) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
-    <br />
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    <br /><br />
     Because of that I learned that in a software system, there must be a very clear separation of the business rules from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
-    <br />
+    <br /><br />
     It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system, and to fix bugs.
   </dd>
 
-<!-- 
-  <dt>"Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)</dt>
-  <dd>
-    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
-    <br />
-    Also, because of my previous experience of writing unit tests after the production code is already written
-  </dd>
- -->
-  
-
+  <br />
   <dt>We should take care of our code base</dt>
   <dd>
     Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.
-    <br />
+    <br /><br />
     I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
   </dd>
+
+  <dt>There must be a system for asking help</dt>
+  <dd>
+    Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
+    <br />
+    I think doing pair programming from time to time can help make this awkwardness of asking questions go away.
+    <br />
+    But perhaps there are other ways to solve this problem.
+  </dd>
   
+  <br />
+  <dt>Other</dt>
+  <dd>
+    ...
+  </dd>
+</dl>
+
+  
+<!--   
+<dl>
   <dt>Any member of the team must be allowed to speak up</dt>
   <dd>
     "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one." - Eddie Bush 
-    <!-- (from "Automated Unit Testing: X-Ray Vision for Code Quality") -->
+    (from "Automated Unit Testing: X-Ray Vision for Code Quality")
     <br />
     Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
     <br />
@@ -552,20 +567,22 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
     Before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and his values match... then okay!
   </dd>
 
-  <dt>There must be a system for asking help</dt>
+  <dt>Writing unit tests after the production code is already written is hard</dt>
   <dd>
-    Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
+    <blockquote>
+      "Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)
+    </blockquote>
     <br />
-    I think doing pair programming from time to time can help make this awkwardness of asking questions go away.
+    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
     <br />
-    But perhaps there are other ways to solve this problem.
+    Also, because of my previous experience of writing unit tests after the production code is already written
   </dd>
-
   <dt>Others</dt>
   <dd>
     ...
   </dd>
 </dl>
+-->
 
 
 
@@ -580,13 +597,15 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
 
 
+
+
 ----------------------------------------------------------
 
 **If you have not seen them yet, here are the other links which complements my r&eacute;sum&eacute;:**
 
-[**Anti-r&eacute;sum&eacute;**](/anti-resume/)
+[**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
-[**Open Application Letter**](/open-application-letter/)
+[**Open Application Letter**](/resume/open-application-letter/)
 
 
 

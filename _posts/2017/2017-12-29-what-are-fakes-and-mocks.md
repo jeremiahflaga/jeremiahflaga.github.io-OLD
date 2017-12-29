@@ -11,7 +11,7 @@ published: false
 
 (I have to write something for this week. So here it is...)
 
-A month ago, I had read the first three chapters of ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055) of Michael Feathers. It enlightened me about the difference between **fakes** and **mocks**. I'm not sure if I had also read about this in the past. Maybe I had. I can't remember anymore... But this one will make me remember, I'm sure... I hope. (And writing about it will make me remember more surely :laughing:)
+A month ago, I had read the first three chapters of ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) of Michael Feathers. It enlightened me about the difference between **fakes** and **mocks**. I'm not sure if I had also read about this in the past. Maybe I had. I can't remember anymore... But this one will make me remember, I'm sure... I hope. (And writing about it will make me remember more surely :laughing:)
 
 (Ahh! I remember that Martin Fowler had written something about this in his website --- "Fakes are not Mocks", or something like that. Google for it if you are interested, but please read on first.)
 

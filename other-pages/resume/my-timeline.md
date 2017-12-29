@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Timeline
-permalink: /my-timeline/
+permalink: /resume/my-timeline/
 published: false
 ---
 

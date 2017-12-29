@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Values of Programming Teams
-permalink: /programming-team-values/
+permalink: /resume/programming-team-values/
 published: false
 ---
 

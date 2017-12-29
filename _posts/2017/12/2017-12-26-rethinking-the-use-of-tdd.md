@@ -108,7 +108,7 @@ Maybe he is not... because the original code does not seem to have been written 
 
 So maybe Jimmy Bogard is _not_ opposed to TDD... 
 
-Maybe he is opposed only to [writing tests _after-the-fact_](/quotes/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers]((https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055)) :smile:).
+Maybe he is opposed only to [writing tests _after-the-fact_](/quotes/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers]((https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga)) :smile:).
 
 
 Okay! Great!
