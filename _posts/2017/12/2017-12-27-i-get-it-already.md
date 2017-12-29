@@ -31,10 +31,10 @@ The business rules are the most important part of a software system. They are ve
 
 
 
-Still, I long for the day when all software systems will look the same --- they will all look **_"testable"_** :smile:
+Still, I long for the day when all software systems will look the same --- they will all look **_"testable"_.** :smile: That means that the software systems will be easy to work with! 
 
 
-_(I actually have a secret agenda for why I am promoting the separation of the business rules from the other parts of the software system --- when I will become a part of a team that do not practice TDD I will still do TDD with the business rules :smiling_imp:)_
+_(I actually have a secret agenda for helping promote the separation of the business rules from the other parts of a software system --- when I will become a part of a team that do not practice TDD I will still do TDD with the business rules :smiling_imp:)_
 
 
 

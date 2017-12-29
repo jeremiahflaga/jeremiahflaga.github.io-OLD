@@ -112,4 +112,4 @@ _I'm just joking!_
 
 _**Why am I blaming other people instead of mastering my own self!**_
 
-:cry:
+:sob:

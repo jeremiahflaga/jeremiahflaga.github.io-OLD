@@ -255,6 +255,19 @@ the user can do with this tool?"
 <br /><br />
 "True." Jerry replied. "But **duplication should always be removed as soon as possible. If you allow duplicate code to accumulate in your project you'll find yourself with a huge source of confusion and bugs**."
 
+> "No, you don't need to write the server." Jerry said. "At this point all we are testing is the client's ability to send the file, not the servers ability to receive it. "
+<br /><br />
+"How can I send the file without having a server to receive it?"
+<br /><br />
+"You can create a **stub server** that does as little work as possible. It doesn't have to receive the file at first, it just has to acknowledge that you sent the file correctly."
+<br /><br />
+"So...hmmm...something like this?"
+<br /><br />
+`assertTrue(server.fileReceived);`
+
+
+> I didn't type this all at once. I didn't want to have to dodge another muon pulse. So **I made the changes in much smaller steps, running the tests in between each step**.
+
 
 
 
@@ -266,3 +279,15 @@ the user can do with this tool?"
 
 
 
+
+<h3 id="14">
+    The Craftsman #14: Transaction Actions
+</h3>
+
+> ... But before I go, I'd like your thoughts on that `instanceof` you used in the mock server."
+<br /><br />
+"That was the simplest thing I could think of to check whether or not the incoming object was a
+CompileFileTransaction." I said. "Is there something wrong with it?"
+<br /><br />
+She stood up, preparing to leave. She looked down at me and said: "No, nothing horribly wrong. But
+do you think that's what the real server is going to do? **Do you think the real server will have a long `if/else` chain of `instanceof` expressions to parse the incoming transactions?**"

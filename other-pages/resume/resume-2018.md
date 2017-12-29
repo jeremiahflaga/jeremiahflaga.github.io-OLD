@@ -243,7 +243,7 @@ published: false
 
 ## **I'm an initiate**
 
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I <em>try</em> to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times or _lazy_ times), but I'm already aware, through experience, that code that is easy to read is valuable code.
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I <em>try</em> to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:), but I'm already aware, through experience, that code that is easy to read is valuable code.
 
 But I think you can still forgive me if I consider myself a **_Level Zero Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean/Decoupled Architecture, and some Design Patterns .
 
@@ -332,11 +332,15 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
         <p class="indented">
           <ol>
             <li> 
-              I learned more about what Object-Oriented programming is. (When I applied for this job, I claimed that I knew OOP. But I )
+              I learned more about what Object-Oriented programming is.
+              <br />
+              (When I applied for this job, I claimed to know OOP. But I later realized that I really did not know OOP. I only knew about what a class is, what an interface is, what an abstract class is, but I did not not yet have a full understanding about their uses.)
+              <br />
+              This is where I <em>started</em> to understand the Dependency Inversion Principle (specifically, the Constructor Injection thing), and the use of the Factory design patters.
             </li>
             <br />
             <li> 
-              I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors (most especially when the project is in a complex state already, and if the seniors don't want the juniors to mess with the project :grin:).
+              I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors (most especially when the project is in a complex state already, and if the seniors don't want the juniors to mess with the code :grin:).
               <br /><br />
               When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer (provided of course that they also share some of their knowledge with me. :smile:)
             </li>
@@ -376,7 +380,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 <div class="message">
 
   <h3>
-    <strong>March 2-4, 2016</strong>
+    <strong>March 2-4, 2016 - Enlightenment Period</strong>
   </h3>
 
   <table class="resume">
@@ -427,9 +431,10 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 </div>
 
 
+
+
+
 ### **October 2016 – January 2018** <small>(1 year, 2 months)</small>
-
-
 
 <table class="resume">
   <tbody>
@@ -438,7 +443,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
       </td>
       <td>
         <p>
-          Software Developer for mobile using Android at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
+          Software Developer for mobile using Android at <strong><a href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>  
         <p>
           Involved in developing versions 2 and 3 of a mobile app for Android devices
@@ -479,7 +484,18 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
           <!-- 
           When developing for mobile, we have to make sure that the mobile app is responsive, so API access and database access should be done in a background thread. 
           -->
-          Dealing with this _threads_ thing is hard. I still have to learn more about how to properly deal with threads.
+          <ol>
+            <li>
+              I learned how to work on a Java platform.
+              <br />
+              Before this job, I only knew how to do real world apps using .NET. Doing Android made me more confident that I can also do work on other platforms.
+            </li>
+            <li>
+              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. Yehey!
+              <br />
+              But I still have to learn more about this threads thing.
+            </li>
+          </ol>
         </p>
       </td>
     </tr>
@@ -497,32 +513,34 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 
   <dt>The business rules must be separated</dt>
   <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my carrer. So I understand the importance of the business rules in a software system.
-    
-    There must be a very clear separation of the business logic layer from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic or domain model) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    <br />
+    Because of that I learned that in a software system, there must be a very clear separation of the business rules from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br />
     It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system, and to fix bugs.
   </dd>
 
+<!-- 
   <dt>"Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)</dt>
   <dd>
-    Through Uncle Bob's charismatic presentation of TDD, I understood the value of TDD.
-
+    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
+    <br />
     Also, because of my previous experience of writing unit tests after the production code is already written
   </dd>
-
+ -->
   
 
-  <dt>The code base should be taken care of</dt>
+  <dt>We should take care of our code base</dt>
   <dd>
     Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.
     <br />
-    I believe that code review (or pair programming) and proper guidance/mentoring from those who are already familiar with the system can help solve this problem.
+    I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
   </dd>
   
   <dt>Any member of the team must be allowed to speak up</dt>
   <dd>
-    "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one." - Eddie Bush (from "Automated Unit Testing: X-Ray Vision for Code Quality")
+    "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one." - Eddie Bush 
+    <!-- (from "Automated Unit Testing: X-Ray Vision for Code Quality") -->
     <br />
     Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
     <br />
@@ -543,7 +561,7 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
     But perhaps there are other ways to solve this problem.
   </dd>
 
-  <dt>Other</dt>
+  <dt>Others</dt>
   <dd>
     ...
   </dd>
@@ -569,6 +587,9 @@ But I think you can still forgive me if I consider myself a **_Level Zero Codesm
 [**Anti-r&eacute;sum&eacute;**](/anti-resume/)
 
 [**Open Application Letter**](/open-application-letter/)
+
+
+
 
 <!-- 
 

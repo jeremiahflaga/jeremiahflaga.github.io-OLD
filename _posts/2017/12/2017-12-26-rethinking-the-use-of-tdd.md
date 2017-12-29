@@ -9,7 +9,7 @@ published: true
 
 <!-- December 27, 2017 01:00:00 AM Philippine Time -->
 
-This is what Jimmy Bogard said in the conclusion of his talk, "Crafting Wicked Domain Models" (NDC 2012):
+This is what Jimmy Bogard said in the conclusion of his talk, ["Crafting Wicked Domain Models" (NDC 2012)](insert link here):
 
 > DDD is all about building domain models that encapsulate the behavior.
 <br /><br />
