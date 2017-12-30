@@ -43,7 +43,8 @@ public void AssignOffer(Guid memberId, Guid offerTypeId)
             break;
         case ExpirationType.Fixed:
             if (offerType.BeginDate != null)
-                dateExpiring = offerType.BeginDate.Value.AddDays(offerType.DaysValid);
+                dateExpiring = 
+                    offerType.BeginDate.Value.AddDays(offerType.DaysValid);
             else
                 throw new InvalidOperationException();
             break;
@@ -77,19 +78,19 @@ public void AssignOffer(Guid memberId, Guid offerTypeId)
 }
 ```
 
-Wow! Very easy to _read_! (Please note that it was not easy to _write_ --- the transformation was not easy to do, I think, except maybe when you are a [_master_](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#guru) already, or a [_codesmith_](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) at least. :smile:)
+Wow! **Very easy to _read_!** (Please note that it was **_not_ easy to _write_** --- the transformation was not easy to do, I think, except maybe when you are a [_master_](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#guru) already, or a [_codesmith_](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) at least. :smile:)
 
 And the business rules are now moved to the entity (or the domain model) classes.
 
-And the resulting entity classes look good! And they look testable! (Except, I think, on the part which uses `DateTime.Now`.)
+And the resulting entity classes look good! And they look **testable**! (Except, I think, on the part which uses `DateTime.Now`.)
 
 Wow!
 
-But he was not writing tests to guide him when transforming the entities! And, _worse_, he said that what he did was **easier** than writing a whole bunch of tests before doing any transformations!
+But he was not writing tests to guide him when transforming the entities! And, **_worse_**, he said that what he did was **easier** than writing a whole bunch of tests before doing any transformations!
 
-Oh no! Is Jimmy Bogard opposed to TDD??
+_Oh no! Was Jimmy Bogard opposed to TDD??_
 
-Maybe he is not... because the original code does not seem to have been written using TDD, because, first, he did not say that it has existing tests, and second, because it has a `DateTime.Now` in it...
+Maybe he was not... because the original code did not seem to have been written using TDD, because, first, he did not say that it has existing tests, and second, because it has a `DateTime.Now` in it...
 
 
 ``` csharp
@@ -101,27 +102,30 @@ Maybe he is not... because the original code does not seem to have been written 
 ... I think if TDD was used to write the original code, the `DateTime.Now` should not have been there. Instead, there will be _something like_ a `DateService` object where we can get the dates from, like this:
 
 ``` csharp
-    dateExpiring = _dateService.GetDateTimeNow().AddDays(offerType.DaysValid);
+    dateExpiring = 
+        _dateService.GetDateTimeNow().AddDays(offerType.DaysValid);
 ```
 
 
 
-So maybe Jimmy Bogard is _not_ opposed to TDD... 
+So maybe Jimmy Bogard was _not_ opposed to TDD... 
 
-Maybe he is opposed only to [writing tests _after-the-fact_](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers]((https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga)) :smile:).
+Maybe he was opposed only to [writing tests _after-the-fact_](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) :smile:).
 
 
-Okay! Great!
+_Okay! Great!_
 
-But if we can still come up with a good design even when we are not using TDD, maybe we do not need TDD at all! ([Except maybe when teaching good design](/2017/12/19/tdd-and-teaching-design-without-a-teacher))
+But if we can still come up with a good design even when we are not using TDD, **_maybe we do not need TDD at all!_** ([Except maybe when teaching good design](/2017/12/19/tdd-and-teaching-design-without-a-teacher))
+
+Hmmmm...
 
 Or maybe not... Maybe we still need TDD...
 
-Because [TDD has other uses](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd), such as having confidence when cleaning our code base, and having [examples to help others understand our code base](/memorabilia/books/the-craftsman-series/#8).
+Because [TDD has other uses](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd), such as giving us confidence when cleaning our code base, and having [examples to help others understand our code base](/memorabilia/books/the-craftsman-series/#8).
 
-Kent Beck also, in his debate with DHH, said that the first reason why he writes tests was to have fast feedback on whether what he is doing is correct or not. That is one of the advantages of writing tests: _fast feedback_.
+Kent Beck also, in his debate with DHH, said that the first reason why he writes tests first was to have fast feedback on whether what he is doing is correct or not. That is one of the advantages of writing the tests first: _fast feedback loop_.
 
-In the end, whether TDD is useful or not depends on the values being adopted by the members of a software team, I think.
+In the end, I think, whether TDD is useful or not depends on the values being adopted by the members of a software team.
 
 
 <!-- 
