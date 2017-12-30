@@ -201,7 +201,7 @@ published: true
         Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
         </p>
         <p>
-        Believes that <a href="/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable
+        Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable
         </p>
       </td>
     </tr>
@@ -219,7 +219,7 @@ published: true
           An avid fan of Uncle Bob Martin (I visit his <a href="http://blog.cleancoder.com/">blog</a> often).
         </p>
         <p>
-          <strong><a href="/quotes/why-read/">I read</a>.</strong>
+          <strong><a href="/memorabilia/quotes/why-read/">I read</a>.</strong>
         </p>
         <p>
           <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
@@ -367,7 +367,7 @@ But I think you can still forgive me if I consider myself a **_Level "Zero" Code
             <li>
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. --- It was hard. :smile:
               <br /><br />
-              I think that experience is one of the reasons why I am a <a href="/quotes/tdd/">TDD fan</a> today.
+              I think that experience is one of the reasons why I am a <a href="/memorabilia/quotes/tdd/">TDD fan</a> today.
               <!--
               <br /><br />
               There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used DateTime.Now, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
@@ -378,7 +378,7 @@ But I think you can still forgive me if I consider myself a **_Level "Zero" Code
               <br /><br />
               But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
-              But despite that experience, I'm not against writing tests. I am even a <a href="/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
+              But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
               (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a>.)
                -->
             </li>

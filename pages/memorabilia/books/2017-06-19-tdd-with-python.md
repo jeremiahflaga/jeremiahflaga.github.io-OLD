@@ -3,7 +3,7 @@ layout: page
 title: Great Quotes from "Test-Driven Development with Python" by Harry Percival
 categories: [Programming]
 tags: [TDD]
-permalink: /quotes/tdd-with-python/
+permalink: /memorabilia/books/tdd-with-python/
 ---
 
 

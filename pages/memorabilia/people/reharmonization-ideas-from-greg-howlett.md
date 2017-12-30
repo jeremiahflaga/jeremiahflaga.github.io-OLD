@@ -3,7 +3,7 @@ layout: page
 title: Some reharmonization ideas from Greg Howlett
 categories: [Music]
 tags: [Music, Greg Howlett, Reharmonization, Chords]
-permalink: /quotes/reharmonization-ideas-from-greg-howlett/
+permalink: /memorabilia/people/reharmonization-ideas-from-greg-howlett/
 published: true
 ---
 

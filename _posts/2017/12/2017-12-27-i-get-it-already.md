@@ -15,13 +15,13 @@ Each team must [agree to some set of values](http://blog.cleancoder.com/uncle-bo
 
 A team must make a new participant agree to some [set of values](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html).
 
-A new member of a team must agree with the team's existing [set of values](/quotes/the-craftsman-series/#4).
+A new member of a team must agree with the team's existing [set of values](/memorabilia/books/the-craftsman-series/#4).
 
 I'm a [TDD fan](/quotes/tdd). But [many others are not](http://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html).
 
 <!--more-->
 
-I have never been in a team which practices TDD, but the apps I was and am involved in are working just fine... I hope :smile:! (Actually they were not very fine if we use [Uncle Bob Martin's standards](/quotes/expecting-professionalism-by-uncle-bob-martin/#expectations) as our measure, but I'm not going to incriminate myself or my teammates here :grin:)
+I have never been in a team which practices TDD, but the apps I was and am involved in are working just fine... I hope :smile:! (Actually they were not very fine if we use [Uncle Bob Martin's standards](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#expectations) as our measure, but I'm not going to incriminate myself or my teammates here :grin:)
 
 So when it comes to TDD, [I'm negotiable](/2017/12/27/i-get-it-already). I'm not a TDD fanatic --- at least not yet :laughing:. But let me experience TDD... I believe I'm never going back... [I hope...](http://blog.cleancoder.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html) :smile:
 

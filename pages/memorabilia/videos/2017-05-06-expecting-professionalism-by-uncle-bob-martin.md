@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Expecting Professionalism by Uncle Bob Martin
+title: '"Expecting Professionalism" by Uncle Bob Martin'
 category: Programming
 tags: [Programming, Robert Martin, TDD, Professionalism]
 date: 2017-05-05 10:45:00 PM UTC
-permalink: /quotes/expecting-professionalism-by-uncle-bob-martin
+permalink: /memorabilia/videos/expecting-professionalism-by-uncle-bob-martin
 ---
 
 <!-- May 06, 2017 06:45:00 AM Philippine Time -->

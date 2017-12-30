@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why read?
-permalink: /quotes/why-read/
+permalink: /memorabilia/quotes/why-read/
 ---
 
 

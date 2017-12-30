@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why blog?
-permalink: /quotes/why-blog/
+permalink: /memorabilia/quotes/why-blog/
 ---
 
 

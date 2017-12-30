@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Great Quotes from "The Craftsman Series" of Uncle Bob Martin
-permalink: /quotes/the-craftsman-series/
+permalink: /memorabilia/books/the-craftsman-series/
 ---
 
 <style>
@@ -330,3 +330,10 @@ Well I'll TELL you what I didn't LIKE about it, Jasmine; it was VIOLATING the SR
 
 
 > "Oh, now, dear! How long have you been working here? **You've got to write a test first, dear.** You can't just go off writing the main function! **Where would we be if everyone just wrote the functions without writing the tests first?** I can tell you where -- In a pickle, that's where. No, dear, you delete that and write a test first.
+
+
+> "Oh my, now nice that looks! I think it's very clever how you commented those else statements.
+Though I wonder if it wouldn't be more readable if you **inverted the sense of the if statements and used them as guards**. No, dear, don't change it yet. Let's see if it works first. It's never worth making lots of changes until you know whether the program work or not, don't you agree? **First make it work, then make it right."**
+
+> "Well I do think that looks a little better, though I can't say I care for that duplicated close statement. And the violation of **single/entry, single/exit** is a bit bothersome. Still, it's better than all that indentation, don't you agree? Of course we could change those three functions to throw exceptions, but then we'd have to catch them, and that would be a bother. No, let's leave it like that for the time being..."
+

@@ -171,7 +171,7 @@ But if your Web API team is full already, or if the role that I need to fill wil
 </h2>
 
 
-I see [TDD](/quotes/tdd/) listed in almost every job description for a Python developer I see online.
+I see [TDD](/memorabilia/quotes/tdd/) listed in almost every job description for a Python developer I see online.
 
 If you are doing TDD in your Python project, I'm also interested about joining your team.
 
@@ -322,7 +322,7 @@ It will be hard for that company to die because they will be making clients happ
 
 
 
-I would like to apply for a job at your company. If you have lots of teams, and I have the freedom to choose which team I want to work with, I would prefer working on a team that creates Web APIs using ASP.NET WebAPI with [TDD](/quotes/tdd/). _(I prepared for ASP.NET WebAPI development by reading the book ["Designing Evolvable Web APIs with ASP.NET"](http://chimera.labs.oreilly.com/books/1234000001708) which is freely available online.)_
+I would like to apply for a job at your company. If you have lots of teams, and I have the freedom to choose which team I want to work with, I would prefer working on a team that creates Web APIs using ASP.NET WebAPI with [TDD](/memorabilia/quotes/tdd/). _(I prepared for ASP.NET WebAPI development by reading the book ["Designing Evolvable Web APIs with ASP.NET"](http://chimera.labs.oreilly.com/books/1234000001708) which is freely available online.)_
 
 
 applying in consulting companies.
@@ -338,9 +338,9 @@ If you embrace TDD now, you will attract good designers into your comapny, which
 
 
 
-If you have a team that uses [TDD](/quotes/tdd/) as one of their practices, I would like to request you to please let me be involved in that team :smile: (even if the team is _not_ using technologies I am specifically familiar with). If the project is small or medium in size, I believe I can be able to contribute after about a month of familiarizing myself with the technology stack being used in that project (with the help of my teammates, of course :smile:).
+If you have a team that uses [TDD](/memorabilia/quotes/tdd/) as one of their practices, I would like to request you to please let me be involved in that team :smile: (even if the team is _not_ using technologies I am specifically familiar with). If the project is small or medium in size, I believe I can be able to contribute after about a month of familiarizing myself with the technology stack being used in that project (with the help of my teammates, of course :smile:).
 
-I prefer to be involved in a team that uses [TDD](/quotes/tdd/) because I believe that, _today,_ if a team uses TDD as part of their practices, it is a very good indication that the members of that team cares _so much_ about their work, and about their teammates (and, of course, their clients).
+I prefer to be involved in a team that uses [TDD](/memorabilia/quotes/tdd/) because I believe that, _today,_ if a team uses TDD as part of their practices, it is a very good indication that the members of that team cares _so much_ about their work, and about their teammates (and, of course, their clients).
 
 _(I'm not saying that those who do not practice TDD do not care. I'm just saying that those who practice TDD cares 'more'.)_
 

@@ -32,7 +32,7 @@ Most of the things I write will not be interesting to you... so, instead of poin
 -----
 
 
-I'm also a TDD advocate, so I collected some [quotes about TDD](/quotes/tdd/).
+I'm also a TDD advocate, so I collected some [quotes about TDD](/memorabilia/quotes/tdd/).
 
 _Enjoy!_
 

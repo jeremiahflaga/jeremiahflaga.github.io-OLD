@@ -3,7 +3,7 @@ layout: page
 title: Quotes from Eddie Bush
 categories: [Programming]
 tags: []
-permalink: /quotes/people/eddie-bush/
+permalink: /memorabilia/people/eddie-bush/
 published: false
 ---
 

@@ -22,5 +22,5 @@ Here are my notes.
 
 ## NOTE (Dec 26, 2017): I decided to create separate pages for my notes on some of the talks that I listened to.
 
-Please click [here](/quotes/expecting-professionalism-by-uncle-bob-martin/) to go to the location of the notes. Thanks.
+Please click [here](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/) to go to the location of the notes. Thanks.
 

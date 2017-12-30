@@ -3,7 +3,7 @@ layout: page
 title: TDD Quotes
 categories: [Programming]
 tags: [TDD]
-permalink: /quotes/tdd/
+permalink: /memorabilia/quotes/tdd/
 ---
 
 I believe, like [Uncle Bob Martin does](http://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html), that, _today_, TDD (or Test-Driven Development) is one of the hallmarks of professionalism in the software development world.
