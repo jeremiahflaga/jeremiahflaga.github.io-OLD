@@ -9,7 +9,7 @@ Hi, I'm Jeremiah Flaga, also known as _Jboy_. I am software developer and loves 
 
 I also like writing about stuffs that I learned recently, and about some thoughts that cross my mind.
 
-Most of the things I write will not be interesting to you... so, instead of pointing you directly to my [blog](/blog/), I'm going to link from here _**a few blog posts that might interest you.**_ :smile:
+Most of the things I write will not be interesting to you... so, instead of pointing you directly to my [**_blog_**](/blog/), I'm going to link from here _**a few blog posts that might interest you.**_ :smile:
 
 
 -----
@@ -26,7 +26,7 @@ Most of the things I write will not be interesting to you... so, instead of poin
 
 
 
-[more...](/blog/)
+[more...](/blog/archive/)
 
 
 -----
