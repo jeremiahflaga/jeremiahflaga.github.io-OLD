@@ -140,9 +140,9 @@ Also, through this role, I can become familiar with the whole system and might s
   <strong>(e) .NET Programmer</strong>
 </h2>
 
-> "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
+> "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
 <br /><br />
-> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))
+> Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
 
 
 If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).

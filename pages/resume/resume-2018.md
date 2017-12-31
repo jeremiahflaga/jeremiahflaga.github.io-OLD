@@ -258,6 +258,11 @@ Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.
 But I think you can still forgive me if I consider myself a **_Level "Zero" Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns .
 
 
+<strong>Caution:</strong> I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about programmers claiming to know about OOP when they do not truly know OOP. Ouch! I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is...
+
+So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, "Teach me master..." :smile:
+
+
 ----------------------------------------------------------
 
 
