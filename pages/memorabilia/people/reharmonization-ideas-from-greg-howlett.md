@@ -4,7 +4,7 @@ title: Some reharmonization ideas from Greg Howlett
 categories: [Music]
 tags: [Music, Greg Howlett, Reharmonization, Chords]
 permalink: /memorabilia/people/reharmonization-ideas-from-greg-howlett/
-published: true
+published: false
 ---
 
 [Greg Howlett](http://www.greghowlett.com/default.aspx?affid=5114) is a Christian concert pianist and recording artist.

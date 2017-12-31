@@ -2,7 +2,7 @@
 layout: page
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: true
+published: false
 ---
 
 <style>
@@ -201,6 +201,8 @@ I also read, in the past, about Cross-site Scripting (XSS) and Cross-site Reques
 But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
 
+
+## **I know almost nothing about network programming**
 
 
 
