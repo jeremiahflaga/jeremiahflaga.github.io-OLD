@@ -4,7 +4,7 @@ tagline: My thoughts and experiences on programming, life, atbp.
 description: 'My thoughts and experiences on programming, life, atbp.'
 baseurl: ""
 url:
-logo: '/images/Jboy2017-Real-2(200x200).jpg'
+logo: '/images/jboy-papyrus-blue.png'
 
 # Site configurations
 gems:
