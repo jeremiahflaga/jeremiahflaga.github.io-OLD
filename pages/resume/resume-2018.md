@@ -222,7 +222,7 @@ published: false
           <strong><a href="/memorabilia/quotes/why-read/">I read</a>.</strong>
         </p>
         <p>
-          <a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a>
+          <em><a href="/good-stuffs/">(Please click here if you want a peek into how I currently think)</a></em>
         </p>
       </td>
     </tr>
@@ -230,17 +230,23 @@ published: false
       <td></td>
       <td>
         <p>
-          I had read ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) in the past (year 2007 or 2008), and this book has a big impact on how I think today.
+          I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think)</em>.
           <br /><br />
-          <em>(I included this because this might give plus points for me... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
+          <small>
+            <em>(I included this here because this might give plus points for me... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
+          </small>
         </p>
       </td>
     </tr>
     <tr>
       <td>GitHub:</td>
       <td>
-        <p><a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a></p>
-        <p><a href="https://github.com/jboyflaga">(old GitHub account) github.com/jboyflaga</a></p>
+        <p>
+          <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
+        </p>
+        <p>
+          <a href="https://github.com/jboyflaga">github.com/jboyflaga</a> <small>(old GitHub account)</small>
+        </p>
       </td>
     </tr>
   </tbody>
@@ -251,16 +257,18 @@ published: false
 ----------------------------------------------------------
 
 
-## **I'm an initiate**
+## **I'm an Initiate**
 
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), today, I consider myself to be an **_Initiate_**, because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read (I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:), but I'm already aware, through experience, that code that is easy to read is valuable code.
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
 
-But I think you can still forgive me if I consider myself a **_Level "Zero" Codesmith_** (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns .
+I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
 
 
-<strong>Caution:</strong> I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about programmers claiming to know about OOP when they do not truly know OOP. Ouch! I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is...
+**Caution:** I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about programmers claiming to know about OOP when they do not truly know OOP. Ouch! I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
 
-So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, "Teach me master..." :smile:
+That actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
+
+So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
 
 
 ----------------------------------------------------------
@@ -350,7 +358,7 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
         <p class="indented">
           <ol>
             <li> 
-              I learned more about what Object-Oriented programming is.
+              I started to understand what Object-Oriented programming is.
               <br /><br />
               (When I applied for this job, I claimed to know OOP. But I later realized that I really did not know OOP. I only knew about what a class is, what an interface is, what an abstract class is, what polymorphism is, but I did not not yet have a full understanding about their uses.)
               <br /><br />
@@ -372,20 +380,18 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
             <li>
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. --- It was hard. :smile:
               <br /><br />
-              I think that experience is one of the reasons why I am a <a href="/memorabilia/quotes/tdd/">TDD fan</a> today.
-              <!--
+              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
-              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used DateTime.Now, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
-              <br /><br />
-              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (During that time I do not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
+              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
               <br /><br />
               Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation on the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
               <br /><br />
-              But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
+              But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I have told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
               But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
+              <!--
               (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a>.)
-               -->
+              -->
             </li>
           </ol>
         </p>
@@ -425,7 +431,7 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
       <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  I placed much of my attention in the wrong places!
+  I placed <em>much</em> of my attention in the wrong places!
   <br /><br />
   <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.</em>
   <br /><br />
@@ -443,7 +449,7 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
 
 
 
-### **October 2016 – January 2018** <small>(1 year, 2 months)</small>
+### **October 2016 – February 2018** <small>(1 year, 3 months)</small>
 
 <table class="resume">
   <tbody>
@@ -475,16 +481,16 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
           Nothing extraordinary. Just did the tasks assigned to me.
           <br /><br />
           But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use those knowledge in my coding.
-          <!--           
           <br /><br />
-          Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into it
+          Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into it.
           <br /><br />
-          Also, the code base I was working on has only one module because it was only a small project. This module contains the presentation layer (we were using MVP), and helper classes which is basically the business logic and data access layers combined. While working on version two of the app, I saw that some of the data-access leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate into another module the data layer from the presentation layer of the app. I was planning, through this separation, to slowly transfer the business rules into another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the business rules module when adding the new features for the new version of the app.
+          You see, the code base I was working on has only one module because it was only a small project. This module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains the <em>business logic</em> and <em>data access</em> layers combined. It also has <code>Model</code> classes which is used in all parts of the app.
           <br /><br />
-          But because I am not a master of the art of persuation, my plan was not pushed. :sad:
+          While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module. I was planning, through this separation, to slowly transfer the <em>business rules</em> into another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
+          <br /><br />
+          But because I am not a master of the art of persuation, my plan was not pushed. :disappointed:
           <br /><br />
           Well, it did not matter that much to me because I knew that I was (and is still) not an expert on Android development, and there might be some issues that I know nothing about that might have made the separation bad for the future of the app.
-          -->
         </p>
         <p>
           <strong>Lesson(s) Learned:</strong>
@@ -501,7 +507,7 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
             </li>
             <br />
             <li>
-              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
+              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to fix. Luckily, that feature was removed during version 3. <em>Yehey!</em>
               <br /><br />
               But I still have to learn more about this threads thing.
             </li>
@@ -525,9 +531,9 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
   <dd>
     As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
-    Because of that I learned that in a software system, there must be a very clear separation of the business rules from the other parts of the system. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    Because of that I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/#comment-32">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
-    It doesn't matter how old or new the frameworks of libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system, and to fix bugs.
+    It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
   </dd>
 
   <br />
@@ -538,6 +544,7 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
     I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
   </dd>
 
+  <br />
   <dt>There must be a system for asking help</dt>
   <dd>
     Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
@@ -548,6 +555,20 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
   </dd>
   
   <br />
+  <dt>Any member of the team must be allowed to speak up</dt>
+  <dd>
+    <blockquote>
+      "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one."
+      <br />
+       — Eddie Bush (from <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Automated Unit Testing: X-Ray Vision for Code Quality"</a>)
+    </blockquote>
+    <br />
+    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
+    <br /><br />
+    (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
+  </dd>
+
+  <br />
   <dt>Other</dt>
   <dd>
     ...
@@ -557,16 +578,6 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
   
 <!--   
 <dl>
-  <dt>Any member of the team must be allowed to speak up</dt>
-  <dd>
-    "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one." - Eddie Bush 
-    (from "Automated Unit Testing: X-Ray Vision for Code Quality")
-    <br />
-    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
-    <br />
-    (Note: It's okay for me to be told that my code is wrong. If I think that it is not wrong, I will reason with you. But please [argue with me](/2017/04/20/argue-to-learn-not-to-win) if you think that it is really wrong.)
-  </dd>
-
   <dt>The team members must have a common set of values</dt>
   <dd>
     Before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and his values match... then okay!
@@ -588,6 +599,35 @@ So be cautious about me claiming to be an [**_Initiate_**](https://terencemcghee
   </dd>
 </dl>
 -->
+
+
+----------------------------------------------------------
+
+
+
+<h2 id="learning-philosophy">
+    <strong>My learning philosophy today on software development:</strong>
+</h2>
+
+When I started coding, my focus on learning was in mastering all aspects of a programming language.
+
+Then a few years later, my focused moved into trying to master specific frameworks and libraries.
+
+But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is maintainable; and I already realized that maintainability is one of the most important aspects of a software system. Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
+
+Today, my learning philosophy is like this:
+
+[Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks
+
+Ahead-of-time learning about basic principles and methodologies
+
+If I am hired
+
+If I will be having a lead developer, perhaps he already has a plan on how to make me get familiar with the project I will be involved in.
+
+If not, I have my own method of getting familiar with the project. I will spend a few days getting familiar with the frameworks and libraries that are bing used....
+
+
 
 
 
