@@ -15,11 +15,9 @@ published: false
 Dear Sir/Ma'am,
 
 <div class="message">
-<!-- 
+
 I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
 <br /><br />
--->
-
 My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 
 <!-- 
@@ -31,12 +29,14 @@ My purpose for this open application letter is to make it easy for me to apply f
 
 I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
-<!-- I am applying primarily for a role of being a [Design Guide](#design-guide). -->
 
+
+
+<!-- 
 Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
 If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/resume/anti-resume/).
-
+ -->
 <!-- 
 .NET Programmer
 Design Partner
@@ -49,11 +49,39 @@ TDD Law Enforcer
 Apprentice 
 -->
 
-<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
+
+<strong id="list-of-roles">I woud like to apply for a job at your company for either of the following roles:</strong>
+
+1. a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
+<br />
+and [A Thinking Rubber Duck](#thinking-rubber-duck)
+
+2. a [.NET Programmer](#dotnet-programmer)
+<br />
+and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
+
+3. a [.NET Programmer](#dotnet-programmer)
+<br />
+and [A Thinking Rubber Duck](#thinking-rubber-duck)
+<br />
+and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
+
+4. a [.NET Programmer](#dotnet-programmer)
+<br />
+and **NOT** a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
+<br />
+<small>_(Hint: I might not be interested with this kind of job :smile:)_</small>
+
+5. a [Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
+<br />
+and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
+
+6. [Other combination of roles you need...](#other)
 
 
 
-<strong>Here are the roles you can hire me for:</strong>
+<!-- 
+Here are 
 
 [(a) Design Guide](#design-guide)
 
@@ -65,11 +93,15 @@ Apprentice
 
 [(e) .NET Programmer](#dotnet-programmer)
 
-[(f) Python Programmer (on projects that use TDD)](#python-programmer)
+[(f) Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
 
 [(g) TDD Preacher](#tdd-preacher)
 
 [(h) Other...](#other)
+-->
+
+<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
+
 
 -------------------------------------
 
@@ -80,9 +112,14 @@ Apprentice
 
 _(By "design" I mean "software design".)_
 
-I'm not saying that I'm already an expert on design, but I'm doing my best to become one.
+> The important decisions that a Software Architect makes are the ones that allow you to **NOT** make the decisions about the database, and the webserver, and the frameworks.
+<br /><br />
+--- Uncle Bob Martin (from ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html))
 
-I have chosen this name, _"Design Guide"_, to be the primary role I want to apply for in your company because one of the things I want to do as a software developer is to make a software system maintainable by [separating the business logic part from the other parts of the software system.](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/)
+
+I'm not saying that I'm already an expert on design, but I'm doing my best to become one. If no one else is willing to hold this kind of role in your company, I would like to volunteer to hold this role.
+
+I have chosen this role, _"Design Guide"_, to be one of the primary roles I want to apply for in your company because one of the things I want to do as a software developer is to make a software system maintainable through the [separation of the business logic part from the other parts of the software system.](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/)
 
 I prefer to be in this role when working on a new project, of course _(everybody wants to work on new projects :grin:)_. But I can also hold this role on projects that are in the maintenance phase.
 
@@ -94,9 +131,12 @@ So this separation thing will be helpful mostly during the maintenance phase of 
 
 Then, after deciding on the structure of the entire system, when the actual coding of the features already start, I will pair program with those assigned to do the more complex features of the system and _help_ them with how to design their code. Then when the features that require design guidance are all finished, I will just work on my own in coding the other features.
 
-If I am hired to have this role on an **existing** project (in maintenance state), what I will do is to get familiar with the system by working with the team on fixing bugs and adding new features on the system for a few (or many) weeks. Then when I am already familiar with the system, I will _help_ on _slowly_ separating the business rules from the other parts of the system. Please note that I used the word _help_ in that sentence because I will be needing lots of _help_ from someone who is already familiar with the system while doing this work. I believe I can also do this alone but it will cost me (and you) lots of time and lots of frustration.
+If I am hired to have this role on an **existing** project (in maintenance phase), what I will do is to get familiar with the system by working with the team on fixing bugs and adding new features on the system for a few (or many) weeks. Then when I am already familiar with the system, I will _help_ on _slowly_ separating the business rules from the other parts of the system, starting with those tasks which involves adding new features or functionalities. Please note that I used the word _help_ in that sentence because I will be needing lots of _help_ from someone who is already familiar with the system while doing this work. I believe I can also do this alone but it will cost me (and you) lots of time and lots of frustration.
 
-But you might already have a design guide in your company. If that is the case, I would like to apply as a [Design Partner](#design-partner).
+But you might already have a Design Guide in your company. If that is the case, I would like to apply as a [Design Partner](#design-partner).
+
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
 
 
 
@@ -108,9 +148,12 @@ But you might already have a design guide in your company. If that is the case, 
 
 Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired, or get bored, and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad. He can help me with my decisions also. He can be able to point out if I make something bad.
 
-_(I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system, of course, and that it must be separated from the other parts of the system.)_
+_(I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system, of course, and that it must be [separated from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/).)_
 
 Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
+
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
 
 
 
@@ -118,22 +161,30 @@ Perhaps you have someone in your team a very good sofware designer, or a budding
   <strong>(c) Design Apprentice</strong>
 </h2>
 
-Your software designer might be _lots-of-years_ ahead of me, and being a [Design Partner](#design-partner) does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
+Your software designer might be _lots-of-years-ahead_ of me, and being a [Design Partner](#design-partner) does not seem appropriate for the role that he (or your company) needs... I can become his _apprentice_ instead.
 
 Or perhaps your software designer is leaving in a few years and he is looking for an apprentice to train... I can become his apprentice. :smile:
+
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
+
 
 
 <h2 id="thinking-rubber-duck">
   <strong>(d) A Thinking Rubber Duck</strong>
 </h2>
 
-Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem.
+Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem, because This can help us solve the problem.
 
 But many programmers do not do that because they are afraid that their coleagues might think that they are an idiot talking to a rubber duck.
 
-I can replace that rubber duck instead, because some programmers need to talk to someone who can _think with them_ and _help_ them solve the problem. I can become a programmer who anyone can call anytime they are stuck.
+I can replace that rubber duck instead. Some programmers sometimes need to talk to someone who can _think with them_ and _help_ them solve the problem when they are stuck. I can be that programmer who anyone can call anytime they are stuck.
 
-Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into separating the business rules from the other parts of the system, or to put it into a state of being testable.
+Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into a state where the business rules are separated from the other parts of the system, or to bring it into a state of being testable.
+
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
+
 
 
 <h2 id="dotnet-programmer">
@@ -145,7 +196,7 @@ Also, through this role, I can become familiar with the whole system and might s
 > Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
 
 
-If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
+If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/#not-an-expert-on-frameworks), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
 
 In the .NET world, some of the frameworks I have experience working with (but far from being an expert in) are:
 
@@ -160,22 +211,31 @@ In the .NET world, some of the frameworks I have experience working with (but fa
 - Moq
 - (etc.)
 
+I'm even rusty on some of them today because I became an Android Developer in my last job, and in the last year or so, I moved my focus into software design rather than on frameworks and languages.
+
 If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [r&eacute;sum&eacute;](/resume/)?)
 
 But if your Web API team is full already, or if the role that I need to fill will still involve the UI, then I have to push myself to be good at the UI also :smile:
 
 
+<small>[_^ back to list of roles_](#list-of-roles)<small>
+
+
 
 <h2 id="python-programmer">
-  <strong>(f) Python Programmer (on projects that use TDD)</strong>
+  <strong>(f) Python Apprentice Programmer (on projects that use TDD)</strong>
 </h2>
+
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
+
 
 
 I see [TDD](/memorabilia/quotes/tdd/) listed in almost every job description for a Python developer I see online.
 
-If you are doing TDD in your Python project, I'm also interested about joining your team.
+If you are doing TDD in your Python project, I'm also interested in joining your team.
 
-But please note also that, even though I first encountered Python many years ago, my recent significant experience with Python is only when I studied the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experience using python in a _real-world_ project.
+But please note also that, even though I first encountered Python many years ago, my recent significant experience with Python is only when I studied the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experienced using python in a _real-world_ project.
 
 
 <h2 id="tdd-preacher">
@@ -195,12 +255,13 @@ No. Not really. Maybe someday I can become one. But today?... I don't know how t
   <strong>(h) Other...</strong>
 </h2>
 
-If the role you need is not in the list above, but if you suspect that I am fit for that kind of job, please contact me with the details of the kind of job you are offering and I will see if I will be able to do it. :smile:
+If the role you need is not in the list above, but you suspect that I am fit for that kind of role, please contact me with the details of that kind of role you are offering and I will see if I will be able to do it. :smile:
 
 
 
 
 ## More next time...
+
 
 <br />
 
@@ -209,7 +270,7 @@ If the role you need is not in the list above, but if you suspect that I am fit 
   <strong>About sideline jobs</strong>
 </h2>
 
-In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals i want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
+In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals I want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
 
 Because of that, you will be sure that when I sleep at night, I will only be dreaming about the problems that I encounter while working at your company, and not about problems of other companies. :smile:
 

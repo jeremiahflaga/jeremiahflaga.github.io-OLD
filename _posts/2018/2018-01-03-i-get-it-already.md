@@ -31,7 +31,7 @@ The business rules are the most important part of a software system. They are ve
 
 But... still... I long for the day when TDD (or anything similar to it) will become a common practice of software developers.
 
-I long for the day when all software systems will look the same --- when they will all look **_"testable"_.** :smile: That means that the software systems will be easy to work with! _Yehey!_
+I long for the day when all software systems will look the same --- when they will all look [**_"testable"_.**](/2017/12/19/tdd-and-teaching-design-without-a-teacher) :smile: That means that the software systems will be easy to work with! _Yehey!_
 
 
 _(I actually have a secret agenda for helping promote the [proper separation of the business rules from the other parts of a software system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/) --- when I will become a part of a team that do not practice TDD, I will still do TDD with the business rules :smiling_imp:)_

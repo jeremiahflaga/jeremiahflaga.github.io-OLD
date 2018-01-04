@@ -613,15 +613,22 @@ When I started coding, my focus on learning was in mastering all aspects of a pr
 
 Then a few years later, my focused moved into trying to master specific frameworks and libraries.
 
-But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is maintainable; and I already realized that maintainability is one of the most important aspects of a software system. Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
+But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html); and I already realized that maintainability is one of the most important properties that a software system should have. 
+<!-- 
+Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
+ -->
 
-Today, my learning philosophy is like this:
+Today, my learning philosophy is this:
 
-[Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks
+> [Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
 
-Ahead-of-time learning about basic principles and methodologies
+> Ahead-of-time learning about basic principles and methodologies in software development
 
-If I am hired
+If I am hired at your company, my plan would be something like this.
+
+1. I will ask about the specific frameworks or libraries that are being used in the project I will be involved in, and spend a few days or weeks familiarizing myself with them.
+
+
 
 If I will be having a lead developer, perhaps he already has a plan on how to make me get familiar with the project I will be involved in.
 

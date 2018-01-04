@@ -12,7 +12,7 @@ published: false
 
 through Uncle Bob's charismatic presentation of TDD
 
-... after hearing Uncle Bob's talk on architecture where at the end part of his talk he talked about the benefit of TDD... also the Fitness project .. where he is confident on deploying it if all the tests run
+... after hearing Uncle Bob's talk on architecture where at the end part of his talk he talked about the benefit of TDD... also the Fitness project .. where he is confident on deploying it if all the tests run... I wan't to be able to do that also
 
 
 

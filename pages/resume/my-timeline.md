@@ -31,6 +31,8 @@ Started BSCS in college
 
 Learned C
 
+### November 2007
+
 Learned C++
 
 
@@ -45,11 +47,25 @@ Programming contest --- one problem solved
 - found Greg Howlett's blog ; became a frequent visitor
 
 
+
+### Late 2009 or Early 2010
+
+Started watching Lectures of CS 6.00 Introduction to Computer Science and Programming (MIT OpenCourseWare)
+
+First Exposure to Python.
+
+This might also be my first exposure to Scheme
+
 ### December 2009
 
 Studied STL
 
 Programming contest --- one problem solved
+
+
+### May 2010
+
+‎StudInfoSys(TypedDataSets) - Sunday, ‎23 ‎May ‎2010, ‏‎5:14:12 AM
 
 
 ### December 2010
@@ -67,6 +83,10 @@ Programming contest --- one problem solved
 
 - printed the transcript of the debate between Greg Bahnsen and Gordon Stein, then studied it
 
+
+### February 2012
+
+StudInfoSys_VB.NETProj - 4.8 - 'Created: February 17, 2012 7:00 PM to 2:00 AM the next day
 
 
 ### 2009-2012

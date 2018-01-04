@@ -49,7 +49,9 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 
 
-## **I'm not an expert on frameworks**
+<h2 id="not-an-expert-on-frameworks">
+  <strong>I'm not an expert on frameworks</strong>
+</h2>
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
