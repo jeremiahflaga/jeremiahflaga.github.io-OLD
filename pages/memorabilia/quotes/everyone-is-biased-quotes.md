@@ -13,7 +13,11 @@ I'm a _biased_ person, and a part of my set of biases is this: **_"everyone is b
 
 On some issues, I think my set of biases on that issue is the best, [so I hold on to them tightly. But I'm still learning.](https://simpleprogrammer.com/2012/09/16/have-strong-convictions-but-hold-on-to-them-loosely/) I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
 
-Here are some quotes about this _"everyone is biased"_ thing.
+This page contains quotes about this _"everyone is biased"_ thing.
+
+I created this page because I believe that when people understand that everyone is biased, it helps people be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) of other people.
+
+Here are the quotes:
 
 
 > **It is not a matter of whether one is biased or not. It is really a question of which bias is the best bias with which to be biased.**

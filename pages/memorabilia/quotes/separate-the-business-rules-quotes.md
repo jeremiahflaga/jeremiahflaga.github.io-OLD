@@ -65,4 +65,6 @@ Independent of Database. You can swap out Oracle or SQL Server, for Mongo, BigTa
 Independent of any external agency. In fact your business rules simply don’t know anything at all about the outside world.
 
 
+## From isolation article of Mark Seemann
+
 
