@@ -8,7 +8,8 @@ permalink: /memorabilia/quotes/everyone-is-biased/
 First things first... 
 -->
 
-I'm a _biased_ person, and one of my set of biases is this: **_"everyone is biased"_**, including you and me. (That means that my being biased is consistent with one of my set of biases.) If you say that you are _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone has his own set of biases).  :grinning:
+
+I'm a _biased_ person, and a part of my set of biases is this: **_"everyone is biased"_**, including you and me.<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> That means that my being biased is consistent with one of my set of biases. If you say that you are _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone is biased).  :grinning:
 
 On some issues, I think my set of biases on that issue is the best, [so I hold on to them tightly. But I'm still learning.](https://simpleprogrammer.com/2012/09/16/have-strong-convictions-but-hold-on-to-them-loosely/) I might change my mind on some issues later if I will be convinced that my set of biases are wrong.
 
@@ -23,7 +24,7 @@ Here are some quotes about this _"everyone is biased"_ thing.
 
 
 
-> Most people today have not given much thought to their own worldview. In fact, many people do not even realize they have a worldview. Many people tend to think that all knowledge is acquired by unbiased observation of the evidence around us. This view is called "empiricism" and is itself a kind of worldview. We cannot help but have some beliefs about how the world works, how we attain knowledge, and how we should live. Even if we believe that we have no such beliefs --- this is itself a belief. So there's no escaping it. **A worldview is inevitable.** A rational worldview is not.
+> Most people today have not given much thought to their own worldview. In fact, many people do not even realize they have a worldview. Many people tend to think that all knowledge is acquired by unbiased observation of the evidence around us. This view is called "empiricism" and is itself a kind of worldview. We cannot help but have some beliefs about how the world works, how we attain knowledge, and how we should live. **Even if we believe that we have no such beliefs --- this is itself a belief. So there's no escaping it. A worldview is inevitable.** A rational worldview is not.
 <br /><br />
 > --- Jason Lisle (from ["The Ultimate Proof of Creation"](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga))
 
@@ -49,18 +50,41 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 
 > Part 1 of Dr. Greg Bahnsen’s video lecture series, Basic Training For Defending the Faith, is titled "The Myth of Neutrality." The title sums up the lesson succintly: neutrality is a myth. In this lecture, **Dr. Bahnsen teaches that the idea of neutrality --- be it intellectual, philosophical, emotional, scientific, or in any other area --- is a myth**. You see and read several passages of Scripture that prove this. Jesus spoke definitively about this (Matthew 6:24, Matthew 12:30).
 <br /><br />
-> --- from a commentary on Dr. Greg Bahnsen's lecture on "The Myth of Neutrality"
+> --- from a [commentary on Dr. Greg Bahnsen's lecture on "The Myth of Neutrality"](https://rebuildbiblicalworldview.wordpress.com/2012/10/12/the-myth-of-neutrality/)
 
 
 
------
+> The myth of neutrality applies to all levels of reasoning, even in matters that one would consider trivial or surface level.
+<br /><br />
+ --- from a comment by someone named Josef in [here](http://www.jasonlisle.com/2017/03/31/the-gospel-in-hollywood-part-2/#more-294)
+
+
+----------
 
 
 
-## Other quotes which might not be _directly_ related to this "biased" thing, but might still related...
+## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
-> "I believe that we need to have our theories prior to our interpretation of the facts.
+> "I believe that we need to have our theories prior to our interpretation of the facts."
 <br /><br />
 "Theories are eyeglasses and we put that for us to be able to read."
 <br /><br />
+"Without theory there is a bunch of data but I can't make any sense out of it.
+Theory allow me to then interpret that data and make sense of it."
+<br /><br />
 > --- Dr. Peter Boettke (from Steve Patterson's "Ep. 13 - Austrian Economics_ Deduction, Logic, and Theory")
+
+
+
+
+----------
+
+
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> 
+<small>
+    My thought process is heavily influenced by Christian evengelicalism (or fundamentalism) and most (if not all) quotes in this page are coming from Christian evangelicals.
+    <br /><br />
+    Today, year 2018, I am still convinced that everyone is biased. That might change in the future, of course. I don't know...
+    <br /><br />
+    But if you disagree with this _"everyone is biased"_ thing, I would like to hear your arguments. Please tell me about it in the comments section of this page. :+1:
+</small>
