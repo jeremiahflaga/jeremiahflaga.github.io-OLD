@@ -14,7 +14,7 @@ Each team must agree to some set of [values](http://blog.cleancoder.com/uncle-bo
 
 A team must make a new participant agree to their set of [values](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html).
 
-A new member of a team must agree with the team's existing set of [values](/memorabilia/books/the-craftsman-series/#4).
+A new member of a team must agree with the team's existing set of [values](http://blog.cleancoder.com/uncle-bob/2012/09/06/I-am-Your-New-CTO.html).
 
 I'm a [TDD fan](/quotes/tdd). But [many others are not](http://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html).
 
