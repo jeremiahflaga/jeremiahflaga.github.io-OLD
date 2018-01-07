@@ -2,7 +2,7 @@
 layout: page
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: false
+published: true
 ---
 
 <style>
@@ -78,11 +78,37 @@ published: false
 </div>
 
 
+----------------------------------------------------------
+## Contents
+
+
+[**Technical Knowledge**](#technical-knowledge)
+
+[**I'm an Initiate**](#an-initiate)
+
+[**Work Experience**](#work-experience)
+
+- [April 2012 - October 2012 (6 months)](#work-experience-1)
+
+- [December 2012 – May 2016 (3 years, 5 months)](#work-experience-2)
+
+- [March 2-4, 2016 — Enlightenment Period](#enlightenment-period)
+
+- [October 2016 – February 2018 (1 year, 3 months)](#work-experience-3)
+
+
+[**More Lessons Learned**](#more-lessons-learned)
+
+[**My learning philosophy today on software development**](#learning-philosophy)
+
+[**Talk**](#talks)
 
 
 ----------------------------------------------------------
 
-## **Technical Knowledge**
+<h2 id="technical-knowledge">
+  <strong>Technical Knowledge</strong>
+</h2>
 
 <table class="resume">
   <tbody>
@@ -257,26 +283,35 @@ published: false
 ----------------------------------------------------------
 
 
-## **I'm an Initiate**
+<h2 id="an-initiate">
+  <strong>I'm an Initiate</strong>
+</h2>
 
 Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
 
 I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
 
 
-**Caution:** I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about programmers claiming to know about OOP when they do not truly know OOP. Ouch! I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
+**Caution:** I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! :laughing: I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
 
-That actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
+This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
 
-So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
+... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
 
+
+<small>[_^ back to Contents_](#contents)<small>
 
 ----------------------------------------------------------
 
 
-## **Work Experience**
+<h2 id="work-experience">
+  <strong>Work Experience</strong>
+</h2>
 
-### **April 2012 - October 2012** <small>(6 months)</small>
+
+<h3 id="work-experience-1">
+  <strong>April 2012 - October 2012</strong> <small>(6 months)</small>
+</h3>
 
 <table class="resume">
   <tbody>
@@ -318,10 +353,13 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
   </tbody>
 </table>
 
+<small>[_^ back to Contents_](#contents)<small>
 
 
 
-### **December 2012 – May 2016** <small>(3 years, 5 months)</small>
+<h3 id="work-experience-2">
+  <strong>December 2012 – May 2016</strong> <small>(3 years, 5 months)</small>
+</h3>
 
 <table class="resume">
   <tbody>
@@ -400,10 +438,11 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
   </tbody>
 </table>
 
+<small>[_^ back to Contents_](#contents)<small>
 
 
 
-<div class="message">
+<div id="enlightenment-period" class="message">
 
   <h3>
     <strong>March 2-4, 2016 — Enlightenment Period</strong>
@@ -445,11 +484,14 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
     -->
 </div>
 
+<small>[_^ back to Contents_](#contents)<small>
 
 
 
 
-### **October 2016 – February 2018** <small>(1 year, 3 months)</small>
+<h3 id="work-experience-3">
+  <strong>October 2016 – February 2018</strong> <small>(1 year, 3 months)</small>
+</h3>
 
 <table class="resume">
   <tbody>
@@ -518,12 +560,15 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
   </tbody>
 </table>
 
+<small>[_^ back to Contents_](#contents)<small>
+
 
 ----------------------------------------------------------
 
 
-## **More Lessons Learned**
-
+<h2 id="more-lessons-learned">
+  <strong>More Lessons Learned</strong>
+</h2>
 
 <dl>
 
@@ -531,7 +576,7 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
   <dd>
     As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
-    Because of that I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/#comment-32">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    Because of that I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
     It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
   </dd>
@@ -600,6 +645,8 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
 </dl>
 -->
 
+<small>[_^ back to Contents_](#contents)<small>
+
 
 ----------------------------------------------------------
 
@@ -609,11 +656,11 @@ So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.c
     <strong>My learning philosophy today on software development:</strong>
 </h2>
 
-When I started coding, my focus on learning was in mastering all aspects of a programming language.
+When I started coding, my focus on learning was in mastering all aspects of a programming language (C# specifically).
 
 Then a few years later, my focused moved into trying to master specific frameworks and libraries.
 
-But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html); and I already realized that maintainability is one of the most important properties that a software system should have. 
+But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software. 
 <!-- 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
  -->
@@ -622,20 +669,25 @@ Today, my learning philosophy is this:
 
 > [Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
 
-> Ahead-of-time learning about basic principles and methodologies in software development
+> Ahead-of-time learning about basic principles and practices in software development
 
+I hope that kind of learning philosophy is okay with you. :smile:
+
+
+<!-- 
 If I am hired at your company, my plan would be something like this.
 
 1. I will ask about the specific frameworks or libraries that are being used in the project I will be involved in, and spend a few days or weeks familiarizing myself with them.
 
 
-
 If I will be having a lead developer, perhaps he already has a plan on how to make me get familiar with the project I will be involved in.
 
 If not, I have my own method of getting familiar with the project. I will spend a few days getting familiar with the frameworks and libraries that are bing used....
+ -->
 
 
 
+<small>[_^ back to Contents_](#contents)<small>
 
 
 ----------------------------------------------------------
@@ -647,6 +699,8 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 - [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
 
+
+<small>[_^ back to Contents_](#contents)<small>
 
 
 

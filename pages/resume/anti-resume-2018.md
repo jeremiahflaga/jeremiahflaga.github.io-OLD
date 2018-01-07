@@ -2,7 +2,7 @@
 layout: page
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: false
+published: true
 ---
 
 <style>
@@ -60,7 +60,7 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
-Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as separating the business rules from the other parts of the system. The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
+Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as [separating the business rules from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/#comment-32). The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
 
 (I intend to someday become an expert on some frameworks of course.)
 
@@ -84,7 +84,7 @@ Being influenced by people who promote DDD _(Note: I only know a little about DD
 
 If I am hired, I plan to spend at least half of my time (during the first few weeks or months) learning about the business and half of the time learning about the specific frameworks/libraries/technologies your team is using.
 
-And if your domain is not googleable, or there are no books available to learn about it, then I might need _lots of guidance_ from my fellow programmers who are already familiar with the domain, or form the business people themselves, while learning about your domain.
+And if your domain is not googleable, or there are no books available to learn about it, then I might need _lots of guidance_ from my fellow programmers who are already familiar with the domain, or from the business people themselves, while learning about your domain.
 
 
 
@@ -116,7 +116,7 @@ I would like to suggest that there be a system where a programmer can be able to
 
 I would love to work on a new project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
 
-But most software systems in existence today are in maintenance mode. So there is a very big possibility that I will be working on one. And most systems that are in maintenance mode are messy.
+But most software systems in existence today are in maintenance mode. So there is a very big possibility that I will be working on one. And many systems that are in maintenance mode are messy.
 
 But many moths ago, I read this from an article written by Jonathan Boccara:
 
@@ -131,11 +131,11 @@ If you current code base is messy, I will _help own_ the mess, and will _help_ c
 
 
 
-## **I sometimes think about justice**
+## **I sometimes think about justice...**
 
 > "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!..."
 
-Well, I am very bold in saying that because I never experienced being involved in a software project from the very start. I only experienced working on software projects that are in maintenance mode.
+Well, I am very bold in saying that because I never experienced being involved in a software project _from the very start of the project_. I only experienced working on software projects that are in the maintenance phase.
 
 But, as every adult might have already realized, we do not always get justice in this life. So I intend to help those who experience injustice by helping them fix the mess that was the result of the original creators' abandonment of the system.
 
@@ -160,7 +160,7 @@ But if I will be working with a visual designer, I believe that he will not be h
 
 
 
-## **I don't know how to do this CQRS and Event Sourcing things**
+## **I don't know how to do these CQRS and Event Sourcing things**
 
 Even though I think this CQRS thing will have a very important role in software development in the next few years, I do not know how to do this yet. But I will learn about it after I finish the other things that I need to learn.
 
@@ -206,6 +206,7 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 
 ## **I know almost nothing about network programming**
 
+I learned a little bit about this sockets thing in Uncle Bob Martin's ["The Craftsman Series".](/memorabilia/books/the-craftsman-series/)
 
 
 ## **More (next time)...**

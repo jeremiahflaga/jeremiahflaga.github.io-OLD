@@ -2,7 +2,7 @@
 layout: page
 title: Open Application Letter
 permalink: /resume/open-application-letter/
-published: false
+published: true
 ---
 
 <style>
@@ -32,11 +32,7 @@ I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years 
 
 
 
-<!-- 
-Based on my statements below, I'm very excited about design in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
-If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/resume/anti-resume/).
- -->
 <!-- 
 .NET Programmer
 Design Partner
@@ -100,8 +96,15 @@ Here are
 [(h) Other...](#other)
 -->
 
-<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
 
+
+Based on my statements below, I'm very excited about _design_ in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
+
+If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/) and [anti-r&eacute;sum&eacute;](/resume/anti-resume/). :smile:
+
+
+
+<small>_(Note: I'm not a sexist. In the following section(s), I'm using the terms 'his', 'him', and 'he' to refer to any human being: male or female, old or young etc..)_</small>
 
 -------------------------------------
 
