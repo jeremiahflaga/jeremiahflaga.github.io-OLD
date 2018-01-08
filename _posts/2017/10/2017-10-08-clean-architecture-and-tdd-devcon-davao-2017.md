@@ -28,7 +28,7 @@ It was my plan to compensate the boredome with a demo. But I was not able to fin
 
 I was afraid that I will just lengthen the boredome of the attendees. So I stopped.
 
-To compensate for the kapalpakan during the talk, I will create videos for demo and will post them here in my blog a few days from now maybe.
+To compensate for the kapalpakan during the talk, I will create videos of the demo and will post them here in my blog a few days from now (perhaps).
 
 **The slides and the end-result source code of my practice demos are avialable** [**here**](https://github.com/jeremiahflaga/clean-architecture-and-tdd-demo).
 

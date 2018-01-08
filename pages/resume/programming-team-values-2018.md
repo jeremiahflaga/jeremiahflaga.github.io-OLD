@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-no-comments
 title: Values of Programming Teams
 permalink: /resume/programming-team-values/
 published: false

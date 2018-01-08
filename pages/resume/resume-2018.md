@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: true
+published: false
 ---
 
 <style>
@@ -79,7 +79,7 @@ published: true
 
 
 ----------------------------------------------------------
-## Contents
+## **Contents**
 
 
 [**Technical Knowledge**](#technical-knowledge)
@@ -416,7 +416,7 @@ This kind of realization actually gives me doubt on whether I already truly unde
             </li>
             <br />
             <li>
-              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. --- It was hard. :smile:
+              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
               <br /><br />
               There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
@@ -524,13 +524,13 @@ This kind of realization actually gives me doubt on whether I already truly unde
           <br /><br />
           But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use those knowledge in my coding.
           <br /><br />
-          Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into it.
+          Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into this new module.
           <br /><br />
           You see, the code base I was working on has only one module because it was only a small project. This module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains the <em>business logic</em> and <em>data access</em> layers combined. It also has <code>Model</code> classes which is used in all parts of the app.
           <br /><br />
           While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module. I was planning, through this separation, to slowly transfer the <em>business rules</em> into another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
           <br /><br />
-          But because I am not a master of the art of persuation, my plan was not pushed. :disappointed:
+          But because I was not a master of the art of persuation, my plan was not pushed. :disappointed:
           <br /><br />
           Well, it did not matter that much to me because I knew that I was (and is still) not an expert on Android development, and there might be some issues that I know nothing about that might have made the separation bad for the future of the app.
         </p>
@@ -593,10 +593,10 @@ This kind of realization actually gives me doubt on whether I already truly unde
   <dt>There must be a system for asking help</dt>
   <dd>
     Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
-    <br />
+    <br /><br />
     I think doing pair programming from time to time can help make this awkwardness of asking questions go away.
-    <br />
-    But perhaps there are other ways to solve this problem.
+    <br /><br />
+    But perhaps you know of other ways to solve this problem...
   </dd>
   
   <br />
@@ -614,9 +614,13 @@ This kind of realization actually gives me doubt on whether I already truly unde
   </dd>
 
   <br />
-  <dt>Other</dt>
+  <dt>I need to become proactive</dt>
   <dd>
-    ...
+    You might have noticed that in the "Contributions" parts of my Work Experiences, I only put <em>"just did the tasks assigned to me"</em> in there. I was kind of passive during my past jobs. I think it's because I am introverted and I lack experience during that time, and so I was not very confident.
+    <br /><br />
+    I want to change that. I want to do great work! And to be able to do great work I need to become proactive, I think. I'm not yet very sure how to do that but I can find ways.
+    <br /><br />
+    I hope that being proactive is not restricted in your company. :smile:
   </dd>
 </dl>
 
@@ -656,7 +660,7 @@ This kind of realization actually gives me doubt on whether I already truly unde
     <strong>My learning philosophy today on software development:</strong>
 </h2>
 
-When I started coding, my focus on learning was in mastering all aspects of a programming language (C# specifically).
+When I started coding, my focus on learning was trying to master the specifics of a programming language.
 
 Then a few years later, my focused moved into trying to master specific frameworks and libraries.
 
@@ -665,7 +669,7 @@ But today, my focus moved into learning the basic principles of software design 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
  -->
 
-Today, my learning philosophy is this:
+Today, my learning philosophy is like this:
 
 > [Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
 

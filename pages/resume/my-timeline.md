@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-no-comments
 title: My Timeline
 permalink: /resume/my-timeline/
 published: false

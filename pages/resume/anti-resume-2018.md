@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page-with-no-comments
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: true
+published: false
 ---
 
 <style>
