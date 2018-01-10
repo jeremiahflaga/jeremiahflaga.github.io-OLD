@@ -114,26 +114,3 @@ I am advocating for the legal distribution of books online (and of course agains
 > <small>If we can't legally posses it, it might not be for us (or at least not yet --- there are other things we might need to focus our attention to), or there might be other resources available to us that we are ignoring.</small>
 
 
-
---------------------------
-
-
-{% if site.disqus_short_name %}
-<div class="comments">
-  <h2>Comments</h2>
-  <div id="disqus_thread"></div>
-  <script>
-var disqus_config = function () {
-  this.page.url = '{{ site.url }}{{ page.url }}'; // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = '{{ page.id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-(function() {
-  var d = document, s = d.createElement('script');
-  s.src = '//{{ site.disqus_short_name }}.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-</div>
-{% endif %}

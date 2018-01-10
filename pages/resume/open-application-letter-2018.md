@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Open Application Letter
 permalink: /resume/open-application-letter/
-published: false
+published: true
 ---
 
 <style>
@@ -16,7 +16,7 @@ Dear Sir/Ma'am,
 
 <div class="message">
 
-I already resigned from my current job so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
+January 2018. The project I am currently involved in is almost finished, and I'm going to resign when it is finished already... so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
 <br /><br />
 My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 
@@ -66,7 +66,7 @@ and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [D
 <br />
 and **NOT** a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
 <br />
-<small>_(Hint: I might not be interested with this kind of job :smile:)_</small>
+<small>_(Hint: You have to pay me double for this kind of job because this would be hell :smile:)_</small>
 
 5. a [Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
 <br />
@@ -250,7 +250,7 @@ But please note also that, even though I first encountered Python many years ago
 
 _TDD Preacher?_
 
-No. Not really. Maybe someday I can become one. But today?... I don't know how to create sermons... :laughing: And I'm not good at speaking. :grin:
+No. Not really. Maybe someday I can become one. But today?... I don't know how to create sermons... :laughing: And I'm not good at speaking, at least not yet. :grin:
 
 
 

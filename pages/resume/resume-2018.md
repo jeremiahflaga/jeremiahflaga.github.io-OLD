@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: false
+published: true
 ---
 
 <style>
@@ -224,7 +224,7 @@ published: false
       <td>Software Development Practices:</td>
       <td>
         <p>
-        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development :smile:
+        Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development
         </p>
         <p>
         Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable
@@ -237,7 +237,7 @@ published: false
         <p>Googling Stackoverflow :smile:</p>
         <p>I know a little bit of Python.</p>
         <p>
-          I also like solving algorithmic problems, but am able to solve only the simple ones, :smile: at least for now... <br/>
+          I also like solving algorithmic problems, but am able to solve only the simple ones, at least for now... <br/>
           You can view my solutions to some simple problems
           <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
         </p>
@@ -291,12 +291,15 @@ Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.
 
 I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
 
-
-**Caution:** I claimed to know OOP when I applied for my first and second jobs. I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! :laughing: I was that programmer. :smile: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
-
+<span class="message">
+**Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
+<!-- 
+<br /><br />
 This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
-
+ -->
+<br /><br />
 ... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
+</span>
 
 
 <small>[_^ back to Contents_](#contents)<small>
@@ -673,9 +676,13 @@ Today, my learning philosophy is like this:
 
 > [Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
 
-> Ahead-of-time learning about basic principles and practices in software development
+> Ahead-of-time learning about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 I hope that kind of learning philosophy is okay with you. :smile:
+
+When I will be hired in your company, I will spend the first few weeks concentrating on learning about the specific frameworks and libraries that you are using, and also learning about the domain of the business that the software is being built for.
+
+When I already get comfortable with the specific frameworks and libraries being used in the project, I will move again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 
 <!-- 
@@ -708,7 +715,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 
 
-
+<!-- 
 ----------------------------------------------------------
 
 **If you have not seen them yet, here are the other links which complements my r&eacute;sum&eacute;:**
@@ -716,7 +723,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
 [**Open Application Letter**](/resume/open-application-letter/)
-
+ -->
 
 
 

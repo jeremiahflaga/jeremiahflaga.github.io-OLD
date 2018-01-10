@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: false
+published: true
 ---
 
 <style>
@@ -209,7 +209,7 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 I learned a little bit about this sockets thing in Uncle Bob Martin's ["The Craftsman Series".](/memorabilia/books/the-craftsman-series/)
 
 
-## **More (next time)...**
+## **More next time...**
 
 
 

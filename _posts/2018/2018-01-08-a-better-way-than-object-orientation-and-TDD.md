@@ -100,17 +100,17 @@ My interest about learning functional programming decreased after reading this s
 
 
 
-... But after hearing Mark Seemann's talk... _"I have to learn functional programming."_
+... But after viewing Mark Seemann's talk... _I have to learn functional programming._
 <!-- 
 The only thing I know today about functional programming is that the use of assignment is discouraged and that it uses lots of recursion. People also talk about this _monad_ thing, which even Scott Hanselman find hard to understand, as he said in a facebook post a few months ago.
  -->
 
+
+## Better than TDD?!
+
 Mark Seemann also talked about testing and why it is easier in functional programming than in object-orientation:
 
 > Testable OOP requires a lot of effort and a lot of diligence and a lot of constant monitoring of what's going on...
-
-
-## Better than TDD?!
 
 Then this!...
 
