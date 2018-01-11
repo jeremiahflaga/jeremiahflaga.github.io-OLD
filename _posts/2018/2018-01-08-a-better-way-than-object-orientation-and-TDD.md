@@ -94,9 +94,9 @@ Oooooooo... There is a better way!
 
 This is very intersting!
 
-My interest about learning functional programming decreased after reading this statement in Uncle Bob Martin's post titled ["Living on the Plateau"](http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html) a few months ago:
+I first became interested with functional programming [through Uncle Bob Martin](http://blog.cleancoder.com/uncle-bob/2012/08/24/functional-programming-for-the-object-oriented-programmer.html). But my interest about learning it decreased after reading this statement from him also, in his post titled ["Living on the Plateau"](http://blog.cleancoder.com/uncle-bob/2017/11/18/OnThePlateau.html):
 
-> If we aren’t going to see 1024 core processors in the near future, what need have we of functional programming languages? Oh, don’t get me wrong. I think functional programming is a good idea. Every programmer should learn it. But the crisis that we anticipated – the crisis that drove the current infatuation with functional languages – seems not to be occurring. And that may well mean that functional languages never achieve the ascendency that we had anticipated for them. It may just be that Java/C#, and Ruby/Python, and Swift/Dart/Go are, and will be, sufficient.
+> If we aren’t going to see 1024 core processors in the near future, what need have we of functional programming languages? Oh, don’t get me wrong. I think functional programming is a good idea. Every programmer should learn it. But the crisis that we anticipated – the crisis that drove the current infatuation with functional languages –-- seems not to be occurring. And that may well mean that functional languages never achieve the ascendency that we had anticipated for them. It may just be that Java/C#, and Ruby/Python, and Swift/Dart/Go are, and will be, sufficient.
 
 
 
