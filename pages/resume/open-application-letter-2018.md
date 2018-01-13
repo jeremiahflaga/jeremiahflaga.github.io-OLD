@@ -72,7 +72,7 @@ and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [D
 <br />
 and **NOT** a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
 <br />
-<small>_(Hint: You have to pay me double for this kind of job because I think this would be hell :smile:)_</small>
+<small>_(Hint: I might not be interested with this kind of job. :smile:)_</small>
 
 5. a [Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
 <br />
