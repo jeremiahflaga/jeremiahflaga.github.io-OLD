@@ -5,7 +5,7 @@ permalink: /my-library/
 published: false
 ---
 
-I did not finish my formal college education, so I will display here the books, free online courses I preciously took and other materials that might be considered as my equivalent to a formal college education. :smile:
+I did not finish my formal college education, so I will display here the books, free online courses I previously took and other materials that might be considered as my equivalent to a formal college education. :smile:
 
 
 ## Books

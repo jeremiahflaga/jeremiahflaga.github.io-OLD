@@ -6,13 +6,13 @@ published: true
 ---
 
 <style>
-  h2 {
+  /* h2 {
     color: #6a9fb5;
   }
 
   h3 {
     color: #515151;
-  }
+  } */
 
   .indented {
     padding-left: 1rem;
@@ -84,8 +84,6 @@ published: true
 
 [**Technical Knowledge**](#technical-knowledge)
 
-[**I'm an Initiate**](#an-initiate)
-
 [**Work Experience**](#work-experience)
 
 - [April 2012 - October 2012 (6 months)](#work-experience-1)
@@ -98,6 +96,8 @@ published: true
 
 
 [**More Lessons Learned**](#more-lessons-learned)
+
+[**I'm an Initiate**](#an-initiate)
 
 [**My learning philosophy today on software development**](#learning-philosophy)
 
@@ -271,6 +271,9 @@ published: true
           <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
         </p>
         <p>
+          <a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a> <small>(old GitHub account)</small>
+        </p>
+        <p>
           <a href="https://github.com/jboyflaga">github.com/jboyflaga</a> <small>(old GitHub account)</small>
         </p>
       </td>
@@ -279,30 +282,6 @@ published: true
 </table>
 
 
-
-----------------------------------------------------------
-
-
-<h2 id="an-initiate">
-  <strong>I'm an Initiate</strong>
-</h2>
-
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
-
-I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
-
-<span class="message">
-**Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
-<!-- 
-<br /><br />
-This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
- -->
-<br /><br />
-... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
-</span>
-
-
-<small>[_^ back to Contents_](#contents)<small>
 
 ----------------------------------------------------------
 
@@ -473,7 +452,7 @@ This kind of realization actually gives me doubt on whether I already truly unde
       <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  I placed <em>much</em> of my attention in the wrong places!
+  Did I place <em>much</em> of my attention in the wrong places!?...
   <br /><br />
   <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.</em>
   <br /><br />
@@ -527,11 +506,11 @@ This kind of realization actually gives me doubt on whether I already truly unde
           <br /><br />
           But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use those knowledge in my coding.
           <br /><br />
-          Also, when I learned that a new version of the app is to be made, I had this plan of creating a separate module where I can eventually transfer all the business rules into this new module.
+          Also, when I learned that a new version of the app is to be made, I had this plan of separating the UI part from the other parts of the application. I was planning that through this separation, I can eventually transfer all the business rules into another module. (I also heard from my teammates before that this kind of separation would also help in making the build time of the app to go down --- in the machine I was using, it takes about 4 minutes for the build to finish!)
           <br /><br />
-          You see, the code base I was working on has only one module because it was only a small project. This module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains the <em>business logic</em> and <em>data access</em> layers combined. It also has <code>Model</code> classes which is used in all parts of the app.
+          You see, the code base I was working on has only one module because it was only a small project. This module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains the <em>business logic</em> and <em>data access</em> layers combined. It also has <code>Model</code> classes which basically are data holders.
           <br /><br />
-          While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module. I was planning, through this separation, to slowly transfer the <em>business rules</em> into another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
+          While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module. I was planning, through this separation, to slowly transfer the <em>business rules</em> into yet another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
           <br /><br />
           But because I was not a master of the art of persuation, my plan was not pushed. :disappointed:
           <br /><br />
@@ -548,11 +527,13 @@ This kind of realization actually gives me doubt on whether I already truly unde
             <li>
               I learned how to work on a Java platform.
               <br /><br />
-              Before this job, I only knew how to do real world apps using .NET. Doing Android made me more confident that I can also do work on other platforms.
+              Before this job, I only knew how to do real world apps using .NET.
+              <br /><br />
+              Doing Android made me more confident that I can also do work on other platforms.
             </li>
             <br />
             <li>
-              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to fix. Luckily, that feature was removed during version 3. <em>Yehey!</em>
+              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
               <br /><br />
               But I still have to learn more about this threads thing.
             </li>
@@ -579,7 +560,7 @@ This kind of realization actually gives me doubt on whether I already truly unde
   <dd>
     As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
-    Because of that I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
     It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
   </dd>
@@ -658,9 +639,34 @@ This kind of realization actually gives me doubt on whether I already truly unde
 ----------------------------------------------------------
 
 
+<h2 id="an-initiate">
+  <strong>I'm an Initiate</strong>
+</h2>
+
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
+
+I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
+
+<span class="message">
+**Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
+<!-- 
+<br /><br />
+This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
+ -->
+<br /><br />
+... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
+</span>
+
+
+<small>[_^ back to Contents_](#contents)<small>
+
+
+----------------------------------------------------------
+
+
 
 <h2 id="learning-philosophy">
-    <strong>My learning philosophy today on software development:</strong>
+    <strong>My learning philosophy today on software development</strong>
 </h2>
 
 When I started coding, my focus on learning was trying to master the specifics of a programming language.

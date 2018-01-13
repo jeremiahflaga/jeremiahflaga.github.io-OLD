@@ -4,14 +4,14 @@ title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
 published: true
 ---
-
+<!-- 
 <style>
   h2 {
     //color: #507988;
     color: #6a9fb5;
   }
 </style>
-
+ -->
 
 <div class="float-right">
   <a href="/images/Jboy2017-Anti-Resume-Original.jpg">
@@ -55,7 +55,7 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
-> --- Vaughn Vernon (["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))
+> --- Vaughn Vernon <small>(from ["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))</small>
 
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
@@ -63,6 +63,8 @@ You might say, _"What! Frameworks are the ones that make us do our work easily a
 Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as [separating the business rules from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/#comment-32). The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
 
 (I intend to someday become an expert on some frameworks of course.)
+
+You might ask what my excuse is for not being an expert on frameworks...
 
 About ten years ago,  in our school library, I read this from a book called "The Magic of Thinking Big" <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
 
@@ -105,24 +107,24 @@ If the unit tests of your system run very slow, you might be interested in hirin
 
 ## **I sometimes get frustrated when I know that something is wrong and I cannot do anything about it**
 
-I will get frustrated sometimes, or maybe oftentimes, when I know that we can do better with things but the team are not doing something about it.
+I will get frustrated sometimes, or maybe oftentimes, when I know that we can do better with things but the team are not doing anything about it.
 
 
-I would like to suggest that there be a system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the code base... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
+I would be great if there is a kind of system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the code base... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
 
 
 
 ## **I will own the mess other people made if...**
 
-I would love to work on a new project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
+I would love to work on a **new** project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
 
-But most software systems in existence today are in maintenance mode. So there is a very big possibility that I will be working on one. And many systems that are in maintenance mode are messy.
+But most software systems in existence today are in **maintenance phase**. So there is a very big possibility that I will be working on one. And there are systems that are in the maintenance phase which are messy.
 
-But many moths ago, I read this from an article written by Jonathan Boccara:
+But many months ago, I read this from an article written by Jonathan Boccara:
 
 > "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
 <br /><br />
-> from ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)
+> --- from ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)
 
 That will be hard to do --- owning the code that somebody else has written --- most especially if the code is messy and hard to work with.
 
@@ -133,29 +135,45 @@ If you current code base is messy, I will _help own_ the mess, and will _help_ c
 
 ## **I sometimes think about justice...**
 
-> "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!..."
+> "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!... Do you really want them to create another mess?"
+
 
 Well, I am very bold in saying that because I never experienced being involved in a software project _from the very start of the project_. I only experienced working on software projects that are in the maintenance phase.
 
+So when I see code that looks like it was abandoned by their creators, I'm torn inside. --- _Why!?... Don't they care?_
+
+But perhaps I should stop thinking like this. I should be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards other programmers because I do not know what they have been through. Perhaps they had deadlines, and that is the reason why they did not give time cleaning up their mess.
+
+Okay...
+
+
+<!-- 
 But, as every adult might have already realized, we do not always get justice in this life. So I intend to help those who experience injustice by helping them fix the mess that was the result of the original creators' abandonment of the system.
 
 But if the creators of the system did not abandon their work, and is still working on it right now, and they know that their project is a mess but do not know how to fix it, I am also willing to _help_ clean up the mess.
-
-<!-- 
-You see, I believe in a personal Designer of the universe --- a Designer who is still cares about his creation (even though his creation do not seem to care about him)
-
-But of course in the real world, that does not always happen.
--->
 
 I think I can help in fixing messy software... But I'm not [Micheal Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga), so if the mess is very big already, you might need someone more skillful than me to help fix it. If it is still small, I might be able to help.
 
 
 
+You see, I believe in a personal Designer of the universe --- a Designer who is still cares about his creation (even though his creation do not seem to care about him)
+
+But of course in the real world, that does not always happen.
+-->
+
+
+
+## **I'm introverted**
+
+Which means that I might be very silent on my first encounters with a person, but will start to speak up when I get comfortable working with that person already. :smile:
+
+
+
 ## **I'm not very good with UIs**
 
-I'm not very good with UIs. But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs.
+I'm not very good with UIs. But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when working with you.
 
-But if I will be working with a visual designer, I believe that he will not be having a problem working with me beause I intend to decouple my code from the UI so that my code will not be very affected with UI changes and UI changes will not be affected by my code.
+If I will be working with a visual designer, I believe that he will not be having a problem working with me beause I intend to decouple my code from the UI, so that my code will not be very affected by UI changes, and the UI will not be very affected by my code changes.
 
 
 
@@ -188,7 +206,7 @@ Today, the only method I have to honestly estimate the time to be spent to finis
 
 ## **Cannot work on Android projects, except...**
 
-I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job... except when I will be hired in _helping_ decouple your business logic layer from the other parts of you software system, because in that case, I will not be _directly_ involved in working on the Android framework specific parts of project.
+I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job... except when I will be hired in _helping_ decouple your business logic layer from the other parts of you software system, because in that case, I will not be _directly_ involved in working on the _Android-framework-specific_ parts of project.
 
 
 
@@ -198,7 +216,11 @@ When it comes to security, I only know about SQL injection, and I know that it c
 
 Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
 
-I also read, in the past, about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
+I also read in the past about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I still have to review them.
+
+<!-- 
+but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
+ -->
 
 But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
@@ -206,19 +228,20 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 
 ## **I know almost nothing about network programming**
 
-I learned a little bit about this sockets thing in Uncle Bob Martin's ["The Craftsman Series".](/memorabilia/books/the-craftsman-series/)
+I learned a little bit about this sockets thing in Uncle Bob Martin's ["The Craftsman Series"](/memorabilia/books/the-craftsman-series/), and the 1 hour video ["Network Programming Seminar"](http://cs50.tv/2007/fall/#about,seminars) of CS50 Fall 2007. I will learn more later if time permits.
+
 
 
 ## **More next time...**
 
 
+<br />
 
-
-
+<!-- 
 --------------------
-
+ 
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>_(I have already forgotten most things I read from this book. But if you have also read this book, you can use some quotes in it to correct me someday when I'm already working with you and I did something wrong. But, of course, if the quote you will use is in disagreement with some of my core values, then I might try to defend myself. :smile: I hope you will also listen during those times when I try to defend myself.)_</small>
-
+ -->
 
 
 <!--

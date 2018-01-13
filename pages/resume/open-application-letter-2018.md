@@ -4,28 +4,34 @@ title: Open Application Letter
 permalink: /resume/open-application-letter/
 published: true
 ---
-
+<!-- 
 <style>
   h2 {
     color: #6a9fb5;
   }
 </style>
+ -->
+
+January 2018
 
 
 Dear Sir/Ma'am,
 
-<div class="message">
-
-January 2018. The project I am currently involved in is almost finished, and I'm going to resign when it is finished already... so please don't be alarmed about this "open application letter" thing. I promise that, when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
+<span class="message">
+<!-- 
+I already resigned from my current job because the project I am currently involved in is almost finished (I will be leaving in the middle of February 2018). 
 <br /><br />
-My purpose for this open application letter is to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
-
+ -->
+The project I am currently involved in is almost finished, and I'm going to resign in the first week of February. (after my resignation, I will be needing a month before I can leave)
+<br /><br />
+...So please don't be alarmed about this "open application letter" thing. I promise that when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
+<br /><br />
+My purpose for this open application letter is only to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 <!-- 
 <br /><br />
 <em>(I actually also have a secret agenda for doing this. But it is secret, so I'm not going to tell you what it is. But this secret agenda is for the good of the software industry, so you have nothing to worry about it.)</em>
 -->
-
-</div>
+</span>
 
 I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
@@ -46,7 +52,7 @@ Apprentice
 -->
 
 
-<strong id="list-of-roles">I woud like to apply for a job at your company for either of the following roles:</strong>
+<strong id="list-of-roles">I woud like to apply for a job at your company for one of the following combination of roles:</strong>
 
 1. a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
 <br />
@@ -66,7 +72,7 @@ and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [D
 <br />
 and **NOT** a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
 <br />
-<small>_(Hint: You have to pay me double for this kind of job because this would be hell :smile:)_</small>
+<small>_(Hint: You have to pay me double for this kind of job because I think this would be hell :smile:)_</small>
 
 5. a [Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
 <br />
@@ -130,7 +136,9 @@ If I am hired to have this role on a **new** project, what I will do is _help_ i
 
 If the "business rules" are separated from the other parts of the system, it will be easy for _new_ programmers to fix bugs and add new features, even when the original designers of the system is not present anymore. And if the new programmers find a business rule that they do not understand, they can just ask the business owner about it (when the original programmers of the system are not present anymore).
 
+<!-- 
 So this separation thing will be helpful mostly during the maintenance phase of the system, especially when the original developers of the system are not working on that project anymore... because programmers cannot use google to search about the business rules of a business. They can google for things like how to use a certain framework, but they cannot google for the business rules. They can ask the business owners about them, they can ask someone who is already familiar with the system, but they cannot google for them.
+ -->
 
 Then, after deciding on the structure of the entire system, when the actual coding of the features already start, I will pair program with those assigned to do the more complex features of the system and _help_ them with how to design their code. Then when the features that require design guidance are all finished, I will just work on my own in coding the other features.
 
@@ -143,6 +151,8 @@ But you might already have a Design Guide in your company. If that is the case, 
 
 
 
+----------
+
 <h2 id="design-partner">
   <strong>(b) Design Partner</strong>
 </h2>
@@ -151,7 +161,7 @@ But you might already have a Design Guide in your company. If that is the case, 
 
 Software design/architecture is a laborious work. If your software designer is doing all the work alone, he might easily get tired, or get bored, and might make some bad decisions about the system. I can help him on that. I can be able to point out if I think something is bad. He can help me with my decisions also. He can be able to point out if I make something bad.
 
-_(I am assuming here that your designer considers the business rules (or domain objects) to be the most important part of the software system, of course, and that it must be [separated from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/).)_
+_(I am assuming here that your designer considers the business rules to be the most important part of the software system, of course, and that it must be [separated from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/).)_
 
 Perhaps you have someone in your team a very good sofware designer, or a budding designer, and you want to keep him for the next years to come. One way of doing that, I think, is to give him a design partner, because he might get stuck sometimes, or feel unmotivated sometimes, or feel like abandoning his disciplines just to solve a problem quickly, and he needs someone to talk to or share his ideas with. I can be that someone.
 
@@ -159,6 +169,8 @@ Perhaps you have someone in your team a very good sofware designer, or a budding
 <small>[_^ back to list of roles_](#list-of-roles)<small>
 
 
+
+----------
 
 <h2 id="design-apprentice">
   <strong>(c) Design Apprentice</strong>
@@ -173,15 +185,17 @@ Or perhaps your software designer is leaving in a few years and he is looking fo
 
 
 
+----------
+
 <h2 id="thinking-rubber-duck">
   <strong>(d) A Thinking Rubber Duck</strong>
 </h2>
 
-Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem, because This can help us solve the problem.
+Some of our master programmers advise us to bring with us a rubber duck in the office, and try to explain to that rubber duck our problem when we feel like we are stuck with that problem, because this can help us solve the problem.
 
-But many programmers do not do that because they are afraid that their coleagues might think that they are an idiot talking to a rubber duck.
+But many programmers do not do that because they are afraid that their coleagues might think that they are being an idiot talking to a rubber duck.
 
-I can replace that rubber duck instead. Some programmers sometimes need to talk to someone who can _think with them_ and _help_ them solve the problem when they are stuck. I can be that programmer who anyone can call anytime they are stuck.
+I can replace that rubber duck instead. Some programmers sometimes need to talk to someone who can **_think with them_** and _help_ them solve the problem when they are stuck. I can be that programmer who anyone can call anytime they are stuck.
 
 Also, through this role, I can become familiar with the whole system and might someday help with bringing the code into a state where the business rules are separated from the other parts of the system, or to bring it into a state of being testable.
 
@@ -189,6 +203,8 @@ Also, through this role, I can become familiar with the whole system and might s
 <small>[_^ back to list of roles_](#list-of-roles)<small>
 
 
+
+----------
 
 <h2 id="dotnet-programmer">
   <strong>(e) .NET Programmer</strong>
@@ -214,25 +230,22 @@ In the .NET world, some of the frameworks I have experience working with (but fa
 - Moq
 - (etc.)
 
-I'm even rusty on some of them today because I became an Android Developer in my last job, and in the last year or so, I moved my focus into software design rather than on frameworks and languages.
+**I'm even rusty on some of them today** because I became an Android Developer in my last job. And in the last year or so, I moved my focus into learning software design rather than on frameworks and languages. So if I will be hired as a .NET developer, I might need some time to re-familiarize myself with the specific frameworks and libraries that are being used in the app that I will be involved in.
 
-If I will be hired as a .NET developer, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [r&eacute;sum&eacute;](/resume/)?)
+Also, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [r&eacute;sum&eacute;](/resume/)?)
 
-But if your Web API team is full already, or if the role that I need to fill will still involve the UI, then I have to push myself to be good at the UI also :smile:
+But if your Web API team is full already, or if the role that I need to fill will still involve the UI, such as in an ASP.NET MVC project, then I have to push myself to be good at the UI also :smile:
 
 
 <small>[_^ back to list of roles_](#list-of-roles)<small>
 
 
+
+----------
 
 <h2 id="python-programmer">
   <strong>(f) Python Apprentice Programmer (on projects that use TDD)</strong>
 </h2>
-
-
-<small>[_^ back to list of roles_](#list-of-roles)<small>
-
-
 
 I see [TDD](/memorabilia/quotes/tdd/) listed in almost every job description for a Python developer I see online.
 
@@ -240,6 +253,12 @@ If you are doing TDD in your Python project, I'm also interested in joining your
 
 But please note also that, even though I first encountered Python many years ago, my recent significant experience with Python is only when I studied the first seven chapters of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html) last June and July 2017, and when I took the "[MIT OpenCourseWare 6.0001"](/2017/08/05/finished-mit-ocw-6.0001/) last July and August 2017. I have never experienced using python in a _real-world_ project.
 
+
+<small>[_^ back to list of roles_](#list-of-roles)<small>
+
+
+
+----------
 
 <h2 id="tdd-preacher">
   <strong>(g) TDD Preacher</strong>
@@ -250,24 +269,31 @@ But please note also that, even though I first encountered Python many years ago
 
 _TDD Preacher?_
 
-No. Not really. Maybe someday I can become one. But today?... I don't know how to create sermons... :laughing: And I'm not good at speaking, at least not yet. :grin:
+No... Not really... Maybe someday I can become one. But today?... I don't know how to create sermons... :laughing: And I'm not good at speaking... at least not yet.
 
 
+
+----------
 
 <h2 id="other">
   <strong>(h) Other...</strong>
 </h2>
 
-If the role you need is not in the list above, but you suspect that I am fit for that kind of role, please contact me with the details of that kind of role you are offering and I will see if I will be able to do it. :smile:
+If the role you need is not in the list above, but you suspect that I am fit for that kind of role, please contact me with the details of that kind of role you are offering and I will see if I am able to do it. :smile:
 
 
+<small>[_^ back to list of roles_](#list-of-roles)<small>
 
-
-## More next time...
 
 
 <br />
 
+
+
+## **More next time...**
+
+
+----------
 
 <h2 id="about-sideline-jobs">
   <strong>About sideline jobs</strong>
