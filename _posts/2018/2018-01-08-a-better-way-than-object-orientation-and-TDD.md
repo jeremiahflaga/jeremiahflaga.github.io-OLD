@@ -56,7 +56,7 @@ Okay... enough of my story...
 I just used my story on OOP as an introduction to this post because it is very much related to what this post is all about.
 
 
-This post is about Mark Seemann's<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](insert link here).
+This post is about Mark Seemann's<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](https://www.youtube.com/watch?v=US8QG9I1XW0).
 
 I find this talk very interesting because he has claims in this talk which will give lots of hope to programmers.
 
