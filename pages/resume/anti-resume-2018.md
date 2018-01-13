@@ -43,7 +43,7 @@ This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/
 
 ## **I never experienced being an Algorithmer**
 
-In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an **Initiate**, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/Articles/Tech/2015/10/25/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an **Algorithmer**, even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_.
+In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an **Initiate**, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an **Algorithmer**, even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_.
 
 But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, if I will be working with one.
 
