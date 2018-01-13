@@ -15,7 +15,7 @@ That image is part of my r&eacute;sum&eacute; when I applied for my first and se
 
 _Object-Oriented Programming was one of my technical expertise!_
 
-I can't help but laugh at myself when I heard Uncle Bob Martin talk about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s)
+I can't help but laugh at myself when, years later, I heard Uncle Bob Martin talk about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s)
 
 <!--more-->
 
@@ -37,13 +37,13 @@ But I passed the interviews, of course...
 
 I remember this question during my interview for my second job:
 
-> Interviewer: Do you know of the other way of doing polymorphism than using an interface?
+> **Interviewer:** Do you know of the other way of doing polymorphism than using an interface?
 <br /><br />
-> Me: Uhmmmm... Using a child class and a superclass??
+> **Me:** Uhmmmm... Using a child class and a superclass??
 <br /><br />
-> Interviewer: You mean inheritance?
+> **Interviewer:** You mean inheritance?
 <br /><br />
-> Me: Yes... inheritance
+> **Me:** Yes... inheritance
 
 :laughing:
 
@@ -58,7 +58,7 @@ I just used my story on OOP as an introduction to this post because it is very m
 
 This post is about Mark Seemann's<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](insert link here).
 
-I find this talk very interesting because he has claims in this talk that will give lots of hope to programmers.
+I find this talk very interesting because he has claims in this talk which will give lots of hope to programmers.
 
 > ... This is what I feel to be a software architect or a lead developer on a team is you have to be constantly vigilant because if you just look away for a moment, if you are sick for a couple of days, or you go on a vacation, or you have to go to many meetings, what's going to happen is that everything rolls downhill again...
 <br /><br />

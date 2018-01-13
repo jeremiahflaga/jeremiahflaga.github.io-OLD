@@ -14,7 +14,7 @@ Most of the things I write will not be interesting to you... so, instead of poin
 
 -----
 
-[A better way than OO!... and TDD?](/2018/01/09/a-better-way-than-object-orientation-and-TDD) <small>(Jan 9, 2018)</small>
+[A better way than OO!... and TDD?](/2018/01/08/a-better-way-than-object-orientation-and-TDD) <small>(Jan 9, 2018)</small>
 
 [What is the most basic rule when writing code?](/2017/11/30/the-most-basic-rule-when-writing-code/) <small>(Nov 30, 2017)</small>
 
