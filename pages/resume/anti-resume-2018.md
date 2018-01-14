@@ -43,7 +43,7 @@ This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/
 
 ## **I never experienced being an Algorithmer**
 
-In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an **Initiate**, based on [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html). But I never experienced being an **Algorithmer**, even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_.
+In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), based on Terence McGhee's "Software Ninja Class Hierarchy". But I never experienced being an [**Algorithmer**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#algorithmer), even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_. My weak mathematics background is the reason why I concentrated on learning how to build what they call [line-of-business (LOB) applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) (or what is called _"representational-transactional systems"_ [here](https://aryehoffman.com/entry/classifying-software/)), because these things do not need lots of knowledge in mathematics.
 
 But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, if I will be working with one.
 
@@ -60,7 +60,7 @@ But I can work with an Algorithmer, and I think I have a high respect for an Alg
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
-Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as [separating the business rules from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/#comment-32). The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
+Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as [separating the business rules from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value). The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
 
 (I intend to someday become an expert on some frameworks of course.)
 
