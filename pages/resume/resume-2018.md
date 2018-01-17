@@ -304,7 +304,7 @@ published: true
       <td>
         <p>
           Software Developer for web using .NET (and Sitecore) at <strong><a  href="http://www.jairosolutions.com">Jairosolutions</a></strong>
-        </p>  
+        </p>
         <p>
           Involved in creating contest pages for <a  href="http://www.getmodal.com/portfolio/verizon-insider/">www.verizoninsider.com</a>
         </p>
@@ -313,7 +313,13 @@ published: true
     <tr>
       <td>
       </td>
-      <td>      
+      <td>
+        <!-- <p>
+          <strong>Technologies used:</strong>
+        </p>
+        <p class="indented">
+          Sitecore, ASP.NET Web Forms
+        </p> -->
         <p>
           <strong>Contributions:</strong>
         </p>
@@ -354,19 +360,20 @@ published: true
           Software Developer for web using .NET at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>
         <p>
-          Involved in maintaining desktop and web apps for insurance.
-        </p>
-        <!-- 
-        <p>
           Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
         </p>
-         -->
       </td>
     </tr>
     <tr>
       <td>
       </td>
       <td>
+        <!-- <p>
+          <strong>Technologies used:</strong>
+        </p>
+        <p class="indented">
+           ASP.NET Web Forms, KnockoutJS, jQuery, Bootstrap, Unity, Entity Framework, some ASP.NET MVC
+        </p> -->
         <p>
           <strong>Contributions:</strong>
         </p>
@@ -473,7 +480,7 @@ published: true
 
 
 <h3 id="work-experience-3">
-  <strong>October 2016 – February 2018</strong> <small>(1 year, 3 months)</small>
+  <strong>October 2016 – February 2018</strong> <small>(1 year, 4 months)</small>
 </h3>
 
 <table class="resume">
@@ -486,13 +493,8 @@ published: true
           Software Developer for mobile using Android at <strong><a href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>  
         <p>
-          Involved in developing versions 2 and 3 of a mobile app for Android devices
-        </p>
-        <!-- 
-        <p>
           Involved in developing versions 2 and 3 of the Dr. Oz app for Android devices
         </p>
-         -->
       </td>
     </tr>
     <tr>
@@ -505,13 +507,13 @@ published: true
         <p class="indented">
           Nothing extraordinary. Just did the tasks assigned to me.
           <br /><br />
-          But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use those knowledge in my coding.
+          But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use these  knowledge in my coding.
           <br /><br />
-          Also, when I learned that a new version of the app is to be made, I had this plan of separating the UI part from the other parts of the application. I was planning that through this separation, I can eventually transfer all the business rules into another module. (I also heard from my teammates before that this kind of separation would also help in making the build time of the app to go down --- in the machine I was using, it takes about 4 minutes for the build to finish!)
+          Also, when I learned that a new version of the app is to be made, I had this plan of separating the UI part from the other parts of the application. I was planning that, through this separation, I can eventually transfer all the business rules into another module. (I also heard from my teammates before that this kind of separation will also help in making the build time of the app to go down --- in the machine I was using, it takes about 4 minutes for the build to finish!)
           <br /><br />
-          You see, the code base I was working on has only one module because it was only a small project. This module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains the <em>business logic</em> and <em>data access</em> layers combined. It also has <code>Model</code> classes which basically are data holders.
+          You see, the code base I was working on has only one module because it was only a small project. This single module contains the <em>presentation layer</em> (we were using MVP), and <code>Helper</code> classes which basically contains <em>data logic</em> and some <em>business logic</em>. It also has <code>Model</code> classes which are data holders.
           <br /><br />
-          While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module. I was planning, through this separation, to slowly transfer the <em>business rules</em> into yet another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
+          While working on version two of the app, I saw that some of the data-access part leaked into the presentation layer. So when I heard that a new version of the app is to be made, I tried to do something to separate the <code>Helper</code> classes and <code>Model</code> classes into another module before the development of the next version starts. I was planning, through this separation, to slowly transfer the <em>business rules</em> into yet another module. And I was also hopeful that I can mold the app into a form where I can be able to do TDD in the <em>business rules</em> module when adding the new features for the new version of the app.
           <br /><br />
           But because I was not a master of the art of persuation, my plan was not pushed. :disappointed:
           <br /><br />
@@ -601,7 +603,7 @@ published: true
   <br />
   <dt>I need to become proactive</dt>
   <dd>
-    You might have noticed that in the "Contributions" parts of my Work Experiences, I only put <em>"just did the tasks assigned to me"</em> in there. I was kind of passive during my past jobs. I think it's because I am introverted and I lack experience during that time, and so I was not very confident.
+    You might have noticed that in the "Contributions" parts of my Work Experiences, I only put <em>"just did the tasks assigned to me"</em> in there. I was kind of passive during my past jobs. I think it's because I am introverted and I lack experience during that time, and so I was not very confident in making suggestions. (I was not necessarily 100% passive because I recently found in my notes in my second job some unspoken suggestions on how we might make work better.)
     <br /><br />
     I want to change that. I want to do great work! And to be able to do great work I need to become proactive, I think. I'm not yet very sure how to do that but I can find ways.
     <br /><br />
@@ -687,7 +689,7 @@ Today, my learning philosophy is like this:
 
 I hope that kind of learning philosophy is okay with you. :smile:
 
-When I will be hired in your company, I will spend the first few weeks concentrating on learning about the specific frameworks and libraries that you are using, and also learning about the domain of the business that the software is being built for.
+When I will be hired in your company, I will spend the first few weeks concentrating on learning about the specific frameworks and libraries that you are using, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the product was built.
 
 When I already get comfortable with the specific frameworks and libraries being used in the project, I will move again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
@@ -707,7 +709,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 <small>[_^ back to Contents_](#contents)<small>
 
-<!-- 
+
 ----------------------------------------------------------
 
 <h2 id="talks">
@@ -715,12 +717,15 @@ If not, I have my own method of getting familiar with the project. I will spend 
 </h2>
 
 
-- [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
+- October 7, 2017 -  [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
 
+
+Coming:
+
+- January 26, 2017 - **Clean Architecture and TDD** at Sultan Kudarat State University's PSITS Inter-Campus Conference 2018
 
 <small>[_^ back to Contents_](#contents)<small>
 
- -->
 
 <!-- 
 ----------------------------------------------------------

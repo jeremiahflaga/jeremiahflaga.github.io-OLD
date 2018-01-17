@@ -19,12 +19,10 @@ Dear Sir/Ma'am,
 
 <span class="message">
 <!-- 
-I already resigned from my current job because the project I am currently involved in is almost finished (I will be leaving in the middle of February 2018). 
-<br /><br />
- -->
 The project I am currently involved in is almost finished, and I'm going to resign in the first week of February. (after my resignation, I will be needing a month before I can leave)
 <br /><br />
-...So please don't be alarmed about this "open application letter" thing. I promise that when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
+-->
+I already resigned from my current job because the project I am currently involved in is almost finished (I will be leaving in the end of February 2018) so please don't be alarmed about this "open application letter" thing. I promise that when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
 <br /><br />
 My purpose for this open application letter is only to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 <!-- 
@@ -33,23 +31,10 @@ My purpose for this open application letter is only to make it easy for me to ap
 -->
 </span>
 
+
+
 I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
 
-
-
-
-
-<!-- 
-.NET Programmer
-Design Partner
-
-Design Guardian (for new projects, through TDD)
-TDD Preacher
-TDD Guide
-TDD Law Enforcer
-
-Apprentice 
--->
 
 
 <strong id="list-of-roles">I woud like to apply for a job at your company for one of the following combination of roles:</strong>
@@ -79,28 +64,6 @@ and **NOT** a ( [Design Guide](#design-guide) or [Design Partner](#design-partne
 and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [Design Apprentice](#design-apprentice) )
 
 6. [Other combination of roles you need...](#other)
-
-
-
-<!-- 
-Here are 
-
-[(a) Design Guide](#design-guide)
-
-[(b) Design Partner](#design-partner)
-
-[(c) Design Apprentice](#design-apprentice)
-
-[(d) A Thinking Rubber Duck](#thinking-rubber-duck)
-
-[(e) .NET Programmer](#dotnet-programmer)
-
-[(f) Python Apprentice Programmer (on projects that use TDD)](#python-programmer)
-
-[(g) TDD Preacher](#tdd-preacher)
-
-[(h) Other...](#other)
--->
 
 
 
