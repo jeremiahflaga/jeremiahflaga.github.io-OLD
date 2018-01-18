@@ -77,7 +77,7 @@ _Or maybe I am not!_
 
 _I'm just joking. Really_ :smile:
 
-But I'm hoping that someone very intelligent will do...
+But I'm hoping that **someone very intelligent** will do...
 
 Ooops!
 
@@ -113,3 +113,10 @@ _I'm just joking!_
 _**Why am I blaming other people instead of mastering my own self!**_
 
 :sob:
+
+_Still, they are propagating evil... what can be done about this?_
+
+_It it really dishonorable to get rid of dishonorable things?_
+
+[There is a better way, of course... But it's harder... _(or is it?)..._ But it cures...]
+
