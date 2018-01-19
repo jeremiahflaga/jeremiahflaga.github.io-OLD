@@ -97,6 +97,11 @@ matter how pretty or object-oriented or well encapsulated it is.
 > I’ve lost count of the number of times I’ve thought “Thanks, tests”, as a functional test uncovers a regression we would never have predicted, or a unit test saves me from making a really silly logic error. **Psychologically, [TDD] made development a much less stressful process. It produces code that’s a pleasure to work with.**
 
 
+### Michael ([GeePaw](http://anarchycreek.com/whosgeepawhill/)) Hill ([How TDD and Pairing Increase Production](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/))
+
+> ... the hard part of programming is the thinking, not the typing...
+<br /><br />
+> TDD increases your production because it serves as a thinking-aid.  It limits back-tracking and gold-plating  and it reduces code-study and debugging.  Pairing increases your production for the very same reason.  Two developers together don’t type as fast as two developers separately, but we don’t care: the bottleneck is the thinking, and pairing and TDDing both improve it.
 
 
 
