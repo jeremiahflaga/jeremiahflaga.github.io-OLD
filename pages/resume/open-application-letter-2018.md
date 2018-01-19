@@ -199,6 +199,8 @@ Also, I prefer to be involved in the Web API part of the system, because I'm not
 
 But if your Web API team is full already, or if the role that I need to fill will still involve the UI, such as in an ASP.NET MVC project, then I have to push myself to be good at the UI also :smile:
 
+I already have resources that I plan to use to learn more about .NET (specifically ASP.NET Web API) when I get hired: [ASP.NET Web API tutorial for beginners by kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b) and [Designing Evolvable Web APIs with ASP.NET](http://chimera.labs.oreilly.com/books/1234000001708/index.html).
+
 
 <small>[_^ back to list of roles_](#list-of-roles)<small>
 
