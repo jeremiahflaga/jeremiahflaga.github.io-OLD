@@ -11,7 +11,7 @@ published: false
 
 During college, I became interested about solving algorithmic problems. But because of lack of mentorship and my lack of knowledge in higher maths, I decided to concentrate my energies into studying how to create [line-of-business (LOB) applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) (or what is called _"representational-transactional systems"_ [here](https://aryehoffman.com/entry/classifying-software/)).
 
-I thought to myself that creating LOB applications is much easier to do --- it does not require lots of knowledge in maths, and I thought that I can easily get jobs in the future if I concentrate on creating LOB apps rather than solving algorithmic problems.
+I thought to myself that creating LOB applications is much easier to do --- it does not require lots of knowledge in maths --- and I thought that I can easily get jobs in the future if I concentrate on creating LOB apps rather than solving algorithmic problems.
 
 
 During those times, I was curios about how people structure their code in real-world projects.

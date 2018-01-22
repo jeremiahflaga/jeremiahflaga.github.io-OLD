@@ -306,8 +306,15 @@ published: false
           Software Developer for web using .NET (and Sitecore) at <strong><a  href="http://www.jairosolutions.com">Jairosolutions</a></strong>
         </p>
         <p>
+          I experienced being in a team creating web pages using the Sitecore CMS and ASP.NET.
+          <br /><br />
+          The team members only worked at home as outsource developers for <a href="http://www.getmodal.com/">GetModal</a>, building contest pages for <a  href="http://www.getmodal.com/portfolio/verizon-insider/">www.verizoninsider.com</a>.
+        </p>
+        <!--         
+        <p>
           Involved in creating contest pages for <a  href="http://www.getmodal.com/portfolio/verizon-insider/">www.verizoninsider.com</a>
         </p>
+        -->
       </td>
     </tr>
     <tr>
@@ -360,8 +367,17 @@ published: false
           Software Developer for web using .NET at <strong><a  href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>
         <p>
-          Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
+          I was part of a team that works for a client named Common Census. We were developing and maintaining a web application that is used in enrollment for insurance.
+          <br /><br />
+          We were using ASP.NET WebForms and the MVP design pattern to build the software. We used MS Test and Moq in writing Unit Tests. There was also a legacy desktop version of the enroller that we were maintaining.
+          <br /><br />
+          There were also a few parts of the web app that were being converted to ASP.NET MVC. So I also had a little experience using ASP.NET MVC at work.
         </p>
+        <!--         
+        <p>
+          Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
+        </p> -->
+
       </td>
     </tr>
     <tr>
@@ -440,7 +456,10 @@ published: false
 
   I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
   <br /><br />
-  <em><strong>I would say that this is the time of my enlightenment.</strong> (Read the blog post yourself... you will also be enlightened. :smile:)</em>
+  <em><strong>I would say that this is the time of my enlightenment.</strong> 
+  <!--   
+  (Read the blog post yourself... you will also be enlightened. :smile:)</em>
+   -->
   <br /><br />
   <p class="indented">
     <em>"Architecture is not about frameworks and databases and..."</em>
@@ -689,9 +708,9 @@ Today, my learning philosophy is like this:
 
 I hope that kind of learning philosophy is okay with you. :smile:
 
-When I will be hired in your company, I will spend the first few weeks concentrating on learning about the specific frameworks and libraries that you are using, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the product was built.
+When I will be hired in your company, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
 
-When I already get comfortable with the specific frameworks and libraries being used in the project, I will move again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
+When I reach the point where am already comfortable with my knowledge on the specific frameworks and libraries being used in the project, I will move my concentration again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 
 <!-- 
