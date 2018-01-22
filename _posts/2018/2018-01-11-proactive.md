@@ -56,17 +56,17 @@ Lots of reading to do, perhaps...
 
 **Update: Jan 15, 2018**
 
-While browsing through the latest articles at [simpleprogrammer.com](https://simpleprogrammer.com/)... I found [this].(https://simpleprogrammer.com/2018/01/08/overcoming-obstacles-stoic-mindset/)
+While browsing through the latest articles at simpleprogrammer.com... I found [this...](https://simpleprogrammer.com/2018/01/08/overcoming-obstacles-stoic-mindset/)
 
 The author recommends the books "The Lean Startup" and "Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days"... saying that the skills we will learn from these books will...
 
 > ... help us not to be a **reactive** “factory worker,” but instead, **proactively** help the business to find out what’s valuable and then deliver it.
 
-She used the same terms that were used by our my previous senior developer!
+She used the same terms that were used by our my senior used!
 
 Could Steven Pressfield be right!?
 
-> "... Because when we sit down day after day and keep
+> "... because when we sit down day after day and keep
 grinding, something mysterious starts to happen. A
 process is set into motion by which, inevitably and
 infallibly, heaven comes to our aid. Unseen forces enlist
