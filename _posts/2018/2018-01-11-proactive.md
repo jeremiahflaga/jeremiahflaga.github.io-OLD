@@ -62,7 +62,7 @@ The author recommends the books "The Lean Startup" and "Sprint: How To Solve Big
 
 > ... help us not to be a **reactive** “factory worker,” but instead, **proactively** help the business to find out what’s valuable and then deliver it.
 
-She used the same terms that were used by our my senior used!
+She used the same terms that my senior used!
 
 Could Steven Pressfield be right!?
 
