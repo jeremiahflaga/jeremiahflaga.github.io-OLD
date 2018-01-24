@@ -8,6 +8,10 @@ HTML question mark (?)
 HTML for apostrophe
 &#39;
 
+HTML for n and N with tilde
+&ntilde;
+&Ntilde;
+
 Long dash
  —    or ---
 

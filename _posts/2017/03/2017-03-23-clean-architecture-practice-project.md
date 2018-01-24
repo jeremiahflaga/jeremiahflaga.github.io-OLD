@@ -12,13 +12,13 @@ date: 2017-03-23 01:00:00 AM UTC
 
 <small>(The contents of this post might be outdated. The [README in this project's GitHub repository](https://github.com/jeremiahflaga/clean-architecture-practice/blob/master/README.md) might have updates.)</small>
 
+Last year, after learning that Robert C. Martin of the "Clean Code" book has a blog (through a [link](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html) shared in our Skype group by a coleague, I&ntilde;aki Narciso, who later became a friend), I started reading anything in that blog whose title catches my attention. _(I was not very aware that busy people, like Robert C. Martin, have blogs.)_
 
-
-Last year, I was able to read Uncle Bob Martin's article titled ["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). While reading that article I thought that he is just explaining how _most_ software developers do architecture in the real world.
+I was able to read his article ["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). While reading that article I thought that he is just explaining how _most_ software developers do architecture in the real world. And that all I have to do to be able to experience this clean architecture thing is to wait until I can find a job where the project I will be involved in uses this kind of architecture.
 
 <!--more-->
 
-But two days ago, I learned that he is writing a new book titled "Clean Architecture" to be released this August 2017. _(I'm going to buy that book.)_
+But two days ago, I learned that he is writing a new book titled "Clean Architecture" to be released this August 2017 (according to Amazon). _(I'm going to buy that book.)_
 
 I realized that this **"Clean Architecture"** idea is new. I have to learn it. _(Maybe it's not really new; but maybe the majority of developers does not know about it yet?!)_
 
