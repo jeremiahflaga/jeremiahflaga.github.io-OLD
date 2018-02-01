@@ -21,3 +21,11 @@ Reading blog posts like this one is a baby step: hopefully it'll help a bit, but
 <br /><br />
 **Being willing to read is a superpower in our industry. It really is.**
 
+
+
+## What to read...
+
+> If you think there are already too many patterns books to study, don’t worry. Follow the advice of Jerry Weinberg. I once asked him how he keeps up with all the books that come out. He said, “Easy — **I only read the great ones**.”
+<br /><br />
+> --- Joshua Kerievsky (from chapter 3 of Refactoring to Patterns)
+
