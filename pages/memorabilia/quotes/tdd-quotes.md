@@ -83,13 +83,13 @@ matter how pretty or object-oriented or well encapsulated it is.
 > A suite of tests is more important than a good design.
 
 
-<!-- 
+
 ### Joshua Kerievsky <small>(Refactoring to Patterns)</small>
 
 > "Test-driven development and continuous refactoring, two of the many excellent XP practices, have dramatically improved the way I build software. 
 <br /><br />
 >" I’ve found that these two practices have helped me and the organizations I’ve worked for **spend less time over-engineering and under-engineering and more time creating high-quality, function-rich code, produced on time**."
- -->
+
 
 
 ### Harry Percival (Preface of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/preface.html))
