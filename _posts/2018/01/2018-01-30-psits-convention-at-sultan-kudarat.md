@@ -50,6 +50,10 @@ Here is a picture I have during the giving of certificate after the talk:
 
 ![PSITS-SKSU-Jan-2018-Certificate-for-Talk.jpg](/images/2018/PSITS-SKSU-Jan-2018-Certificate-for-Talk.jpg)
 
+And here is another picture of me with the guest speaker, Ms. Elizabeth Buazon (I stole this from her facebook profile :smile:):
+
+![PSITS-SKSU-Jan-2018-pic-with-another-speaker.jpg](/images/2018/PSITS-SKSU-Jan-2018-pic-with-another-speaker.jpg)
+
 
 ----------
 
