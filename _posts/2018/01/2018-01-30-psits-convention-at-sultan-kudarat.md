@@ -46,6 +46,10 @@ And... About my talk... I'm not sure if it was a success or not. At the end of t
 
 But I made it clear during the talk that my purpose for choosing that topics is that they might be exposed to these clean architecture and TDD ideas very early in their life (because I know that it will take a long while before an idea will sink in and consume the mind of an individual :smile:).
 
+Here is a picture I have during the giving of certificate after the talk:
+
+![PSITS-SKSU-Jan-2018-Certificate-for-Talk.jpg](/images/2018/PSITS-SKSU-Jan-2018-Certificate-for-Talk.jpg)
+
 
 ----------
 

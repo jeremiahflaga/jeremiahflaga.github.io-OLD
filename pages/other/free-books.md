@@ -74,11 +74,11 @@ Competitive Programmer's Handbook by Antti Laaksonen
 
 ## Other books
 
-[In the Beginning Was Information](available for free at answersingenesis.org --- google for it, for now) by Werner Gitt
+[In the Beginning Was Information](https://answersingenesis.org/answers/books/in-beginning-was-information/) by Werner Gitt
 
-[Square One: The Foundations of Knowledge](google for it, for now) by Steve Patterson
+[Square One: The Foundations of Knowledge](http://steve-patterson.com/wp-content/uploads/2016/12/SquareOne_PDF.pdf) by Steve Patterson
 
-[What's the Big Deal About Bitcoin?](google for it, for now) by Steve Patterson
+[What's the Big Deal About Bitcoin?](http://steve-patterson.com/wp-content/uploads/2015/03/WhatsTheBigDealAboutBitcoin.pdf) by Steve Patterson
 
 [14 Free eBooks for You](http://www.desiringgod.org/articles/14-free-ebooks-for-you) - from desiringgod.com
 
