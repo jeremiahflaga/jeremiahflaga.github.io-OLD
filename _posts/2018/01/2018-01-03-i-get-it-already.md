@@ -24,7 +24,7 @@ And I have never been in a team which practices TDD, but the apps I was and am i
 
 So when it comes to TDD, I'm negotiable. I'm not a TDD fanatic --- at least not yet :laughing:. But let me experience TDD... I believe I'm never going back... [I hope...](http://blog.cleancoder.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html) :smile:
 
-But there's one thing I don't want to be negotiable on anymore. And that is the [proper separation of the business rules from the other parts of a software system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/), and taking proper care of them.
+But there's one thing I don't want to be negotiable on anymore (when I will be involved in a software project from the very start). And that is the [proper separation of the business rules from the other parts of a software system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/), and taking proper care of them.
 
 The business rules are the most important part of a software system. They are very important to the business people we work for; they must also be very important to us --- even [more important than the frameworks and databases that we love](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html). Uncle Bob Martin said that we must treat them as, what he calls, _"family jewels"_.
 
