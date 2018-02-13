@@ -7,7 +7,7 @@ date: 2018-02-13 03:00:00 PM UTC
 published: false
 ---
 
-<!-- January 13, 2018 11:00:00 PM Philippine Time -->
+<!-- February 13, 2018 11:00:00 PM Philippine Time -->
 
 
 I started viewing James Shore's "Let's Play TDD" series.

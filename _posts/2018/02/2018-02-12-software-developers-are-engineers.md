@@ -7,7 +7,7 @@ date: 2018-02-12 03:00:00 PM UTC
 published: true
 ---
 
-<!-- January 12, 2018 11:00:00 PM Philippine Time -->
+<!-- February 12, 2018 11:00:00 PM Philippine Time -->
 
 
 I do not call myself a software _engineer_, even though many other programmers call themselves software engineers, because the _"real"_ :grin: engineers might become angry with me. :laughing: ... and engineers study lots of maths, and it seems like programmers do not really require mastery in lots of maths...
