@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The value/advantage of not downloading materials illegally
-categories: [Programming]
-tags: [James Shore, Pair Programming, TDD]
+categories: [Miscellaneous]
+tags: []
 date: 2018-02-28 03:00:00 PM UTC
 published: false
 ---
