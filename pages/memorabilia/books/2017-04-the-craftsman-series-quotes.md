@@ -3,9 +3,8 @@ layout: page
 title: Great Quotes from "The Craftsman Series" of Uncle Bob Martin
 categories: []
 tags: []
-date: 2018-02-04 01:00:00 PM UTC
-permalink: /memorabilia/books/the-craftsman-series/
 date: 2017-02-04 01:00:00 PM UTC
+permalink: /memorabilia/books/the-craftsman-series/
 ---
 
 <style>

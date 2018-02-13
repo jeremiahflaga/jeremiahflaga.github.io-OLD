@@ -5,7 +5,6 @@ categories: []
 tags: [Dennis Swanberg, Ron Smith]
 date: 2018-02-04 01:00:00 PM UTC
 permalink: /memorabilia/books/the-mancode-quotes/
-date: 2018-02-04 01:00:00 PM UTC
 ---
 
 <!-- finished last February 4, 2018 at about 09:00:00 PM Philippine Time -->
