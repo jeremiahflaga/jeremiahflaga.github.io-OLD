@@ -2,7 +2,7 @@
 layout: post
 title: Watching master programmers code, Pair Programming, and TDD
 categories: [Programming]
-tags: [James Shore, TDD]
+tags: [James Shore, Pair Programming, TDD]
 date: 2018-02-13 03:00:00 PM UTC
 published: false
 ---
@@ -27,3 +27,8 @@ Watching programmers code is one of the reasons why I liked the idea of pair pro
 
 
 
+And he said "...I'm not going to figure that out now"..
+
+How is he able to do that?
+
+TDD, perhaps?
