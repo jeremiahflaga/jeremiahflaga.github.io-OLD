@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clean Architecture&#58; An equivalent to <i>one language(?)</i>
+title: 'Clean Architecture: An equivalent to <i>one language(?)</i>'
 categories: [Programming]
 tags: [Clean Architecture, TDD, Robert Martin]
 date: 2017-08-09 05:15:00 PM UTC

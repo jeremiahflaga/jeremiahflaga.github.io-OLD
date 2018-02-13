@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recollection&#58; My journey with Business Rules - Part 1
+title: 'Recollection: My journey with Business Rules - Part 1'
 categories: [Programming]
 tags: []
 date: 2017-12-19 06:20:00 PM UTC

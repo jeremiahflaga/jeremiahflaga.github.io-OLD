@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOP 2015 Keynote - Robert C. Martin ("Uncle Bob")&#58; Agility and Architecture
+title: 'OOP 2015 Keynote - Robert C. Martin ("Uncle Bob"): Agility and Architecture'
 category: Programming
 tags: [Clean Architecture, Robert Martin]
 date: 2017-04-15 02:40:00 PM UTC

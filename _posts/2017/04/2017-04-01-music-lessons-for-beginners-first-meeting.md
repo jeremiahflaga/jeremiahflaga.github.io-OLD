@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Lessons for beginners&#58; first meeting
+title: 'Music Lessons for beginners: first meeting'
 category: Music
 tags: [Music, Greg Howlett]
 date: 2017-04-01 03:50:00 PM UTC

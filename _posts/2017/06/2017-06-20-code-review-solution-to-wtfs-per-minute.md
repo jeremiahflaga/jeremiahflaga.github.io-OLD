@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code review&#58; the solution to the problem of "WTFs/minute"
+title: 'Code review: the solution to the problem of "WTFs/minute"'
 category: Programming
 tags: [Code Review, Robert Martin, WTFs/minute, The Crafstman series, Pair Programming, Mob Programming]
 date: 2017-06-20 03:30:00 PM UTC
