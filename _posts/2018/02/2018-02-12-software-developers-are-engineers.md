@@ -10,14 +10,14 @@ published: true
 <!-- February 12, 2018 11:00:00 PM Philippine Time -->
 
 
-I do not call myself a software _engineer_, even though many other programmers call themselves software engineers, because the _"real"_ :grin: engineers might become angry with me. :laughing: ... and engineers study lots of maths, and it seems like programmers do not really require mastery in lots of maths...
+I do not call myself a software _engineer_, even though many other programmers call themselves software engineers, because the _"real"_ :grin: engineers might become angry with me. :laughing: ... because engineers study lots of maths, and it seems like programming do not really require mastery in lots of maths...
 
 But I recently found someone who says that we, programmers, are engineers! --- --- [Glenn Vanderburg](http://vanderburg.org/blog/2018/01/10/real_software_engineering.html), in his talk ["Real Software Engineering".](https://www.youtube.com/watch?v=RhdlBHHimeM)
 
 
 <!--more-->
 
-This is his view on software development as _engineering_:
+In the talk, he stated his view on software development as _engineering_:
 
 > Software development already is an engineering field. It always has been.
 
@@ -50,3 +50,5 @@ We, programmers, are engineers!...
 And **our code is the design document!!!** (He also said that the code is not the only design document --- but it is **the detailed design document!**)
 
 :open_mouth:
+
+He then went on and explained that the practices in XP (eXtreme Programming) are a great path to "Real Software Engineering"...
