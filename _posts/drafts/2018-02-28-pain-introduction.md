@@ -2,7 +2,7 @@
 layout: post
 title: 'Pain: Introduction'
 categories: [Miscellaneous, Programming]
-tags: [James Shore, Pair Programming, TDD]
+tags: [TDD, Pair Programming]
 date: 2018-02-12 03:00:00 PM UTC
 published: true
 ---
@@ -18,25 +18,27 @@ published: true
 That is one of the most basic assumptions of many (if not all) people, including me, of course.
 
 > If it causes more pain, it must be badder than bad
-	
-… or, how do we say it? 
 
-... worse
-	
+... or, how do we say it? 
+
+... _"worse"_
+
 > If it causes more pain, it must be worse.
-	
-Maybe using the word "evil" is better…
 
-	If it causes pain, then it must be evil.
-	
-	If it causes more pain, then it must be more evil.
-	
-Okay… enough playing around with terminology.
+Maybe using the word _"evil"_ is better...
 
+> If it causes pain, then it must be evil.
+<br /><br />
+> If it causes more pain, then it must be eviler, _I mean_, more evil.
 
+Okay... enough messing around.
 
 
 
+
+
+
+My reason for accepting the assumptions of Christianity is that "_they work"_.
 
 
 
@@ -45,7 +47,7 @@ Okay… enough playing around with terminology.
 And because of that, many people ask the question,
 
 	If God is good (not bad), why does he permit pain and suffering?
-	
+
 
 
 
@@ -82,7 +84,7 @@ I can think of three things we can know what causes pain.
 	3. When the original designer of a system tells us if something causes pain or not.
 
 
-Because our Designer did not give us a rule book on how to design computer systems (because we do not want him to… because we want to experience everything first-hand, right?), we only have two options left.
+Because our Designer did not give us a rule book on how to design computer systems (because we do not want him to... because we want to experience everything first-hand, right? :smile:), we only have two options left.
 
 
 

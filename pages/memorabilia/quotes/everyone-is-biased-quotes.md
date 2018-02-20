@@ -15,10 +15,10 @@ On some issues, I think my set of biases on that issue is the best, [so I hold o
 
 This page contains quotes about this _"everyone is biased"_ thing.
 
-I created this page because I believe that when people understand that everyone is biased, it helps people be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) of other people.
+I created this page because I believe that this _everyone is biased_ idea is very valuable. I think that when people understand that _everyone is biased_, it helps us be more [empathetic](http://chadfowler.com/2014/01/19/empathy.html) of other people... because it will give us hope... that if we will just dig deep into learning about the _biases_ of other people, we can be able to understand them more deeply, and might be able to find techniques in changing their minds (if we want to) in a peaceful and rational kind of way.
 
-Here are the quotes:
 
+### Here are the quotes:
 
 > **It is not a matter of whether one is biased or not. It is really a question of which bias is the best bias with which to be biased.**
 <br /><br />
@@ -27,17 +27,23 @@ Here are the quotes:
 > --- Ken Ham (from ["The Lie: Evolution"](https://answersingenesis.org/christianity/christianity-is-under-attack/))
 
 
+----------
+
 
 > Most people today have not given much thought to their own worldview. In fact, many people do not even realize they have a worldview. Many people tend to think that all knowledge is acquired by unbiased observation of the evidence around us. This view is called "empiricism" and is itself a kind of worldview. We cannot help but have some beliefs about how the world works, how we attain knowledge, and how we should live. **Even if we believe that we have no such beliefs --- this is itself a belief. So there's no escaping it. A worldview is inevitable.** A rational worldview is not.
 <br /><br />
 > --- Jason Lisle (from ["The Ultimate Proof of Creation"](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga))
 
 
+----------
+
 
 > When it comes to the political and cultural left and right in this country, it’s not that on one side there are those who want to control information and those on the other side who do not; it’s all a matter of what kind of information which side wants to control. When it comes to this kind of question judgmentalism is found everywhere; it’s just a question of who’s making the judgment and what kind of judgment one is making.
 <br /><br />
 > --- Albert Mohler (from [The Briefing 09-29-17](https://albertmohler.com/2017/09/29/briefing-09-29-17/))
 
+
+----------
 
 
 
@@ -51,11 +57,15 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 > --- Greg Bahnsen (from his lecture on "The Myth of Neutrality")
 
 
+----------
+
 
 > Part 1 of Dr. Greg Bahnsen’s video lecture series, Basic Training For Defending the Faith, is titled "The Myth of Neutrality." The title sums up the lesson succintly: neutrality is a myth. In this lecture, **Dr. Bahnsen teaches that the idea of neutrality --- be it intellectual, philosophical, emotional, scientific, or in any other area --- is a myth**. You see and read several passages of Scripture that prove this. Jesus spoke definitively about this (Matthew 6:24, Matthew 12:30).
 <br /><br />
 > --- from a [commentary on Dr. Greg Bahnsen's lecture on "The Myth of Neutrality"](https://rebuildbiblicalworldview.wordpress.com/2012/10/12/the-myth-of-neutrality/)
 
+
+----------
 
 
 > The myth of neutrality applies to all levels of reasoning, even in matters that one would consider trivial or surface level.
@@ -69,7 +79,7 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 
 ## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
-> "I believe that we need to have our theories prior to our interpretation of the facts."
+> "I believe that **we need to have our theories prior to our interpretation of the facts**."
 <br /><br />
 "Theories are eyeglasses and we put that for us to be able to read."
 <br /><br />
@@ -86,9 +96,11 @@ Theory allow me to then interpret that data and make sense of it."
 
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> 
 <small>
-    My thought process is heavily influenced by Christian evengelicalism (or fundamentalism) and most (if not all) quotes in this page are coming from Christian evangelicals.
+    My thought process is heavily influenced by Christian evengelicalism and most quotes in this page are coming from Christian evangelicals.
     <br /><br />
-    Today, year 2018, I am still convinced that everyone is biased. That might change in the future, of course. I don't know...
+    Of course, I'm not saying that I agree with the poeple I quote on everything. What I am saying is that today, I agree with them on this _one_ thing.
+    <br /><br />
+    Today, year 2018, I am still convinced that _everyone is biased_. That might change in the future, of course. I don't know...
     <br /><br />
     But if you disagree with this _"everyone is biased"_ thing, I would like to hear your arguments. Please tell me about it in the comments section of this page. :+1:
 </small>

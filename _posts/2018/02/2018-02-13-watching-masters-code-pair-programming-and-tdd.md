@@ -18,7 +18,7 @@ then... in episode 2
 
 <!--more-->
 
-Watching programmers code is one of the reasons why I liked the idea of pair programming when I first heard it
+Watching other programmers code, with the purpose of copying their coding style if they look good to me :smile:, is one of the reasons why I liked the idea of pair programming when I first heard it.
 
 ... because I think I am a good imitator
 
