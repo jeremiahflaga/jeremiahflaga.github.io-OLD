@@ -17,8 +17,6 @@ The second book on programming that I (ever) bought already arrived! :relieved: 
 
 <!--more-->
 
-<small>[_It was not actually delivered to my place. I had to go to the Davao Post Office (PhilPost) to get it. It arrived last February 28, two weeks after it was dispatched from the UK, but they (PhilPost) did not deliver it to the destination address._ :disappointed: ]</small>
-
 My first programming book is this:
 
 ![Assembly Language Primer book](/images/2017/assembly-language-primer-book.jpg)
