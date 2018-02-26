@@ -8,7 +8,7 @@ date: 2017-03-27 02:40:00 PM UTC
 
 <!-- March 27, 2017 10:40:00 PM Philippine Time -->
 
-The second book on programming that I (ever) bought already arrived! :relieved: Whew!
+The second book on programming that I (ever) bought already arrived! :relieved: Whew! 
 
 [24 Deadly Sins of Software Security](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga)
 
@@ -133,3 +133,24 @@ I think atheists do not have a "good" explanation on why we, humans, are capable
 
 
 <small>MTGOTB, TCOTU, BGWML</small>
+
+
+
+----------
+
+
+
+<small>[_It was not actually delivered to my place. I had to go to the Davao Post Office (PhilPost) to get it. It arrived last February 28, two weeks after it was dispatched from the UK, but they (PhilPost) did not deliver it to the destination address._ :disappointed: ]
+<br />
+<br />
+**Update (Feb 26, 2018):** About two weeks ago, I went to PhilPost Davao to get another book I bought, because it has been five weeks already after it was dispatched, and it has not yet arrived.
+<br />
+<br />
+The clerk said that it usually takes three to four weeks before a package arrives.
+<br />
+<br />
+So I think that I was mistaken for accusing PhilPost Davao of not delivering my book to the destination. The February 28 date might not be the date it arrived in Davao. It might be the date it arrived in Manila or somewhere else here in the Philippines.
+<br />
+<br />
+I would like to apologize for that.
+</small>
