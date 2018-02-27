@@ -8,7 +8,7 @@ date: 2018-02-27 03:45:00 PM UTC
 
 <!-- February 27, 2018 11:45:00 PM Philippine Time -->
 
-(Just a thought regarding the discipline of TDD... This might help convince others to accept TDD :smile:)
+(Just a thought regarding the discipline of TDD --- _TDD from the perspective of a hopeful inexperienced TDD advocate_... :smile: This _might_ help convince others to accept TDD)
 
 
 When we do TDD, we are acknowledging that **we are not perfect beings**...
