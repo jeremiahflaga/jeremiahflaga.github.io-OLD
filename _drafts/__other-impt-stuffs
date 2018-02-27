@@ -23,6 +23,11 @@ Footnotes
 <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>One example of something...</small>
 
+Footnotes 2
+<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
+<sup id="footnote-1">[1]</sup> <small>One example of something... ([back ^](#footnote-indicator-1))</small>
+
+
 
 RSS icon is from http://www.flaticon.com/free-icon/rss_179336
 
