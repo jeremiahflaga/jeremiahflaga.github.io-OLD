@@ -60,6 +60,14 @@ If we compress the time between steps down from a minute to a few seconds, the q
 
 
 
+### Chapter 13
+
+> No, finding bugs in legacy code usually isn't a problem. In terms of strategy, it can actually be misdirected effort. **It is usually better to do something that helps your team start to write correct code consistently.** The way to win is to concentrate effort on not putting bugs into code in the first place.
+<br /><br />
+Automated tests are a very important tool, but not for bug finding --- not directly, at least. In general, automated tests should specify a goal that we'd like to fulfill or attempt to preserve behavior that is already there. In the natural flow of development, **tests that specify become tests that preserve**. You will find bugs, but usually not the first time that a test is run. You find bugs in later runs when you change behavior that you didn't expect to.
+
+
+
 ### Chapter 17
 
 > **The brutal truth is that architecture is too important to be left exclusively to a few people.** It's fine to have an architect, but the key way to keep an architecture intact is to make sure that everyone on the team knows what it is and has a stake in it.
