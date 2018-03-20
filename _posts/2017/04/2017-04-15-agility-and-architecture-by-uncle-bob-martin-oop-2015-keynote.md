@@ -15,7 +15,7 @@ Robert Martin is talking about some important history of software development he
 
 Very interesting!
 
-I disagree with his conclusion in the introduction part -- the years the first man and the first woman appeared -- because I have a different bias than Uncle Bob Martin when it comes to the history of the human race (take note that all of us have some biases that influence the conclusions that we make)...
+I disagree with his conclusion in the introduction part -- the years the first man and the first woman appeared -- because I have a different bias than Uncle Bob Martin when it comes to the history of the human race (take note that [all of us have some biases](/memorabilia/quotes/everyone-is-biased/) that influence the conclusions that we make)...
 
 ...but I really like listening to Bob Martin's talks on software development :smile:
 
