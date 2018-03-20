@@ -11,9 +11,9 @@ published: false
 
 In my five years of experience working as a programmer I have come into a deeper appreciation of the importance of separating the business rules from the other parts of a software system.
 
-Since college I've been on search about how to best structure a software system.
+Since college I've been on search on how to best structure a software system.
 
-I remember encountering this idea of 3-layers architecture in college --- Presentation layer, Business Logic layer (BLL), Data Access layer (DAL). But during that time I do not yet fully understand the _"why"_ part of the separation.
+I remember encountering this idea of 3-layers architecture in college --- _Presentation layer, Business Logic layer (BLL), and Data Access layer (DAL)_. But during that time, I do not yet fully understand the _"why"_ part of the separation.
 
 <!--more-->
 
@@ -66,7 +66,7 @@ _It was written in VB.NET?... in 2012?_
 
 _Why?_
 
-I thought I used C# in that project... Maybe it was a requirement at school to use VB.NET? I'm not sure... But maybe I just wanted to challenge myself whether I can still write in VB.NET during that time. Perhaps...
+I thought I used C# in that project... Maybe it was a requirement at school to use VB.NET? I'm not sure... But maybe I just wanted to challenge myself whether I can still write in VB.NET during that time? Perhaps...
 
 _But perhaps this project is not mine!?..._
 
@@ -76,6 +76,8 @@ I tried to look for some hints in the project so that I can be sure that this tr
 Public Class StudentBLL
 
 ...
+...
+
 
 'Created: February 17, 2012 7:00 PM to 2:00 AM the next day
 ```
@@ -84,17 +86,15 @@ _That sounds like me..._  :smile:
 
 _And it truly is written in 2012!!_
 
-But I'm sure I know this 3-layers thing before 2012! 
+But I'm sure that I knew anout his 3-layers thing before 2012! 
 
 But I remember using it only in _one_ project...
 
 _Hmmmm... Something must be wrong..._
 
-Ahh... 
+Ahh!!!
 
-I found another project... created in 2010!...  it has a DAL but no BLL: ["StudInfoSys(TypedDataSets)"](insert link here)
-
-<small>_("Look at that mess... 700 lines of code... I packed everything in one Form... and the presentation layer knows about DataSets!" :laughing:)_</small>
+I found another project... written in C#... created in 2010! It has a DAL, but no BLL: ["StudInfoSys(TypedDataSets)"](insert link here)
 
 
 ``` csharp
@@ -132,13 +132,17 @@ public partial class StudentForm : Form
 }
 ```
 
-
-_"Why no BLL?"_
-
-Because during that time, I really liked the drag-and-drop things that Visual Studio provides :laughing: :laughing: :laughing: ... where you just drag a GridView, change some properties in it to connect it to the database, and wa-la... you now have a working application.
-
-In that kind of environment the presentation layer is tightly coupled to the data-access layer. Perhaps there was another way of doing it, but perhaps this was the only I know how to do it during that time.
-
-Of course I later understood that these drag-and-drop things are evil... I mean, you would _not_ want to use it if you want your app to be manageable and scalable (or something like that).
+<small>_("Look at that mess... 700 lines of code... I packed everything in one Form... and the presentation layer knows about DataSets!" :laughing:)_</small>
 
 
+_"But, why no BLL?"_
+
+Because during that time, I really liked the drag-and-drop things that Visual Studio provides :laughing: :laughing: :laughing: ... You just drag a GridView, change some properties in it to connect it to the database, and wa-la... you now have a working application.
+
+In that kind of environment, the presentation layer is tightly coupled to the data-access layer. Perhaps there was another way of doing it, but perhaps this was the only way I know how to do it during that time.
+
+Of course I later understood that these drag-and-drop things are evil... I mean, you would _not_ want to use it if you want your app to be maintainable (or something like that).
+
+**_The End_**
+
+:bow:

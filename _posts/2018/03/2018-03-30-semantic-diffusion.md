@@ -19,6 +19,11 @@ Martin Fowler calles the phenomenon "Semantic Difussion" --- the loss of the mea
 
 <!--more-->
 
+
+This kind of phenomena is not just observed in words but onal in the purposes or mission of an organization...
+
+
+
 [add here Uncle Bob's statement of something "good" becomes popular...]
 
 [add here Dr. Kamibayashiyama statement regarding this... When Constantine converted to Christianity the other officials also converted to christianity. They called themselves Christians but inwardly they were not.]
@@ -33,3 +38,4 @@ I think the essence of Christianity is telling the world about the only way of s
 
 
 
+Conclusion: We need to go back to basics often --- during those times that we need to remind ourselves of them and during those times where we need to teach others about them.

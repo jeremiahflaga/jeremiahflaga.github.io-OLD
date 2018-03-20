@@ -39,7 +39,7 @@ permalink: /memorabilia/books/the-mancode-quotes/
 
 > A solid inner circle can help you sharpen you skills and focus your thoughts.
 
-> Negative thoughts are habit forming; thankfully, so are positive thoughts. With practice --- ad with a little help from your closest comrades --- you can form the habit of focusing on God's priorities and your own possibilities.
+> Negative thoughts are habit forming; thankfully, so are positive thoughts. With practice --- and with a little help from your closest comrades --- you can form the habit of focusing on God's priorities and your own possibilities.
 
 > If you do your part today, the future has a way of taking care of itself.
 
@@ -59,7 +59,7 @@ permalink: /memorabilia/books/the-mancode-quotes/
 
 > You won't get much out of any church unless you're willing to give something to that church (and the something we're talking about here is not necessarily money).
 
-> The only way you'll really be satisfies in a church is to be a contributing member of your church.
+> The only way you'll really be satisfied in a church is to be a contributing member of your church.
 
 > No church is perfect because every church is comprised of imperfect people. In fact, every church gets a little dysfunctional at times because its members are a little dysfunctional at times too.
 
