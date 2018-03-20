@@ -4,7 +4,7 @@ title: 'Pain: Introduction'
 categories: [Miscellaneous, Programming]
 tags: [TDD, Pair Programming]
 date: 2018-02-12 03:00:00 PM UTC
-published: true
+published: false
 ---
 
 <!-- February 28, 2018 11:00:00 PM Philippine Time -->
@@ -84,7 +84,7 @@ I can think of three things we can know what causes pain.
 	3. When the original designer of a system tells us if something causes pain or not.
 
 
-Because our Designer did not give us a rule book on how to design computer systems (because we do not want him to... because we want to experience everything first-hand, right? :smile:), we only have two options left.
+Because our Designer did not give us a rule book on how to design computer systems (because we do not want him to... because we want to experience everything first-hand, right? :smile: ... Or perhaps because it is not as important as the ones he revealed to us.), we only have two options left.
 
 
 
