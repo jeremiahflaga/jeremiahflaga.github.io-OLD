@@ -53,7 +53,7 @@ That was my first experience on separating the business rules from the other par
 I started thinking in [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) again.
 
 Luckily I found a job. And after a few months in that job, [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) was introduced to us, the junior developers. Our employer gave us some articles to read about DDD becase we will be involved in an in-house project where concepts from DDD will be used.
-
+<!-- 
 That was my introduction to DDD.
 
 I really liked the idea of using the Ubiquitous Language in our code, because you know, _"naming things"_ is one of the hardest things to do in programming. The Ubiquitous Language thing can greatly help on this problem.
@@ -63,6 +63,9 @@ I also liked this idea of tight collaboration between the programmers and the bu
 Also, the idea of bounded contexts... it makes things easier to manage. (I heard some say that this idea is similar to this _microservices_ thing).
 
 And, most important of all (at least during my early years as a programmer), I had another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
+ -->
+
+This gave me another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
 
 Then... came... Uncle Bob Martin... with his [charismatic presentations of **_Clean Architecture!_**](2017-04-15-agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote)
 
@@ -74,7 +77,7 @@ Whew!
 
 _Okay... End of story._
 
-That was just a very long introduction to the following list of materials and quotes from our masters, which emphasizes the importance of separating the business rules from the other parts of a software system:
+That was just a very long introduction to the following list of materials and quotes from our masters, which emphasizes the importance of separating the business rules from the other parts of a software system so that they will be maintainable:
 
 
 ## Some great materials about separating the business rules

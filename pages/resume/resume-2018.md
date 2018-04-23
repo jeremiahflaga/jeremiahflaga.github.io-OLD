@@ -51,6 +51,12 @@ published: false
         <td>Blog:</td>
         <td><a href="/">jeremiahflaga.github.io</a></td>
       </tr>
+      <tr>
+        <td><small>Old Blog:</small></td>
+        <td>
+          <small><a href="https://jeremiahflaga.blogspot.com">jeremiahflaga.blogspot.com</a></small>
+        </td>
+      </tr>
     </tbody>
   </table>
 
@@ -64,14 +70,14 @@ published: false
           </strong>
         </td>
       </tr>
-      <tr>
+      <!-- <tr>
         <td></td>
         <td colspan="2">
           <strong>
             <a href="/resume/open-application-letter/">Open Application Letter...</a>
           </strong>
         </td>
-      </tr>
+      </tr> -->
     </tbody>
   </table>
 
@@ -92,10 +98,11 @@ published: false
 
 - [March 2-4, 2016 — Enlightenment Period](#enlightenment-period)
 
-- [October 2016 – February 2018 (1 year, 3 months)](#work-experience-3)
+- [October 2016 – May 2018 (1 year, 7 months)](#work-experience-3)
 
 
-[**More Lessons Learned**](#more-lessons-learned)
+[**More Lessons Learned**](#more-lessons-learned) 
+
 
 [**I'm an Initiate**](#im-an-initiate)
 
@@ -134,8 +141,7 @@ published: false
     <tr>
       <td>Android:</td>
       <td>
-        <p>Java</p>
-        <p>RxJava, Retrofit</p>
+        <p>Java, RxJava</p>
         <!-- 
         <p>Took 
           <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
@@ -150,9 +156,9 @@ published: false
         <p>
           SQL
         </p>
-        <p>
+        <!-- <p>
           SQL Server, SQLite
-        </p>
+        </p> -->
         <p>
         <strong>ORM:</strong> Entity Framework in .NET, Sugar ORM in Android
         </p>
@@ -169,7 +175,7 @@ published: false
       <td>Unit Testing: </td>
       <td>
         <p>
-          xUnit, Moq, JUnit
+          xUnit, Moq, JUnit, Mockito
         </p>
         <!-- <p>
         Knows how to create fake objects by hand :grin:
@@ -214,7 +220,7 @@ published: false
         <p>The SOLID principles</p>
         <p>Clean Architecture model of Uncle Bob Martin
         </p>
-        <p>Also have knowledge on some design patterns such as MVP, Decorator, Strategy, Factory, Command
+        <p>Also have knowledge on some design patterns such as Decorator, Strategy, Factory, Command
         </p>
         <p>
         <small>Also, a little knowledge on some DDD concepts</small>
@@ -257,10 +263,10 @@ published: false
       <td></td>
       <td>
         <p>
-          I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think)</em>.
+          I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think), and I am rereading it sometimes to review the things I learned from it.</em>.
           <br /><br />
           <small>
-            <em>(I included this here because this might give plus points for me... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
+            <em>(I included this here because this might give me plus points... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
           </small>
         </p>
       </td>
@@ -377,7 +383,6 @@ published: false
         <p>
           Involved in maintaining desktop and web apps of <a  href="http://www.commoncensus.com/">Common Census</a> for insurance.
         </p> -->
-
       </td>
     </tr>
     <tr>
@@ -423,6 +428,7 @@ published: false
             <br />
             <li>
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
+              <!--
               <br /><br />
               There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
@@ -431,6 +437,7 @@ published: false
               Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation on the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
               <br /><br />
               But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I have told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
+              -->
               <br /><br />
               But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
               <!--
@@ -456,7 +463,7 @@ published: false
 
   I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
   <br /><br />
-  <em><strong>I would say that this is the time of my enlightenment.</strong> 
+  <em><strong>I would say that this is the time of my enlightenment.</strong></em>
   <!--   
   (Read the blog post yourself... you will also be enlightened. :smile:)</em>
    -->
@@ -479,10 +486,10 @@ published: false
       <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  Did I place <em>much</em> of my attention in the wrong places!?...
+  Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one personally guiding you.
   <br /><br />
-  <em>Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.</em>
-  <br /><br />
+  Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.
+
   <!-- 
   <br /><br />
   Had I finished reading the Clean Code book last 2014, this enlightenment might have happened much earlier
@@ -491,15 +498,16 @@ published: false
   as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
   rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
     -->
+
 </div>
 
-<small>[_^ back to Contents_](#contents)<small>
+<small>[_^ back to Contents_](#contents)</small>
 
 
 
-
+<div>
 <h3 id="work-experience-3">
-  <strong>October 2016 – February 2018</strong> <small>(1 year, 4 months)</small>
+  <strong>October 2016 – May 2018</strong> <small>(1 year, 7 months)</small>
 </h3>
 
 <table class="resume">
@@ -527,6 +535,7 @@ published: false
           Nothing extraordinary. Just did the tasks assigned to me.
           <br /><br />
           But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use these  knowledge in my coding.
+          <!-- 
           <br /><br />
           Also, when I learned that a new version of the app is to be made, I had this plan of separating the UI part from the other parts of the application. I was planning that, through this separation, I can eventually transfer all the business rules into another module. (I also heard from my teammates before that this kind of separation will also help in making the build time of the app to go down --- in the machine I was using, it takes about 4 minutes for the build to finish!)
           <br /><br />
@@ -536,7 +545,8 @@ published: false
           <br /><br />
           But because I was not a master of the art of persuation, my plan was not pushed. :disappointed:
           <br /><br />
-          Well, it did not matter that much to me because I knew that I was (and is still) not an expert on Android development, and there might be some issues that I know nothing about that might have made the separation bad for the future of the app.
+          Well, it did not matter that much to me because I knew that I was (and is still) not an expert on Android development, and there might be some issues that I know nothing about that might have made the separation bad for the future of the app. 
+          -->
         </p>
         <p>
           <strong>Lesson(s) Learned:</strong>
@@ -566,9 +576,13 @@ published: false
   </tbody>
 </table>
 
+</div>
+
 <small>[_^ back to Contents_](#contents)<small>
 
 
+
+<!-- 
 ----------------------------------------------------------
 
 
@@ -580,7 +594,7 @@ published: false
 
   <dt>The business rules must be separated</dt>
   <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD, among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
     Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
@@ -629,6 +643,10 @@ published: false
     I hope that being proactive is not restricted in your company. :smile:
   </dd>
 </dl>
+ -->
+
+
+
 
   
 <!--   
@@ -654,9 +672,9 @@ published: false
   </dd>
 </dl>
 -->
-
+<!-- 
 <small>[_^ back to Contents_](#contents)<small>
-
+ -->
 
 ----------------------------------------------------------
 
@@ -667,18 +685,18 @@ published: false
 
 Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
 
-I would just like to add that you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
+Also, I heard some people say that programmers sometimes sell themselves short. In relation to that, you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
 
+<!-- 
 <span class="message">
 **Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know about OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: But I did not know any better. I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
-<!-- 
 <br /><br />
 This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
- -->
 <br /><br />
 ... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
 </span>
 
+ -->
 
 <small>[_^ back to Contents_](#contents)<small>
 
@@ -695,7 +713,12 @@ When I started coding, my focus on learning was trying to master the specifics o
 
 Then a few years later, my focused moved into trying to master specific frameworks and libraries.
 
-But today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software. 
+But then I heard Uncle Bob Martin saying that software development has not changed in the last 40 years. And I heard Mattias Petter Johansson's [advise for programmers:](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
+
+> "... learn the stuff that doesn’t change around a lot. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in **general**. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
+
+So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things do not change a lot, and these things will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software.
+
 <!-- 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
  -->
@@ -729,6 +752,10 @@ If not, I have my own method of getting familiar with the project. I will spend 
 <small>[_^ back to Contents_](#contents)<small>
 
 
+
+
+<!-- 
+
 ----------------------------------------------------------
 
 <h2 id="talks">
@@ -739,11 +766,17 @@ If not, I have my own method of getting familiar with the project. I will spend 
 - October 7, 2017 -  [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
 
 
-Coming:
-
-- January 26, 2017 - **Clean Architecture and TDD** at Sultan Kudarat State University's PSITS Inter-Campus Conference 2018
+- January 26, 2017 - [**Clean Architecture and TDD**](/2018/01/30/psits-convention-at-sultan-kudarat) at Sultan Kudarat State University's PSITS Inter-Campus Conference 2018
 
 <small>[_^ back to Contents_](#contents)<small>
+
+ -->
+
+
+
+
+
+
 
 
 <!-- 

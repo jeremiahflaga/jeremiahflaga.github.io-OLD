@@ -23,7 +23,7 @@ But I digress...
 
 Because of those things I heard from Uncle Bob, one day (it was March 30, 2014 in my notes) I tried to google to confirm the 20 years estimate.
 
---- "how many years before an idea will be accepted by many" ---
+--- ["how many years before an idea will be accepted by many"](https://www.google.com.ph/search?q=how+many+years+before+an+idea+will+be+accepted+by+many) ---
 
 
 
@@ -38,6 +38,8 @@ _"What?"_
 I heard Dr. Werner Gitt in his talk on Information that there is only one law in biology that we know about, and that is the Law of Biogenesis. (As I understand it, "law" and "theory" are synonymous in science. If I'm wrong, please say so in the comments. :smile:)
 
 Biogenesis even predates Einstein's theory of relativity (not that I know what relativity is :smile:). There are lots of evidences which show that biogenesis is true. And not one is yet shown to falsify it. Why name it an "hypothesis" instead of a "theory"?
+
+(NOTE: check again that experiment of life emerging from non-life)
 
 Ahhh!!!
 

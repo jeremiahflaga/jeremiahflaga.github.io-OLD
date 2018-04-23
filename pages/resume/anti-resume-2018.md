@@ -72,7 +72,7 @@ About ten years ago,  in our school library, I read this from a book called "The
 <br /><br />
 > "The ability to know how to get information is more important than using the mind as a garage for facts"
 
-Today, we already have [the] google [serach engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using.
+Today, we already have [the] google [search engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using.
 
 I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, and learning about the _domain_ of the project I am working on, than being an expert on frameworks. 
 
@@ -84,18 +84,18 @@ But like I said above, I'm still willing to read and study more about a specific
 
 Being influenced by people who promote DDD _(Note: I only know a little about DDD)_, I am the kind of person who _would like to_ focus on learning about the _domain_ of the business... and to focus on trying to model that domain instead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in.
 
-If I am hired, I plan to spend at least half of my time (during the first few weeks or months) learning about the business and half of the time learning about the specific frameworks/libraries/technologies your team is using.
+If I am hired, I plan to spend at least half of my time (during the first few weeks) learning about the business and half of the time learning about the specific frameworks/libraries/technologies your team is using.
 
 And if your domain is not googleable, or there are no books available to learn about it, then I might need _lots of guidance_ from my fellow programmers who are already familiar with the domain, or from the business people themselves, while learning about your domain.
 
 
-
+<!-- 
 
 ## **I work very well, even during trying hours, _only if_ there is rapid feedback from the system I am working on**
 
 I'm a patient kind of man, I think, but I sometimes get impatient especially when it takes so much time to fix a problem which I think should be very easy to fix.
 
-This impatience will be bolstered when it takes too long a time before I can be able to see whether the code I just wrote works or not --- this is what they call a _slow feedback loop_.
+This impatience will be bolstered when it takes too long a time before I can be able to see whether the code I just wrote works or not :laughing: --- this is what they call a _slow feedback loop_.
 
 A very long compilation time might be one of the reasons for a very slow feedback.
 
@@ -111,16 +111,16 @@ I will get frustrated sometimes, or maybe oftentimes, when I know that we can do
 
 
 I would be great if there is a kind of system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the code base... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
-
+ -->
 
 
 ## **I will own the mess other people made if...**
 
 I would love to work on a **new** project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
 
-But most software systems in existence today are in **maintenance phase**. So there is a very big possibility that I will be working on one. And there are systems that are in the maintenance phase which are messy.
+But most software systems in existence today are in **maintenance phase**. So there is a very big possibility that I will be working on one. And there are systems that are in the maintenance phase which are messy (not all, of course).
 
-But many months ago, I read this from an article written by Jonathan Boccara:
+But more than a year ago, I read this from an article written by Jonathan Boccara:
 
 > "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
 <br /><br />
@@ -132,7 +132,7 @@ If you current code base is messy, I will _help own_ the mess, and will _help_ c
 
 
 
-
+<!-- 
 ## **I sometimes think about justice...**
 
 > "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!... Do you really want them to create another mess?"
@@ -145,7 +145,7 @@ So when I see code that looks like it was abandoned by their creators, I'm torn 
 But perhaps I should stop thinking like this. I should be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards other programmers because I do not know what they have been through. Perhaps they had deadlines, and that is the reason why they did not give time cleaning up their mess.
 
 Okay...
-
+ -->
 
 <!-- 
 But, as every adult might have already realized, we do not always get justice in this life. So I intend to help those who experience injustice by helping them fix the mess that was the result of the original creators' abandonment of the system.
@@ -173,7 +173,7 @@ Which means that I might be very silent on my first encounters with a person, bu
 
 I'm not very good with UIs. But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when working with you.
 
-If I will be working with a visual designer, I believe that he will not be having a problem working with me beause I intend to decouple my code from the UI, so that my code will not be very affected by UI changes, and the UI will not be very affected by my code changes.
+If I will be working with a visual designer, I believe that he will not be having a problem working with me because I _intend_ to decouple my code from the UI (if possible), so that my code will _not_ be very affected by UI changes, and the UI will not be very affected by my code changes.
 
 
 
@@ -203,11 +203,16 @@ All I know about functional programming is that the use of assignment is forbidd
 Today, the only method I have to honestly estimate the time to be spent to finish a project is to do at least two of the most important features of the app, then use the time spent on those two features to estimate the time that will be spent on the whole project.
 
 
+## **Cannot work on Android projects**
 
+I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job.
+
+
+<!-- 
 ## **Cannot work on Android projects, except...**
 
 I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job... except when I will be hired in _helping_ decouple your business logic layer from the other parts of you software system, because in that case, I will not be _directly_ involved in working on the _Android-framework-specific_ parts of project.
-
+ -->
 
 
 ## **I have almost no knowledge about software security**
