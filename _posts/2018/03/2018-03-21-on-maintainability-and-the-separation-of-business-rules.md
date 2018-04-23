@@ -44,7 +44,7 @@ So I followed this 2-Layers model in my projects during that time.
 
 A few years later, I came to understand that the validation of user inputs is part of the Business Logic Layer.
 
-So I used that knowledge in one project. I created a separate module for the BLL and then placed my validations in there.
+So I used that knowledge in one project. I created a separate module for the BLL and then placed my input validations in there.
 
 That was my first experience on separating the business rules from the other parts of a software system.
 
