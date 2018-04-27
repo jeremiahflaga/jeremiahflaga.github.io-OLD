@@ -6,7 +6,7 @@ tags: []
 date: 2018-04-30 12:00:00 AM UTC
 ---
 
-<!-- April 28, 2018 05:33:00 PM Philippine Time -->
+<!-- April 28, 2018 05:33:00 AM Philippine Time -->
 
 
 > "For a long time it’s puzzled me that most books on software development
@@ -38,6 +38,7 @@ Micheal Feathers offers a very direct yet controversial definition:
 
 > **"Legacy code is code without tests"**
 
+Then this:
 
 > "**Code without tests is bad code.**
 <br /><br />
@@ -47,8 +48,11 @@ Micheal Feathers offers a very direct yet controversial definition:
 <br /><br />
 > Without them, we really don't know if our code is getting better or worse."
 
+_Wow!_ It seems like Micheal Feathers value tests so highly [as Uncle Bob does](https://sites.google.com/site/unclebobconsultingllc/so-you-want-your-code-to-be-maintainable)!
 
-... _Wow! We need to start writing tests for our code then!_ :grin:
+... _We need to start writing tests for our code then!_ :grin:
+
+But if you will not be convinced that writing tests are very important, this book will still help in changing your mindset about rotting legacy code --- this book can give you hope that the rot is _reversible_.
 
 I compiled some very interesting ideas I got from the book: [Great Quotes from "Working Effectively with Legacy Code" by Michael Feathers.](/memorabilia/books/quotes-from-working-effectively-with-legacy-code/)
 
