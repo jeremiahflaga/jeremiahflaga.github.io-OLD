@@ -15,7 +15,7 @@ Through these talks, I learned that TDD was introduced way back in late 1900s as
 
 I also heard Uncle Bob saying that it takes about 20 years for a good idea to spread to the whole community.
 
-The TDD book of Kent Beck was published last 1999. And 20 years has not yet passed since that time. So it's no wonder why TDD has not yet gained widespread acceptance...???
+The TDD book of Kent Beck was published last 2002. And 20 years has not yet passed since that time. So it's no wonder why TDD has not yet gained widespread acceptance...???
 
 But I digress...
 
@@ -26,6 +26,8 @@ Because of those things I heard from Uncle Bob, one day (it was March 30, 2014 i
 --- ["how many years before an idea will be accepted by many"](https://www.google.com.ph/search?q=how+many+years+before+an+idea+will+be+accepted+by+many) ---
 
 
+
+Now, I grew up with.... being influenced by people such as Ken Ham and Jason Lisle.
 
 
 -------

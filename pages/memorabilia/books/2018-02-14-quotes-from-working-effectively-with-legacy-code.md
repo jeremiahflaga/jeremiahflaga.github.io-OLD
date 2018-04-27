@@ -9,18 +9,17 @@ permalink: /memorabilia/books/quotes-from-working-effectively-with-legacy-code/
 
 Some uplifting criticisms and some encouraging words from ["Working Effectively with Legacy Code" of Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga)
 
-
-
+(The quotes below are words that might help change the mindset of programmers on dealing with legacy code. They are not about how to _reverse_ the rot in a legacy code, which is what the majority of the book contains. Read the book if you want to know about the techniques. :smile:)
 
 
 ### Preface
 
 > "**Code without tests is bad code.**
-<br />
+<br /><br />
 > It doesn't matter how well written it is; it doesn't matter how pretty or object-oriented or well-encapsulated it is. 
-<br />
+<br /><br />
 > **With tests, we can change the behavior of our code quickly and verifiably.**
-<br />
+<br /><br />
 > Without them, we really don't know if our code is getting better or worse."
 <br /><br />
 > --- Michael Feathers
@@ -50,7 +49,7 @@ Well, if you look at it that way, I'd have to agree with you. No much.
 
 > **The human mind has some interesting qualities. If we have to perform a short task (5-10 seconds long) and we can only take a step once every minute, we usually do it and then pause.** If we have to do some work to figure out what to do at the next step, **we start to plan**. After we plan, our minds wander until we can do the next step.
 <br /><br />
-If we compress the time between steps down from a minute to a few seconds, the quality of the mental work becomes different. We can use feedback to try out approaches quickly. Our work becomes more like driving than like waiting at a bus stop. Our concentration is more intense because we aren't constantly waiting for the next chance to do something. Most important, the amount of time that it takes us to notice and correct mistakes is much smaller
+**If we compress the time between steps down from a minute to a few seconds, the quality of the mental work becomes different.** We can use feedback to try out approaches quickly. Our work becomes more like driving than like waiting at a bus stop. Our concentration is more intense because we aren't constantly waiting for the next chance to do something. Most important, the amount of time that it takes us to notice and correct mistakes is much smaller
 
 
 
@@ -72,7 +71,30 @@ Automated tests are a very important tool, but not for bug finding --- not direc
 
 > **The brutal truth is that architecture is too important to be left exclusively to a few people.** It's fine to have an architect, but the key way to keep an architecture intact is to make sure that everyone on the team knows what it is and has a stake in it.
 <br /><br />
-**Every person who is touching the code should know the architecture, and everyone else who touches the code should be able to benefit from that that person has learned.** When everyone is working off of the same set of ideas, the overall system intelligence of the team is amplified. If you have, say, a team of 20 and only 3 people know the architecture in detail, either those 3 have to do a lot to keep the other 17 people on track of the other 17 people just make mistakes caused by unfamiliarity with the big picture.
+**Every person who is touching the code should know the architecture, and everyone else who touches the code should be able to benefit from what that person has learned.** When everyone is working off of the same set of ideas, the overall system intelligence of the team is amplified. If you have, say, a team of 20 and only 3 people know the architecture in detail, either those 3 have to do a lot to keep the other 17 people on track, or the other 17 people just make mistakes caused by unfamiliarity with the big picture.
 
 
 
+### Chapter 21
+
+> **One of the startling things that you discover when you start removing duplication zealously is that designs emerge.** You don't have to plan most of the knobs in you application; they just happen.
+
+> Duplication removal is a powerful way of distilling a design. It not only makes a design more flexible, but it also makes change faster and easier.
+
+> When we remove duplication, our code often naturally starts to fall in line with the Open/Closed Principle.
+
+
+
+### Chapter 23
+
+> ... The truth is, there are many different kind of "smart." Holding on to a lot of state mentally can be useful, but it doesn't really make us better at desicion making. At this point in my career, I think I'm a much better programmer than I used to be, even though I know less about the details of each language I work in. Judgement is a key programming skill, and we can get into trouble when we try to act like super-smart programmers.
+
+
+
+### Chapter 24
+
+> Working in legacy code is difficult. There is no denying it. Although every situation is different, one thing is going to make the job worth it to you as a programmer or not: figuring out what is in it for you.
+
+> The key to thriving in legacy code is finding what motivates you.
+
+> If morale is low on your team, and it's low because of code quality, here's something that you can try: Pick the ugliest most obnoxious set of classes in the project, and get them under test. **When you've tackles the worst problem as a team, you'll feel in control of the situation. I've seen it again and again.**

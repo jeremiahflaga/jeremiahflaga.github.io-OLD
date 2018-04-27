@@ -486,7 +486,7 @@ published: false
       <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one personally guiding you.
+  Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em>_ guiding you.
   <br /><br />
   Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.
 

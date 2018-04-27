@@ -55,6 +55,8 @@ I like the way he thinks. I like his attitude.
 
 Just listen to the first few minutes of his talk... Who would not like someone who is like that!
 
+> I'm not telling you how to do something or whether you should do it. I'm sharing with you how we did something and how it worked for us. And if you think you're going to do it… what you will learn today... great! And I'd love to hear back from you, your experiences, because I'm going to learn from that.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLEsWB1wZMA" frameborder="0" allowfullscreen></iframe>
 
 <br />
