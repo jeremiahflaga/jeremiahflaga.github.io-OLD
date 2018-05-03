@@ -37,7 +37,7 @@ Sometimes I just want to know what happened in the past.
 
 ...So I tried to look for that project in my old files. 
 
-_Tada!!! I found it:_ ["StudInfoSys_VB.NETProj - 4.8"](insert link here)
+_Tada!!! I found it:_ ["StudInfoSys_VB.NETProj - 4.8"](https://drive.google.com/open?id=0B99bQWWl3cfxYnBEdFA5RFVRU3kwVkV6bVBYUVgyUQ)
 
 There!... This part contains the validation I was talking about in [a previous post.](/2018/03/21/on-maintainability-and-the-separation-of-business-rules)
 
@@ -111,7 +111,7 @@ _Hmmmm... Something must be wrong..._
 
 _Ahh!!!_
 
-I found another project... written in C#... created in 2010! It has a _DAL_, but no _BLL_: ["StudInfoSys(TypedDataSets)"](insert link here)
+I found another project... written in C#... created in 2010! It has a _DAL_, but no _BLL_: ["StudInfoSys(TypedDataSets)"](https://drive.google.com/open?id=0B99bQWWl3cfxM2NkOTcyYTctZWJlZi00ODMyLTg3NWQtMmQxMTAxZjMyMmM0)
 
 
 ``` csharp
