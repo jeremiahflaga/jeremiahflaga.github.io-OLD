@@ -76,6 +76,17 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 ----------
 
 
+> Since everyone has a worldview, everyone has a bias. All of us are naturally biased toward our own worldviews, and all of us tend to interpret and evaluate the world in accordance with our worldviews. So do I have a bias? Yes of course ---  but so do you!
+<br /><br />
+> **The real issue isn't whether we have biases --- we all do --- but whether we're aware of them and able to think critically about them.**
+<br /><br />
+> --- from the Introduction of "What's Your Worldview" by James N. Anderson
+
+
+
+----------
+
+
 
 ## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
