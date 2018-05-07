@@ -90,7 +90,7 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 <br /><br />
 > This does not mean that there are no **facts**. [There are] facts. But each person's **interpretation** of these facts represents prior experiencesk and the facts have no meaning whatsoever apart from the interpretation.
 <br /><br />
-> The more awayre we are of our basic paradigms, maps, or assumptions,... the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
+> The more aware we are of our basic paradigms, maps, or assumptions,... the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
 <br /><br />
 > --- from the "Inside-Out" chapter of "The 7 Habits of Highly Effective People" by Stephen R. Covey
 
