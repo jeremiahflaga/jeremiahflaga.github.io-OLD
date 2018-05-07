@@ -83,6 +83,18 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 > --- from the Introduction of "What's Your Worldview" by James N. Anderson
 
 
+----------
+
+
+> Each of us tend to think we see things as they are, that we are objective. But this is not the case. **We see the world, not as it is, but as we are --- or, as we are conditioned to see it**...
+<br /><br />
+> This does not mean that there are no **facts**. [There are] facts. But each person's **interpretation** of these facts represents prior experiencesk and the facts have no meaning whatsoever apart from the interpretation.
+<br /><br />
+> The more awayre we are of our basic paradigms, maps, or assumptions,... the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
+<br /><br />
+> --- from the "Inside-Out" chapter of "The 7 Habits of Highly Effective People" by Stephen R. Covey
+
+
 
 ----------
 
@@ -109,7 +121,7 @@ Theory allow me to then interpret that data and make sense of it."
 <small>
     My thought process is heavily influenced by Christian evengelicalism and most quotes in this page are coming from Christian evangelicals.
     <br /><br />
-    Of course, I'm not saying that I agree with the poeple I quote on everything. What I am saying is that today, I agree with them on this _one_ thing.
+    Of course, I'm not saying that I agree with the poeple I quote _on everything_. What I am saying is that today, I agree with them on this _one_ thing.
     <br /><br />
     Today, year 2018, I am still convinced that _everyone is biased_. That might change in the future, of course. I don't know...
     <br /><br />
