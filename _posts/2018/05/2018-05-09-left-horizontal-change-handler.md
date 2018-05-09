@@ -1,25 +1,37 @@
 ---
 layout: post
-title: 'Left Horizontal Change Handler of Conductor in android'
-categories: [Programming, Book]
-tags: []
-date: 2018-12-19 01:20:00 PM UTC
-published: false
+title: 'HorizontalChangeHandler sliding from/to the left'
+categories: [Programming]
+tags: [Android, Martin Fowler]
+date: 2018-05-09 05:15:00 PM UTC
 ---
 
-<!-- April 24, 2018 09:40:00 PM Philippine Time -->
+<!-- May 10, 2018 01:15:00 AM Philippine Time -->
 
-martin fowler - la
+> "**I'm a very lazy programmer.** One of my forms of laziness is that I never remember things about the code I write. Indeed, I deliberately try not to remember anything I can look up, because I'm afraid my brain will get full. I make a point of trying to put everything I should remember into the code so I don't have to remember it."
+<br /><br />
+> --- Martin Fowler (from his Refactoring book, p. 56)
 
-copied HorizontalChangeHandler
-
+Another form of laziness that we, programmers, have is to not rewrite anything that is already written by other programmers.
 
 <!--more-->
 
+But how would we know if the code we want to write is already written by other programmers?
+
+By googling for it, of course! :smile:
+
+That might be the reason why you are in this page! --- You are using Conductor in your Android app, and you want an `AnimatorChangeHandler` which slides your screens from/to the left... and you are lazy (or, as in my case, do not know how to do it :smile:)... so you googled for it.
+
+I tried it... _and found none_.
+
+So I created one myself --- I just copied the code for the `HorizontalChangeHandler` provided by Conductor and then made some changes to it.
+
+I hope this helps my fellow lazy programmers!
+
+Here it is:
 
 
 ``` java
-
 import android.animation.Animator;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
