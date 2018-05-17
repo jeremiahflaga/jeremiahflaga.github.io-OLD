@@ -46,7 +46,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-### Micheal Feathers <small>(The Deep Synergy Between Testability and Good Design - NDC 2010)</small>
+### Micheal Feathers <small>([The Deep Synergy Between Testability and Good Design - NDC 2010](insert link here))</small>
 
 > "If your code is not testable, then it is not a good design."
 
@@ -63,7 +63,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 ### Uncle Bob Martin <small>(Expecting Professionalism - Kuppelsalen, Copenhagen - December 15, 2015)</small>
 
 
-> TDD minimizes debugging time.
+> **TDD minimizes debugging time.**
 
 > TDD is a good way to make code example for the programmer to read.
 
@@ -92,16 +92,20 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-### Harry Percival (Preface of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/preface.html))
+### Harry Percival (["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html))
 
-> I’ve lost count of the number of times I’ve thought “Thanks, tests”, as a functional test uncovers a regression we would never have predicted, or a unit test saves me from making a really silly logic error. **Psychologically, [TDD] made development a much less stressful process. It produces code that’s a pleasure to work with.**
+> I’ve lost count of the number of times I’ve thought “Thanks, tests”, as a functional test uncovers a regression we would never have predicted, or a unit test saves me from making a really silly logic error. **Psychologically, [TDD] made development a much less stressful process. It produces code that’s a pleasure to work with.** (from [Preface](https://www.obeythetestinggoat.com/book/preface.html))
+
+
+
+> Ultimately, programming is hard. Often, we are smart, so we succeed. TDD is there to help us out when we’re not so smart. Kent Beck (who basically invented TDD) uses the metaphor of lifting a bucket of water out of a well with a rope: when the well isn’t too deep, and the bucket isn’t very full, it’s easy. And even lifting a full bucket is pretty easy at first. But after a while, you’re going to get tired. **TDD is like having a ratchet that lets you save your progress, take a break, and make sure you never slip backwards. That way you don’t have to be smart all the time.** (from [Chapter 4](https://www.obeythetestinggoat.com/book/chapter_philosophy_and_refactoring.html))
 
 
 ### Michael ([GeePaw](http://anarchycreek.com/whosgeepawhill/)) Hill ([How TDD and Pairing Increase Production](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/))
 
 > ... the hard part of programming is the thinking, not the typing...
 <br /><br />
-> TDD increases your production because it serves as a thinking-aid.  It limits back-tracking and gold-plating  and it reduces code-study and debugging.  Pairing increases your production for the very same reason.  Two developers together don’t type as fast as two developers separately, but we don’t care: the bottleneck is the thinking, and pairing and TDDing both improve it.
+> TDD increases your production because it serves as a thinking-aid.  It limits back-tracking and gold-plating  and it reduces code-study and debugging.  Pairing increases your production for the very same reason.  Two developers together don’t type as fast as two developers separately, but we don’t care: **the bottleneck is the thinking, and pairing and TDDing both improve it.**
 
 
 
@@ -111,5 +115,8 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 > "**TDD isn’t something that comes naturally. It’s a discipline**, like a martial art, and just like in a Kung Fu movie, you need a bad-tempered and unreasonable master to force you to learn the discipline."
 <br /><br />
-> --- Harry Percival (from Chapter 1 of ["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_01.html))
+> --- Harry Percival (from [Chapter 1 of "Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_01.html))
 
+> "TDD is a discipline, and that means it’s not something that comes naturally; **because many of the payoffs aren’t immediate but only come in the longer term, you have to force yourself to do it in the moment.**"
+<br /><br />
+> --- Harry Percival (from [Chapter 4 of "Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/chapter_philosophy_and_refactoring.html))
