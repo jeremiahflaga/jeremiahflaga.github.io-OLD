@@ -63,7 +63,7 @@ The earlier you do something about the pain, the better.
 
 
 
-I recently watched Michael Feather's talk ["The Deep Synergy Between Testability and Good Design"](insert link here)
+I recently watched Michael Feather's talk ["The Deep Synergy Between Testability and Good Design"](https://www.youtube.com/watch?v=4cVZvoFGJTU)
 
 
 

@@ -9,7 +9,7 @@ date: 2017-12-19 06:20:00 PM UTC
 <!-- December 20, 2017 2:20:00 AM Philippine Time -->
 
 
-In his talk, "[The Deep Synergy Between Testability and Good Design](insert link here) (NDC 2010)", [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) said these:
+In his talk, "[The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (NDC 2010)", [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) said these:
 
 > "If your code is not testable, then it is not a good design."
 <br /><br />

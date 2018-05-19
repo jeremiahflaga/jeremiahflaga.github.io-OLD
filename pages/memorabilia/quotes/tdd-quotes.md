@@ -46,7 +46,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-### Micheal Feathers <small>([The Deep Synergy Between Testability and Good Design - NDC 2010](insert link here))</small>
+### Micheal Feathers <small>([The Deep Synergy Between Testability and Good Design - NDC 2010](https://www.youtube.com/watch?v=4cVZvoFGJTU))</small>
 
 > "If your code is not testable, then it is not a good design."
 
