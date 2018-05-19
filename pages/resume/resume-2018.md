@@ -37,7 +37,7 @@ published: true
     <tbody>
       <tr>
         <td>Email:</td>
-        <td>flaga.jeremiah@gmail.com</td>
+        <td><a href="mailto:flaga.jeremiah@gmail.com">flaga.jeremiah@gmail.com</a></td>
       </tr>
       <tr>
         <td>Skype:</td>
@@ -110,7 +110,7 @@ published: true
 [**More Lessons Learned**](#more-lessons-learned) 
 
 
-[**I'm an Initiate**](#im-an-initiate)
+[**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
 [**My learning philosophy today on software development**](#learning-philosophy)
 
@@ -709,14 +709,14 @@ published: true
 
 
 <h2 id="im-an-initiate">
-  <strong>I'm an Initiate</strong>
+  <strong>I'm an Initiate; perhaps a beginning Codesmith</strong>
 </h2>
 
 Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code than writing code. 
 
 I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
 
-Also, I heard some people say that programmers sometimes sell themselves short. In relation to that, you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
+Also, I heard some people say that programmers sometimes sell themselves short. In relation to that, you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ could mean _"initial"_ :grin:)
 
 <!-- 
 <span class="message">
@@ -807,7 +807,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 
 
-Thank you for your time!
+**_Thank you for your time!_**
 
 
 
