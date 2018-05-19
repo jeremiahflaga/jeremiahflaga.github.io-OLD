@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: false
+published: true
 ---
 
 <style>
@@ -60,6 +60,7 @@ published: false
     </tbody>
   </table>
 
+<!-- 
   <table class="basic-info">
     <tbody>
       <tr>
@@ -70,18 +71,21 @@ published: false
           </strong>
         </td>
       </tr>
-      <!-- <tr>
+      <tr>
         <td></td>
         <td colspan="2">
           <strong>
             <a href="/resume/open-application-letter/">Open Application Letter...</a>
           </strong>
         </td>
-      </tr> -->
+      </tr>
     </tbody>
   </table>
+-->
 
 </div>
+
+
 
 
 ----------------------------------------------------------
@@ -98,7 +102,7 @@ published: false
 
 - [March 2-4, 2016 — Enlightenment Period](#enlightenment-period)
 
-- [October 2016 – May 2018 (1 year, 7 months)](#work-experience-3)
+- [October 2016 – June 2018 (1 year, 8 months)](#work-experience-3)
 
 
 [**More Lessons Learned**](#more-lessons-learned) 
@@ -234,7 +238,7 @@ published: false
         Believes in Agile Software Development practices such as collective ownership of the code base, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development
         </p>
         <p>
-        Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable
+        Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> can greatly help us make software that is maintainable. (Of course that does not mean that I'm going to force it on others. :smile:)
         </p>
       </td>
     </tr>
@@ -463,13 +467,13 @@ published: false
 
   I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
   <br /><br />
-  <em><strong>I would say that this is the time of my enlightenment.</strong></em>
+  <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em>
   <!--   
   (Read the blog post yourself... you will also be enlightened. :smile:)</em>
    -->
   <br /><br />
   <p class="indented">
-    <em>"Architecture is not about frameworks and databases and..."</em>
+    <em>"Architecture is <strong>not</strong> about frameworks and databases and web servers..."</em>
   </p>
   I thought architecture is about how to combine all these frameworks together to form an application!
   <br /><br />
@@ -486,7 +490,7 @@ published: false
       <em>Hot Towel SPA Template, ASP.NET Web API for presentation — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em>_ guiding you.
+  Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you.
   <br /><br />
   Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.
 
@@ -507,7 +511,7 @@ published: false
 
 <div>
 <h3 id="work-experience-3">
-  <strong>October 2016 – May 2018</strong> <small>(1 year, 7 months)</small>
+  <strong>October 2016 – June 2018</strong> <small>(1 year, 8 months)</small>
 </h3>
 
 <table class="resume">
@@ -567,7 +571,7 @@ published: false
             <li>
               Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
               <br /><br />
-              But I still have to learn more about this threads thing.
+              But I still have to learn more about this <em>threads</em> thing.
             </li>
           </ol>
         </p>
@@ -683,7 +687,9 @@ published: false
   <strong>I'm an Initiate</strong>
 </h2>
 
-Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code that writing code. I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
+Using [Terence McGhee's "Software Ninja Class Hierarchy"](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html), <em>today</em>, I consider myself to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), because I _try_ to write code that is easy to read. I do that because I know that programmers spend more time reading code than writing code. 
+
+I'm not saying that I _always_ write code that is easy to read. I still write messy code during _trying_ times or during _boring_ times or _lazy_ times, with the intention of cleaning them up _later_ of course :grin:. But I'm already aware, through experience, that code that is easy to read is valuable code. I also understand that _later_ means _never_ so if your organization insist that I should _never_ write messy code, I will be happy to comply. :smile:
 
 Also, I heard some people say that programmers sometimes sell themselves short. In relation to that, you might still forgive me if I consider myself a [**Level "Zero" Codesmith**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) because I have little knowledge about TDD, the SOLID principles, Clean Architecture, and some Design Patterns. (Please note that in programming, _"zero"_ has meaning other than _"none"_ :grin:)
 
@@ -711,13 +717,13 @@ This kind of realization actually gives me doubt on whether I already truly unde
 
 When I started coding, my focus on learning was trying to master the specifics of a programming language.
 
-Then a few years later, my focused moved into trying to master specific frameworks and libraries.
+Then a few years later, my focus moved into trying to master specific frameworks and libraries.
 
 But then I heard Uncle Bob Martin saying that software development has not changed in the last 40 years. And I heard Mattias Petter Johansson's [advise for programmers:](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
-> "... learn the stuff that doesn’t change around a lot. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in **general**. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
+> "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in **general**. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
-So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things do not change a lot, and these things will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software.
+So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that do not change a lot, and these things will help me make software that is [maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software.
 
 <!-- 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
@@ -731,7 +737,7 @@ Today, my learning philosophy is like this:
 
 I hope that kind of learning philosophy is okay with you. :smile:
 
-When I will be hired in your company, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
+**When I am already hired in your company**, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
 
 When I reach the point where am already comfortable with my knowledge on the specific frameworks and libraries being used in the project, I will move my concentration again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
@@ -776,6 +782,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 
 
+Thank you for your time!
 
 
 

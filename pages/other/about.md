@@ -25,7 +25,7 @@ I have created an online [resum&eacute;](/resume/), in case you are interested i
 -->
 
 
-I am currently employed by [Mynd Consulting](http://www.myndconsulting.com/), a software development company based in Davao City, Philippines. You might want to contact them for your software needs! _(Please note that the views being presented in this site, and in my [personal blog](/blog/), are mine alone, and do not represent the views being held by my employer or my coleauges.)_
+I am currently employed by [Mynd Consulting](http://www.myndconsulting.com/), a software development company based in Davao City, Philippines. You might want to contact them for your software needs! _(Please note that the views being presented in this site, including those in my [personal blog](/blog/), are mine alone, and do not represent the views being held by my employer or my coleauges.)_
 
 
 ### Contact me

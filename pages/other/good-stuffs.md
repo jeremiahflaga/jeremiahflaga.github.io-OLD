@@ -10,7 +10,7 @@ blockquote {
 }
 </style>
 
-## Some of the articles, books, videos and other stuffs which influenced how I think today
+## Some of the articles, books, videos and other stuffs which greatly influenced my thinking
 
 <small>_[This also serves as a reminder for myself of some of the most important things to remember always.]_</small>
 
@@ -65,7 +65,7 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 > "I deem respecting the levels of abstraction to be the **most important principle in programming**, because it automatically implies many other best practices.
 
-
+> "abstraction is characterized by **what** a particular piece of code **intends to do** as opposed to **how** it is implemented"
 
 <!--
 > "A given level of abstraction is characterized by **what** is done in it."
@@ -82,6 +82,14 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 > ![Respect Levels of Abstraction image](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/01/respect_levels_of_abstraction2.png)
 
 -->
+
+["Growing Object-Oriented Software Guided by Tests"](https://www.bookdepository.com/book/9780321503626?a_aid=jflaga) by Steve Freeman and Nat Pryce
+
+> "All code should emphasize **‘what’** it does over **‘how’**, including test code."
+
+
+["The Most Important Design Guideline"](/2017/06/03/most-important-design-guideline-of-scott-myers/) of Scott Myers
+> "Make interfaces easy to use correctly and hard to use incorrectly."
 
 
 ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/) by Jonathan Boccara
@@ -115,7 +123,7 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 ["Three Paradigms"](http://blog.cleancoder.com/uncle-bob/2012/12/19/Three-Paradigms.html) by Uncle Bob Martin
 
-> But in that same 40 years software technology has barely changed at all. After all, we still write the same if statements, while loops, and assignment statements we did back in the ’60s. If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. The concepts haven’t changed that much.
+> ...**But in that same 40 years software technology has barely changed at all.** After all, we still write the same if statements, while loops, and assignment statements we did back in the ’60s. If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. **The concepts haven’t changed that much.**
 
 
 [Please Don't Learn to Code](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html) by Jeff Atwood

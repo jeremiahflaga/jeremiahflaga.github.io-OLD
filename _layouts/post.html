@@ -20,10 +20,9 @@ layout: default
   <article>
     {{ content }}
     
-    {% include christian.html %}
-
   </article>
   
+  <!--   
   <div class="tag-list" style="padding-top: 50px">
     {% if page.tags %}
     Tags:
@@ -32,7 +31,12 @@ layout: default
     {% endfor %}
     {% endif %}
   </div>
+  -->
+
 </div>
+
+
+<br />
 
 <hr />
 
@@ -52,7 +56,7 @@ layout: default
   <center>
 </div>
 
-<br />
+{% include christian.html %}
 
 <div class="related">
   <h2>Related Posts</h2>
