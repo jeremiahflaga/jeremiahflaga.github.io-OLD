@@ -43,6 +43,7 @@ https://greghowlett.com/?affid=5114
 HTML for images (for custom width and height)
 <img src="/images/2017/computer-science-distilled.png" width="48">
 <img src="/images/2017/computer-science-distilled.png" height="250">
+<img src="/images/2017/computer-science-distilled.png" height="200">
 <img src="/images/2017/computer-science-distilled.png" width="48" title="title" alt="title">
 <img src="/images/2017/computer-science-distilled.png" height="250" title="title" alt="title">
 
