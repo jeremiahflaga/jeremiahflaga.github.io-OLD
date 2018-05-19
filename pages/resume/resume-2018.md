@@ -45,17 +45,19 @@ published: true
       </tr>
       <tr>
         <td>Mobile:</td>
-        <td>+63918 374 5134</td>
+        <td>+63918-374-5134</td>
       </tr>
       <tr>
-        <td>Blog:</td>
-        <td><a href="/">jeremiahflaga.github.io</a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
       </tr>
       <tr>
-        <td><small>Old Blog:</small></td>
-        <td>
-          <small><a href="https://jeremiahflaga.blogspot.com">jeremiahflaga.blogspot.com</a></small>
-        </td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
       </tr>
     </tbody>
   </table>
@@ -281,12 +283,34 @@ published: true
         <p>
           <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
         </p>
-        <p>
-          <a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a> <small>(old GitHub account)</small>
+        <small>Old GitHub:</small>
+        <br />
+        <p class="indented">
+          <small><a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a></small>
+          <br />
+          <small><a href="https://github.com/jboyflaga">github.com/jboyflaga</a></small>
         </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Blog:</td>
+      <td>
         <p>
-          <a href="https://github.com/jboyflaga">github.com/jboyflaga</a> <small>(old GitHub account)</small>
+          <a href="/">jeremiahflaga.github.io</a>
         </p>
+        <small>Old Blogs:</small>
+        <br />
+        <p class="indented">
+          <small><a href="https://jeremiahflaga.blogspot.com">jeremiahflaga.blogspot.com</a></small>
+          <br />
+          <small><a href="http://jboyflaga2.blogspot.com">jboyflaga2.blogspot.com</a></small>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        
       </td>
     </tr>
   </tbody>
@@ -524,7 +548,8 @@ published: true
           Software Developer for mobile using Android at <strong><a href="http://www.myndconsulting.com/">Mynd Consulting</a></strong>
         </p>  
         <p>
-          Involved in developing versions 2 and 3 of the Dr. Oz app for Android devices
+          Involved in developing versions 2 and 3 of the Dr. Oz app for Android devices. 
+          <small>(Version 3 is not yet uploaded to the Play Store as of May 2018.)</small>
         </p>
       </td>
     </tr>
@@ -586,7 +611,6 @@ published: true
 
 
 
-<!-- 
 ----------------------------------------------------------
 
 
@@ -598,7 +622,7 @@ published: true
 
   <dt>The business rules must be separated</dt>
   <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize the that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
     Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
@@ -623,6 +647,7 @@ published: true
     But perhaps you know of other ways to solve this problem...
   </dd>
   
+  <!-- 
   <br />
   <dt>Any member of the team must be allowed to speak up</dt>
   <dd>
@@ -636,6 +661,7 @@ published: true
     <br /><br />
     (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
   </dd>
+  -->
 
   <br />
   <dt>I need to become proactive</dt>
@@ -647,7 +673,6 @@ published: true
     I hope that being proactive is not restricted in your company. :smile:
   </dd>
 </dl>
- -->
 
 
 
