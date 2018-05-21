@@ -44,3 +44,11 @@ But three things have changed about the act of writing software...
 > "...One of the most important things that you can learn from me or from anyone else regarding professional software creation, is that **you must build your systems for easy maintainability**..."
 <br /><br />
 > --- Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
+
+
+----------
+
+
+I recently found the free reading materials for the [course from MIT OCW named "Software Construction"](https://ocw.mit.edu/ans7870/6/6.005/s16/). It might be very helpful in learning about those things that do not change a lot in software development.
+
+Enjoy!
