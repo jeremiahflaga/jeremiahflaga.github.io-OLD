@@ -2,7 +2,7 @@
 layout: post
 title: 'RxJava is not intuitive (and what to do about it)'
 categories: [Programming]
-tags: [Android, Martin Fowler]
+tags: [Android]
 date: 2018-05-09 05:15:00 PM UTC
 published: false
 ---

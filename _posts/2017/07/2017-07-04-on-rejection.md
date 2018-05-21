@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Rejection
-categories: [Thoughts, What if&#63;]
+categories: [Thoughts, 'What if?']
 tags: [Rejection, God]
 date: 2017-07-04 01:50:00 PM UTC
 ---
