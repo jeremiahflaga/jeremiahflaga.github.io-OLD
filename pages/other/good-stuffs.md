@@ -126,6 +126,13 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 > ...**But in that same 40 years software technology has barely changed at all.** After all, we still write the same if statements, while loops, and assignment statements we did back in the ’60s. If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. **The concepts haven’t changed that much.**
 
 
+
+["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html) by Terence McGhee
+
+> "**The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success.** Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), **your ability to advance is not hinged on language particulars or framework features**." 
+
+
+
 [Please Don't Learn to Code](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html) by Jeff Atwood
 
 > "Software developers tend to be software addicts who think their job is to write code. But it's not. Their job is to solve problems. Don't celebrate the creation of code, celebrate the creation of solutions."
