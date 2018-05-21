@@ -307,14 +307,11 @@ published: true
         </p>
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td>
-        
-      </td>
-    </tr>
   </tbody>
 </table>
+
+
+<small>[_^ back to Contents_](#contents)<small>
 
 
 
@@ -483,12 +480,18 @@ published: true
 
 
 
-<div id="enlightenment-period" class="message">
+<div id="enlightenment-period" class="message"  style="background-color: #f9f9f9;">
 
   <h3>
     <strong>March 2-4, 2016 — Enlightenment Period</strong>
   </h3>
 
+<table class="resume">
+  <tbody>
+    <tr>
+      <td style="background-color: #f9f9f9;">
+      </td>
+      <td style="background-color: #f9f9f9;">
   I read (and studied) Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
   <br /><br />
   <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em>
@@ -516,7 +519,7 @@ published: true
   </p>
   Did I place <em>much</em> of my attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you.
   <br /><br />
-  Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of other materials (and experiences) that helped me come into this kind of enlightenment</strong>.
+  Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I understand the <strong>there are lots of <em>other</em> materials (and experiences) that helped me come into this kind of enlightenment</strong>.
 
   <!-- 
   <br /><br />
@@ -526,6 +529,10 @@ published: true
   as [...] said in  <http://www.christianitytoday.com/history/issues/issue-39/luthers-living-legacy.html>        
   rather it is kind of the turning point of my midset. I was very frameworks-oriented since I started learning about creating line-of-business applications. But this (along with other materials produced by Uncle Bob) made me understand that the frameworks and databases are not the center of our application.
     -->
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -809,6 +816,10 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 **_Thank you for your time!_**
 
+
+----------------------------------------------------------
+
+**Here is my [_Anti-r&eacute;sum&eacute;_](/resume/anti-resume/), if you are interested.**
 
 
 <!-- 

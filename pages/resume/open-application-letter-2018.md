@@ -175,7 +175,7 @@ Also, through this role, I can become familiar with the whole system and might s
 
 > "The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success. Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), your ability to advance is not hinged on language particulars or framework features." 
 <br /><br />
-> Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
+> --- Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
 
 
 If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/#not-an-expert-on-frameworks), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).

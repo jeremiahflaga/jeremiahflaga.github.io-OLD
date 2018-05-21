@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: false
+published: true
 ---
 <!-- 
 <style>
@@ -120,11 +120,9 @@ I would love to work on a **new** project where I will have influence on decisio
 
 But most software systems in existence today are in **maintenance phase**. So there is a very big possibility that I will be working on one. And there are systems that are in the maintenance phase which are messy (not all, of course).
 
-But more than a year ago, I read this from an article written by Jonathan Boccara:
+But more than a year ago, I read this from [an article written by Jonathan Boccara](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/):
 
 > "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
-<br /><br />
-> --- from ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)
 
 That will be hard to do --- owning the code that somebody else has written --- most especially if the code is messy and hard to work with.
 
@@ -219,7 +217,7 @@ I cannot work on Android projects for my next job because I promised my current 
 
 When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines.
 
-Oh, I also know about not storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
+Oh, I also know about _not_ storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
 
 I also read in the past about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I still have to review them.
 
