@@ -25,3 +25,16 @@ The 7 Habits of Highly Effective People
 Jordan Peterson
  - Fix Yourself video of Prager University
  - "The proper way to fix the world isn't to fix the world..."
+
+
+
+
+-----
+
+
+
+
+
+and as dr werner gitt pointed out in his talk "In The Beginning was Information" we, humans, are not only a biological system, but is also a system based on information.
+
+And information systems has a "purpose" part in it. Is the purpose of this information system is just to make the builogical system survive? That's a miserable purpose I think.
