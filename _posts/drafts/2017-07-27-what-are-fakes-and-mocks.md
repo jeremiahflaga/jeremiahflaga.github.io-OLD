@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are Fakes? and What are Mcoks?
-categories: [Programming, Let&#39;s ask our masters]
+categories: [Programming, Let's ask our masters]
 tags: [Fake, Mock, Michael Feathers]
 date: 2017-07-27 01:45:00 PM UTC
 published: false

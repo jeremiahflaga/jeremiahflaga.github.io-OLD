@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the most basic rule when writing code?
-categories: [Programming, Let&#39;s ask our masters]
+categories: [Programming, Let's ask our masters]
 tags: [Computer Science, Abstraction, Noam Nisan, Shimon Schocken, Jonathan Boccara, GOOS, Duke Ellington, Greg Howlett, Albert Einstein, RObert Martin, Kent Beck]
 date: 2017-11-30 03:30:00 AM UTC
 ---

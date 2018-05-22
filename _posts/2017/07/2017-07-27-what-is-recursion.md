@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Recursion?
-categories: [Programming, Let&#39;s ask our masters]
+categories: [Programming, Let's ask our masters]
 tags: [Recursion, Eric Grimson, MIT OCW 6.0001]
 date: 2017-07-27 01:45:00 PM UTC
 ---

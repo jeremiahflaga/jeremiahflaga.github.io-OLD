@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why is <i>"dynamic programming"</i> called by that name?
-categories: [Programming, Let&#39;s ask our masters]
+categories: [Programming, Let's ask our masters]
 tags: [Dynamic Programming, John Guttag, MIT OCW 6.0002, Richard Bellman]
 date: 2017-08-06 01:00:00 PM UTC
 ---

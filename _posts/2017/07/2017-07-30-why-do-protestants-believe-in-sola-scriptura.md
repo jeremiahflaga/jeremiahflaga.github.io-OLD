@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why do protestants and/or evangelical Christians believe in Sola Scriptura?
-categories: [Miscellaneous, Let&#39;s ask our masters]
+categories: [Miscellaneous, Let's ask our masters]
 tags: [Martin Luther, Protestantism, Evangelical Christianity, Reformation, Roland Bainton, Phil Kamibayashiyama]
 date: 2017-07-30 03:50:00 PM UTC
 ---

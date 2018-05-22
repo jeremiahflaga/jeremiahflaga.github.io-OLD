@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why is exception called an <u>exception</u> in programming?
-categories: [Programming, Let&#39;s ask our masters]
+categories: [Programming, Let's ask our masters]
 tags: [Ana Bell, MIT 6.0001]
 date: 2017-07-25 04:00:00 PM UTC
 ---
