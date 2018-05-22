@@ -25,6 +25,18 @@ But three things have changed about the act of writing software...
 ----------
 
 
+> **What’s new in software?**
+<br /><br />
+For the last thirty years: Nothing much.
+<br /><br />
+> --- Uncle Bob Martin (from ["Make the Magic go away."](http://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html))
+
+
+
+----------
+
+
+
 > "Are we forever cursed to do this constant tooling rodeo, where we try to hold on in the job market for dear life, learning new tools as the plop up all over the place?
 <br /><br />
 "Instead of trying to predict the future, which we humans are really bad at — just look at sci-fi movies from the 60-ies — **you should learn the stuff that doesn’t change around a lot**.
