@@ -48,12 +48,12 @@ published: true
         <td>+63918-374-5134</td>
       </tr>
       <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>
+          Facebook
+          <br />
+          Messenger:
+        </td>
+        <td>@jayflaga</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
@@ -106,9 +106,9 @@ published: true
 
 - [October 2016 – June 2018 (1 year, 8 months)](#work-experience-3)
 
-
+<!-- 
 [**More Lessons Learned**](#more-lessons-learned) 
-
+ -->
 
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
@@ -455,6 +455,10 @@ published: true
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
               <!--
               <br /><br />
+              There were parts of the system 
+              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
+              <!--
+              <br /><br />
               There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
               <br /><br />
               I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
@@ -617,7 +621,7 @@ published: true
 <small>[_^ back to Contents_](#contents)<small>
 
 
-
+<!-- 
 ----------------------------------------------------------
 
 
@@ -654,7 +658,6 @@ published: true
     But perhaps you know of other ways to solve this problem...
   </dd>
   
-  <!-- 
   <br />
   <dt>Any member of the team must be allowed to speak up</dt>
   <dd>
@@ -668,7 +671,6 @@ published: true
     <br /><br />
     (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
   </dd>
-  -->
 
   <br />
   <dt>I need to become proactive</dt>
@@ -680,7 +682,7 @@ published: true
     I hope that being proactive is not restricted in your company. :smile:
   </dd>
 </dl>
-
+ -->
 
 
 
@@ -769,7 +771,7 @@ Today, my learning philosophy is like this:
 
 I hope that kind of learning philosophy is okay with you. :smile:
 
-**When I am already hired in your company**, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project, and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
+**When I am already hired in your company**, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project (if I am not yet familiar with them), and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
 
 When I reach the point where am already comfortable with my knowledge on the specific frameworks and libraries being used in the project, I will move my concentration again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
@@ -816,11 +818,11 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 **_Thank you for your time!_**
 
-
+<!-- 
 ----------------------------------------------------------
 
 **Here is my [_Anti-r&eacute;sum&eacute;_](/resume/anti-resume/), if you are interested.**
-
+ -->
 
 <!-- 
 ----------------------------------------------------------

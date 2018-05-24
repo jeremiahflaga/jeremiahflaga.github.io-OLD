@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: true
+published: false
 ---
 <!-- 
 <style>
@@ -113,7 +113,7 @@ I will get frustrated sometimes, or maybe oftentimes, when I know that we can do
 I would be great if there is a kind of system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the code base... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
  -->
 
-
+<!-- 
 ## **I will own the mess other people made if...**
 
 I would love to work on a **new** project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
@@ -127,7 +127,7 @@ But more than a year ago, I read this from [an article written by Jonathan Bocca
 That will be hard to do --- owning the code that somebody else has written --- most especially if the code is messy and hard to work with.
 
 If you current code base is messy, I will _help own_ the mess, and will _help_ clean up the mess, only if there is proper compensation for it. :smile:
-
+ -->
 
 
 <!-- 
