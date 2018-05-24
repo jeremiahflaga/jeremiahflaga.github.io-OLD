@@ -3,7 +3,7 @@ layout: post
 title: 'RxJava is not intuitive... and what helped me to somewhat understand it'
 categories: [Programming]
 tags: [Android, RxJava, Retrofit, Jake Wharton, Dan Lew]
-date: 2018-05-24 12:00:00 PM UTC
+date: 2018-05-23 08:45:00 PM UTC
 ---
 
 <!-- May 23, 2018 04:46:00 AM Philippine Time -->
