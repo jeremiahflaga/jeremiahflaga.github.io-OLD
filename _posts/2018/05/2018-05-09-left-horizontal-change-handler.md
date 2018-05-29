@@ -20,11 +20,11 @@ But how would we know if the code we want to write is already written by other p
 
 By googling for it, of course! :smile:
 
-That might be the reason why you are in this page! --- You are using Conductor in your Android app, and you want an `AnimatorChangeHandler` which slides your screens from/to the left... and you are lazy (or, as in my case, do not know how to do it :smile:)... so you googled for it.
+That might be the reason why you are in this page! --- You are using [Conductor](insert link here) in your Android app, and you want an `AnimatorChangeHandler` which slides your screens from/to the left... and you are lazy (or, as in my case, do not know how to do it :smile:)... so you googled for it.
 
 I tried it... _and found none_.
 
-So I created one myself --- I just copied the code for the `HorizontalChangeHandler` provided by Conductor and then made some changes to it.
+So I created one myself --- I just copied the [code for the `HorizontalChangeHandler` provided by Conductor](insert link here) and then made some changes to it.
 
 I hope this helps my fellow lazy programmers!
 
