@@ -62,7 +62,7 @@ published: true
     </tbody>
   </table>
 
-<!-- 
+  <!-- 
   <table class="basic-info">
     <tbody>
       <tr>
@@ -82,8 +82,8 @@ published: true
         </td>
       </tr>
     </tbody>
-  </table>
--->
+  </table> 
+  -->
 
 </div>
 
@@ -104,11 +104,13 @@ published: true
 
 - [March 2-4, 2016 — Enlightenment Period](#enlightenment-period)
 
-- [October 2016 – June 2018 (1 year, 8 months)](#work-experience-3)
+- [October 2016 – May 2018 (1 year, 7 months)](#work-experience-3)
 
-<!-- 
+- [June 2018 – ... (...)](#work-experience-4)
+
+
 [**More Lessons Learned**](#more-lessons-learned) 
- -->
+
 
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
@@ -546,7 +548,7 @@ published: true
 
 <div>
 <h3 id="work-experience-3">
-  <strong>October 2016 – June 2018</strong> <small>(1 year, 8 months)</small>
+  <strong>October 2016 – May 2018</strong> <small>(1 year, 7 months)</small>
 </h3>
 
 <table class="resume">
@@ -621,7 +623,37 @@ published: true
 <small>[_^ back to Contents_](#contents)<small>
 
 
-<!-- 
+
+- [June 2018 – ... (...)](#work-experience-4)
+
+
+<div>
+<h3 id="work-experience-4">
+  <strong>June 2018 – ...</strong> <small>(...)</small>
+</h3>
+
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          Software Developer (.NET)
+        </p>  
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<small>[_^ back to Contents_](#contents)<small>
+
+
+
+
+
 ----------------------------------------------------------
 
 
@@ -646,6 +678,22 @@ published: true
     Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.
     <br /><br />
     I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
+  </dd>
+  
+  <br />
+  <dt>Writing unit tests <em>after</em> the production code is already written is hard</dt>
+  <dd>
+    <blockquote>
+      "Automated unit testing is a gateway drug to Test-Driven Development" - 
+      <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Eddie Bush</a>
+    </blockquote>
+    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
+    <br /><br />
+    So even though I had a somewhat bad experience with writing tests, as I stated in my "Lesson(s) Learned" section in my 
+    <a href="#work-experience-2">second job</a>
+    , I am not against writing automated tests. I am for it, most especially when they are written <em>first</em> and not last.
+    <br /><br />
+    But if the existing code base has no tests, and we want to write tests for it, I think we must first consider the pros and cons before continuing on that kind of endeavor. :smile:
   </dd>
 
   <br />
@@ -681,8 +729,8 @@ published: true
     <br /><br />
     I hope that being proactive is not restricted in your company. :smile:
   </dd>
+
 </dl>
- -->
 
 
 
@@ -710,9 +758,9 @@ published: true
   </dd>
 </dl>
 -->
-<!-- 
+
+
 <small>[_^ back to Contents_](#contents)<small>
- -->
 
 ----------------------------------------------------------
 
@@ -824,15 +872,13 @@ If not, I have my own method of getting familiar with the project. I will spend 
 **Here is my [_Anti-r&eacute;sum&eacute;_](/resume/anti-resume/), if you are interested.**
  -->
 
-<!-- 
 ----------------------------------------------------------
 
-**If you have not seen them yet, here are the other links which complements my r&eacute;sum&eacute;:**
+**Here are other links which complement my r&eacute;sum&eacute;:**
 
 [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
 [**Open Application Letter**](/resume/open-application-letter/)
- -->
 
 
 

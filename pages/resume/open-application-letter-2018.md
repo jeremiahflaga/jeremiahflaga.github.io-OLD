@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Open Application Letter
 permalink: /resume/open-application-letter/
-published: false
+published: true
 ---
 <!-- 
 <style>
@@ -12,18 +12,13 @@ published: false
 </style>
  -->
 
-January 2018
-
-
-Dear Sir/Ma'am,
-
 <span class="message">
 <!-- 
 The project I am currently involved in is almost finished, and I'm going to resign in the first week of February. (after my resignation, I will be needing a month before I can leave)
 <br /><br />
--->
 I already resigned from my current job because the project I am currently involved in is almost finished (I will be leaving in the end of February 2018) so please don't be alarmed about this "open application letter" thing. I promise that when I get hired at your company, I will not be entertaining job offers from other companies while I'm still employed at your company. :smile:
 <br /><br />
+-->
 My purpose for this open application letter is only to make it easy for me to apply for jobs, and to make it easy for recruiters to determine if my current skillset matches with what their team currently needs.
 <!-- 
 <br /><br />
@@ -32,8 +27,14 @@ My purpose for this open application letter is only to make it easy for me to ap
 </span>
 
 
+<!-- 
+January 2018
+ -->
 
-I am Jeremiah Flaga, also known as Jboy. I am a programmer for about five years already.
+Dear Sir/Ma'am,
+
+
+I am Jeremiah Flaga, also known as Jboy. I am a programmer for more than five years already (by June 2018).
 
 
 
@@ -260,6 +261,8 @@ If the role you need is not in the list above, but you suspect that I am fit for
 
 ----------
 
+
+<!-- 
 <h2 id="about-sideline-jobs">
   <strong>About sideline jobs</strong>
 </h2>
@@ -267,7 +270,7 @@ If the role you need is not in the list above, but you suspect that I am fit for
 In my five years of being a software developer, I experienced having a sideline job ony once, and it lasted only one month, because I noticed that having a sideline job does not help me reach some goals I want to reach, such as learning how to create well designed software systems, and learning how to be good at fixing messes which I and other programmers made. 
 
 Because of that, you will be sure that when I sleep at night, I will only be dreaming about the problems that I encounter while working at your company, and not about problems of other companies. :smile:
-
+ -->
 
 
 <!--
