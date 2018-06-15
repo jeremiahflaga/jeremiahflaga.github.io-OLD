@@ -29,6 +29,14 @@ blockquote {
 </blockquote>
 -->
 
+["7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development"](https://www.youtube.com/watch?v=WSes_PexXcA) of J. B. Rainsberger
+
+> "The fundamental theorem of agile software development says this: **If you want to estimate little things, you have to refactor**, because refactoring is how you reduce accidental complication; and only by driving accidental complication down as far as you possibly can will your relative estimates have any meaning..."
+<br /><br />
+"...Therefore if you're gonna estimate, you'd better refactor, which means **Scrum cannot work without XP**."
+
+
+
 
 ### Architecture & Design
 
