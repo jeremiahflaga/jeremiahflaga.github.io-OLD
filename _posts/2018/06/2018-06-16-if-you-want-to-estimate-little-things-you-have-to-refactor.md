@@ -12,7 +12,8 @@ Those are the words of **J. B. Rainsberger (jbrains)** in his ["7 minutes, 26 se
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WSes_PexXcA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-----------
+<!--more-->
+
 
 I found that two days ago through Uncle Bob Martin's [tweet](https://twitter.com/unclebobmartin/status/1004708749376974849)
 
@@ -32,8 +33,6 @@ Anyway...
 
 
 Here's the context of that statement in the title:
-
-<!--more-->
 
 > "The fundamental theorem of agile software development says this: **If you want to estimate little things, you have to refactor**, because refactoring is how you reduce accidental complication; and only by driving accidental complication down as far as you possibly can will your relative estimates have any meaning...
 <br /><br />
