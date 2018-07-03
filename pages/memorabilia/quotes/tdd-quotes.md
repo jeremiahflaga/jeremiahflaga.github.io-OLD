@@ -27,6 +27,12 @@ Good architecture and design are important; but the effect of a robust suite of 
 "And write your tests using the Three Laws of TDD."
 
 
+### Roy Osherove <small>[www.simform.com/unit-testing-tdd](https://www.simform.com/unit-testing-tdd/)</small>
+
+> "**Tests are stories we tell the next generation of programmers on a project.**" --- Roy Osherove
+
+
+
 ### Michael Feathers <small>([Working Effectively with Legacy Code](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga))</small>
 
 > "**Code without tests is bad code.** It doesn't matter how well written it is; it doesn't

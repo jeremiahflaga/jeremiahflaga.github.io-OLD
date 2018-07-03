@@ -624,9 +624,6 @@ published: true
 
 
 
-- [June 2018 – ... (...)](#work-experience-4)
-
-
 <div>
 <h3 id="work-experience-4">
   <strong>June 2018 – ...</strong> <small>(...)</small>
