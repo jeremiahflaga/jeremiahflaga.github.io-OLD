@@ -111,14 +111,12 @@ published: true
 
 [**More Lessons Learned**](#more-lessons-learned) 
 
-
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
 [**My learning philosophy today on software development**](#learning-philosophy)
 
-<!-- 
-[**Talk**](#talks)
- -->
+[**Talks**](#talks)
+
 
 ----------------------------------------------------------
 
@@ -839,14 +837,12 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 
 
-<!-- 
 
 ----------------------------------------------------------
 
 <h2 id="talks">
-    <strong>Talk:</strong>
+    <strong>Talks:</strong>
 </h2>
-
 
 - October 7, 2017 -  [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
 
@@ -855,7 +851,6 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 <small>[_^ back to Contents_](#contents)<small>
 
- -->
 
 
 
