@@ -98,15 +98,15 @@ published: true
 
 [**Work Experience**](#work-experience)
 
-- [April 2012 - October 2012 (6 months)](#work-experience-1)
+- [April 2012 - October 2012 (6 months) &rarr; .NET](#work-experience-1)
 
-- [December 2012 – May 2016 (3 years, 5 months)](#work-experience-2)
+- [December 2012 - May 2016 (3 years, 5 months) &rarr; .NET](#work-experience-2)
 
-- [March 2-4, 2016 — Enlightenment Period](#enlightenment-period)
+- [March 2-4, 2016 &rarr; Enlightenment Period](#enlightenment-period)
 
-- [October 2016 – May 2018 (1 year, 7 months)](#work-experience-3)
+- [October 2016 - May 2018 (1 year, 7 months) &rarr; Android](#work-experience-3)
 
-- [June 2018 – ... (...)](#work-experience-4)
+- [June 2018 - Present &rarr; .NET](#work-experience-4)
 
 
 [**More Lessons Learned**](#more-lessons-learned) 
@@ -626,7 +626,7 @@ published: true
 
 <div>
 <h3 id="work-experience-4">
-  <strong>June 2018 – ...</strong> <small>(...)</small>
+  <strong>June 2018 – Present</strong> <small></small>
 </h3>
 
 <table class="resume">
@@ -871,7 +871,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 ----------------------------------------------------------
 
-**Here are other links which complement my r&eacute;sum&eacute;:**
+**If you have more time, here are other links which complement my r&eacute;sum&eacute;:**
 
 [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
