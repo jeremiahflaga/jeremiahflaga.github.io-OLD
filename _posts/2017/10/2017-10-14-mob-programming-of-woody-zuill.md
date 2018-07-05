@@ -61,4 +61,4 @@ Just listen to the first few minutes of his talk... Who would not like someone w
 
 <br />
 
-I have never experienced pair programming yet, but now, I am also hoping that I can experience mob programming in the future. :grin:
+I never experienced pair programming yet, but now, I am also hoping that I can experience mob programming in the future. :grin:

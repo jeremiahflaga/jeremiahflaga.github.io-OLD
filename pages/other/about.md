@@ -16,13 +16,13 @@ permalink: /about/
 
 I'm Jeremiah Flaga, also known as Jboy.
 
-I am software developer and loves programming!
+I am software developer and loves programming --- and a [software boy scout](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) wannabe!
 
 I would also like to love mathematics, computer science, music, philosophy, and theology, but it seems like they don't have time for me today. Maybe someday they will!! --- a hundred years from now perhaps?? :grin:
 
-<!--
-I have created an online [resum&eacute;](/resume/), in case you are interested in hiring me. :smile:
--->
+
+I created an online [resum&eacute;](/resume/), in case you are interested in hiring me. :smile:
+
 
 <!-- 
 I am currently employed by [Mynd Consulting](http://www.myndconsulting.com/), a software development company based in Davao City, Philippines. You might want to contact them for your software needs! _(Please note that the views being presented in this site, including those in my [personal blog](/blog/), are mine alone, and do not represent the views being held by my employer or my coleauges.)_

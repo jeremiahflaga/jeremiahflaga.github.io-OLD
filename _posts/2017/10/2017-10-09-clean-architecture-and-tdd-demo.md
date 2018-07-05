@@ -8,7 +8,7 @@ date: 2017-10-09 03:35:00 PM UTC
 
 <!-- October 09, 2017 11:35:00 PM Philippine Time -->
 
-Like what I said in [a previous blog post](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/), I would like to compensate for the failure of not being able to finish my demo during the talk last Saturday. So I have created videos of me performing the demo.
+Like what I said in [a previous blog post](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/), I would like to compensate for the failure of not being able to finish my demo during the talk last Saturday. So I created videos of me performing the demo.
 
 Here are the videos...
 

@@ -10,7 +10,7 @@ date: 2017-07-20 07:00:00 PM UTC
 
 At the [end of my blog post last week](/2017/07/10/what-made-me-stop-relying-on-atheism#what-is-an-explanation), I included some interesting statements of Dr. Greg Bahnsen about what an **_explanation_** is.
 
-I have decided move that part into a separate blog post and make it as my first post with the category [_"Let's Ask Our Masters"_.](/categories/#Let's%20Ask%20Our%20Masters) :smile:
+I decided move that part into a separate blog post and make it as my first post with the category [_"Let's Ask Our Masters"_.](/categories/#Let's%20Ask%20Our%20Masters) :smile:
 
 
 <!--more-->

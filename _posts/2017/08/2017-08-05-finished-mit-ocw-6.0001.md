@@ -12,7 +12,7 @@ date: 2017-08-05 04:35:00 PM UTC
 
 <!--more-->
 
-I already have a considerably good(?) amount of knowledge about the basics of these topics (through Stanford's free course named CS-106B, and from some books that I have read, and of course from my experiences as a software developer for more than 4 years already), but I consumed 6.0001,
+I already have a considerably good(?) amount of knowledge about the basics of these topics (through Stanford's free course named CS-106B, and from some books that I read, and of course from my experiences as a software developer for more than 4 years already), but I consumed 6.0001,
 
 - first, to become more familiar with Python (there are free and good materials available online which uses Python: for instance, [greenteapress.com](http://greenteapress.com/wp/)),
 - and, second, to prepare myself for [6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm), which teaches the basics of data science.

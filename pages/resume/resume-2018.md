@@ -20,9 +20,7 @@ published: true
 </style>
 
 
-## **Jeremiah M. Flaga** (Jboy)
-
-### a software boy scout wannabe :smile:
+## **Jeremiah M. Flaga --- Jboy** <small>( a [software boy scout](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385) wannabe :smile: )</small>
 
 ----------------------------------------------------------
 
@@ -100,15 +98,15 @@ published: true
 
 [**Work Experience**](#work-experience)
 
-- [April 2012 - October 2012 (6 months) &rarr; .NET](#work-experience-1)
+- [April 2012 - October 2012 <small>(6 months)</small> &rarr; .NET](#work-experience-1)
 
-- [December 2012 - May 2016 (3 years, 5 months) &rarr; .NET](#work-experience-2)
+- [December 2012 - May 2016 <small>(3 years, 5 months)</small> &rarr; .NET, KnockoutJS, jQuery](#work-experience-2)
 
 - [March 2-4, 2016 &rarr; Enlightenment Period](#enlightenment-period)
 
-- [October 2016 - May 2018 (1 year, 7 months) &rarr; Android](#work-experience-3)
+- [October 2016 - May 2018 <small>(1 year, 7 months)</small> &rarr; Android](#work-experience-3)
 
-- [June 2018 - Present &rarr; .NET](#work-experience-4)
+- [June 2018 - Present &rarr; .NET, AngularJS](#work-experience-4)
 
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
