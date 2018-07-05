@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Open Application Letter
 permalink: /resume/open-application-letter/
-published: true
+published: false
 ---
 <!-- 
 <style>

@@ -20,7 +20,9 @@ published: true
 </style>
 
 
-## **Jeremiah M. Flaga**
+## **Jeremiah M. Flaga** (Jboy)
+
+### a software boy scout wannabe :smile:
 
 ----------------------------------------------------------
 
@@ -108,14 +110,17 @@ published: true
 
 - [June 2018 - Present &rarr; .NET](#work-experience-4)
 
-
-[**More Lessons Learned**](#more-lessons-learned) 
-
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
 [**My learning philosophy today on software development**](#learning-philosophy)
 
 [**Talks**](#talks)
+
+[**More Lessons Learned**](#more-lessons-learned) 
+
+[**Other Links**](#other-links) 
+
+
 
 
 ----------------------------------------------------------
@@ -648,115 +653,6 @@ published: true
 
 
 
-
-----------------------------------------------------------
-
-
-<h2 id="more-lessons-learned">
-  <strong>More Lessons Learned</strong>
-</h2>
-
-<dl>
-
-  <dt>The business rules must be separated</dt>
-  <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
-    <br /><br />
-    Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
-    <br /><br />
-    It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
-  </dd>
-
-  <br />
-  <dt>We should take care of our code base</dt>
-  <dd>
-    Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.
-    <br /><br />
-    I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
-  </dd>
-  
-  <br />
-  <dt>Writing unit tests <em>after</em> the production code is already written is hard</dt>
-  <dd>
-    <blockquote>
-      "Automated unit testing is a gateway drug to Test-Driven Development" - 
-      <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Eddie Bush</a>
-    </blockquote>
-    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
-    <br /><br />
-    So even though I had a somewhat bad experience with writing tests, as I stated in my "Lesson(s) Learned" section in my 
-    <a href="#work-experience-2">second job</a>
-    , I am not against writing automated tests. I am for it, most especially when they are written <em>first</em> and not last.
-    <br /><br />
-    But if the existing code base has no tests, and we want to write tests for it, I think we must first consider the pros and cons before continuing on that kind of endeavor. :smile:
-  </dd>
-
-  <br />
-  <dt>There must be a system for asking help</dt>
-  <dd>
-    Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
-    <br /><br />
-    I think doing pair programming from time to time can help make this awkwardness of asking questions go away.
-    <br /><br />
-    But perhaps you know of other ways to solve this problem...
-  </dd>
-  
-  <br />
-  <dt>Any member of the team must be allowed to speak up</dt>
-  <dd>
-    <blockquote>
-      "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one."
-      <br />
-       — Eddie Bush (from <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Automated Unit Testing: X-Ray Vision for Code Quality"</a>)
-    </blockquote>
-    <br />
-    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
-    <br /><br />
-    (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
-  </dd>
-
-  <br />
-  <dt>I need to become proactive</dt>
-  <dd>
-    You might have noticed that in the "Contributions" parts of my Work Experiences, I only put <em>"just did the tasks assigned to me"</em> in there. I was kind of passive during my past jobs. I think it's because I am introverted and I lack experience during that time, and so I was not very confident in making suggestions. (I was not necessarily 100% passive because I recently found in my notes in my second job some unspoken suggestions on how we might make work better.)
-    <br /><br />
-    I want to change that. I want to do great work! And to be able to do great work I need to become proactive, I think. I'm not yet very sure how to do that but I can find ways.
-    <br /><br />
-    I hope that being proactive is not restricted in your company. :smile:
-  </dd>
-
-</dl>
-
-
-
-  
-<!--   
-<dl>
-  <dt>The team members must have a common set of values</dt>
-  <dd>
-    Before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and his values match... then okay!
-  </dd>
-
-  <dt>Writing unit tests after the production code is already written is hard</dt>
-  <dd>
-    <blockquote>
-      "Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)
-    </blockquote>
-    <br />
-    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
-    <br />
-    Also, because of my previous experience of writing unit tests after the production code is already written
-  </dd>
-  <dt>Others</dt>
-  <dd>
-    ...
-  </dd>
-</dl>
--->
-
-
-<small>[_^ back to Contents_](#contents)<small>
-
 ----------------------------------------------------------
 
 
@@ -847,12 +743,124 @@ If not, I have my own method of getting familiar with the project. I will spend 
 - October 7, 2017 -  [**Clean Architecture and TDD Awareness Talk**](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/) at DevCon Davao 2017
 
 
-- January 26, 2017 - [**Clean Architecture and TDD**](/2018/01/30/psits-convention-at-sultan-kudarat) at Sultan Kudarat State University's PSITS Inter-Campus Conference 2018
+- January 26, 2018 - [**Clean Architecture and TDD**](/2018/01/30/psits-convention-at-sultan-kudarat) at Sultan Kudarat State University's PSITS Inter-Campus Conference 2018
 
 <small>[_^ back to Contents_](#contents)<small>
 
 
 
+
+----------------------------------------------------------
+
+
+<h2 id="more-lessons-learned">
+  <strong>More Lessons Learned</strong>
+</h2>
+
+Here are other lessons I learned while working as a software developer.
+
+<dl>
+
+  <br />
+  <dt>We should take care of our code base</dt>
+  <dd>
+    Even if the code base started out to be clean, it will get messy if no one is checking how things are going when new features are added or when bugs are being fixed.
+    <br /><br />
+    I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system can help solve this problem.
+  </dd>
+  
+  <br />
+  <dt>Writing unit tests <em>after</em> the production code is already written is hard</dt>
+  <dd>
+    <blockquote>
+      "Automated unit testing is a gateway drug to Test-Driven Development" - 
+      <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Eddie Bush</a>
+    </blockquote>
+    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
+    <br /><br />
+    So even though I had a somewhat bad experience with writing tests, as I stated in my "Lesson(s) Learned" section in my 
+    <a href="#work-experience-2">second job</a>
+    , I am not against writing automated tests. I am for it, most especially when they are written <em>first</em> and not last.
+    <br /><br />
+    But if the existing code base has no tests, and we want to write tests for it, I think we must first consider the pros and cons before continuing on that kind of endeavor. :smile:
+  </dd>
+
+  <br />
+  <dt>There must be a system for asking help</dt>
+  <dd>
+    Sometimes programmers get stuck but are afraid to ask for help for some reasons only known to them. (My reason for being afraid of asking for help is because the person I will ask help from might be busy.)
+    <br /><br />
+    I think doing pair programming from time to time can help make this awkwardness of asking questions go away.
+    <br /><br />
+    But perhaps you know of other ways to solve this problem...
+  </dd>
+  
+  <br />
+  <dt>Any member of the team must be allowed to speak up</dt>
+  <dd>
+    <blockquote>
+      "When people have a choice of two different places to put things, and one is faster and easier, a lot of people are going to go for the easy one."
+      <br />
+       — Eddie Bush (from <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Automated Unit Testing: X-Ray Vision for Code Quality"</a>)
+    </blockquote>
+    <br />
+    Sometimes a member of a team finds something wrong in the code base of the application he is involved in, and this wrong it is being propagated throughout the code base (perhaps because it is the easiest thing to do). It would be great if a team will let any member speak up if he sees something wrong in the code base, and that the team must do something to either convince everybody that it is not wrong or to fix the wrong.
+    <br /><br />
+    (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
+  </dd>
+
+  <dt>The business rules must be separated</dt>
+  <dd>
+    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    <br /><br />
+    Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
+    <br /><br />
+    It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
+    <br /><br />
+    Of course that does not mean that I'm already an expert on this separation thing, but a team who has this kind of goal is a very good team I believe. :smile:
+  </dd> 
+  
+  <br />
+  <dt>I need to become proactive</dt>
+  <dd>
+    You might have noticed that in the "Contributions" parts of my Work Experiences, I only put <em>"just did the tasks assigned to me"</em> in there. I was kind of passive during my past jobs. I think it's because I am introverted and I lack experience during that time, and so I was not very confident in making suggestions. (I was not necessarily 100% passive because I recently found in my notes in my second job some unspoken suggestions on how we might make work better.)
+    <br /><br />
+    I want to change that. I want to do great work! And to be able to do great work I need to become proactive, I think. I'm not yet very sure how to do that but I can find ways.
+    <br /><br />
+    I hope that being proactive is not restricted in your company. :smile:
+  </dd>
+
+</dl>
+
+
+
+  
+<!--   
+<dl>
+  <dt>The team members must have a common set of values</dt>
+  <dd>
+    Before committing into a job, one must first ask about the standards or values of the team he will be involved in. If the team's values and his values match... then okay!
+  </dd>
+
+  <dt>Writing unit tests after the production code is already written is hard</dt>
+  <dd>
+    <blockquote>
+      "Automated unit testing is a gateway drug to Test-Driven Development" - [Eddie Bush](http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/)
+    </blockquote>
+    <br />
+    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
+    <br />
+    Also, because of my previous experience of writing unit tests after the production code is already written
+  </dd>
+  <dt>Others</dt>
+  <dd>
+    ...
+  </dd>
+</dl>
+-->
+
+
+<small>[_^ back to Contents_](#contents)<small>
 
 
 
@@ -866,12 +874,16 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 ----------------------------------------------------------
 
-**If you have more time, here are other links which complement my r&eacute;sum&eacute;:**
+<h3 id="other-links">
+  <strong>If you have more time, here are other links which complement my r&eacute;sum&eacute;:</strong>
+</h3>
 
-[**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
+ - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
+
+<!-- 
 [**Open Application Letter**](/resume/open-application-letter/)
-
+ -->
 
 
 <!-- 
