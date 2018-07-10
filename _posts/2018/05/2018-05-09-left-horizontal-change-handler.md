@@ -10,7 +10,7 @@ date: 2018-05-09 05:15:00 PM UTC
 
 > "**I'm a very lazy programmer.** One of my forms of laziness is that I never remember things about the code I write. Indeed, I deliberately try not to remember anything I can look up, because I'm afraid my brain will get full. I make a point of trying to put everything I should remember into the code so I don't have to remember it."
 <br /><br />
-> --- Martin Fowler (from his Refactoring book, p. 56)
+> --- Martin Fowler (from his [Refactoring book](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga), p. 56)
 
 Another form of laziness that we, programmers, have is to not rewrite anything that is already written by other programmers.
 
