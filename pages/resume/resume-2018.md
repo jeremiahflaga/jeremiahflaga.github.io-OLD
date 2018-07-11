@@ -112,7 +112,9 @@ published: true
 
 [**My learning philosophy today on software development**](#learning-philosophy)
 
+<!-- 
 [**Talks**](#talks)
+ -->
 
 [**More Lessons Learned**](#more-lessons-learned) 
 
@@ -456,25 +458,19 @@ published: true
             <br />
             <li>
               This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
+              <br /><br />
+              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... 
               <!--
+              I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
+               -->
               <br /><br />
-              There were parts of the system 
-              This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard. :smile:
-              <!--
+              I think the time I spent writing those tests was a waste of time :grin:, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system <em>better</em>. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
               <br /><br />
-              There were parts of the system that were somewhat easy to test. But there were parts that were hard to test. Those parts that were hard to tests? — those that used <code>DateTime.Now</code>, and static methods, and extension methods of C# (which basically are still static methods), those parts that use (what I now know as) Service Locator — I skipped testing them :smiling_imp:. Of course I first tried to look for ways on how to test those things... I remember even trying to read "The Art of Unit Testing" to help myself with the task (I did not finish the book of course. I read only the first few chapters. :grin:)
+              Don't get me wrong here. I don't hate unit testing. During that time, I already have an appreciation on the benefits of having unit tests — it had been three years already since I first heard about unit testing and TDD during that time.
               <br /><br />
-              I think the time I spent writing those tests was a waste of time, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system better. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> exists.)
+              I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I have told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em> that I encountered. But I was very timid during that time and was afraid to express my opinions.
               <br /><br />
-              Don't get me wrong here. I don't hate unit testing. During that time I already have a great appreciation on the benefits of having unit tests — it's been three years already since I first heard about unit testing and TDD.
-              <br /><br />
-              But I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I have told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em>. But I was very timid during that time and was afraid to express my opinions.
-              -->
-              <br /><br />
-              But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests after the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
-              <!--
-              (I'm currently reading <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a>.)
-              -->
+              But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests <em>after</em> the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.
             </li>
           </ol>
         </p>
@@ -608,7 +604,7 @@ published: true
             </li>
             <br />
             <li>
-              Even though we are using RxJava in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
+              Even though we are using <a href="/2018/05/23/rxjava-is-not-intuitive/">RxJava</a> in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this threads thing in version 2 of the project. It was hard — the bug was hard to find. Luckily, that feature was removed during version 3. <em>Yehey!</em>
               <br /><br />
               But I still have to learn more about this <em>threads</em> thing.
             </li>
@@ -733,7 +729,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 
 
-
+<!-- 
 ----------------------------------------------------------
 
 <h2 id="talks">
@@ -747,7 +743,7 @@ If not, I have my own method of getting familiar with the project. I will spend 
 
 <small>[_^ back to Contents_](#contents)<small>
 
-
+ -->
 
 
 ----------------------------------------------------------
@@ -772,13 +768,17 @@ Here are other lessons I learned while working as a software developer.
   <br />
   <dt>Writing unit tests <em>after</em> the production code is already written is hard</dt>
   <dd>
+<!--   
     <blockquote>
       "Automated unit testing is a gateway drug to Test-Driven Development" - 
       <a href="http://craftsmanshipcounts.com/automated-unit-testing-x-ray-vision-for-code-quality/">Eddie Bush</a>
     </blockquote>
-    Through Uncle Bob's charismatic presentation of TDD in his talks, I understood the value of TDD.
+ -->
+    Through Uncle Bob's 
+    <a href="/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd">charismatic presentation of TDD</a> 
+    in his talks, I understood the value of TDD.
     <br /><br />
-    So even though I had a somewhat bad experience with writing tests, as I stated in my "Lesson(s) Learned" section in my 
+    So even though I had a <em>somewhat</em> bad experience with writing automated tests, as I stated in my "Lesson(s) Learned" section in my 
     <a href="#work-experience-2">second job</a>
     , I am not against writing automated tests. I am for it, most especially when they are written <em>first</em> and not last.
     <br /><br />
@@ -809,19 +809,27 @@ Here are other lessons I learned while working as a software developer.
     (Note: <a href="/memorabilia/books/the-craftsman-series/#4">It's okay for me to be told that my code is wrong.</a> If I think that it is <em>not</em> wrong, I will try to reason with you to convince you that it is not wrong. But please <a href="/2017/04/20/argue-to-learn-not-to-win">argue with me</a> if you think that it is really realy wrong, or give me a better way of doing it. :smile:)
   </dd>
 
-
   <br />
   <dt>The business rules must be separated</dt>
   <dd>
-    As you see in my Work Experience above, I was exposed to the ideas of DDD early in my career. This exposure to DDD (and to Clean Architecture later), among others, made me realize that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
+    As you see in my Work Experience above, I was exposed to the ideas of DDD and to Clean Architecture. These things, among others, made me realize that the business rules (or domain logic) is the most important part of a software system, even more important than the frameworks and libraries that we, programmers, love.
     <br /><br />
     Because of that, I learned that in a software system, there must be a <a href="http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/">very clear separation of the business rules from the other parts of the system</a>. This will make it easier for new developers on the team to understand the domain the system is being built for, and easier when fixing bugs.
     <br /><br />
     It doesn't matter how old or new the frameworks or libraries the team is currently using. If the business rules are not separated from the other parts of the system, time will come where it will be very hard for the developers to add new functionalities to the system and to fix bugs.
     <br /><br />
-    Of course that does not mean that I'm already an expert on this separation thing, but a team who has this kind of goal is a very good team I believe. :smile:
+    Of course that does not mean that I'm already an expert on this <em>separation</em> thing, but a team who has this kind of goal is a very good team, I believe. :smile:
   </dd> 
   
+  <br />
+  <dt>More next time...</dt>
+  <dd></dd>
+</dl>
+
+
+
+  
+<!--   
   <br />
   <dt>I need to become proactive</dt>
   <dd>
@@ -832,12 +840,6 @@ Here are other lessons I learned while working as a software developer.
     I hope that being proactive is not restricted in your company. :smile:
   </dd>
 
-</dl>
-
-
-
-  
-<!--   
 <dl>
   <dt>The team members must have a common set of values</dt>
   <dd>
@@ -865,9 +867,6 @@ Here are other lessons I learned while working as a software developer.
 <small>[_^ back to Contents_](#contents)<small>
 
 
-
-**_Thank you for your time!_**
-
 <!-- 
 ----------------------------------------------------------
 
@@ -882,6 +881,16 @@ Here are other lessons I learned while working as a software developer.
 
 
  - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
+
+
+
+----------------------------------------------------------
+
+
+**_Thank you for your time!_**
+
+
+
 
 <!-- 
 [**Open Application Letter**](/resume/open-application-letter/)
