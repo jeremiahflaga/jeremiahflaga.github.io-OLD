@@ -9,6 +9,11 @@ published: false
 
 <!-- July 5, 2018 06:00:00 PM Philippine Time -->
 
+Magic strings are bad.
+
+Do not use them in your RedirectToAction()
+
+
 Use
 
 ```
