@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: true
+published: false
 ---
 
 <style>
