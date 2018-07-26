@@ -37,7 +37,7 @@ _Some_ disagreed with this idea of the business rules as the _center_ of the app
 
 But there was one who seem to be very angry about that article.
 
-At first, I did not _fully_ understand why he seemed to be angry. I thought he only disagrees with this idea of the database being _not_ the center of the application. But I later discovered, through the exchanges that he (and perhaps there are others more) thinks that Uncle Bob is saying that the database is _not_ important:
+At first, I did not _fully_ understand why he seemed to be angry. I thought he only disagrees with this idea of the database being _not_ the center of the application. But I later discovered, through the exchanges in the comments, that he (and perhaps there are others more) thinks that Uncle Bob is saying that the database is **_not_** important:
 
 > **Seeming angry person:** Dude, kung hindi talaga importante ang database decision eh ganyan talaga ang mangyayare: Tangahan. 
 <br /><br />
@@ -49,7 +49,7 @@ we never said things like that
 
 > **Me:** dapat i-consider mo yung context nung article... "Context is King" sabi nga nila 
 <br /><br />
-(partial translation: you should consider the context of the article... "Context is King"...)
+(partial translation: you should take into account the context of the article... "Context is King"...)
 
 > **Neutral person (observer):** Did you even read what you shared?
 <br /><br />
@@ -61,15 +61,17 @@ HAHAHAHAHA
 <br />
 &gt; expanded brain: Self burn
 
-Someone with even a short experience in software development will not say something stupid like that, I thought haha... How much more someone who has worked in the software develpment industry for so many years, like Uncle Bob Martin.
+Someone with even a short experience in software development will not say something stupid like that, I thought haha. --- _"The database decision is not important."_ --- How much more someone who has worked in the software develpment industry for so many years, like Uncle Bob Martin.
 
 So I opened the article again and read...
 
-Wow! I have read this article many times in the past and I cannot even remember that the phrase _"the database isn't important"_ is even in the article! :laughing: And the phrase is located at the very beginning!
+Wow! I have read this article many times in the past and I cannot even remember that I noticed that the phrase _"the database isn't important"_ is even in the article! :laughing: And the phrase is located at the very beginning!
 
 > What do you mean? The Database **isn’t an important decision?** Do you know how much money we spend on them?
 
 > > Too much probably. And, no; the database is not one of the most important decisions.
+
+(Failed... :laughing:)
 
 I was consumed by the grandness of the idea presented in the article that I was not able to notice the _detail_, that _short phrase,_ that the _seeming angry person_ was able to notice.
 
@@ -79,15 +81,19 @@ I suspect that the _seeming angry person_ did not read the entire article before
 
 > ... The Database **isn’t an important decision?**
 
-(But that short phrase is ended with a question mark! ... More on this later)
-
 Firstly, to answer the question of the "Neutral person", yes...
 
 I had read the article before, and I visit it from time to time. The first time I read it, it took me about three days of rereading it and analyzing the example before I was able to make sense of what Uncle Bob is trying to say. (I was not not yet very familiar with things like this in software development so it took time for me to understand them.)
 
-But about that statement: "the database isn't important" ...
+And about that statement: "the database isn't important" ...
 
-Did you notice that that is not a statement but a question? It ended with a question mark!
+I think Uncle Bob is misinterpreted in here. I can see how he can be easily misinterpreted by how those sentences were constructed. I experienced the misinterpretation firsthand when I read the article again after seeing the "Neutral person"'s comment of _"Did you even read what you shared?"_ above. After discovering that part, I said to myself, "What? Uncle Bob said that? .... Wait, wait... Let's read it again..."
+
+(Perhaps Uncle Bob did that on purpose? Perhaps not? Perhaps it's just his style of writing.)
+
+So I beg to differ on how those sentences should be interpreted. And here is my explanation:
+
+Did you notice that that sentence is not a _statement_ but a _question_? It ended with a question mark!
 
 > What do you mean? **The Database isn’t an important decision?**
 
@@ -105,7 +111,6 @@ Then Uncle Bob replied,
 
 Uncle Bob said **_"ONE OF THE MOST"_**, not **_"AN"_**.
 
-
 And if one argues that the architect wannabe in the article is _still_ Uncle Bob speaking, remember that the architect wannabe also said this:
 
 > "[the database]... It’s where all the data is organized, sorted, indexed, and accessed. **Without it there would be no system!**"
@@ -116,11 +121,11 @@ So however you choose to interpret the statements in that article, it can still 
 
 What he is saying is that when it comes to the _"architecture"_ (not when it comes to the purpose of the universe) the database decision is irrelevant, or it is _supposed to be_ irrelevant, or _should be_ irrelevant, _ought to be_ irrelevant --- when it comes to the architecture of the system.
 
-(I think that we can be certain also that Uncle Bob is not saying that the architecture of a software system is the most important thing in the entire universe. :laughing:)
+(I think that we can be certain also that Uncle Bob will never say that the architecture of a software system is the most important thing in the entire universe. :laughing:)
 
 In his other writings and talks, Uncle Bob is saying that we are making the _architecture_ to be about databases and frameworks when it should not be about them.
 
-... So, in conclusion, even if someone says that he can point out a software application where the database decision is more important than the architecture... he is missing the point of the article, because the article is _not_ talking about the importance of the _"'architecture decision' over the 'database decision'"_ in relation to the overall state of things; it is talking about, among other things, the importance of the database decision in relation to the architecture of the system.
+... So, in conclusion, even if someone says that he can point out a software application where the database decision is more important than the architecture... he is missing the point of the article, because the article is _not_ talking about the "importance of the _'architecture decision' over the 'database decision'"_ in relation to the overall state of affairs; it is talking about, among other things, the importance of the database decision in relation to the architecture of the system.
 
 :bow:
 
