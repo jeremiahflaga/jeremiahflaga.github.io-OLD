@@ -1,0 +1,129 @@
+---
+layout: post
+title: 'Did Uncle Bob say the database is not important?'
+categories: [Programming]
+tags: [Robert Martin, Clean Architecture]
+date: 2018-07-26 09:30:00 PM UTC
+---
+
+<!-- July 27, 2018 05:30:00 AM Philippine Time -->
+
+First of all I would just like to say that I'm not an Uncle Bob fanatic :laughing:. I'm a fan but not a fanatic. I have even [written before on something I disagree with Uncle Bob,](/2017/10/28/this-is-a-lie/) but it was not about programming.
+
+And I'm also aware that Uncle Bob is against this fanaticism about the ideas and practices he is presenting:
+
+> ... In 1999, when Kent Beck and I decided to put our energies into the promotion of Extreme Programming, we feared that we could be starting a religion instead of a movement, and vowed to fight ritualism when it arose. This concern and vow was expressed again in the 2001 meeting that produced the Agile Manifesto...
+<br /><br />
+ --- from [The True Corruption of Agile](https://blog.cleancoder.com/uncle-bob/2014/03/28/The-Corruption-of-Agile.html)
+
+<!--more-->
+
+Okay... Here I go... defence mode :laughing:
+
+
+About two weeks ago, in a facebook group I am a member of, I posted a message with a link to Uncle Bob's article ["A Little Architecture"](https://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) .
+
+_Part_ of my message in that post are these words:
+
+> if you were brainwashed into thinking that the database is the center of our application, and you still think the same today... 
+<br /><br />
+...
+<br /><br />
+you have to repent :laughing: :laughing:
+
+The haha (:laughing: :laughing:) is part of the post to indicate my frivolous<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> phrasing and of the use of the words _brainwashed_ and _repent._ (I borrowed the word _repent_ from Christianity; it means _"to change ones mind"_)
+
+_Some_ disagreed with this idea of the business rules as the _center_ of the application.
+
+But there was one who seem to be very angry about that article.
+
+At first, I did not _fully_ understand why he seemed to be angry. I thought he only disagrees with this idea of the database being _not_ the center of the application. But I later discovered, through the exchanges that he (and perhaps there are others more) thinks that Uncle Bob is saying that the database is _not_ important:
+
+> **Seeming angry person:** Dude, kung hindi talaga importante ang database decision eh ganyan talaga ang mangyayare: Tangahan. 
+<br /><br />
+(partial translation: Dude, if the database decision is not really important, then...)
+
+> **Me:** what! who said the database decision is not important... 
+<br /><br />
+we never said things like that
+
+> **Me:** dapat i-consider mo yung context nung article... "Context is King" sabi nga nila 
+<br /><br />
+(partial translation: you should consider the context of the article... "Context is King"...)
+
+> **Neutral person (observer):** Did you even read what you shared?
+<br /><br />
+HAHAHAHAHA
+<br /><br />
+&gt; expanded brain meme
+<br />
+&gt; brainlet: Burn the enemy
+<br />
+&gt; expanded brain: Self burn
+
+Someone with even a short experience in software development will not say something stupid like that, I thought haha... How much more someone who has worked in the software develpment industry for so many years, like Uncle Bob Martin.
+
+So I opened the article again and read...
+
+Wow! I have read this article many times in the past and I cannot even remember that the phrase _"the database isn't important"_ is even in the article! :laughing: And the phrase is located at the very beginning!
+
+> What do you mean? The Database **isn’t an important decision?** Do you know how much money we spend on them?
+
+> > Too much probably. And, no; the database is not one of the most important decisions.
+
+I was consumed by the grandness of the idea presented in the article that I was not able to notice the _detail_, that _short phrase,_ that the _seeming angry person_ was able to notice.
+
+<!-- 
+I suspect that the _seeming angry person_ did not read the entire article before pouring out his rants about that short phrase (that short phrase is even ended with a question mark)! 
+-->
+
+> ... The Database **isn’t an important decision?**
+
+(But that short phrase is ended with a question mark! ... More on this later)
+
+Firstly, to answer the question of the "Neutral person", yes...
+
+I had read the article before, and I visit it from time to time. The first time I read it, it took me about three days of rereading it and analyzing the example before I was able to make sense of what Uncle Bob is trying to say. (I was not not yet very familiar with things like this in software development so it took time for me to understand them.)
+
+But about that statement: "the database isn't important" ...
+
+Did you notice that that is not a statement but a question? It ended with a question mark!
+
+> What do you mean? **The Database isn’t an important decision?**
+
+And it is the _architect wannabe_, and not Uncle Bob, who said that.
+
+The architect wannabe is asking a question:
+
+> "What do you mean? The Database **ISN'T AN** important decision?"
+
+It is as if he is trying to put words in Uncle Bob's mouth.
+
+Then Uncle Bob replied,
+
+> "... no; the database **IS NOT ONE OF THE MOST** important decisions."
+
+Uncle Bob said **_"ONE OF THE MOST"_**, not **_"AN"_**.
+
+
+And if one argues that the architect wannabe in the article is _still_ Uncle Bob speaking, remember that the architect wannabe also said this:
+
+> "[the database]... It’s where all the data is organized, sorted, indexed, and accessed. **Without it there would be no system!**"
+
+Whoever will say something like that understands that the database is important.
+
+So however you choose to interpret the statements in that article, it can still be concluded that Uncle Bob is NOT saying that the database isn't important.
+
+What he is saying is that when it comes to the _"architecture"_ (not when it comes to the purpose of the universe) the database decision is irrelevant, or it is _supposed to be_ irrelevant, or _should be_ irrelevant, _ought to be_ irrelevant --- when it comes to the architecture of the system.
+
+(I think that we can be certain also that Uncle Bob is not saying that the architecture of a software system is the most important thing in the entire universe. :laughing:)
+
+In his other writings and talks, Uncle Bob is saying that we are making the _architecture_ to be about databases and frameworks when it should not be about them.
+
+... So, in conclusion, even if someone says that he can point out a software application where the database decision is more important than the architecture... he is missing the point of the article, because the article is _not_ talking about the importance of the _"'architecture decision' over the 'database decision'"_ in relation to the overall state of things; it is talking about, among other things, the importance of the database decision in relation to the architecture of the system.
+
+:bow:
+
+---------------
+
+<sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>I'm not sure if I'm using the word "frivolous" correctly in here. You are free to correct me if I'm not.</small>
