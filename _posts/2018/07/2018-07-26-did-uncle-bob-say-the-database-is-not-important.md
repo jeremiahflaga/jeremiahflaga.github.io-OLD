@@ -65,9 +65,9 @@ Someone with even a short experience in software development will not say someth
 
 So I opened the article again and read...
 
-Wow! I have read this article many times in the past and I cannot even remember that I noticed that the phrase _"the database isn't important"_ is even in the article! :laughing: And the phrase is located at the very beginning!
+Wow! I have read this article many times in the past and I cannot even remember that I noticed that the phrase _"the database isn't an important decision"_ is even in the article! :laughing: And the phrase is located at the very beginning!
 
-> What do you mean? The Database **isn’t an important decision?** Do you know how much money we spend on them?
+> What do you mean? The Database **isn't an important decision?** Do you know how much money we spend on them?
 
 > > Too much probably. And, no; the database is not one of the most important decisions.
 
@@ -79,13 +79,13 @@ I was consumed by the grandness of the idea presented in the article that I was 
 I suspect that the _seeming angry person_ did not read the entire article before pouring out his rants about that short phrase (that short phrase is even ended with a question mark)! 
 -->
 
-> ... The Database **isn’t an important decision?**
+> ... The Database **isn't an important decision?**
 
 Firstly, to answer the question of the "Neutral person", yes...
 
 I had read the article before, and I visit it from time to time. The first time I read it, it took me about three days of rereading it and analyzing the example before I was able to make sense of what Uncle Bob is trying to say. (I was not not yet very familiar with things like this in software development so it took time for me to understand them.)
 
-And about that statement: "the database isn't important" ...
+And about that statement: "the database isn't an important decision" ...
 
 I think Uncle Bob is misinterpreted in here. I can see how he can be easily misinterpreted by how those sentences were constructed. I experienced the misinterpretation firsthand when I read the article again after seeing the "Neutral person"'s comment of _"Did you even read what you shared?"_ above. After discovering that part, I said to myself, "What? Uncle Bob said that? .... Wait, wait... Let's read it again..."
 
@@ -95,7 +95,7 @@ So I beg to differ on how those sentences should be interpreted. And here is my 
 
 Did you notice that that sentence is not a _statement_ but a _question_? It ended with a question mark!
 
-> What do you mean? **The Database isn’t an important decision?**
+> What do you mean? **The Database isn't an important decision?**
 
 And it is the _architect wannabe_, and not Uncle Bob, who said that.
 
@@ -117,7 +117,7 @@ And if one argues that the architect wannabe in the article is _still_ Uncle Bob
 
 Whoever will say something like that understands that the database is important.
 
-So however you choose to interpret the statements in that article, it can still be concluded that Uncle Bob is NOT saying that the database isn't important.
+So however you choose to interpret the statements in that article, it can still be concluded that Uncle Bob is **_NOT_** saying that the database isn't an important decision.
 
 What he is saying is that when it comes to the _"architecture"_ (not when it comes to the purpose of the universe) the database decision is irrelevant, or it is _supposed to be_ irrelevant, or _should be_ irrelevant, _ought to be_ irrelevant --- when it comes to the architecture of the system.
 
