@@ -47,9 +47,14 @@ Steve Freeman and Nat Pryce, the authors of the [GOOS book](https://www.bookdepo
 > All code should emphasize **"what"** it does over **"how"**, including test code.
 
 
-[Jonathan Boccara]((https://simpleprogrammer.com/2017/01/27/respecting-abstraction/)) declared it  as _**"the principle that rules them all"**: respecting levels of abstraction_. 
+[Jonathan Boccara]https://simpleprogrammer.com/2017/01/27/respecting-abstraction/) declared it  as _**"the principle that rules them all"**: respecting levels of abstraction_. 
 
+
+> ...respecting levels of abstraction... , [focusing on] **what** a particular piece of code intends to do as opposed to **how** it is implemented... is the one principle to rule them all because it automatically applies all the best practices [mentioned above and more besides]. When you follow it, you’ll find yourself naturally writing code with a high-quality design.
+
+<!-- 
 > ... abstraction is characterized by **what** a particular piece of code intends to do as opposed to **how** it is implemented
+ -->
 
 ### "what" over "how"
 
