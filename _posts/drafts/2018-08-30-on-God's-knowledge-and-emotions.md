@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On God's knowledge and emotions'
+title: 'On God''s knowledge and emotions'
 categories: [Programming, Thoughts]
 tags: []
 date: 2018-08-02 03:19:00 AM UTC
