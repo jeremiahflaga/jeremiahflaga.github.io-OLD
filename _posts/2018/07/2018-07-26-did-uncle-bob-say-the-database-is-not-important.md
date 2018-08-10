@@ -61,7 +61,7 @@ HAHAHAHAHA
 <br />
 &gt; expanded brain: Self burn
 
-Someone with even a short experience in software development will not say something stupid like that, I thought haha. --- _"The database decision is not important."_ --- How much more someone who has worked in the software develpment industry for so many years, like Uncle Bob Martin.
+Someone with even a short experience in software development will not say something stupid like that, I thought haha. --- _"The database decision is not important."_ --- How much more someone who has worked in the software develpment industry for so many years, like Uncle Bob Martin!
 
 So I opened the article again and read...
 
@@ -71,7 +71,7 @@ Wow! I have read this article many times in the past and I cannot even remember 
 
 > > Too much probably. And, no; the database is not one of the most important decisions.
 
-(Failed... :laughing:)
+_(Self burn... :laughing: ... Failed...)_
 
 I was consumed by the grandness of the idea presented in the article that I was not able to notice the _detail_, that _short phrase,_ that the _seeming angry person_ was able to notice.
 
@@ -81,7 +81,7 @@ I suspect that the _seeming angry person_ did not read the entire article before
 
 > ... The Database **isn't an important decision?**
 
-Firstly, to answer the question of the "Neutral person", yes...
+Firstly, to answer the question of the "Neutral person"  (whom I later learned is someone actually rooting for me :smile: )... Yes!...
 
 I had read the article before, and I visit it from time to time. The first time I read it, it took me about three days of rereading it and analyzing the example before I was able to make sense of what Uncle Bob is trying to say. (I was not not yet very familiar with things like this in software development so it took time for me to understand them.)
 

@@ -26,7 +26,9 @@ That does not mean, of course, that I agree with every decision that he has made
 
 _"I'm a supporter"_ only means that I believe that he is truthful and sincere with his motives towards serving the Filipino people; not like _some_ of the other politicians out there whose goal is just to make money or to make themselves famous out of politics. Being famous is not necessarily wrong, of course. A politician will become famous whether he likes it or not. But if becoming famous is the primary reason why one wants to run for office in the government... there are other ways to become famous... we should give government offices to those who really want to serve the people.
 
+<!-- 
 <small>(Also, please note that I said _some_. If you were not able to see the _some_ word in there, perhaps you are or will be one of those _some_. Tread carefully, because all of us are succeptible into doing these things we thought we don't like; things we thought we hate.)</small>
+ -->
 
 Okay back to President Duterte... 
 <!-- _(I always do that... I always stray from my main topic...)_ -->
@@ -57,13 +59,13 @@ Of course the President is free to believe in whatever god he wants to believe i
 
 A loving and good God must hate evil, just like a loving president would hate evil. The President himself says that he hates drugs (by that he means those drugs which destroys the mind), because these things destroy his people, and he is doing something to stop those who perpetuate these evil deeds. The same is true with a loving God, I believe.
 
-I do not understand why God does not bring justice to all people in this life, or why he permits evil to even triumph sometimes, but I believe, through the [testimony of Scriptures](https://www.gotquestions.org/trust-the-Bible.html), that he will bring justice to everyone in the life to come.
+I do not understand why God does not bring justice to all people in this life, or why he _permits_ evil to even triumph sometimes, but I believe, through the [testimony of Scriptures](https://www.gotquestions.org/trust-the-Bible.html), that he will bring justice to everyone in the life to come.
 
 Now, the President also said that he does not believe in heaven, so we cannot accuse him by saying, "Does he want Hitler to go to heaven also?". We cannot say that.
 
 Now, one is free to believe or not to believe in heaven or in hell. But to say that a loving God is incompatible with a God full of wrath... that is incorrect already, and we have to correct it. :smile:
 
-And if a loving God can also be a God full of wrath, then those unrepentant people, [even unrepentant priests](https://www.youtube.com/watch?v=HQlDs6-woVM), even unrepentant church leaders, even unrepentant me <small>(I hope God will give me grace and mercy until death.)</small>, God will send them to hell. A God who loves his people will send those who want to destroy his people to hell. 
+And if a loving God can also be a God full of wrath, then those unrepentant people, [even unrepentant priests](https://www.youtube.com/watch?v=HQlDs6-woVM), even unrepentant church leaders, even unrepentant _me_ <small>(I hope God will give me grace and mercy until death.)</small>, God will send them to hell. A God who loves his people will send those who want to destroy his people to hell. 
 
 Okay case closed...
 
@@ -73,9 +75,9 @@ And what about President Duterte?...
 <br /><br />
  --- from [How to Win Friends and Influence People](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga)
 
-... Of course that does not mean that we cannot point out mistakes of people in this life... we should.. or else we will all be doomed...
+... Of course that does not mean that we cannot point out _serious_ mistakes of people in this life... we should.. or else we will all be doomed...
 
-I would just like to make it clear that I am _not_ saying that because the president does not believe in hell he will surely go to hell . :laughing: I'm not saying anything like that. I am just trying to make it clear that the assertion that a loving God _should_ not send people to hell is wrong.
+I would just like to make it clear that I am _not_ saying that because the president does not believe in hell he will _surely_ go to hell . :laughing: I'm not saying anything like that. I am just trying to make it clear that the assertion that a loving God _should_ not be sending people to hell is wrong.
 
 But I still have hope that President Duterte will [someday change his mind](
 http://philippinereporter.com/2018/07/13/will-duterte-go-to-hell-or-heaven/
