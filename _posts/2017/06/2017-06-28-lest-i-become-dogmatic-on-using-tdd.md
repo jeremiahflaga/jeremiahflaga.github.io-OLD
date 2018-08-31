@@ -98,7 +98,7 @@ But to tap myself in the back, I think I am not _that_ prone to being very dogma
 
 ## And... in my other areas of life...
 
-I am also influenced by Greg Howlett with this [_rule/philosophy_ in music](https://greghowlett.com/blog/music-philosophy/absolutes.aspx): _**"if it sounds good, it is good", (even if it doesn't follow the rules musicians know or teach)**_.
+I am also influenced by Greg Howlett with this [_rule/philosophy_ in music](https://greghowlett.com/blog/music-philosophy/absolutes.aspx?affid=5114): _**"if it sounds good, it is good", (even if it doesn't follow the rules musicians know or teach)**_.
 
 Also, I am influenced with the idea of [_Christian liberty_](https://www.gotquestions.org/Christian-liberty.html), which says something like _**"there are things that are not clear in the Bible --- we should not be dogmatic about them".**_ <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
 Christians might be [dogmatic on many things](https://noneutrality.org/2015/11/17/the-myth-of-neutrality/), most especially on the _existence of the Biblical God_ :laughing:, but Christians also know that there are many things that we might know _for sure_ in this life. <sup id="footnote-indicator-2">[[2]](#footnote-2)</sup>

@@ -55,7 +55,7 @@ I hope they will help you too!
 
 (Note: I'm not really a very good musician... but I intend to become one :smile:)
 
-### Greg Howlett (from [The unsatisfying job of satisfying critics](https://greghowlett.com/blog/music-philosophy/the-unsatisfying-job-of-satisfying-critics.aspx))
+### Greg Howlett (from [The unsatisfying job of satisfying critics](https://greghowlett.com/blog/music-philosophy/the-unsatisfying-job-of-satisfying-critics.aspx?affid=5114))
 
 > ...There is a lesson there for you musicians because the same thing happens in music. In many cases, **you are going to just decide who you want to please**: the music critics with the pedigrees or the average people who don’t know a bass clef from a treble clef but just love music.
 <br /><br />

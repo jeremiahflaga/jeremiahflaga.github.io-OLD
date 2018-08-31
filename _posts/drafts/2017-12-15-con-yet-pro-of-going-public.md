@@ -16,9 +16,9 @@ TLDR: people will get angry at you for trying to change their minds; but they wi
 
 > "Greg, let’s be honest. This post is not about parallel fifths is it? This is about a philosophy. You love to do this. You talk about an technical or theory musical element but really you are trying influence how people think about music. That is not a bad thing unless you are trying to get them to think in a bad way but I have to say that I think much of what you promote is bad."
 
-https://greghowlett.com/blog/free-lessons/032112.aspx
+https://greghowlett.com/blog/free-lessons/032112.aspx?affid=5114
 
-I got that one from the comments section in [one of Greg Howlett's blog posts](https://greghowlett.com/blog/free-lessons/032112.aspx) which I read a few years ago when I was still very interested with music. (I still am interested, but I have not practiced for years already so my _insignificant-compared-to-others_ skills in music are rusty already :laughing:)
+I got that one from the comments section in [one of Greg Howlett's blog posts](https://greghowlett.com/blog/free-lessons/032112.aspx?affid=5114) which I read a few years ago when I was still very interested with music. (I still am interested, but I have not practiced for years already so my _insignificant-compared-to-others_ skills in music are rusty already :laughing:)
 
 
 

@@ -20,7 +20,7 @@ Before our lesson started (after the Bible reading and prayer of course), I made
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcgnweBfit0" frameborder="0" allowfullscreen></iframe>
 
-<small>[In case you are interested, Here is his [blog post about his work on "His Eye is On the Sparrow"](https://greghowlett.com/blog/thoughts/010911.aspx)]
+<small>[In case you are interested, Here is his [blog post about his work on "His Eye is On the Sparrow"](https://greghowlett.com/blog/thoughts/010911.aspx?affid=5114)]
 
 After watching that, I asked them if they want to become as good as Greg Howlett.
 
