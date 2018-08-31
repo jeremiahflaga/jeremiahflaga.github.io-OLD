@@ -42,11 +42,6 @@ Learned C++
 Programming contest --- one problem solved
 
 
-### 2008 or 2009
-
-- found Greg Howlett's blog ; became a frequent visitor
-
-
 
 ### Late 2009 or Early 2010
 
@@ -69,6 +64,13 @@ Programming contest --- one problem solved
 
 
 ### December 2010
+
+
+
+### 2010 or 2011??
+
+- found Greg Howlett's blog ; became a frequent visitor
+
 
 
 ### May 8, 2011 

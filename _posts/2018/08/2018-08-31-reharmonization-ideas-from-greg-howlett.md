@@ -11,7 +11,7 @@ date: 2018-07-31 01:00:00 AM UTC
 <!-- Aug 31, 2018 08:30:00 AM Philippine Time -->
 
 
-[Greg Howlett](http://www.greghowlett.com/default.aspx?affid=5114) is a Christian concert pianist and recording artist. I found him while searching for free sheet music online in 2008 or 2009.
+[Greg Howlett](http://www.greghowlett.com/default.aspx?affid=5114) is a Christian concert pianist and recording artist. I found him while searching for free sheet music online in 2010 or 2011 (I think).
 
 I consider Greg's lessons and blog posts on music as gems for self-taught hymn playing pianists like me. I have always wondered how musicians create good sounding music, and here he is teaching, using simple and easy to understand words, how to make beautiful music.
 
