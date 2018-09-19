@@ -67,7 +67,7 @@ Programming contest --- one problem solved
 
 
 
-### 2010 or 2011??
+### 2010 or 2011?? (feb 3 ,2011 in notes on video lessons #7 & 8)
 
 - found Greg Howlett's blog ; became a frequent visitor
 

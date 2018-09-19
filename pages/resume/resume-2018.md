@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: false
+published: true
 ---
 
 <style>
@@ -106,7 +106,7 @@ published: false
 
 - [October 2016 - May 2018 <small>(1 year, 7 months)</small> &rarr; Android](#work-experience-3)
 
-- [June 2018 - Present &rarr; .NET, AngularJS](#work-experience-4)
+- [June 2018 - Present &rarr; .NET (ASP.NET MVC, ASP.NET WebAPI)](#work-experience-4)
 
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
@@ -633,8 +633,11 @@ published: false
       </td>
       <td>
         <p>
-          Software Developer (.NET)
-        </p>  
+          Software Developer for web using .NET and C# at <strong><a  href="http://www.four13group.com/">Four13 Group</a></strong>
+        </p>
+        <p>
+          .NET Technologies being used: ASP.NET MVC, ASP.NET WebAPI, Entity Framework, etc.
+        </p>
       </td>
     </tr>
   </tbody>
@@ -873,6 +876,8 @@ Here are other lessons I learned while working as a software developer.
 **Here is my [_Anti-r&eacute;sum&eacute;_](/resume/anti-resume/), if you are interested.**
  -->
 
+
+<!-- 
 ----------------------------------------------------------
 
 <h3 id="other-links">
@@ -882,6 +887,7 @@ Here are other lessons I learned while working as a software developer.
 
  - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
+ -->
 
 
 ----------------------------------------------------------
