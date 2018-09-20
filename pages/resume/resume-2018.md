@@ -877,7 +877,6 @@ Here are other lessons I learned while working as a software developer.
  -->
 
 
-<!-- 
 ----------------------------------------------------------
 
 <h3 id="other-links">
@@ -887,7 +886,6 @@ Here are other lessons I learned while working as a software developer.
 
  - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
 
- -->
 
 
 ----------------------------------------------------------

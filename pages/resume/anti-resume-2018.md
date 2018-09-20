@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: Anti-r&eacute;sum&eacute;
 permalink: /resume/anti-resume/
-published: false
+published: true
 ---
 <!-- 
 <style>
@@ -82,7 +82,7 @@ But like I said above, I'm still willing to read and study more about a specific
 
 ## **I intend to separate the business rules from the other parts of a software system**
 
-Being influenced by people who promote DDD _(Note: I only know a little about DDD)_, I am the kind of person who _would like to_ focus on learning about the _domain_ of the business... and to focus on trying to model that domain instead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in.
+Being influenced by people who promote DDD _(Note: I only know a little about DDD)_, and Clean Architecture, I am the kind of person who _would like to_ focus more on learning about the _domain_ of the business... and to focus on trying to model that domain instead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in.
 
 If I am hired, I plan to spend at least half of my time (during the first few weeks) learning about the business and half of the time learning about the specific frameworks/libraries/technologies your team is using.
 
