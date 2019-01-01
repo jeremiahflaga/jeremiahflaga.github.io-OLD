@@ -70,6 +70,20 @@ You don't tell men they are saved. You tell men how to be saved. God tells them 
 
 We need to realize that there is only one seeker and his name is God. And if you want to be friendly to somebody in your church you need to be friendly to God.
 
+[26:40]
+
+
+The person who loves you the most will tell you the most truth.
+
+One of the greatest distinguishing marks of a false prophet is that he will always tell you what you want to hear. He will never rain on your parade. He will get you clapping, he will get you jumping, he will get you dizzy, he will keep you entertained, and he will present a Christianity to you that will make your church look like a six flags over Jesus, and keep you so entertained you are never addressed with great issues such as these: is God working in my life, am I growing in holiness, have I truly been born again.
+
+[27:30]
+
+How do you know you believe?
+
+Do you know how the bible teaches you that you know you are saved?
+
+You know you have been saved because your life is in a process of being changed, and your style of life is one of walking in the paths of God's truth, and when you step off those paths in disobedience, as we all do, God comes for you and puts you back on the path.
 
 [28:00]
 

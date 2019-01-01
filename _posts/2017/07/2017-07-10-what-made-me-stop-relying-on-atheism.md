@@ -2,7 +2,7 @@
 layout: post
 title: What made me to stop relying on atheism to save me from the God of Christianity
 categories: [Thoughts]
-tags: [Atheism, Christianity, Greg Bahnsen, Gordon Stein, Agnosticism]
+tags: [Atheism, Christianity, Greg Bahnsen, Gordon Stein, Agnosticism, Problem of Evil]
 date: 2017-07-10 03:00:00 PM UTC
 published: true
 ---
