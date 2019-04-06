@@ -74,7 +74,7 @@ _I got that from my notes on "The Magic of Thinking Big" which I read last 2006 
 8. [**God exists.**](http://www.datpostmil.com/the-great-debate-greg-bahnsen-vs-gordon-stein/) I should be trusting him. 
 
 
-9. **I plan to buy physical books only of those called _"language agnostic"_ books**
+9. **I plan to buy physical books only of those called _"language agnostic"_ books** like ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflaga) and ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga); so I will not be spending lots of money for these books
 
 10. **I was convicted to stop illegally downloading copyrighted materials online** while  watching ["The Atheist Delusion"](http://www.atheistmovie.com/) of Ray Comfort last year (2016). <small>* ** ***</small>
 <br />

@@ -705,14 +705,17 @@ Today, my learning philosophy is like this:
 
 > Ahead-of-time learning about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
-For example, these days, July 2018, I am learning/reviewing AngularJS because it is the frontend technology that is being used in my job _(just-in-time learning of specific frameworks)_. Then on the side, I am consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler and the reading materials of ["6.005 — Software Construction on MIT OpenCourseWare"](https://ocw.mit.edu/ans7870/6/6.005/s16/) _(ahead-of-time learning of general concepts)_
+<!--
+For example, these days, July 2018, I am learning/reviewing AngularJS because it is the frontend technology that is being used in my job _(just-in-time learning of specific frameworks)_. Then on the side, I am consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler and the reading materials of ["6.005 — Software Construction on MIT OpenCourseWare"](https://web.mit.edu/6.031/www/fa18/) _(ahead-of-time learning of general concepts)_
+-->
 
 I hope that kind of learning philosophy is okay with you. :smile:
 
+<!--
 **When I am already hired in your company**, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project (if I am not yet familiar with them), and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
 
 When I reach the point where am already comfortable with my knowledge on the specific frameworks and libraries being used in the project, I will move my concentration again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
-
+-->
 
 <!-- 
 If I am hired at your company, my plan would be something like this.
