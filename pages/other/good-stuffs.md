@@ -208,7 +208,7 @@ matter how pretty or object-oriented or wellencapsulated it is.
 
 ## Life
 
-[The Gospel of Jesus Christ](https://www.gotquestions.org/what-is-the-gospel.html)
+[The Gospel of Jesus Christ](https://stephencleary.com/god/)
 
 <!--
 The Bible _of course!_
