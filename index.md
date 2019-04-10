@@ -14,7 +14,7 @@ Most of the things I write will not be interesting to you... so, instead of poin
 
 -----
 
-["Scrum cannot work without XP" --- J. B. Rainsberger](/2018/06/15/scrum-cannot-work-without-xp/) <small>(June 15, 2018)
+["If you want to estimate little things, you have to refactor" - J. B. Rainsberger](/2018/06/16/if-you-want-to-estimate-little-things-you-have-to-refactor/) <small>(June 16, 2018)
 
 [A better way than OO!... and TDD?](/2018/01/08/a-better-way-than-object-orientation-and-TDD) <small>(Jan 9, 2018)</small>
 
@@ -29,9 +29,9 @@ Most of the things I write will not be interesting to you... so, instead of poin
 [Argue to learn, not to win.](/2017/04/20/argue-to-learn-not-to-win/) <small>(Apr 20, 2017)</small>
 
 
-
+<!-- 
 [more...](/blog/archive/)
-
+ -->
 
 -----
 

@@ -4,6 +4,7 @@ title: '"Scrum cannot work without XP"'
 categories: [Programming]
 tags: [J. B. Rainsberger, Scrum, XP, Robert Martin]
 date: 2018-06-15 12:10:00 AM UTC
+published: false
 ---
 
 <!-- June 15, 2018 08:00:00 AM Philippine Time -->
