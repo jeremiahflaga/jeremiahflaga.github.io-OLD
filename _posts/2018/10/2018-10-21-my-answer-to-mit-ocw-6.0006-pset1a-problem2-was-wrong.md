@@ -112,9 +112,9 @@ Let's see the test results...
 ![MITx-6.00.2x-pset1-part1-test-results-for-first-submission](/images/2018/MITx-6.00.2x-pset1-part1-test-results-for-first-submission.png)
 
 _Ahh... okay... this problem is much harder than I thought._
-
+<!-- 
 I thought they just want me write an O(n) implementation for this part. _(I do not really know Big-O, but I know that my code is O(n) because it just goes through the input list once.)_
-
+ -->
 _... I feel tired... I mean, lazy :grin: ... let's just submit your code from last year and be done with this..._
 
 [submitting `greedy_cow_transport()` found [here](https://github.com/jeremiahflaga/mit-ocw-6.0002/blob/f17155864481d4adc6eeba5c4acc1a7b65f960a6/ps1/ps1a.py)]
@@ -123,15 +123,15 @@ _... I feel tired... I mean, lazy :grin: ... let's just submit your code from la
 
 > :x: &nbsp; Incorrect (0/20 points)
 
-_What! Incorrect also?!... So my solution, **which I posted to GitHub,** was incorrect!_
+_What! Incorrect also?!... So my solution, **which I posted on GitHub,** was incorrect!_
 
 Shame. :laughing: :laughing: :laughing:
 
 ![MITx-6.00.2x-pset1-part1-test-results-for-old-code](/images/2018/MITx-6.00.2x-pset1-part1-test-results-for-old-code.png)
 
-Well, part of the reason why I posted online my solutions to the problems sets of these free courses is so that they will be available for others to see and correct if there are mistakes in them. My only problem is that I'm the only one who cares about that code, and so it has to wait for a very long time before someone is able to see the error.
+Well, part of the reason why I posted online my solutions to the problems sets of these free courses is so that they will be available for others to see and correct (if there are mistakes in them). My only problem is that I'm the only one who cares about that code, and so it has to wait for a very long time before someone is able to see the error.
 
-This reminds me of the misplaced confidence that programmers like me usually have in themselves. :laughing:
+This reminds me of the what they call "misplaced confidence" that programmers like me usually have in themselves. :laughing:
 
 But sometimes it's not really misplaced confidence but laziness. :laughing:
 

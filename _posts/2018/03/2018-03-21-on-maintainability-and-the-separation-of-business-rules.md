@@ -42,17 +42,16 @@ Great!
 
 So I followed this 2-Layers model in my projects during that time.
 
-A few years later, I came to understand that the validation of user inputs is part of the Business Logic Layer.
-
-So I used that knowledge in one project. I created a separate module for the BLL and then placed my input validations in there.
+A few years later, I learned more about the Business Logic Layer and I came to understand that the validation of user inputs is part of the Business Logic Layer. So I used that knowledge in one project. I created a separate module for the BLL and then placed my input validations in there.
 
 That was my first experience on separating the business rules from the other parts of a software system.
 
 [_Then the web happened!..._](https://youtu.be/0oGpWmS0aYQ?t=954) I mean, I realized that I need to know how to create web applications.
 
-I started thinking in [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) again.
+I started thinking in [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) again because my attention was diverted into learning web frameworks (and later on, learning all these JavaScript libraries which pop from everywhere every millisecond of the day.
 
 Luckily I found a job. And after a few months in that job, [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) was introduced to us, the junior developers. Our employer gave us some articles to read about DDD becase we will be involved in an in-house project where concepts from DDD will be used.
+
 <!-- 
 That was my introduction to DDD.
 
@@ -65,13 +64,11 @@ Also, the idea of bounded contexts... it makes things easier to manage. (I heard
 And, most important of all (at least during my early years as a programmer), I had another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
  -->
 
-This gave me another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
+This experience gave me another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
 
-Then... came... Uncle Bob Martin... with his [charismatic presentations of **_Clean Architecture!_**](2017-04-15-agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote)
+Then... came... Uncle Bob Martin... with his [charismatic presentations of **_Clean Architecture!_**](2017-04-15-agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote) He suggests _(preaches even)_ that we keep our _business rules_ separate from the UI, from the database, from the web! And he gave a [sample diagram on how to do it.](/images/2017/CleanArchitectureDesignByUncleBobMartin.png) (You can know more about this diagram in the links I will give below.)
 
-He suggests _(preaches even)_ that we keep our _business rules_ separate from the UI, from the database, from the web! And he gave a [sample diagram on how to do it.](/images/2017/CleanArchitectureDesignByUncleBobMartin.png) You can know more about this diagram in the links I will give below.
-
-This is what I call **_my enlightnment_** on how to structure software projects so that they will be maintainable --- in my understanding, you just **make sure that the _business rules_ do not rely on things it should not rely on**, such as the I/O devices... that's it.
+This is what I consider my **_enlightnment_** on how to structure software projects so that they will be maintainable --- in my understanding, you just **make sure that the _business rules_ do not rely on things it should not rely on**, such as the I/O devices... that's it.
 
 Whew!
 

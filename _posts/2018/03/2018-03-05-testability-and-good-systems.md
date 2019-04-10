@@ -73,5 +73,5 @@ _(The tester is a "he"? I mean "a person"? Does the tester needs to be a person?
 
 
 <sup id="footnote-2">[2]</sup>
-<small>Of course, I understand that there must be a limit to the depth of the tests. --- In our universe, a system with an infinitely deep tests would not be a system that is of any use to its creator/s, I think. :smile: ([back ^](#footnote-indicator-2))</small>
+<small>Of course, I understand that there must be a limit to the depth of the tests. --- In our universe, a system which has to go through an infinitely deep levels of tests would not be a system that will be of any use to its creator/s, I think. :smile:  ([back ^](#footnote-indicator-2))</small>
 

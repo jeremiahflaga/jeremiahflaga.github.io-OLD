@@ -28,7 +28,7 @@ And if Christianity is impossible, what better thing to do than to leave it!
 
 I wanted to. I tried.
 
-But it seems like Christianity always has an answer to _those_ questions... and my alternative worldview do not.
+But it seems like Christianity always has an answer to _those_ important life questions... and my alternative worldview does not.
 
 I have become like the man who said, "Where else can we go? You are the source of life."
 

@@ -12,7 +12,7 @@ date: 2018-04-23 02:30:00 PM UTC
 
 There are lot's of reasons why one writes blog posts. One of them is this: _so that he will have something to laught at when he gets older._
 
-This post might be one of those posts I will laugh at when I get older... It sound like I'm bragging about my old but insignificant work! :laughing: Who cares, right? It might be insignificant to others, but it was significant to me.
+This post might be one of those posts I will laugh at when I get older... It sounds like I'm bragging about my old but insignificant work! :laughing: Who cares, right? It might be insignificant to others, but it was significant to me.
 
 So here we go...
 
@@ -111,7 +111,7 @@ _Hmmmm... Something must be wrong..._
 
 _Ahh!!!_
 
-I found another project... written in C#... created in 2010! It has a _DAL_, but no _BLL_: ["StudInfoSys(TypedDataSets)"](https://drive.google.com/open?id=0B99bQWWl3cfxM2NkOTcyYTctZWJlZi00ODMyLTg3NWQtMmQxMTAxZjMyMmM0)
+I found another project... written in C#... created in **2010**! It has a _DAL_, but no _BLL_: ["StudInfoSys(TypedDataSets)"](https://drive.google.com/open?id=0B99bQWWl3cfxM2NkOTcyYTctZWJlZi00ODMyLTg3NWQtMmQxMTAxZjMyMmM0)
 
 
 ``` csharp
@@ -149,7 +149,7 @@ public partial class StudentForm : Form
 }
 ```
 
-So it is confirmed that in 2012 I am already familiar with C#.
+So it is confirmed that before 2012 I am already familiar with C#.
 
 _But Look at that mess... 700 lines of code... I packed everything in one Form... and the presentation layer knows about DataSets!" :laughing:_
 
@@ -159,8 +159,8 @@ And also during that time, I liked the drag-and-drop things that Visual Studio p
 
 In that kind of environment, with the drag-and-drop thing, the presentation layer is [tightly coupled](http://blog.ploeh.dk/2012/02/02/LooseCouplingandtheBigPicture/) to the data-access layer. Perhaps there was another way of doing it, without the [tight coupling](http://blog.ploeh.dk/2012/02/02/LooseCouplingandtheBigPicture/), but I think this was the only way I know how to do it during that time.
 
-Of course I later understood that these drag-and-drop things are _evil_... I mean, you would _not_ want to _ab**use**_ it if you want your app to be maintainable (or something like that).
+Of course I later understood that these drag-and-drop things are _evil_... I mean, you would _not_ want to _(ab)use_ it if you want your app to be maintainable (or something like that).
 
-**_The End_**
+_The End_
 
 :bow:

@@ -86,9 +86,9 @@ http://philippinereporter.com/2018/07/13/will-duterte-go-to-hell-or-heaven/
 
 ### P.S.
 
-> You say, “Now, wait a minute. God doesn’t hate anybody. God is love.” No, my friend. You need to understand something. Jesus Christ taught, the prophets taught, the apostles taught this — that apart from  he grace of God revealed in Jesus Christ our Lord, the only thing left for you is the wrath, the fierce anger of God because of your rebellion and your sin.
+> You say, “Now, wait a minute. God doesn’t hate anybody. God is love.” No, my friend. You need to understand something. Jesus Christ taught, the prophets taught, the apostles taught this — that apart from the grace of God revealed in Jesus Christ our Lord, the only thing left for you is the wrath, the fierce anger of God because of your rebellion and your sin.
 <br /><br />
-When I speak in universities, they’re always quick to point out, “No, God cannot hate because God is love.” And I tell you God must hate because God is love. You see, I love children; therefore, I hate abortion. If I love that which is holy, I must hate that which is unholy. God is a holy God. That’s something that the Americans have forgotten. Many of the things that you love to do, God hates. Did you know that?
+When I speak in universities, they’re always quick to point out, “No, God cannot hate because God is love.” And I tell you God must hate because God is love. You see, I love children; therefore, I hate abortion. If I love that which is holy, I must hate that which is unholy. God is a holy God... Many of the things that you love to do, God hates. Did you know that?
 <br /><br />
  --- Paul Washer (in ["The Shocking Youth Message"](/2017/10/16/paul-washer))
 
