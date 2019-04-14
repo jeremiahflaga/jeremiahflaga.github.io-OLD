@@ -21,7 +21,9 @@ I like simple, but/and/yet all-encompassing rules _(partly because I'm not very 
 
 > "Everything should be as simple as possible, but not simpler." --- Albert Einstein
 
+<!--
 > If it is hard, it must be wrong.
+-->
 
 <!--more-->
 

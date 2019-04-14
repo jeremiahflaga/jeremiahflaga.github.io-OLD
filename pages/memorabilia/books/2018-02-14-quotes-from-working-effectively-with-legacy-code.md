@@ -38,9 +38,9 @@ It takes time for a team to get over that hump, **but if there is one thing that
 
 > The biggest obstacle to improvement in large code bases is the existing code. "Duh." you might say. But I'm not talking about how hard it is to work in difficult code; **I'm talking about what that code leads you to believe.**
 <br /><br />
-If you spend most of your day wading through ugly code, it's very easy to believe that it will alway be ugly and that any little thing that you do to make it better is simply not worth it. You might think, "What does it matter whether I make this little peice nicer if 90 percent of the time I'll still be working with murky slime? Sure, I can make this piece better, but what will that do for me this afternoon? Tomorrow?"
+If you spend most of your day wading through ugly code, it's very easy to believe that it will always be ugly and that any little thing that you do to make it better is simply not worth it. You might think, "What does it matter whether I make this little peice nicer if 90 percent of the time I'll still be working with murky slime? Sure, I can make this piece better, but what will that do for me this afternoon? Tomorrow?"
 <br /><br />
-Well, if you look at it that way, I'd have to agree with you. No much.
+Well, if you look at it that way, I'd have to agree with you. Not much.
 <br /><br />
 **But if you consistently do these little improvements, your system will start to look significantly different over the course of a couple of months.** At some point, you'll come to work in the morning expecting to sink your hands into some slime and discover, "Huh, this code looks pretty good. It looks like someone was in here refactoring recently." At that point, when you feel the difference between good code and bad code in your gut, you are a changed person...
 

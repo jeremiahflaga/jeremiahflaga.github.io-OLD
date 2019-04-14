@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Software development has not changed in the last 40 years"... and what to do about it.'
+title: '"Software development has not changed in the last 40 years"'
 categories: [Programming]
 tags: [Robert Martin, Terence McGhee, Mattias Petter Johansson]
 date: 2018-05-21 03:40:00 PM UTC

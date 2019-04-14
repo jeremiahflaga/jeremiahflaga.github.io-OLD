@@ -29,16 +29,6 @@ blockquote {
 </blockquote>
 -->
 
-["7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development"](https://www.youtube.com/watch?v=WSes_PexXcA) of J. B. Rainsberger
-
-> "The fundamental theorem of agile software development says this: **If you want to estimate little things, you have to refactor**, because refactoring is how you reduce accidental complication; and only by driving accidental complication down as far as you possibly can will your relative estimates have any meaning..."
-<br /><br />
-"...Therefore if you're gonna estimate, you'd better refactor, which means **Scrum cannot work without XP**."
-
-
-
-
-### Architecture & Design
 
 ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) by Uncle Bob Martin
 
@@ -112,6 +102,14 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 > "I believe that knowing object-oriented design principles and applying best practices like SOLID, KISS and YAGNI are far more important than design patterns themselves. If you apply these principles, **patterns will come out naturally**."
 
 
+["7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development"](https://www.youtube.com/watch?v=WSes_PexXcA) of J. B. Rainsberger
+
+> "The fundamental theorem of agile software development says this: **If you want to estimate little things, you have to refactor**, because refactoring is how you reduce accidental complication; and only by driving accidental complication down as far as you possibly can will your relative estimates have any meaning..."
+<br /><br />
+"...Therefore if you're gonna estimate, you'd better refactor, which means Scrum cannot work without XP."
+
+
+
 
 ### On Learning
 
@@ -146,9 +144,9 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 > "Software developers tend to be software addicts who think their job is to write code. But it's not. Their job is to solve problems. Don't celebrate the creation of code, celebrate the creation of solutions."
 
 
-["Am I really a developer or just a good googler?"](http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx) by Scott Hanselman
+["Am I really a developer or just a good googler?"](http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx) and ["I'm a phony. Are you?"](https://www.hanselman.com/blog/ImAPhonyAreYou.aspx) by Scott Hanselman
 
-
+> "... But here's the thing. We all feel like phonies sometimes. We are all phonies. That's how we grow. We get into situations that are just a little more than we can handle, or we get in a little over our heads. Then we **can** handle them, and we **aren't** phonies, and we move on to the next challenge."
 
 ----------------------------------------------------------
 

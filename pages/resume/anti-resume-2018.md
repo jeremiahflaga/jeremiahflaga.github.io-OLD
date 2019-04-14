@@ -41,11 +41,13 @@ This anti-r&eacute;sum&eacute; (together with my [r&eacute;sum&eacute;](/resume/
 
 
 
-## **I never experienced being an Algorithmer**
+<h2 id="i-never-experienced-being-an-algorithmer">
+  <strong>I never experienced being an Algorithmer</strong>
+</h2>
 
 In my [r&eacute;sum&eacute;](/resume#im-an-initiate), I considered myself as an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), based on Terence McGhee's "Software Ninja Class Hierarchy". But I never experienced being an [**Algorithmer**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#algorithmer), even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_. My weak mathematics background is the reason why I concentrated on learning how to build what they call [line-of-business (LOB) applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) (or what is called _"representational-transactional systems"_ [here](https://aryehoffman.com/entry/classifying-software/)), because these things do not need lots of knowledge in mathematics.
 
-But I can work with an Algorithmer, and I think I have a high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that he will learn a lot from me, if I will be working with one.
+But I can work with an Algorithmer, and I have high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that an Algorithmer will learn a lot from me, if I will be working with one.
 
 
 
@@ -66,7 +68,7 @@ Wait!... I am not saying that being an expert on frameworks is not important. Wh
 
 You might ask what my excuse is for not being an expert on frameworks...
 
-About ten years ago,  in our school library, I read this from a book called "The Magic of Thinking Big" <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
+My excuse is that frameworks change very often and I do not have all the time to catch up with all the changes. Also, many years ago in our school library, I read this from a book called "The Magic of Thinking Big" <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
 
 > "It is more important to use your mind to think than use it as a warehouse for facts."
 <br /><br />
@@ -76,10 +78,187 @@ Today, we already have [the] google [search engine] which can serve as our garag
 
 I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, and learning about the _domain_ of the project I am working on, than being an expert on frameworks. 
 
-But like I said above, I'm still willing to read and study more about a specific framework when I think my job requires a deeper knowledge about that specific framework. :smile:
+But like I said above, I'm still willing to read and study more about a specific framework when I think my job requires a deeper knowledge of that specific framework. :smile:
 
 
 
+<h2 id="if-your-codebase-is-messy">
+  <strong>If your codebase is messy...</strong>
+</h2>
+
+> The biggest obstacle to improvement in large codebases is the existing code. "Duh." you might say. But I'm not talking about how hard it is to work in difficult code; **I'm talking about what that code leads you to believe.**
+<br /><br />
+If you spend most of your day wading through ugly code, it's very easy to believe that it will always be ugly and that any little thing that you do to make it better is simply not worth it. You might think, "What does it matter whether I make this little peice nicer if 90 percent of the time I'll still be working with murky slime? Sure, I can make this piece better, but what will that do for me this afternoon? Tomorrow?"
+<br /><br />
+Well, if you look at it that way, I'd have to agree with you. Not much.
+<br /><br />
+**But if you consistently do these little improvements, your system will start to look significantly different over the course of a couple of months.** At some point, you'll come to work in the morning expecting to sink your hands into some slime and discover, "Huh, this code looks pretty good. It looks like someone was in here refactoring recently." At that point, when you feel the difference between good code and bad code in your gut, you are a changed person...
+<br /><br />
+ --- Michael Feathers (p. 75 of ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga))
+
+I would love to work on new projects where I will have influence on the decisions about the structure of the project (or at least I know the reasons behind the chosen structure), and whose codebase is kept clean from the start.
+
+But most software systems in existence today are in the _maintenance phase_. And I've seen systems in the maintenance phase whose codebase is very messy. It's so hard to work on such codebases, and I would love **_not_** to work on such codebases. Even the thought of _"I will never work on any messy codebase again"_ came to my mind before.
+
+But a few years ago, my attitude towards messy codebases _somewhat_ changed after I read this from an article written by Jonathan Boccara (["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)):
+
+> I think it is important to recognize that legacy code is not the enemy.
+<br /><br />
+In fact, in most cases, we're here thanks to legacy code. The early stages of a given project were where it started to grow, capture clients, build up financial interest, and establish a brand that inspired customers. All of this was done with code that may happen to still be around today and that still performs the functionalities that your customers liked you for in the first place. This is legacy code. As its name states, this is your legacy. **Without it you would probably not even be getting paid today.**
+
+> "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
+
+<!--
+That will be hard to do --- owning the code that somebody else has written --- most especially if the code is messy and hard to work with.
+
+If you intend me to work on messy codebases
+
+And if I will work on such codebases, I can stay long working on it **only if** the current team involved in it are cleaning it up (or intends to clean it up) bit-by-bit as they work on it daily.
+-->
+
+Because of that, it's okay for me to be involved working on a legacy (or messy) codebase on one condition:
+
+If you are going to hire me to work on a messy codebase, I will stay long working on it **_only if_** the current team involved in it (which will include me) are cleaning it up (or intends to clean it up) _bit-by-bit as they work on it daily_. :smile:
+
+I'm not saying that I'm already an expert in cleaning messy codebases. I'm not. And that's one of the reasons why I want to be part of a team whose members clean up messy codebases --- I want to learn from them.
+
+So that's my condition before I will agree to work on a messy codebase.
+
+If you hire me to work on a messy codebase and the team working on it does not care about it and does not have a plan of doing something to clean it up bit-by-bit, I will stay working on that project and with that team for a very long time _only if_ you pay me a million pesos per month. :grin:
+
+I'm including this here in my anti-résumé because I noticed in my previous jobs that if a programming team does not have a common set of values (such as adhering to ["Always leave the codebase cleaner than you found it"](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)) working on a project will become frustrating. And frustrated people will not be very productive.
+
+And if I noticed that I'm not productive in my job, I feel ashamed and I tend to quit (not immediately of course :smile:)
+
+
+
+## **I'm introverted**
+
+Which means that I might be very silent on my first encounters with a person, but will start to speak up when I get comfortable working with that person. :smile:
+
+But there are times where I tend to be not that silent even with people I do not know when the topic of a conversation is something I'm very interested in, such as programming.
+
+
+
+## **I'm not (yet) very good with my spoken English**
+
+English is not my native language. So for me, writing in English is easier than conversing using it, because when writing I have lots of time to think on what to write. When conversing using English I need to respond quickly and there is very little time to think.
+
+
+
+## **I'm not very good with UIs (and UX)**
+
+... <small>(have you noticed that I did not include CSS in my [r&eacute;sum&eacute;](/resume/)?)</small> But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when I work with you.
+
+If I will be working with a UI/UX designer, I believe that he will not be having a problem working with me because I _intend_ to decouple my code from the UI (if possible), so that my code will _not_ be very affected by UI changes, and the UI will not be very affected by my code changes.
+
+
+
+## **I have almost no experience deploying things**
+
+... But a coleague of mine once said that it is just almost the same as clicking the build button in an IDE. 
+
+So if I am tasked of deployment and no one else is to guide me, I will just google how to do it. :smile:
+
+
+<!--
+## **I only have basic knowledge about functional programming**
+
+All I know about functional programming is that there is no assignment statements and that there is heavy use of recursion.
+-->
+
+
+
+## **I know nothing about estimating**
+
+Today, the only method I have to honestly estimate the time to be spent to finish a project is to do at least two of the most important features of the app, then use the time spent on those two features to estimate the time that will be spent on the whole project.
+
+
+
+## **I have almost no knowledge about software security**
+
+When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes --- when I'm tired or bored, and there is an existing code in the project that I can just copy-and-paste. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. 
+
+<!-- And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines. -->
+
+Oh, I also know about _not_ storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
+
+I also read in the past about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I have to review them to bring them back to mind.
+
+<!-- 
+but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
+ -->
+
+But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
+
+
+
+<br />
+
+
+### _**More next time...**_
+
+
+<br />
+
+
+
+<!--
+
+## **It's hard for me to stay long with a team who**
+
+I cannot stay long with a team when I sense that it's members have the kind of attitude that sounds  like "I might not be the one to maintain this project, why should I care if its codebase is clean or not!"
+
+Of course I understand that there are existing projects that are very messy already so that is't hard to clean it up.
+
+
+
+## **I sometimes get frustrated when I know that something is wrong and I cannot do anything about it**
+
+I will get frustrated sometimes (oftentimes perhaps) when I know that we can do better with things but the team are not doing anything about it.
+
+
+I would be great if there is a kind of system where a programmer can be able to raise his concerns about the existing codebase if he thinks that there is something wrong in the codebase... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
+
+
+
+## **I sometimes think about justice when I see messy code...**
+
+> "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!... Do you really want them to create another mess?"
+
+Well, I am very bold in saying that because I never experienced being involved in a software project _from the very start of the project_. I only experienced working on software projects that are in the maintenance phase already.
+
+So when I see code that looks like it was abandoned by their creators, I'm torn inside. --- _Why!?... Don't they care?_
+
+But perhaps I should stop thinking like this. I should be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards other programmers because I do not know what they have been through while working on the projects with messy codebase. Perhaps they had tight deadlines, and that is the reason why they did not give time cleaning up their mess.
+
+Okay...
+
+I think I can help in fixing messy software... But I'm not [Micheal Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga), so if the mess is very big already, you might need someone more skillful than me to help fix it. If the mess is still small, I might be able to help (I hope).
+
+
+
+## **I sometimes get frustrated when I know that the codebase of the project I am working on is messy and I cannot do anything about it (and my teammates are not planning to do anything about it)**
+
+> "Do unto others what you want others to do to you."
+
+That's what Jesus said.
+
+If you don't want to hear it from Jesus, hear it from Confucius who said something quite similar:
+
+> "Do not do to others what you do not want others to do to you"
+
+Our master programmers have their own version (or application) of this motto:
+
+> "Always leave the campground cleaner than you found it."
+
+They call that "The Boyscout Rule".
+
+I want to live by that kind of rule. If 
+-->
+
+
+<!--
 ## **I intend to separate the business rules from the other parts of a software system**
 
 Being influenced by people who promote DDD _(Note: I only know a little about DDD)_, and Clean Architecture, I am the kind of person who _would like to_ focus more on learning about the _domain_ of the business... and to focus on trying to model that domain instead on focusing on the specifics of the frameworks or libraries being used in the software system I am involved in.
@@ -87,7 +266,7 @@ Being influenced by people who promote DDD _(Note: I only know a little about DD
 If I am hired, I plan to spend at least half of my time (during the first few weeks) learning about the business and half of the time learning about the specific frameworks/libraries/technologies your team is using.
 
 And if your domain is not googleable, or there are no books available to learn about it, then I might need _lots of guidance_ from my fellow programmers who are already familiar with the domain, or from the business people themselves, while learning about your domain.
-
+-->
 
 <!-- 
 
@@ -101,49 +280,14 @@ A very long compilation time might be one of the reasons for a very slow feedbac
 
 This problem can be solved if your system allows me to write fast (not slow) unit tests. So this will not be a problem if I can write fast unit tests.
 
+If it takes a lot of time to compile your project, and you want me to be involved in that project, I would like to suggest to the team working on that project to give time to make the critical parts of that project to be unit testable, so that if there are bugs in those critical parts it will not take too much time to fix it.
+ -->
+
+<!-- 
 If the unit tests of your system run very slow, you might be interested in hiring me to _help_ fix the running time of your unit tests. Please note that I used the word _"help"_ because I will be needing the help of _at least_ one of your developers who is already very familiar with the system whose unit tests' running time you want to fix. It might be possible for me to fix it alone, but it will take way too much time and will give me (and you) too much unecessary frustrations if you allow me to do it alone.
-
-
-
-## **I sometimes get frustrated when I know that something is wrong and I cannot do anything about it**
-
-I will get frustrated sometimes, or maybe oftentimes, when I know that we can do better with things but the team are not doing anything about it.
-
-
-I would be great if there is a kind of system where a programmer can be able to raise his concerns about the existing code base if he thinks that there is something wrong in the code base... and that we do something about it, or at least plan to do something about it... to fix it later... because if a team does not do this, it seems to me that we are being dishonest to our employer, and to our clients.
- -->
-
-<!-- 
-## **I will own the mess other people made if...**
-
-I would love to work on a **new** project where I will have influence on decisions on the architecture of the system, and on the design of the individual parts.
-
-But most software systems in existence today are in **maintenance phase**. So there is a very big possibility that I will be working on one. And there are systems that are in the maintenance phase which are messy (not all, of course).
-
-But more than a year ago, I read this from [an article written by Jonathan Boccara](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/):
-
-> "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
-
-That will be hard to do --- owning the code that somebody else has written --- most especially if the code is messy and hard to work with.
-
-If you current code base is messy, I will _help own_ the mess, and will _help_ clean up the mess, only if there is proper compensation for it. :smile:
  -->
 
 
-<!-- 
-## **I sometimes think about justice...**
-
-> "Let those who produced messy code be the ones to fix them. Don't give them another new project to start until they fix their mess!... Do you really want them to create another mess?"
-
-
-Well, I am very bold in saying that because I never experienced being involved in a software project _from the very start of the project_. I only experienced working on software projects that are in the maintenance phase.
-
-So when I see code that looks like it was abandoned by their creators, I'm torn inside. --- _Why!?... Don't they care?_
-
-But perhaps I should stop thinking like this. I should be [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards other programmers because I do not know what they have been through. Perhaps they had deadlines, and that is the reason why they did not give time cleaning up their mess.
-
-Okay...
- -->
 
 <!-- 
 But, as every adult might have already realized, we do not always get justice in this life. So I intend to help those who experience injustice by helping them fix the mess that was the result of the original creators' abandonment of the system.
@@ -161,84 +305,34 @@ But of course in the real world, that does not always happen.
 
 
 
-## **I'm introverted**
-
-Which means that I might be very silent on my first encounters with a person, but will start to speak up when I get comfortable working with that person already. :smile:
-
-
-
-## **I'm not very good with UIs**
-
-I'm not very good with UIs. But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when working with you.
-
-If I will be working with a visual designer, I believe that he will not be having a problem working with me because I _intend_ to decouple my code from the UI (if possible), so that my code will _not_ be very affected by UI changes, and the UI will not be very affected by my code changes.
-
-
-
-
-## **I don't know how to do these CQRS and Event Sourcing things**
-
-Even though I think this CQRS thing will have a very important role in software development in the next few years, I do not know how to do this yet. But I will learn about it after I finish the other things that I need to learn.
-
-
-
-## **I have almost no experience deploying things**
-
-...But a coleague of mine once said that it is just almost the same as clicking the build button in an IDE. 
-
-So if I am tasked of deployment and no one else is to guide me, I will just google how to do it. :smile:
-
-
-
-## **I only have basic knowledge about functional programming**
-
-All I know about functional programming is that the use of assignment is forbidden/discouraged and that there is heavy use of recursion.
-
-
-
-## **I know nothing about estimating**
-
-Today, the only method I have to honestly estimate the time to be spent to finish a project is to do at least two of the most important features of the app, then use the time spent on those two features to estimate the time that will be spent on the whole project.
-
-
+<!-- 
 ## **Cannot work on Android projects**
 
 I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job.
 
 
-<!-- 
 ## **Cannot work on Android projects, except...**
 
 I cannot work on Android projects for my next job because I promised my current employer that I will not be working on an Android project in my next job... except when I will be hired in _helping_ decouple your business logic layer from the other parts of you software system, because in that case, I will not be _directly_ involved in working on the _Android-framework-specific_ parts of project.
  -->
 
 
-## **I have almost no knowledge about software security**
 
-When it comes to security, I only know about SQL injection, and I know that it can be prevented by not using string concatenation when building SQL queries. But even though I know that using string concatenation is wrong when building SQL queries, I still do it sometimes, most especially when I'm tired, or bored, or when copy-pasting code from another part of the application I am working on. :grinning: But if you already have a set of guildelines for coding which I need to follow, or you practice code review or pair programming, then this will not be a problem. And I will be happy to work with a teammate who will correct me if I do not follow correct guidelines.
+<!--
+## **I don't know how to do these CQRS and Event Sourcing things**
 
-Oh, I also know about _not_ storing passwords in plaintext, but instead hashing them before storing them. And I also know about not sending _forgotten passwords_ to users (because, of course, if we do not store passwords as plaintext, we will not know what password to email our users), but instead send them link to a form/resource that will let them change their passwords.
-
-I also read in the past about Cross-site Scripting (XSS) and Cross-site Request Forgery (CSRF), but I still have to review them.
-
-<!-- 
-but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
+Even though I think this CQRS thing will have a very important role in software development in the next few years, I do not know how to do this yet. But I will learn about it after I finish the other things that I need to learn.
  -->
 
-But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
 
-
+<!--
 ## **I know almost nothing about network programming**
 
 I learned a little bit about this sockets thing in Uncle Bob Martin's ["The Craftsman Series"](/memorabilia/books/the-craftsman-series/), and the 1 hour video ["Network Programming Seminar"](http://cs50.tv/2007/fall/#about,seminars) of CS50 Fall 2007. I will learn more later if time permits.
+-->
 
 
-
-## **More next time...**
-
-
-<br />
 
 <!-- 
 --------------------

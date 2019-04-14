@@ -56,7 +56,7 @@ Okay... enough of my story...
 I just used my story on OOP as an introduction to this post because it is very much related to what this post is all about.
 
 
-This post is about Mark Seemann's<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](https://www.youtube.com/watch?v=US8QG9I1XW0).
+This post is about [Mark Seemann](https://blog.ploeh.dk)'s<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](https://www.youtube.com/watch?v=US8QG9I1XW0).
 
 I find this talk very interesting because he has claims in this talk which will give lots of hope to programmers.
 
@@ -84,11 +84,13 @@ I think I can relate to this because it took me about four or five years before 
 
 ## Better than OO!
 
-> If we need that many pages (500 or 700 pages) to explain a concept maybe we should start to think about if there is a better way. --- Is this really the best we can do?
+> If we need that many pages (500 or 700 pages, refering to the books "Agile Principles, Patterns, and Practices" and "Dependency Injection in .NET") to explain a concept maybe we should start to think about if there is a better way. --- Is this really the best we can do?
 
 Oooooooo... There is a better way!
 
-> Does functional programming help? It does!
+> Does functional programming help? 
+<br /><br />
+It does!
 
 ... Then he talks about how functional programming might be a better way than object-orientation.
 
@@ -100,7 +102,7 @@ I first became interested with functional programming [through Uncle Bob Martin]
 
 
 
-... But after viewing Mark Seemann's talk... _I have to learn functional programming._
+... But after viewing Mark Seemann's talk... _I have to learn functional programming..._
 <!-- 
 The only thing I know today about functional programming is that the use of assignment is discouraged and that it uses lots of recursion. People also talk about this _monad_ thing, which even Scott Hanselman find hard to understand, as he said in a facebook post a few months ago.
  -->

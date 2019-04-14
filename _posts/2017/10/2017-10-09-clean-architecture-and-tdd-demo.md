@@ -8,15 +8,17 @@ date: 2017-10-09 03:35:00 PM UTC
 
 <!-- October 09, 2017 11:35:00 PM Philippine Time -->
 
-Like what I said in [a previous blog post](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/), I would like to compensate for the failure of not being able to finish my demo during the talk last Saturday. So I created videos of me performing the demo.
+Like what I said in [a previous blog post](/2017/10/08/clean-architecture-and-tdd-devcon-davao-2017/), I would like to compensate for the failure of not being able to finish my demo during my talk-talk on Clean Architecture and TDD. So I created videos of me performing the demo.
 
 Here are the videos...
 
-In these videos, you will see me making mistakes; you will hear me mispronouncing words :smile:; you will see me breaking the rule of writing the tests first. :laughing:
+In these videos, you will see me making mistakes; you will hear me mispronouncing words :smile:, you will see me breaking the rule of writing the tests first :laughing:, you will hear me incapability of clearly explaining things (I hope a few years from now I will be better at explaining things).
 
-If you have comments, suggestions, or feedback (negative or positive) about these videos (and about the talk last Saturday, if you were there during the talk :smile:), please tell me.
+If you have comments, suggestions, or feedback (negative or positive) about these videos (and about the talk, if you were there during the talk :smile:), please tell me.
 
 Thanks.
+
+(The code for the demo is in [here](https://github.com/jeremiahflaga/clean-architecture-and-tdd-demo/tree/master/2017-10-DevconDavao/demo-2017-10-08-android/Demo) inside the "/2017-10-DevconDavao/demo-2017-10-08-android/" folder)
 
 <!--more-->
 
