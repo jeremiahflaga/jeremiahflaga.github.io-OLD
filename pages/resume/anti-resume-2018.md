@@ -98,9 +98,9 @@ Well, if you look at it that way, I'd have to agree with you. Not much.
 
 I would love to work on new projects where I will have influence on the decisions about the structure of the project (or at least I know the reasons behind the chosen structure), and whose codebase is kept clean from the start.
 
-But most software systems in existence today are in the _maintenance phase_. And I've seen systems in the maintenance phase whose codebase is very messy. It's so hard to work on such codebases, and I would love **_not_** to work on such codebases. Even the thought of _"I will never work on any messy codebase again"_ came to my mind before.
+But most software systems in existence today are in the _maintenance phase_. And I've seen systems in the maintenance phase whose codebase is very messy. It's so hard to work on such codebases, and I would love **_not_** to work on such codebases. I even thought to myself before that _"I will never work on any messy codebase again"_.
 
-But a few years ago, my attitude towards messy codebases _somewhat_ changed after I read this from an article written by Jonathan Boccara (["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)):
+But my attitude towards messy codebases _somewhat_ changed after I read this from an article written by Jonathan Boccara (["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)):
 
 > I think it is important to recognize that legacy code is not the enemy.
 <br /><br />
@@ -116,25 +116,23 @@ If you intend me to work on messy codebases
 And if I will work on such codebases, I can stay long working on it **only if** the current team involved in it are cleaning it up (or intends to clean it up) bit-by-bit as they work on it daily.
 -->
 
-Because of that, it's okay for me to be involved working on a legacy (or messy) codebase on one condition:
+Because of that, it's okay for me to be involved working on a legacy (or messy) codebase **on one condition**: If you are going to hire me to work on a messy codebase, I will stay working on it for a long time **_only if_** the current team involved in it (which will include me) are cleaning it up (or intends to clean it up) _bit-by-bit as they work on it daily_. :smile:
 
-If you are going to hire me to work on a messy codebase, I will stay long working on it **_only if_** the current team involved in it (which will include me) are cleaning it up (or intends to clean it up) _bit-by-bit as they work on it daily_. :smile:
+I'm not saying that I'm already an expert in cleaning messy codebases. I'm not. But I'm studying to be good at it too. And one of the reasons why I want to be part of a team who wants to keep their codebases clean is that I want to learn from them; I want to learn their techniques of cleaning up codebases; I hope they can also learn from me. Another reason why I want the codebases I will be working on as clean as I can make it is because I do not want the programmers who will inherit my codebase to [spit lots of WT*s](https://www.osnews.com/story/19266/wtfsm/) while working on it in the future. :grin: Another reason is because if I stay long working on a project, there might arise a problem someday which will be hard to solve if the codebase is messy.
 
-I'm not saying that I'm already an expert in cleaning messy codebases. I'm not. And that's one of the reasons why I want to be part of a team whose members clean up messy codebases --- I want to learn from them.
+Okay... That's my condition before I will agree to work on a messy codebase.
 
-So that's my condition before I will agree to work on a messy codebase.
-
-If you hire me to work on a messy codebase and the team working on it does not care about it and does not have a plan of doing something to clean it up bit-by-bit, I will stay working on that project and with that team for a very long time _only if_ you pay me a million pesos per month. :grin:
+If you hire me to work on a messy codebase, and the team working on it does not care about it and does not have a plan of doing something to clean it up bit-by-bit, I will work on that project and with that team _only if_ you pay me a million pesos per month. :grin: :laughing:
 
 I'm including this here in my anti-résumé because I noticed in my previous jobs that if a programming team does not have a common set of values (such as adhering to ["Always leave the codebase cleaner than you found it"](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)) working on a project will become frustrating. And frustrated people will not be very productive.
 
-And if I noticed that I'm not productive in my job, I feel ashamed and I tend to quit (not immediately of course :smile:)
+And if I noticed that I'm not productive in my job, I feel ashamed and I tend to quit.
 
 
 
 ## **I'm introverted**
 
-Which means that I might be very silent on my first encounters with a person, but will start to speak up when I get comfortable working with that person. :smile:
+... Which means that I might be very silent on my first encounters with a person, but will start to speak up when I get comfortable working with that person. :smile:
 
 But there are times where I tend to be not that silent even with people I do not know when the topic of a conversation is something I'm very interested in, such as programming.
 
@@ -189,7 +187,7 @@ I also read in the past about Cross-site Scripting (XSS) and Cross-site Request 
 but I already forgot what they are. All I know is that, to prevent these attacks in an ASP.NET MVC application, we only have to put a _specific_ Attribute in our Controller class or in a function inside a Controller class (I already forgot what that Attribute is), and that we must be cautious about the properties in our Model (or view model) that we expose to our users.
  -->
 
-But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
+But I have a copy of the book ["24 Deadly Sins of Software Security"](https://www.bookdepository.com/book/9780071626750?a_aid=jflaga) (but I have not yet read it). So if you need me to become familiar with software security when working at your company, I can start with this book (or with any material you can recommend me to consume).
 
 
 
@@ -197,6 +195,12 @@ But I have a copy of the book ["24 Deadly Sins of Software Security"](https://ww
 
 
 ### _**More next time...**_
+
+
+<br />
+
+
+**_Thank you for your time!_**
 
 
 <br />

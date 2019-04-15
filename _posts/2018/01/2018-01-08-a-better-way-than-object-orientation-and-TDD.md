@@ -47,7 +47,7 @@ I remember this question during my interview for my second job:
 
 :laughing:
 
-Well, I think my answer is not completely wrong but... I don't know...
+Well, I think my answer is not completely wrong but... I'm not sure... I think the correct answer should have been _"by using an abstract class"_, or something like that.
 
 Perhaps my interviewers just forgave my arrogant claim about OOP because they knew that I was just a beginner.
 
@@ -56,9 +56,7 @@ Okay... enough of my story...
 I just used my story on OOP as an introduction to this post because it is very much related to what this post is all about.
 
 
-This post is about [Mark Seemann](https://blog.ploeh.dk)'s<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](https://www.youtube.com/watch?v=US8QG9I1XW0).
-
-I find this talk very interesting because he has claims in this talk which will give lots of hope to programmers.
+This post is about [Mark Seemann](https://blog.ploeh.dk)'s<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> talk titled ["Functional Architecture --- The pits of success (NDC Sydney 2016)"](https://www.youtube.com/watch?v=US8QG9I1XW0). I find this talk very interesting because he has claims in this talk which will give lots of hope to programmers.
 
 > ... This is what I feel to be a software architect or a lead developer on a team is you have to be constantly vigilant because if you just look away for a moment, if you are sick for a couple of days, or you go on a vacation, or you have to go to many meetings, what's going to happen is that everything rolls downhill again...
 <br /><br />
@@ -130,7 +128,21 @@ Does that mean that [writing tests after-the-fact](/memorabilia/videos/expecting
 
 I hope...
 
+<br />
 
+## P.S.
+
+In his talk titled ["What is OO really?"](https://vimeo.com/64086087), Uncle Bob Martin said this about OO at the end of the talk:
+
+> Some people like to think that OO lets us model the real world.
+<br /><br />
+OO does not let us model the real world. Software does that. Software has always done that. OO doesn't give us any special benefit to that.
+<br /><br />
+Some people say it's a better way to think. 
+<br /><br />
+No it's not a better way to think.
+<br /><br />
+It is, however, **a very powerful way to manage dependencies**.
 
 ----------
 

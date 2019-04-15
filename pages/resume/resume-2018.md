@@ -263,8 +263,11 @@ published: true
       <td>Other:</td>
       <td>
         <p>
-          <a href="http://www.theallium.com/engineering/computer-programming-to-be-officially-renamed-googling-stackoverflow/">Googling Stackoverflow</a> :smile:
+          <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :smile:
         </p>
+        <!-- <p>
+          <a href="http://www.theallium.com/engineering/computer-programming-to-be-officially-renamed-googling-stackoverflow/">Googling Stackoverflow</a> :smile:
+        </p> -->
         <p>I know a little bit of Python.</p>
         <p>
           I also like solving <em>simple</em> algorithmic problems. <small>(<a href="/resume/anti-resume/#i-never-experienced-being-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
@@ -330,7 +333,7 @@ published: true
 
 
 <small>
-* <strong>Please note</strong> that I'm not a master of all the technologies/frameworks/libraries listed above. Some are listed only because I had a little bit of experience using them; and I will need time to review them if I need them in a project while working for you.
+<strong>Please note</strong> that I'm not a master of all the technologies/frameworks/libraries listed above. Some are listed only because I had a little bit of experience using them; and I will need time to review them if I need to use them in a project while working for you.
 </small>
 
 <small>[_^ back to Contents_](#contents)<small>
@@ -703,9 +706,9 @@ But Terence McGhee said that to be considered a codesmith one must already have 
 
 
 <span class="message">
-**Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: I thought OOP was about knowing what a class is, what an interface is, what an object is, what inheritance is, what polymorphism is...
+**Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: 
 <br /><br />
-This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a better understanding of what OO truly is.
+This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a _better_ understanding of what OO truly is.
 <br /><br />
 ... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
 </span>
@@ -730,7 +733,7 @@ But then I heard Uncle Bob Martin saying that software development has not chang
 
 > "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in **general**. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
-So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that do not change a lot, and these things will help me make software that is [highly maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software for customers.
+So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that do not change a lot, and these things will help me make software that is [highly maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software for customers (and for the programmers also).
 
 <!-- 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.
