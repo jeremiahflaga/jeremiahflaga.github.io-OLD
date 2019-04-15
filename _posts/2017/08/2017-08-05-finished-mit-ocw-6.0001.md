@@ -26,7 +26,7 @@ Yehey again!...
 
 My answers to the assignments of 6.0001 is in this GitHub repository: [github.com/jeremiahflaga/mit-ocw-6.0001](https://github.com/jeremiahflaga/mit-ocw-6.0001).
 
-(I was actually introduced to an older version of this course last 2010 --- MIT OCW 6.00 2008 version --- but my mistake was that I did not do the asignments... I only watched the lectures... I wanted to finish things as fast as I could during those days! :grin:)
+(I was actually introduced to an older version of this course last 2010 --- MIT OCW 6.00 2008 version --- but my mistake was that I did not do the asignments... I only watched the lectures... I wanted to finish things as fast as I could during those days, which is very bad! :grin:)
 
 ## Dynamically Typed Languages and TDD
 

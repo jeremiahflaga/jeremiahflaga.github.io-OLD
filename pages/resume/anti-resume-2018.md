@@ -124,7 +124,7 @@ Okay... That's my condition before I will agree to work on a messy codebase.
 
 If you hire me to work on a messy codebase, and the team working on it does not care about it and does not have a plan of doing something to clean it up bit-by-bit, I will work on that project and with that team _only if_ you pay me a million pesos per month. :grin: :laughing:
 
-I'm including this here in my anti-résumé because I noticed in my previous jobs that if a programming team does not have a common set of values (such as adhering to ["Always leave the codebase cleaner than you found it"](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)) working on a project will become frustrating. And frustrated people will not be very productive.
+I'm including this here in my anti-résumé because I noticed in my previous jobs that if a programming team does not have a common set of values (such as adhering to ["Always leave the codebase cleaner than you found it"](http://verraes.net/2011/04/beautiful-code/)) working on a project will become frustrating. And frustrated people will not be very productive.
 
 And if I noticed that I'm not productive in my job, I feel ashamed and I tend to quit.
 
@@ -140,7 +140,7 @@ But there are times where I tend to be not that silent even with people I do not
 
 ## **I'm not (yet) very good with my spoken English**
 
-English is not my native language. So for me, writing in English is easier than conversing using it, because when writing I have lots of time to think on what to write. When conversing using English I need to respond quickly and there is very little time to think.
+English is not my native language. So for me, writing in English is easier than conversing using it, because when writing I have lots of time to think on what to write. When conversing using English I need to respond quickly and there is very little time to think. :smile:
 
 
 

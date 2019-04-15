@@ -142,7 +142,7 @@ published: true
     <tr>
       <td>.NET:</td>
       <td>
-        <p>C#, VB.NET, LINQ</p>
+        <p>C#, VB.NET</p>
         <p>ASP.NET MVC, ASP.NET Web API, Entity Framework, Moq, etc.</p>
         <p><small>WinForms, WPF, ASP.NET Web Forms,</small></p>
         <!-- 
@@ -154,9 +154,7 @@ published: true
     <tr>
       <td>Web (frontend):</td>
       <td>
-        <p>HTML, JavaScript</p>
-        <p>Bootstrap, jQuery, KnockoutJS, <small>Angular</small></p>
-        <p></p>
+        <p>HTML, Bootstrap, jQuery, KnockoutJS</p>
       </td>
     </tr>
     <tr>
@@ -218,7 +216,7 @@ published: true
       <td>Source Control: </td>
       <td>
         <p>
-          Git, <small>SVN</small>
+          Git
         </p>
       </td>
     </tr>
@@ -228,7 +226,7 @@ published: true
         <p>
           Learned CS through free materials of
           <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/file/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
-          <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> this 2017
+          <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
         </p>
         <p>
           ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho

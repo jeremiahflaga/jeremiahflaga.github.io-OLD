@@ -12,7 +12,7 @@ Late March this year, I saw a post by the facebook page named ["Code Energy"](ht
 
 ![computer-science-distilled.png](/images/2017/computer-science-distilled.png)
 
-I tried to ask the author for a free copy (making the promise that I will buy his second book after I read an excerpt of Chapter 2 published online)
+I got the book. After reading it, I asked him if I can share it with some friends and workmates.
 
 <!--more-->
 
@@ -38,7 +38,7 @@ He is a very kind author! He wants to help people! :+1: :+1:
 
 I already finished the book! It took me a very long time to finish it because there are other things I had to do/read.
 
-I think the author has a similar mindset as the author of [betterexplained.com](https://betterexplained.com) --- explain Maths/CS in simple terms to capture the interest of people to study more about them.
+I think the author has a similar mindset as the author of [betterexplained.com](https://betterexplained.com) --- explain Maths/CS concepts in simple terms to capture the interest of people to study more about them.
 
 I believe that it is a very good book for software developers who wants an overview of computer science.
 
