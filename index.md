@@ -12,6 +12,8 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
+[What is MVC, MVP, and MVVM? What are their similarities? What are their differences?](/2019/05/10/mvc-mvp-mvvm/) <small>(May 10, 2019)</small>
+
 ["If you want to estimate little things, you have to refactor" - J. B. Rainsberger](/2018/06/16/if-you-want-to-estimate-little-things-you-have-to-refactor/) <small>(June 16, 2018)</small>
 
 ["Software development has not changed in the last 40 years"](http://127.0.0.1:4000/2018/05/21/software-development-has-not-changed-in-40-years/) <small>(May 21, 2018)</small>
