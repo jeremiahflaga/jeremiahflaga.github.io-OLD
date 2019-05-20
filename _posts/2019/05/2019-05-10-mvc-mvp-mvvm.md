@@ -56,7 +56,7 @@ seems like _MVC_ and _MVP-Supervising-Controller_ looks **_the same_**
 
 ... and ...
 
-_MVVM_ and _MVP-Passive-View_ looks **_the same_**: 
+_MVVM_ and _MVP-Passive-View_ looks **_the same_** (perhaps their only difference is the two-way data binding in MVVM?)
 
 Let's look at that image again:
 

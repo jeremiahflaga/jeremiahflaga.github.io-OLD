@@ -80,7 +80,7 @@ public void AssignOffer(Guid memberId, Guid offerTypeId)
 
 Wow! **Very easy to _read_!** (Please note that it was **_not_ easy to _write_** --- the transformation was not easy to do, I think, except maybe when you are a [_master_](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#guru) already, or a [_codesmith_](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#codesmith) at least. :smile:)
 
-And the business rules are now moved to the entity (or the domain model) classes.
+And the business rules have been moved to the entity (or the domain model) classes.
 
 And the resulting entity classes look good! And they look **testable**! (Except, I think, on the part which uses `DateTime.Now`.)
 
