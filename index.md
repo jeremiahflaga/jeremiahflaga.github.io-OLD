@@ -12,6 +12,8 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
+[Encountering "Vertical Slice Architecture"... Is it incompatible with Clean Architecture?](/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture/) <small>(May 20, 2019)</small>
+
 [What is MVC, MVP, and MVVM? What are their similarities? What are their differences?](/2019/05/10/mvc-mvp-mvvm/) <small>(May 10, 2019)</small>
 
 ["If you want to estimate little things, you have to refactor" - J. B. Rainsberger](/2018/06/16/if-you-want-to-estimate-little-things-you-have-to-refactor/) <small>(June 16, 2018)</small>
