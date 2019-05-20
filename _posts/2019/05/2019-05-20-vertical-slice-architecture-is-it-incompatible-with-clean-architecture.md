@@ -26,7 +26,7 @@ That diagram above is from Uncle Bob Martin's ["The Clean Architecture"](https:/
 
 Hmmmm...
 
-Googling to understand more about this Vertical Architecture thing led me to this [youtube comment](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg) (it's good if comments like these be not lost in the comments section of youtube, so I'm going to paste them here):
+Googling to understand more about this Vertical Architecture thing led me to this [youtube comment thread](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg) (it's good if conversations like this be not lost in the comments section of youtube, so I'm going to paste them here):
 
 > **Doormouse2:** 
 If you've had to cry with the Onion Architecture, you were doing it wrong.
