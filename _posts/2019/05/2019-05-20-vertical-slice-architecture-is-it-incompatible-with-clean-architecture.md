@@ -81,6 +81,8 @@ On my experience, it makes a project look uglier to expert developers, because t
 <br /><br />
 But on the other [hand], ... **it's easier to new delevopers [to] understand the project and the components... they are not so afraid of changing something**... the projects have less bugs and are easier to find and fix it. 
 
+... The indirections in projects employing the Clean Architecture will confuse programmers who do not _yet_ understand the [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle). :smile:
+
 ----------
 
 ## Steven van Deursen's enlightening articles!
