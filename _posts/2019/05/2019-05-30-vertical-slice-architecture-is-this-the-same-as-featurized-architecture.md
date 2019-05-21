@@ -79,7 +79,7 @@ In the talk, he gave some code samples. On first look the examples look the same
             {
                 . . .
             }
-            this..Students.Add(student);
+            this.Students.Add(student);
         }
     }
 ```

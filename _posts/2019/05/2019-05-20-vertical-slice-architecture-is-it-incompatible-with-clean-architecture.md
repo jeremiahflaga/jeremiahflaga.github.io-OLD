@@ -7,6 +7,10 @@ date: 2019-05-20 7:20:00 AM UTC
 ---
 
 <!-- May 20, 2019 3:20:00 PM Philippine Time -->
+<!-- UPDATED: May 21, 2019 2:00:00 PM Philippine Time -->
+<small>
+**_(Updated May 21, 2019: added more explanation about the difference between Vertical Slice Architecture and Clean Architecture)_**
+</small>
 
 While browsing through Scott Hanselman's blog, I came accross [a post](https://www.hanselman.com/blog/ExampleCodeOpinionatedContosoUniversityOnASPNETCore20sRazorPages.aspx) where something called [_"Vertical Slice Architecture"_ by Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/) is mentioned. (Anything related to software architecture easily catches my attention these days :smile:) 
 
@@ -26,7 +30,154 @@ That diagram above is from Uncle Bob Martin's ["The Clean Architecture"](https:/
 
 Hmmmm...
 
-Googling to understand more about this Vertical Architecture thing led me to this [youtube comment thread](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg) (it's good if conversations like this be not lost in the comments section of youtube, so I'm going to paste them here):
+
+
+
+
+
+I need to learn more... So I watched his talk titled ["SOLID Architecture in Slices not Layers"](https://www.youtube.com/watch?v=wTd-VcJCs_M)...
+
+One of the interesting things in that talk is his comparison of "Traditional N-Tier" and "DDD-style N-Tier architecture". Regarding that, he said this:
+
+> "... looks like they just changed the name of things"
+<br /><br />
+![Traditional N-Tier vs DDD-style N-Tier by Jimmy Bogard](/images/2019/traditional-vs-ddd-style-n-tier-by-jimmy-bogard.png)
+
+That statement and picture talks to my unconscious and says _"Learning more about DDD is not that important these days. You have other more important things to learn."_ Okay...
+
+But that is not the point of this blog post... :smile:
+
+Okay back to my point...
+
+
+
+In the talk, he gave some code examples. On first look, the examples look the same as the [Clean Architecture examples](https://jeremiahflaga.github.io/2017/08/16/clean-architecture-sample-projects/) I found more than a year ago, except that he is directly using a _concretion_, Entity Framework's DbContext, in his UseCase or Interactor classes (or _task handlers_; I will call classes such as the StudentCreateHandler below as **_task handlers_** in this post)...
+
+``` csharp
+    public class StudentCreateHandler
+    {
+        private readonly SchoolContext db;
+
+        public StudentCreateHandler(SchoolContext db) 
+            => this.db = db;
+
+        public void Handle(StudentCreateCommand message)
+        {
+            var student = new Student() 
+            {
+                Name = message.Name,
+            }
+            this.db.Students.Add(student);
+        }
+    }
+```
+
+... while the [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) projects uses _abstractions_, such as repository interfaces, in their _task handlers_... 
+
+``` csharp
+    public class StudentCreateHandler
+    {
+        private readonly IStudentRepository repository;
+
+        public StudentCreateHandler(IStudentRepository repository) 
+            => this.repository = repository;
+
+        public void Handle(StudentCreateCommand message)
+        {
+            var student = new Student() 
+            {
+                Name = message.Name,
+            }
+            this.repository.Add(student);
+        }
+    }
+
+    public interface IStudentRepository
+    {
+        void Add(Student student);
+    }
+    
+    public class StudentRepository : IStudentRepository
+    {
+        private readonly SchoolContext db;
+
+        public StudentCreateHandler(SchoolContext db) => this.db = db;
+
+        public void Add(Student student)
+        {
+            this.db.Students.Add(student);
+        }
+    }
+```
+
+Also, if he is directly using DbContext in the _task handlers_ then he must not have unit tests for them!
+
+Looking at the [example project on GitHub](https://github.com/jbogard/ContosoUniversityDotNetCore), it does not have unit tests. But it has what he calls Itegration Tests (which I believe is the same as what others call [Functional Test or Acceptance Test or End-to-End Test](https://www.obeythetestinggoat.com/book/chapter_02_unittest.html)). That's great! At least it still has automated tests, right? It still deserves the attention of those who want tests in their application.
+
+Okay... So the only difference between Vertical Slice Architecture and Clean architecture is that Vertical Slice Architecture does not use indirections (such as IStudentRepository in the code sample above) and therefore does not have unit tests(??) (Because unit testing will be hard without these indirections.)
+
+_Let's try reading the [article](https://jimmybogard.com/vertical-slice-architecture/) again..._
+
+> Instead of coupling across a layer, we couple vertically along a slice. **Minimize coupling between slices, and maximize coupling in a slice.**
+
+Ahhhh.. so there it is... his goal --- he wants to "**_minimize_** coupling between slices, and **_maximize_** coupling in a slice."
+
+
+But we can also <strong><em>min</em></strong>imize coupling between slices, and _also_ <strong><em>min</em></strong>imize coupling within a slice... Would that be better?
+
+I don't know... The answer is always _"it depends"_ on what your goals are, I guess. :smile:
+
+<!-- 
+Here's another one from the article: 
+-->
+
+> New features only add code, you're not changing shared code and worrying about side effects. Very liberating!
+
+Ahh! That might be the reason why Jimmy Bogard wants to <strong><em>max</em></strong>imize coupling in a slice --- because he wants to minimize code sharing between slices. Great! Because when I am new to a project and does not yet understand the codebase, I would rather see code duplication than see code sharing with lots of if/else in them. :laughing:
+
+<!-- 
+if we will _not_ maximize coupling in a slice that means we will not have control over the implementation of our dependencies, and the implementation might have code sharing in there (someday, if not today).
+ -->
+
+
+
+Ultimately, I think, the difference between Clean Architecture and Vertical Slice Architecture lies on their focus or aim:
+
+- Clean Architecture aims to separate the business rules from the I/O (thus the indirections)
+
+- Vertical Slice Architecture aims to separate the code by features, aiming to minimize code sharing between features.
+
+
+I think they are not necessarily mutually exclusive. I think you can combine them --- Clean Vertical Slice Architecture --- wherever your project and team might lead you to combine them, as long as you are aware of the tradeoffs of your chosen architecture, because, as Kent Beck says, there will always be [tradeoffs](https://twitter.com/kentbeck/status/702662471547355137?lang=en)...
+
+<a href="https://makeagif.com/gif/kent-becks-tradeoffs-ZULuNO" title="Kent Beck's tradeoffs"><img src="https://i.makeagif.com/media/5-20-2014/ZULuNO.gif" alt="Kent Beck's tradeoffs"></a>
+
+<small>_(I cannot find a Kent Beck quote on tradeoffs, so I will just put this related quote I found :smile:)_</small>
+
+> ["First you learn the value of abstraction, then you learn the cost of abstraction, then you're ready to engineer" --- Kent Beck](https://twitter.com/kentbeck/status/258316233068396544?lang=en)
+
+<!-- 
+
+In the example code above, the IStudentRepository, which is passed to the constructor of StudentCreateHandler, is an abstraction. There is value in abstraction. It makes you write code without trying to remember everything there is to remember about your system. But it does that for a cost --- You _might_ lose the control over "<strong><em>max</em></strong>imizing coupling in a slice". You _might_ not be able to control whether the concrete class which will implement IStudentRepository will have code sharing all over the place. You _might_ not ... But if you know where you are going, and your team knows where it is going, and you communicate your goals well to the next team who will be working on that project, then you can be able to get things under control, I believe.
+
+Here are my key takeaways:
+
+1. If I am trying to refactor an existing codebase which does not have unit tests, then I will make Vertical Slice Architecture as my goal.
+
+2. I I will be working on a new project, and my teammates does not want to write unit tests, then I will convince them to make Vertical Slice Architecture as our goal.
+
+3. 
+
+ -->
+
+One last thing... For now, I do not like using the MediatR library used in the example project (perhaps because I have not yet given much time to study how it works?). I would rather use the interfaces introduced by Steven van Deursen [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
+
+
+----------
+
+## More...
+
+Googling to understand more about this Vertical Architecture thing led me to this [youtube comment thread](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg) (I think it's good if conversations like this be not lost in the comments section of youtube, so I'm going to paste them here):
 
 > **Doormouse2:** 
 If you've had to cry with the Onion Architecture, you were doing it wrong.
@@ -81,7 +232,7 @@ On my experience, it makes a project look uglier to expert developers, because t
 <br /><br />
 But on the other [hand], ... **it's easier to new delevopers [to] understand the project and the components... they are not so afraid of changing something**... the projects have less bugs and are easier to find and fix it. 
 
-... The indirections in projects employing the Clean Architecture will confuse programmers who do not _yet_ understand the [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle). :smile:
+... The indirections in projects employing the Clean Architecture will confuse programmers who do not _yet_ understand the [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle). :smile: I think making beginning programmers understand the mindset behind Vertical Slice Architecture will help them stucture their code well even when they do not yet know much about architecture --- _"for now, it's okay to have duplicates in code, as long as there is very clear separation between features; we can refactor things later on when we already know how to refactor them"_.
 
 ----------
 
