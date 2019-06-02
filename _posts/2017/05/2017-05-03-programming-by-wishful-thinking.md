@@ -19,17 +19,19 @@ I then ask myself, _"At this layer in the app, how do I want my classes and meth
 Then I try to call functions (which are not yet implemented) with as little set of parameters as possible -- only those parameters that I think are needed at this particular point in the app.
 
 
-For example, at the level of the user interface (the Presenter, Controller, etc.), I start to write something like this:
+For example, at the level of the user interface (the Presenter, Controller, etc.), I start to call functions like this...
 
 ``` java
 bookmark(item); or item.bookmark();
 ```
 
-Or this
+... or this ...
 
 ``` java
 int steps = someObject.getNumberOfStepsFor(date);
 ```
+
+... even though they are not yet implemented.
 
 <!--
 <div class="message">
