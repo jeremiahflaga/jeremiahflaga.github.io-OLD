@@ -2,6 +2,7 @@
 layout: page
 title: Free Books
 permalink: /free-books/
+published: false
 ---
 
 
@@ -17,11 +18,11 @@ Enjoy!
 
 ### TDD books
 
-[Test-Driven Development: Extensive Tutorial](https://leanpub.com/tdd-ebook/read)
-
 [Bad Tests, Good Tests](http://practicalunittesting.com/btgt.php)
 
 [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
+
+[Test-Driven Development: Extensive Tutorial](https://leanpub.com/tdd-ebook/read)
 
 ### Other programming books
 
@@ -73,6 +74,8 @@ Competitive Programmer's Handbook by Antti Laaksonen
 ---
 
 ## Other books
+
+[Books by John Lennox](https://www.myrtlefieldhouse.com/en/book-series/encounters)
 
 [In the Beginning Was Information](https://answersingenesis.org/answers/books/in-beginning-was-information/) by Werner Gitt
 
