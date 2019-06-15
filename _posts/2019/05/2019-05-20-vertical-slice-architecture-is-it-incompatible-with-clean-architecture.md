@@ -8,13 +8,19 @@ date: 2019-05-20 7:20:00 AM UTC
 
 <!-- May 20, 2019 3:20:00 PM Philippine Time -->
 <!-- UPDATED: May 21, 2019 2:00:00 PM Philippine Time -->
+
+<!-- 
 <small>
 **_(Updated May 21, 2019: added more explanation about the difference between Vertical Slice Architecture and Clean Architecture)_**
 </small>
+ -->
 
 While browsing through Scott Hanselman's blog, I came accross [a post](https://www.hanselman.com/blog/ExampleCodeOpinionatedContosoUniversityOnASPNETCore20sRazorPages.aspx) where something called [_"Vertical Slice Architecture"_ by Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/) is mentioned. (Anything related to software architecture easily catches my attention these days :smile:) 
 
 I clicked on the [link](https://jimmybogard.com/vertical-slice-architecture/) and read the article...
+
+<!--more-->
+
 
 > A traditional layered/onion/clean architecture is monolithic in its approach...
 <br /><br />
@@ -23,10 +29,7 @@ I clicked on the [link](https://jimmybogard.com/vertical-slice-architecture/) an
 > The problem is this approach/architecture is... you start to get many abstractions around **concepts that really shouldn't be abstracted** (Controller MUST talk to a Service that MUST use a Repository).
 
 
-<!--more-->
-
-
-That diagram above is from Uncle Bob Martin's ["The Clean Architecture"](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) blog post! Is Jimmy Bogard critisizing Clean Architecture?
+That diagram above is from Uncle Bob Martin's ["The Clean Architecture"](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) blog post! Is Jimmy Bogard criticizing Clean Architecture?
 
 Hmmmm...
 
@@ -250,3 +253,46 @@ Reading more about Vertical Slice Architecture also led me to these very enlight
 > "Two simple interfaces will change the look of your architecture… forever." --- Steven van Deursen
 
 Enjoy!
+
+<!-- 
+----------
+
+<small>(Added on May 23, 2019)</small>
+
+## Blog posts of a fellow Filipino software developer, OJ Raqueño
+
+
+While googling for "vertical architecture in angularjs", I came across a blog post by a fellow Filipino developer
+
+http://www.ojdevelops.com/2017/09/vertical-slices-with-mediatr-part2.html
+
+
+
+
+
+I'm not sure why nationality matters so much today
+
+Why 
+
+Origin of 
+
+language barriers which, given my assumptions about the history of
+
+ -->
+
+
+----------
+
+**(Update: May 23, 2019)**
+
+While googling for "vertical architecture in angularjs", I came across a series of blog posts, OJ Raqueño, which will give you ideas on _why_ you should use Vertical Slice Architecture in your projects:
+
+- [The Tyranny of Horizontal Architectures (and How You Might Escape): Part 1](http://www.ojdevelops.com/2018/07/the-tyranny-of-horizontal-architectures.html)
+
+- [The Tyranny of Horizontal Architectures (and How You Might Escape): Part 2](http://www.ojdevelops.com/2018/07/the-tyranny-of-horizontal-architectures2.html)
+
+You might also be interested in these (from the same author):
+
+- [Vertical Slices Application Design with MediatR: Part 1](http://www.ojdevelops.com/2017/08/vertical-slices-with-mediatr.html)
+
+- [Vertical Slices Application Design with MediatR: Part 2](http://www.ojdevelops.com/2017/09/vertical-slices-with-mediatr-part2.html)
