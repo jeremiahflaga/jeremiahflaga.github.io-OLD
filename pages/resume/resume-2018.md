@@ -106,15 +106,17 @@ published: true
 
 [**Work Experience**](#work-experience)
 
-- [April 2012 - October 2012 <small>(6 months)</small> &rarr; .NET](#work-experience-1)
+- [April 2012 - October 2012 <small>(6 months)</small> &rarr; .NET](#work-experience-1-jairo)
 
-- [December 2012 - May 2016 <small>(3 years, 5 months)</small> &rarr; .NET, KnockoutJS, jQuery](#work-experience-2)
+- [December 2012 - May 2016 <small>(3 years, 5 months)</small> &rarr; .NET, KnockoutJS, jQuery](#work-experience-2-mynd)
 
 - [March 2-4, 2016 &rarr; Enlightenment Period](#enlightenment-period)
 
-- [October 2016 - May 2018 <small>(1 year, 7 months)</small> &rarr; Android](#work-experience-3)
+- [October 2016 - May 2018 <small>(1 year, 7 months)</small> &rarr; Android](#work-experience-3-mynd)
 
-- [June 2018 - Present &rarr; .NET (ASP.NET MVC, ASP.NET WebAPI)](#work-experience-4)
+- [June 4, 2018 - June 28, 2019 <small>(1 year, 1 month)</small> &rarr; .NET (ASP.NET MVC, ASP.NET WebAPI)](#work-experience-4-four13)
+
+- [July 1, 2019 - Present <small></small> &rarr; .NET](#work-experience-5-arcanys)
 
 [**I'm an Initiate; perhaps a beginning Codesmith**](#im-an-initiate)
 
@@ -346,7 +348,7 @@ published: true
 </h2>
 
 
-<h3 id="work-experience-1">
+<h3 id="work-experience-1-jairo">
   <strong>April 2012 - October 2012</strong> <small>(6 months)</small>
 </h3>
 
@@ -407,7 +409,7 @@ published: true
 
 
 
-<h3 id="work-experience-2">
+<h3 id="work-experience-2-mynd">
   <strong>December 2012 – May 2016</strong> <small>(3 years, 5 months)</small>
 </h3>
 
@@ -568,7 +570,7 @@ published: true
 
 
 <div>
-<h3 id="work-experience-3">
+<h3 id="work-experience-3-mynd">
   <strong>October 2016 – May 2018</strong> <small>(1 year, 7 months)</small>
 </h3>
 
@@ -653,9 +655,11 @@ published: true
 
 
 
+
+
 <div>
-<h3 id="work-experience-4">
-  <strong>June 2018 – Present</strong> <small></small>
+<h3 id="work-experience-4-four13">
+  <strong>June 4, 2018 – Jun 28, 2019</strong> <small>(1 year, 1 month)</small>
 </h3>
 
 <table class="resume">
@@ -665,7 +669,7 @@ published: true
       </td>
       <td>
         <p>
-          <strong>Software Developer for web using .NET and C# at <a href="http://www.four13group.com/">Four13 Group</a></strong> <small>(Home-based, Part-time, because I was also going to school during this time</small>
+          <strong>Software Developer for web using .NET and C# at <a href="http://www.four13group.com/">Four13 Group</a></strong> <small>(Home-based, Full-time on first three months, Part-time on the rest because I was also going to school during this time)</small>
         </p>
         <p>
           Added features and fixed bugs on an online store project which uses ASP.NET MVC
@@ -681,6 +685,42 @@ published: true
 </div>
 
 <small>[_^ back to Contents_](#contents)<small>
+
+
+
+
+
+
+<div>
+<h3 id="work-experience-5-arcanys">
+  <strong>July 1, 2019 – Present</strong> <small></small>
+</h3>
+
+<table class="resume">
+  <tbody>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p>
+          <strong>Software Developer, using .NET, at<a href="https://www.arcanys.com/">Arcanys</a></strong> <small></small>
+        </p>
+        <p>
+        -
+        </p>
+        <p>
+        -
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<small>[_^ back to Contents_](#contents)<small>
+
+
 
 
 

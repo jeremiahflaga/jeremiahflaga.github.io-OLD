@@ -29,9 +29,9 @@ So we actually moved to a model where we would split up our organization around 
 <br /><br />
 Featurized instead of platform driven approach (where we have android teams, ios teams, web teams)
 
-
-![Featurized Architecture](/images/2019/featurized-architecture-featurized-layers.png)
-
+<center>
+<img src="/images/2019/featurized-architecture-featurized-layers.png" alt="Featurized Architecture" >
+</center>
 
 Seems like what he calls "Featurized Architecture" is the same as what Jimmy Bogard calls "Vertical Slice Architecture". Only that in the project he was involved in, this Featurized thing has a larger scope because it involved vertical divisions in teams and not just vertical divisions in the codebase.
 
@@ -42,7 +42,7 @@ It seems like if a team employs this "Featurized" team structure then everyone h
 
 This "Featurized" approach is stuck in my mind because during the time I learned about this I was involved in a project where I was encountering bugs where I was not sure if the bug is coming from the API/backend side or from our side (the Android frontend).
 
-I was thinking, _"If only we had this featurized approach in our team I would have access to the codebase of the API/backend and I can easily see if the error is coming from there or not."_ :laughing:
+I was thinking, _"If only we had this featurized approach in our team I would have access to the codebase of the API/backend and I can easily see if the error is coming from there or not."_ :laughing: (My aim for wanting to look at the backend code was not to throw blames on the backend people of course. :laughing: It was to see if I can do something to help fix the problem.)
 
 
 [!["New API version" from CommitStrip](https://www.commitstrip.com/wp-content/uploads/2019/04/Strip-Ba-jte-lai-dit-650-finalenglishV3.jpg)](http://www.commitstrip.com/en/2019/04/10/new-api-version/)
@@ -52,4 +52,4 @@ I was thinking, _"If only we had this featurized approach in our team I would ha
 > "At the root of every seemingly technical problem is a human problem." - Eric Ries (from ["The Lean Startup"](https://www.bookdepository.com/Lean-Startup-Eric-Ries/9780670921607?a_aid=jflaga))
 
 
-
+:grin:

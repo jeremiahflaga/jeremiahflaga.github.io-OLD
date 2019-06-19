@@ -8,7 +8,9 @@ date: 2018-07-19 07:00:00 PM UTC
 
 <!-- July 20, 2018 03:00:00 AM Philippine Time -->
 
+<!-- 
 <small>_(NOTE: Updated Aug 4, 2018 so it will not sound angry or harsh :smile:)_</small>
+ -->
 
 > People ask, "What kind of a loving God could be filled with wrath.?"
 <br /><br />
