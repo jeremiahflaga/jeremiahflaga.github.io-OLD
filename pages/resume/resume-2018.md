@@ -2,7 +2,7 @@
 layout: page-with-no-comments
 title: R&eacute;sum&eacute;
 permalink: /resume/
-published: true
+published: false
 ---
 
 <style>
@@ -669,13 +669,13 @@ published: true
       </td>
       <td>
         <p>
-          <strong>Software Developer for web using .NET and C# at <a href="http://www.four13group.com/">Four13 Group</a></strong> <small>(Home-based, Full-time on first three months, Part-time on the rest because I was also going to school during this time)</small>
+          <strong>Software Developer for web using .NET and C# at <a href="http://www.four13group.com/">Four13 Group</a></strong> <small>(Home-based, Full-time on first three months, Part-time the following months until my resignation)</small>
         </p>
         <p>
           Added features and fixed bugs on an online store project which uses ASP.NET MVC
         </p>
         <p>
-          I also worked on a project which is a CMS for another online store. The project uses AngularJS (version 1) for their frontend and ASP.NET WebAPI for the backend.
+          I also worked on a project which is a CMS for another online store. The project uses AngularJS (version 1) for their frontend and ASP.NET Core WebAPI for the backend.
         </p>
       </td>
     </tr>
