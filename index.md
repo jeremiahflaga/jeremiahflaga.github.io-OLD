@@ -12,6 +12,8 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
+[Everyone is biased](/2019/06/27/everyone-is-biased-quotes/) <small>(June 27, 2019)</small>
+
 [Encountering "Vertical Slice Architecture"... Is it incompatible with Clean Architecture?](/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture/) <small>(May 20, 2019)</small>
 
 [What is MVC, MVP, and MVVM? What are their similarities? What are their differences?](/2019/05/10/mvc-mvp-mvvm/) <small>(May 10, 2019)</small>

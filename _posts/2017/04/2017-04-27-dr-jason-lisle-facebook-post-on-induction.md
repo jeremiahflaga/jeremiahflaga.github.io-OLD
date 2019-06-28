@@ -34,28 +34,28 @@ _They all go something like this:_
 
 
 <p class="quoted-text">
-<strong>Critic:</strong> “Lisle, you claim that the Bible alone can justify induction.  But you have been refuted many times.”
+<strong>Critic:</strong> "Lisle, you claim that the Bible alone can justify induction.  But you have been refuted many times."
 </p>
 
-**Lisle:** “Really?  Can you show some other worldview that can justify induction without begging the question?”
+**Lisle:** "Really?  Can you show some other worldview that can justify induction without begging the question?"
 
 <p class="quoted-text">
-<strong>Critic:</strong> “No.  But I don’t have to.”
+<strong>Critic:</strong> "No.  But I don’t have to."
 </p>
 
-**Lisle:** “You do if you want to refute my claim that the biblical worldview is the only one that can justify induction.  That was what you claimed has been refuted.”
+**Lisle:** "You do if you want to refute my claim that the biblical worldview is the only one that can justify induction.  That was what you claimed has been refuted."
 
 <p class="quoted-text">
-<strong>Critic:</strong> “No, you’re just wrong and have been refuted many times!”
+<strong>Critic:</strong> "No, you’re just wrong and have been refuted many times!"
 </p>
 
-**Lisle:** “Then it should be very easy for you to explain how some other worldview can account for induction.  Can you?”
+**Lisle:** "Then it should be very easy for you to explain how some other worldview can account for induction.  Can you?"
 
 <p class="quoted-text">
-<strong>Critic:</strong> “No but…”
+<strong>Critic:</strong> "No but…"
 </p>
 
-**Lisle:** “Thanks for playing.”
+**Lisle:** "Thanks for playing."
 
 Ironically, instead of refuting my position, these critics have pretty well verified it.  The more the God-haters yap against God, the more they demonstrate the truth of Romans 1:18-20.
 
@@ -91,24 +91,24 @@ Hi James,
 
 
 <p class="quoted-text">
-“1. What are necessary and sufficient conditions for Logic and induction, and how have you come aware of these?”
+"1. What are necessary and sufficient conditions for Logic and induction, and how have you come aware of these?"
 </p>
 
 We would need to have a good (non-arbitrary) objective reason to believe in the existence and properties of laws of logic, in a way that makes it possible for us to know that laws of logic do indeed have these properties – properties such as universality, invariance, without exceptions, accessible to the human mind, etc.   The biblical God satisfies these conditions as I show below, and I am aware of these things by God’s revelation.  
 
 <p class="quoted-text">
-“Essentially, why do they need a justification?”
+"Essentially, why do they need a justification?"
 </p>
 
 Every rational belief requires justification – that’s what ‘rational’ means.  It is dangerous to hold to beliefs that cannot be justified, because they are likely to be wrong, and wrong beliefs have adverse consequences.  Also, as Christians, we are morally obligated to be rational – to think in a way that is consistent with the character of God, and hence to have good reasons for our beliefs (Isaiah 55:7-8, 2 Corinthians 10:5, 1 Peter 3:15).
 
 <p class="quoted-text">
-“2. How does the Christian Worldview satisfy these conditions?”
+"2. How does the Christian Worldview satisfy these conditions?"
 </p>
 
 The laws of logic are rooted in the nature of God who has made Himself known to us by revelation.  For example, all truth is in God (Colossians 2:3, John 14:6), and God cannot deny Himself (2 Timothy 2:13), thus truth cannot contradict truth, and so there is necessarily a law of non-contradiction in the Christian worldview.  Laws of logic are absolute and exceptionless because God is sovereign over all creation and all truth claims (Isaiah 46:9-10; Colossians 2:3).  They are universal because God is omnipresent and His mind controls all creation (Jeremiah 23:24, Hebrews 1:3).  Laws of logic are invariant because God is beyond time and does not change (2 Peter 3:8, Malachi 3:6).  These laws of logic are accessible to the human mind because we are made in God’s image (Genesis 1:27) and God has commanded us to think in a way that is consistent with His nature (Isaiah 55:7-8).  Likewise, God has promised us uniformity in nature (Genesis 8:22) and since He is beyond time He is the only person who is in a position to know on His own authority.  
 
-That’s the short answer.  The details are in a book I wrote called “The Ultimate Proof of Creation.”  Blessings.
+That’s the short answer.  The details are in a book I wrote called "The Ultimate Proof of Creation."  Blessings.
 	
 
 
@@ -152,7 +152,7 @@ We are getting ahead of ourselves. Let's back up. Again, the question is two fol
 2. How does the christian world-view satisfy these necessary and sufficient conditions. 
 
 <p class="quoted-text">
-//That’s the short answer. The details are in a book I wrote called “The Ultimate Proof of Creation.” Blessings.// 
+//That’s the short answer. The details are in a book I wrote called "The Ultimate Proof of Creation." Blessings.// 
 </p>
 
 I have yet to read your book. So, if you answer the question in full in it, I'll be happy to purchase and read it ;)
@@ -166,50 +166,50 @@ I have yet to read your book. So, if you answer the question in full in it, I'll
 Hi James,
 
 <p class="quoted-text">
-> “Well, if they are grounded in God, then are either arbitrary, or the Laws of Logic are independent from God, and therefore, we come to the same grounding dilemma.”
+> "Well, if they are grounded in God, then are either arbitrary, or the Laws of Logic are independent from God, and therefore, we come to the same grounding dilemma."
 </p>
 
 
 I would say that is a bifurcation fallacy. Laws of logic reflect God’s thinking, and God necessarily thinks the way that He thinks. So they cannot be different because God cannot be different. But they still depend on Him. They cannot exist apart from God any more than your reflection in a mirror could exist apart from you. And your reflection in a mirror is not arbitrary.
 
 <p class="quoted-text">
-> “But I wasn't asking for the necessary properties for the Laws of Logic, but rather, what are the necessary and sufficient conditions for grounding them.”
+> "But I wasn't asking for the necessary properties for the Laws of Logic, but rather, what are the necessary and sufficient conditions for grounding them."
 </p>
 
 God is the necessary and sufficient condition for grounding them. The *reason* is that only the biblical God can account for the properties of laws of logic as they are.
 
 <p class="quoted-text">
-> “You are confusing how we can be epistemically rational in a belief with the belief's metaphysical grounding. My question is with regards to the latter.”
+> "You are confusing how we can be epistemically rational in a belief with the belief's metaphysical grounding. My question is with regards to the latter."
 </p>
 
 God is the metaphysical grounding for laws of logic. They reflect the nature of His thinking.
 
 <p class="quoted-text">
-> “Why do the Laws of Logic need a metaphysical grounding…”
+> "Why do the Laws of Logic need a metaphysical grounding…"
 </p>
 
 They do not account for their own properties. Laws of logic are conceptual – they exist in a mind. So whose mind do they reflect? Whose mind can account for the properties of laws of logic?
 
 <p class="quoted-text">
-> “and what are the necessary and sufficient conditions for the metaphysical grounding, if needed?”
+> "and what are the necessary and sufficient conditions for the metaphysical grounding, if needed?"
 </p>
 
 The biblical God. His mind is unchanging (accounting for the invariance of laws of logic), omniscient (accounting for the universal scope of laws of logic), and sovereign over all truth (accounting for the exception-less nature of laws of logic). 
 
 <p class="quoted-text">
-> “And how have you been made aware of them? “ 
+> "And how have you been made aware of them? " 
 </p>
 
 Revelation. God’s Word gives us all the information about God that we need to understand that He alone can account for the existence and properties of laws of logic. 
 
 <p class="quoted-text">
-> “How does the christian world-view satisfy these necessary and sufficient conditions.” 
+> "How does the christian world-view satisfy these necessary and sufficient conditions." 
 </p>
 
 It has the biblical God. No other worldview does. Hence, no other worldview has a rational metaphysical (or epistemological) grounding for laws of logic.
 
 <p class="quoted-text">
-> “I have yet to read your book. So, if you answer the question in full in it, I'll be happy to purchase and read it”
+> "I have yet to read your book. So, if you answer the question in full in it, I'll be happy to purchase and read it"
 </p>
 
 I think it would help. Blessings.
@@ -270,10 +270,72 @@ http://biblethumpingwingnut.com/2016/08/03/christianity-and-logic/
 
 
 
-### Dr. Lisle's reply to Tim Shaughnessy's Question
+### Dr. Lisle's reply #1 to Tim Shaughnessy's Question
 
 Hi Tim.  Revelation from God in Scripture is both how I can justify induction, and also how I can justify the biblical worldview being the only one that can do so.  In Proverbs 1:7 we read that the fear of the Lord is the beginning of knowledge.  So you cannot begin to know anything apart from a respectful submission to God, and therefore to biblical presuppositions.  Since all knowledge is in Christ (Colossians 2:3), we cannot have knowledge except by revelation from Christ, and thus the Christian worldview.  Yes, I think it's provable along those lines of thought, though it's not necessary from an apologetics perspective to do so since the non-Christian is never able to justify knowledge.  Of course, experience confirms this, when unbelievers cannot justify induction (or anything else really) on their own system.  God bless.
 
+
+#### Tim Shaughnessy reply #1
+
+@Jason Lisle Thanks for the reply... For what it's worth your book The Ultimate Proof of Creation was the book that got me into Presuppositional apologetics. In the book you referenced the great debate with Bahnsen and I then became a huge fan of Bahnsen. I have read most of your books and watched most of your lectures. I have learned so much from you and I really do thank God for you. As I said I didn't want to challenge you on here but rather just wanted to hear what you thought. Thanks again and God bless.
+
+...
+
+I would be willing to talk to you further. 
+To say that you can prove God by the impossibility of the "contrary" is wrong because contraries can both be false. 
+
+It would have to be the impossibility of the contradictory but even that has its propblems because you are trying to prove Christian theism not just theism in general. 
+There are potentially an infinite number of other theistic worldviews you would have to show as impossible if you were to prove Christianity true. 
+
+The Clarkian position take the Bible as axiomatic. As Clark said the Bible alone is the word of God. 
+
+I would encourage you to read Bahnsens criticism of Clark and read the articles I cited on the Trinity Foundation.
+
+#### Dr Jason Lisle's reply #2
+Hi Tim,
+
+<p class="quoted-text">
+> "To say that you can prove God by the impossibility of the "contrary" is wrong because contraries can both be false." 
+</p>
+
+Interestingly, when the word ‘contrary’ is preceded by the definite article ‘the’ (as in "the contrary") it takes on the meaning of "the opposite" which in logic would be the negation or the contradictory. So "the impossibility of the contrary" has the same meaning as "the impossibility of the negation" or "the impossibility of the contradictory." 
+
+<p class="quoted-text">
+> "It would have to be the impossibility of the contradictory but even that has its propblems because you are trying to prove Christian theism not just theism in general. "
+</p>
+
+I have never argued for general theism, only Christian theism. So the argument is a disjunctive syllogism with the first premise being: "either Christianity or not-Christianity." The second premise is "*not* not-Christianity", which is demonstrated by showing that not-Christianity (regardless of the specific flavor) leads to absurdity. Christianity is the necessary conclusion. 
+
+<p class="quoted-text">
+> "There are potentially an infinite number of other theistic worldviews you would have to show as impossible if you were to prove Christianity true."
+</p>
+
+They all have the same defect: they reject the *biblical* God and can never therefore account for the preconditions of intelligibility. 
+
+<p class="quoted-text">
+> "The Clarkian position take the Bible as axiomatic."
+</p>
+
+This is one place where I respectfully disagree with Clark. An axiom usually is defined to mean something that is unprovable, but is assumed or accepted for the sake of argument. The biblical worldview is a presupposition rather than an axiom. And some presuppositions are provable. I would argue that the Bible is provable and thus we can know for certain that it is true. The Bible itself asserts this in a number of ways (e.g. Acts 2:36, Genesis 15:13, Proverbs 22:20-21, Romans 1:20).
+
+<p class="quoted-text">
+> "As Clark said the Bible alone is the word of God."
+</p>
+
+Of course. The question is: how do we know this? How do we demonstrate it? How do we expose the unbeliever’s suppressed knowledge of God?
+
+<p class="quoted-text">
+> "I would encourage you to read Bahnsens criticism of Clark and read the articles I cited on the Trinity Foundation."
+</p>
+
+I have. Thanks.
+
+
+#### Tim Shaughnessy reply #2
+
+@Jason Lisle I very much appreciate the time you have taken here to reply. You are a personal hero of mine despite our disagreements on this issue. As a brother I don't wish to argue with you on your post and I am willing to forego a reply. I pray for your ministry and I recommend all of your stuff. I wish you the best.
+
+@Jason Lisle If a reply is welcomed and if there were an opportunity to discuss this further I would happy to participate. However, I do not want it to be seen as opportunistic and self-promoting.
 
 
 ### Bob Stenson reply to Tim Shaughnessy's Question

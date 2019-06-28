@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Everyone is biased"'
+title: 'Everyone is biased'
 categories: [Miscellaneous]
 tags: [Worldview]
 date: 2019-06-27 11:50:00 PM UTC
@@ -13,12 +13,15 @@ date: 2019-06-27 11:50:00 PM UTC
 <small>
 (This post was originally from the ["Memorabilia/Pages" section](/memorabilia/quotes/everyone-is-biased/) of this site.
 But I moved this to the blog section because I am going to discontinue the Pages section.
-I think the chronological/historical organization of things is a better way on this site/blog of mine because it can show that things change, and that people change, and that I change.)  :grin: 
+I think the chronological/historical organization of things is a better way of doing things on this site/blog of mine because it can clearly show that things change, and that people change, and that I change.)  :grin: 
 </small>
 </span>
 
 
 I'm a _biased_ person, and part of my set of biases is this: "**_everyone is biased_**, including you and me".<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> If you say that you are _not biased_, but _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone is biased).  :grin:
+
+<!--more-->
+
 
 On some issues, I think my set of biases on that issue is the best, [so I hold on to them tightly. But I'm still learning.](https://simpleprogrammer.com/2012/09/16/have-strong-convictions-but-hold-on-to-them-loosely/) I might change my mind on some issues later if I will be convinced that my biases on that issue are wrong.
 
