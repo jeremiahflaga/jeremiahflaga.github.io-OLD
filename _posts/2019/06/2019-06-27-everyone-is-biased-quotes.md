@@ -10,11 +10,11 @@ date: 2019-06-27 11:50:00 PM UTC
 <!-- pulished in blog (moved from pages section) in June 28, 2019 7:50:00 AM Philippine Time -->
 
 <span class="message">
-<small>
-(This post was originally from the ["Memorabilia/Pages" section](/memorabilia/quotes/everyone-is-biased/) of this site.
-But I moved this to the blog section because I am going to discontinue the Pages section.
+<small><small>
+(This post was originally from the [Memorabilia section](/memorabilia/quotes/everyone-is-biased/) of this site.
+But I moved this to the blog section because I am going to discontinue the Memorabilia section.
 I think the chronological/historical organization of things is a better way of doing things on this site/blog of mine because it can clearly show that things change, and that people change, and that I change.)  :grin: 
-</small>
+</small></small>
 </span>
 
 
@@ -124,7 +124,14 @@ Theory allow me to then interpret that data and make sense of it."
 > --- Dr. Peter Boettke (from Steve Patterson's ["Ep. 13 – Austrian Economics: Deduction, Logic, and Theory"](http://steve-patterson.com/ep-13-austrian-economics-deduction-logic-and-theory-dr-peter-boettke/))
 
 
+----------
 
+**Update (June 29, 2019):**
+
+I found this news on my facebook feed which might interest you: ["Secular researchers agree: worldviews control science!"](https://creation.com/secular-paper-worldviews-control-science?fbclid=IwAR3mtVfrrCjpClPM5gmvEBl3xJmunZ7gWI-D1rR9J8iIH6hnoA0TajMwl28)
+
+
+<br />
 
 ----------
 
