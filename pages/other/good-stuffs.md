@@ -226,6 +226,13 @@ The ["How to Win Friends and Influence People"](https://www.bookdepository.com/b
 
 ["Resolving the Liar's Paradox"](http://steve-patterson.com/resolving-the-liars-paradox/) by Steve Patterson
 
+
 <br />
 
+{% include jordan-peterson-free-speech-quote.md %}
+
+<br />
+
+<!-- 
 ## [Want some _good_ and free books?](/free-books/) 
+ -->

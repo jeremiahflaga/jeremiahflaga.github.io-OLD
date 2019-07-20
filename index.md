@@ -50,8 +50,14 @@ I'm also a TDD advocate, so I collected some [quotes about TDD](/memorabilia/quo
 _Enjoy!_
 
 
+<br />
+
 {% include christian.html %}
 
+
+{% include jordan-peterson-free-speech-quote.md %}
+
+<br />
 
 {% comment %} 
 <div class="hero">
