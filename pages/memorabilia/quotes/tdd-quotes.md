@@ -114,6 +114,18 @@ matter how pretty or object-oriented or well encapsulated it is.
 > TDD increases your production because it serves as a thinking-aid.  It limits back-tracking and gold-plating  and it reduces code-study and debugging.  Pairing increases your production for the very same reason.  Two developers together don’t type as fast as two developers separately, but we don’t care: **the bottleneck is the thinking, and pairing and TDDing both improve it.**
 
 
+### John Sonmez (from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))
+
+> ... the biggest benefit for me for doing test driven development that I found is **it helps you become better at writing good code**.
+<br /><br />
+The reason why this is true is because when you write the test first, it forces you to use the APIs of your code.  It forces you to use that production code so that influences you to make the structure of that code better for being used and to be more understandable.  When we just write a bunch of code first where you don’t think about how it’s going to be used, we are guessing at how people are going to use it or how easy this is going to be to use.  When you write unit test first and then you write the code to make those unit test pass, you’re basically starting out by defining the API which is really valuable for writing quality clear code that’s easy to understand.
+<br /><br />
+**Let me tell you what I think now.  I think now that test driven is like training wheels for writing good code.  It should be used in certain cases but not all the time.**
+
+> When you feel like tests aren’t adding value, this is my personal belief, stop writing those tests.  You want to be able to test code with your test driven development or when you’re writing a unit test that makes sense where it’s going to give you some value from doing that.  If you feel like it’s not creating value, stop doing it because chances are it’s not creating value.
+
+> Overall, with my view, I think test driven development is good.  It’s really, really good for beginners.  If you’re starting out you need to start practicing this in order to become better at development.  As you get more experience, you have to use your common sense.  You have to be pragmatic about it.  If you feel like the tests aren’t adding value or they’re just wasting time, then that might be true.
+
 
 
 ## Other useful TDD quotes
