@@ -1,8 +1,8 @@
 ---
 layout: post
-title: toinks!!! It seems like Micheal Feathers is backing out from the "Code without tests is bad code" statement of WELC... since 2011!
+title: Seems like Michael Feathers is saying it's sometimes okay to refactor even without tests!
 categories: [Programming]
-tags: [Vertical Slice Architecture, Featurized Architecture, Jimmy Bogard, Matthias Käppler]
+tags: [Michael Feathers]
 date: 2019-06-15 02:15:00 AM UTC
 published: false
 ---
@@ -11,12 +11,19 @@ published: false
 
 <!-- toinks!!! Micheal Feathers said, "WELC was fully ingrained in that 'if we don't have tests, we can't do much' attitude", last 2011! -->
 
+<!-- toinks!!! It seems like Micheal Feathers is backing out from the "Code without tests is bad code" statement from his book WELC! -->
 
-> "These days, I'm much more aggressive in my approach to old code.  WELC was fully ingrained in that "if we don't have tests, we can't do much" attitude.  I think that part of that was a sign of the times, and part of it was a reflection of my natural fear as a consultant.  You walk in and you don't know anything about the code base so you can't even come close to accurately assessing risk..."
+
+The book ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) of Michael Feathers was published in 2005. I bought a copy last 2017 because it is one of the books recommended by many respected software developers; and two out of three of the sofware projects I was involved in by that time
+
+
+
+
+> "These days, I'm much more aggressive in my approach to old code.  WELC was fully ingrained in that "if we don't have tests, we can't do much" attitude.  I think that part of that was a sign of the times, and part of it was a reflection of my natural fear as a consultant.  You walk in and you don't know anything about the code base so you can't even come close to accurately assessing risk. Nicely, though, people who are embedded in teams often can, and I've learned a lot from people who've tried things out long term in their code and have lived to tell the tale."
 <br /><br />
 Michael Feathers (in a blog post titled ["Brutal Refactoring"](https://michaelfeathers.typepad.com/michael_feathers_blog/2011/03/brutal-refactoring.html) last 2011!)
 
-
+toinks!!! It seems like Micheal Feathers is backing out from the "Code without tests is bad code" statement from his book ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga)... since 2011!
 
 <!--more-->
 
@@ -48,3 +55,4 @@ so it's okay to do these what they call "hacks" if one is new to a project and d
 
 
 
+scratch refactoring .. page 212

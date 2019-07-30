@@ -19,7 +19,7 @@ I consider Greg's lessons and blog posts on music as gems for self-taught hymn p
 
 I have watched many of his [free video lessons and blog posts on reharmonization](http://greghowlett.com/free-piano-lessons-and-arrangements-for-pianists?affid=5114) since the time I found his blog, and I started experimenting with the reharmonization ideas I learned, but I stopped about five years ago when I started working away from home where I do not have an access to a piano. :disappointed:
 
-But I'm going to start again this time. :grin:
+But I'm going to start again this time. I hope... :grin:
 
 
 ### Listed below are some of the reharmonization ideas I got from him.
