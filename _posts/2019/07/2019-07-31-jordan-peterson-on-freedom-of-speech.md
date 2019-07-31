@@ -3,11 +3,14 @@ layout: post
 title: 'Jordan Peterson on freedom of speech'
 categories: [Miscellaneous]
 tags: [Jordan Peterson]
-date: 2019-07-31 01:15:00 AM UTC
+date: 2019-07-31 02:55:00 PM UTC
 ---
 
 <!-- July 30, 2019 10:15:00 AM Philippine Time  -->
+<!-- Updated July 31, 2019 10:25:00 AM Philippine Time  -->
+<!-- Updated July 31, 2019 10:55:00 PM Philippine Time  -->
 
+I need to post something for July... so...
 
 I've been consuming a few Jordan Peterson videos lately. And this led me to this very very interesting, enlightening, and good [quote of his on free speech](https://en.wikiquote.org/wiki/Jordan_Peterson):
 
@@ -15,14 +18,18 @@ I've been consuming a few Jordan Peterson videos lately. And this led me to this
 
 <!--more-->
 
-He said that it's okay for our feelings to get hurt during this combat of words, because the alternative, which is actual combat, might kill you physically, which means you will not have time anymore to change your mind on things! Now, I see why there are some [criticisms to these so-called self-help books](https://albertmohler.com/2006/07/03/america-should-be-ashamed-of-sham-2/). I have read only a few self-help books but it seems to me that these books kind of teaches that offending other people through your words is _always_ a bad thing. _Always?_ Perhpas not always. Perhaps my unconscious is just exaggerating. :smile: I don't know... 
+He is saying that it's okay for our feelings to get hurt during this _combat of words_! Good, right? Because the alternative, which is actual combat, might kill you physically, which means you will not have time anymore to change your mind on things! Now, I see why there are some [criticisms to these so-called self-help books](https://albertmohler.com/2006/07/03/america-should-be-ashamed-of-sham-2/). I have read only a few self-help books but it seems to me that these books kind of teaches that offending other people through your words is _always_ a bad thing.(?)
 
-Well, about hurting people with words, it depends on the situation I guess. There are times where we do not need to hurt people with words, and there are times where we should. There are times where we are not supposed to be hurt with words, and there are times where we should. :disappointed: We're living in a fallen world you know... It's impossible not to get hurt... :disappointed: 
+_Always?_ 
 
-That's all there is to this post :smile: but...
+Perhpas not always. Perhaps my unconscious is just exaggerating. :smile:
+
+Well, about hurting people with words, it depends on the situation I guess. There are times where we do not need to hurt people with words, and there are times where we should. There were times where we're not supposed to be hurt with words, but we cannot change the past, so... :disappointed: We're living in a fallen world you know... It's impossible not to get hurt... :disappointed: 
+
+That's all there is to this post :grin: but...
 
 
-**Here are more quotes from some Jordan Peterson videos:**
+**here's a few quotes from some Jordan Peterson videos I've consumed:**
 
 ### from ["Be Dangerous But Disciplined - Jocko Willink & Jordan Peterson"](https://www.youtube.com/watch?v=a4PS_DhzyDg)
 
@@ -37,7 +44,7 @@ You make men safe by making them strong and by making sure they are disciplined.
 
 > A harmless man is not a good man. A good man is a very dangerous man who has that under voluntary control.
 
-<small>I'm not sure if that contradicts what Jesus said(?): "Be wise as serpents but harmless like a dove." Perhaps that statement is just a manifestation of Jordan Peterson's fears? I don't really know what Jordan Peterson's fears are (except one, which is that he fears being a what he calls "happy auschwitz guard")... but... I mean, we all have our set of fears, and it seems to me that we act, and encourage other people to act, so that those things we fear will never happen, or will never happen again. And I think this is what Jordan Peterson is doing with that statement.</small> :grinning:
+<small>I'm not sure if that contradicts what Jesus said(?): "Be wise as serpents but harmless like a dove." Perhaps that statement is just a manifestation of Jordan Peterson's fears? I don't really know what Jordan Peterson's fears are (except one, which is that he fears being a what he calls "happy auschwitz guard")... but... I mean, we all have our set of fears, and it seems to me that we act, and encourage other people to act, so that those things we fear will never happen, or will never happen again. And I think this is what Jordan Peterson is doing with that statement.</small>
 
 ### from ["The Importance of Having Thick Skin - Jocko Willink and Jordan Peterson"](https://www.youtube.com/watch?v=futHL4W4E4s)
 
@@ -58,7 +65,7 @@ You make men safe by making them strong and by making sure they are disciplined.
 
 > ... I think the nature of the interpretive framework is best understood at least in part as a personality or as a story for that matter.
 
-> <small>[01:12:00]</small>What's bad about hell in addition to the suffering? The actions that put you there. The malevolence that generates that.
+> <small>[01:12:00]</small> What's bad about hell in addition to the suffering? The actions that put you there. The malevolence that generates that.
 <br /><br />
 It's not part of the suffering. It's not the having your hand cut off. It's the pleasure that's derived by the person who cut it off. That's a different thing. The distinction is important.
 
@@ -73,8 +80,25 @@ It's not part of the suffering. It's not the having your hand cut off. It's the 
 
 > <small>[20:30]</small> ... because I don't think the abstract rationality in itself has enough flesh on it so to speak which is partly why in the  Christian ethic there is an emphasis that the word which is something akin to rationality has to be made flesh, has to be enacted.
 
+> <small>[01:24:30]</small> Whenever someone brings a primary orientation to the world that is group centered rather than individual centered I think they've already made a catastrophic mistake.
+
+> <small>[01:35:30]</small> Just because you're nice doesn't mean you're good...
+
+> <small>[01:48:30]</small> Empathy is not an untrammeled moral virtue. It has to be tempered by other virtues.
+
+> <small>[01:54:00]</small> Cynical is a move up on naïve but int's not the last move. The last move is to transcend cynicism.
+... I'm going to hand out my hand in trust because that's the best way to elevate both of us. And that is the prerequisite of a sensible discussion.
 
 
 
-more to come...
+### from ["Sam Harris, Jordan Peterson & Douglas Murray - London"](https://www.youtube.com/watch?v=aALsFhZKg-Q)
+
+> <small>[01:07:30]</small> I don't know why you expect to be sure about what someone believes. Do you think that anyone of you are capable of articulating what you believe?
+
+> <small>[01:20:30]</small> "... We may be in the midst of the discovery that the only thing worse than religion is its absence... Look at the religions people are making up as we speak. I mean, everyday there's a new dogma... Every new heresy that's invented; and they're not as well thought through as past heresies. They don't always have the bloody repercussions yet. But you can easily foresee a situation in which they do. A new religion is being created... by a new generation who think they are non-ideological, who think they're very rational, who think they're past myth, who think they're past story, who think they're better than any of their ancestors and have never bothered to even study their ancestors... Dogmatism of any kind has that danger... But the void also has a danger --- the void that you can create if you throw out all the stories that help you get to where you are also has this danger, because people come up with these new stories and every day's news now is about this..." --- Douglas Murray
+<br /><br />
+"... and what's flown in to fill the gaps seems to be something like a new tribalism..." - Jordan Peterson
+
+
+> Religion divides people, but it also unites people...
 
