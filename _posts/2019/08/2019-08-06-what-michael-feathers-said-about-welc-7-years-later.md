@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seems like Micheal Feathers is backing out from his "Code without tests is bad code" statement
+title: Is Micheal Feathers backing out from his <em>"Code without tests is bad code"</em> statement?
 categories: [Thoughts, Programming]
 tags: [Michael Feathers]
 date: 2019-08-06 12:40:00 PM UTC
