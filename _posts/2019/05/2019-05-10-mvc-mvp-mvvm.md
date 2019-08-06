@@ -29,9 +29,9 @@ _Go on... Read it!..._
 
 _Don't you think it is the best explanation of MVC, MVP, and MVVM? their similarities? and their differences?_
 
-I think it is the best explanation.
+<!-- I think it is the best explanation there is. -->
 
-I was not able to find this article when I was searching a few weeks ago for a good explanation of MVC, MVP, and MVVM. It does not show up in search engine results _perhaps_ because its title does not contain the words "MVC" and "MVP". I hope this blog post will _help_ search engines find this [article by Erwin van der Valk](https://blogs.msdn.microsoft.com/erwinvandervalk/2009/08/14/the-difference-between-model-view-viewmodel-and-other-separated-presentation-patterns/) and include it in their top results.
+I was not able to find this article when I was searching a few weeks ago for a good explanation of MVC, MVP, and MVVM. This article does not show up in search engine results _perhaps_ because its title does not contain the words "MVC" and "MVP" and "MVVM". I hope this blog post will _help_ search engines find this [article by Erwin van der Valk](https://blogs.msdn.microsoft.com/erwinvandervalk/2009/08/14/the-difference-between-model-view-viewmodel-and-other-separated-presentation-patterns/).
 
 Enjoy!
 
@@ -41,7 +41,7 @@ Enjoy!
 
 **Update (May 11 & 12, 2019):**
 
-That [image](https://i.stack.imgur.com/Y82D3.png) above first caught my attention because it puts in one picture some things that I already know about these presentation patterns:
+That [image](https://i.stack.imgur.com/Y82D3.png) above first caught my attention because it puts in one picture some things that I already know (some vaguely at least) about these presentation patterns:
 
 - The _MVC_ diagram seems to match how ASP.NET MVC works: the Controller uses the Model; the View also uses the Model; the Controller chooses what View to show the user; the View tells what Controller methods (or "action" methods) to invoke based on user gestures (for example, if a user clicks on a button in the View, it will invoke an "action" method in the Controller)
 - _MVP_ has two variants: Passive View and Supervising Controller
@@ -64,7 +64,7 @@ Let's look at that image again:
 
 Hmmmm...
 
-Also, the sample code for the Controller of MVC has the View passed into the constructor:
+Also, the sample code for the Controller of MVC has the View passed into the constructor...
 
 ```
    1: public class Controller
@@ -77,7 +77,7 @@ Also, the sample code for the Controller of MVC has the View passed into the con
    . . .
 ```
 
-That looks like a Presenter class in a project I was involved in before. It seems like I can just rename the "Controller" class into "Presenter" to transform it from MVC into MVP!
+... that looks like a Presenter class in a project I was involved in a few years ago. It seems like I can just rename the "Controller" class into "Presenter" to to be able to transform it from MVC to MVP!
 
 ```
    1: public class Presenter
@@ -93,11 +93,13 @@ That looks like a Presenter class in a project I was involved in before. It seem
 
 See!? :grin:
 
-These patterns look the same to me now... They look the same... Really, they do.
+These patterns look the same to me now... At least MVC and MVP... They look the same...
 
 I wonder if they are just the same pattern given different names by different people who encountered somewhat **_similar problems_**, but are living in different places from different times in history.
 
-_If_ they are all the same then that explains the confusion of many (including me) when reading stackoverflow answers to questions like _"What is the difference between MVC, MVP and MVVM?"_.
+Perhaps not. :smile:
+
+But _if_ they are all the same then that explains the confusion of many (including me) when reading stackoverflow answers to questions like _"What is the difference between MVC, MVP and MVVM?"_.
 
 Consider these images which I found being used to compare MVC, MVP and MVVM in [**an** answer to a stackoverflow question](https://stackoverflow.com/a/45850979/1451757):
 
@@ -138,9 +140,9 @@ And **every one of those can justifiably be called MVC**.
 
 Hmmmm...
 
-Perhaps they are all the same --- They are! --- _they separate the Presentation Logic from the View_. Perhaps the implementation in code will only differ due to some limitations or/and features of the UI framework that we use(?)
+Perhaps they are all the same --- They are in a sense! --- _they separate the Presentation Logic from the View_. Perhaps the implementation in code will only differ due to some limitations or/and features of the UI framework that we use(?)
 
-This gets me into thinking that if we are employing a Presentation Pattern in our application, perhaps it's best if we just call it _MVCPVM_ (or something like that) :grinning: instead of MVC or MVP. And if a new team member asks _"What is MVCPVM?"_ then we just let him see our code and show him **_"how the components communicate"_**, and that **_"we intend to separate the Presentation Logic from the View"_**... because if we tell him _"We are using MVC!"_ (or _"We are using MVP!"_), he might already have a different understanding of what MVC (or MVP) is than how we do it in our codebase. And if he studies our codebase and comments _"I don't think that's MVC (or MVP)"_, ... there will be war.  :laughing: 
+This gets me into thinking that if we are employing a Presentation Pattern in our application, perhaps it's best if we just call it _MVCPVM_ (or something like that) :grinning: instead of MVC or MVP. And if a new team member asks _"What is MVCPVM?"_ then we just let him see our code and show him **_"how the components communicate"_**, and that **_"we intend to separate the Presentation Logic from the View"_**... because if we tell him _"We are using MVC!"_ (or _"We are using MVP!"_), he might already have a different understanding of what MVC (or MVP) is than how we do it in our codebase. And if he studies our codebase and comments _"I don't think that's MVC (or MVP)"_ there will be war.  :laughing: 
 
 
 <!--

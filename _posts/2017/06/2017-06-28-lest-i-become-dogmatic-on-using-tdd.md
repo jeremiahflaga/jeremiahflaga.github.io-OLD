@@ -28,7 +28,7 @@ Of course not! I believe that that will cause a disaster --- a hatred for TDD; a
 
 Very bad. TDD is supposed to be fun!
 
-Should we _force_ someone to pair program when he is not comfortable about doing it?
+Should we _force_ someone to pair program when he is not comfortable doing it?
 
 Of course not.
 
@@ -40,7 +40,7 @@ Ummmm... I don't know. :smile:
 
 But, I think, the _forcing_ thing is not necessary. We can try to say, _"our masters discovered some things that helped them do their work better; should we try to do these things and see if they will also work for us?"_
 
-I think this matches with what Woody Zuill, my new a-hero, believes: **_"The people doing the work can best determine how to do that work"_**
+I think this matches with what Woody Zuill, my new a-hero, believes: [**_"The people doing the work can best determine how to do that work"_**](https://youtu.be/sLEsWB1wZMA?t=1353)
 
 These _good_ practices discovered by our masters might not always work for everyone everytime everywhere. --- So, **lest I become dogmatic on using TDD** (and the other great software development practices that our masters are promoting), and be hated by many for doing so :laughing:, I'm going to post here some statements I recently read and heard, which, I hope, will serve as reminders for my future self not to be dogmatic on things I should not be dogmatic of.
 
@@ -109,7 +109,7 @@ But I'm still going to write that post... :smiling_imp: :stuck_out_tongue: (not 
 
 ## tldr;
 
-I still believe that TDD can save us from lots of troubles. :smile: But being dogmatic about it _might_ bring more troubles; more resistance.
+I still believe that TDD can save us from lots of troubles. :smile: But being dogmatic about it _might_ bring more troubles; more resistance...
 
 
 
@@ -126,8 +126,8 @@ Nganong ni-inter!
 **Footnotes:**
 
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> 
-<small>I think I am more inclined to support those who _limit_ than those who _promote_  such liberties.</small>
+<small>At this moment, I am more inclined to support those who _limit_ than those who _permit_ such liberties, because I grew up in a conservative kind of Christian home.</small>
 
 <sup id="footnote-2">[[2]](#footnote-indicator-2)</sup> 
-<small>One example of something Christians might not know for sure in this life is the answer to the question _"why does evil exists?"_ But if we plan to reject Christianity only because it cannot have a _sure_ answer to the _question of evil_, we first have to ask these kinds of questions: What is evil? Is murder evil? Why is murder evil? Is it possible for murder not to be evil in the future? Is murder evwed from the Christian worldview!
+<small>One example of something Christians might not know for sure in this life is the answer to the question _"why does evil exists?"_ But if we plan to reject Christianity only because it cannot have a _sure_ answer to the _question of evil_, we first have to ask these _kinds_ of questions: What is evil? Is murder evil? Why is murder evil? Is it possible for murder not to be evil in the future? Is murder viewed as evil in the Christian worldview?
 </small>

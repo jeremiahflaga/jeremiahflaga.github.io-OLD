@@ -17,11 +17,11 @@ The book title ["Growing Object Oriented Software Guided by Tests"](https://www.
 
 <!--more-->
 
-[One of the reviews that I found was Steve Smith's.](http://ardalis.com/growing-object-oriented-software-guided-by-tests-book-review) I was a .NET developer si his name is familiar to me _(I think his name is famous in the .NET world)_.
+[One of the reviews that I found was Steve Smith's.](http://ardalis.com/growing-object-oriented-software-guided-by-tests-book-review) I was a .NET developer so his name is familiar to me _(I think his name is famous in the .NET world)_.
 
 One thing from the review that made me interested about the book is this quote:
 
-> “We value code that is easy to maintain over code that is easy to write.”
+> "We value code that is easy to maintain over code that is easy to write."
 
 Another thing is the part where Steve Smith disagrees with the authors of the book:
 

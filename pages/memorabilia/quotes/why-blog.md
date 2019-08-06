@@ -32,3 +32,18 @@ The more you write, the better of a communicator you’ll become in general.
 Blogging also helps you keep track of your own career and progress, as well as provides some historical documentation and reference material which you can look back on to see how you solved a particular problem in the past.
 
 (I hope I will become a very good communicator :smile:)
+
+
+
+
+----------
+
+Aug 08, 2019 03:57 PM (PHT)
+
+While googling for "I may never know until I read":
+
+"I never know what I think about something until I read what I've written on it." --- [William Faulkner](https://www.goodreads.com/quotes/32147-i-never-know-what-i-think-about-something-until-i)
+
+
+"I write because I don't know what I think until I read what I say." --- [Flannery O'Connor](https://www.goodreads.com/quotes/315733-i-write-because-i-don-t-know-what-i-think-until)
+
