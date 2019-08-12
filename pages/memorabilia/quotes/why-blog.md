@@ -9,11 +9,13 @@ permalink: /memorabilia/quotes/why-blog/
 
 > "Write about what you are doing. When you face a tough problem in your work then you find a breakthrough, it’s probably something others will face. Blog about it." - Vaughn Vernon
 
-### Sandro Mancuso (page 47 of ["The Software Craftsman"](http://www.informit.com/articles/article.aspx?p=2273071&seqNum=2))
+### Sandro Mancuso (page 47 of ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga))
 
-> All software developers should have their own blogs, regardless of how much experience they have. We should all share our experiences and findings and help to create a great community of professionals. Sometimes we may think that we are not good enough or do not have much to say. We may think that we don’t have an original idea and no one will read our blog anyway. 
+<<small>(Chapter 4 is also published [here](http://www.informit.com/articles/article.aspx?p=2273071&seqNum=2)</small>
+
+> ... do not think that just experienced professionals should write blogs. All software developers should have their own blogs, regardless of how much experience they have. We should all share our experiences and findings and help to create a great community of professionals. Sometimes we may think that we are not good enough or do not have much to say. We may think that we don’t have an original idea and no one will read our blog anyway. 
 <br /><br />
-First of all, we should treat our blog as a record of our own learning and progression — a history of our thoughts, ideas, and views of the world over our careers. We should not worry too much about what other people will think about it. We should first write it for ourselves. Even if developers more experienced than us have written about the subject many times before, it is worth writing whatever we are currently learning anyway. Every year there are thousands of new developers joining our industry and they will need to learn many of the things we are learning now. **Maybe for them, our blogs will be very useful since we will be writing them from the perspective of a beginner.** 
+First of all, **we should treat our blog as a record of our own learning and progression — a history of our thoughts, ideas, and views of the world over our careers. We should not worry too much about what other people will think about it.** We should first write it for ourselves. Even if developers more experienced than us have written about the subject many times before, it is worth writing whatever we are currently learning anyway. Every year there are thousands of new developers joining our industry and they will need to learn many of the things we are learning now. **Maybe for them, our blogs will be very useful since we will be writing them from the perspective of a beginner.** 
 <br /><br />
 **Do not worry about being judged by more senior developers because that is not going to happen.** Whenever we Google for something and the first link we click leads to something we already know, we just jump to the next link. All developers should appreciate the effort that other developers make to write and share their views with the rest of the world, for free.
 
@@ -32,7 +34,6 @@ The more you write, the better of a communicator you’ll become in general.
 Blogging also helps you keep track of your own career and progress, as well as provides some historical documentation and reference material which you can look back on to see how you solved a particular problem in the past.
 
 (I hope I will become a very good communicator :smile:)
-
 
 
 

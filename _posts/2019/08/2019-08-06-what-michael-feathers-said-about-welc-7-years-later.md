@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Micheal Feathers backing out from his <em>"Code without tests is bad code"</em> statement?
+title: 'Is Micheal Feathers backing out from his <em>&quot;Code without tests is bad code&quot;</em> statement?'
 categories: [Thoughts, Programming]
 tags: [Michael Feathers]
 date: 2019-08-06 12:40:00 PM UTC
@@ -40,14 +40,14 @@ _Is he?_
 
 <small>(To me, after reading the book, that statement meant _"you should not do much refactoring if you do not have tests in place to show that your refactorings did not break anything"_)</small>
 
-You know, I'm interested about things like this because at this moment I have been convinced that [TDD is a very useful discipline for programmers](/memorabilia/quotes/tdd/) (even though I have not yet used it in a real world project :grin:). And as a corollary to that, I am also convinced that doing things that can make us introduce TDD in a existing project later on --- things such as writing tests and refactoring an existing code base to make it more testable (and readable, of course) --- is very useful and extremely helpful to software developers who are and will be working on that project. <small>(I think they are useful not only at work but also in life outside of work --- in life as a whole.)</small>
+You know, I'm interested about things like this because at this moment I have been convinced that [TDD is a very useful discipline for programmers](/memorabilia/quotes/tdd/) (even though I have not yet used it in a real world project :grin:, partly because I have never been invovled yet in starting a project from scratch at work). And as a corollary to that, I am also convinced that doing things that can make us introduce TDD in a existing project later on --- things such as writing tests for and refactoring an existing code base to make it more testable (and readable, of course) --- is very useful and extremely helpful to software developers who are and will be working on that project. <small>(I think they are useful not only at work but also in life outside of work --- in life as a whole.)</small>
 
-And because of that, I am very interested in knowing if there are some [what I consider] _master_ developers, one of which is Michael Feathers, who have [_apostasized_](https://www.askdifference.com/apostatize-vs-apostasize/) from that kind of mindset. Because if someone did, it also means rethinking my stand on some things.
+And because of that, I am very interested in knowing if there are some [what I consider] _master_ developers, one of whom is Michael Feathers, who have [_apostasized_](https://www.askdifference.com/apostatize-vs-apostasize/) from that kind of mindset. Because if someone did, that means it's time to rethink my stand on some things.
 
 
 So, back to the quote...
 
-_It seems to me_ that he is saying that it's okay for me to refactor my code base even when I do not have automated tests to show that my refactorings did not break anything, as long as I am already familiar with the code base! (_Is he?_) If that is the case, then, Yehey! I have been doing that before I had read WELC. But after reading the Preface of WELC, which says this, ...
+_It seems to me_ that he is saying that it's okay for me to refactor my code base even when I do not have automated tests to show that my refactorings did not break anything, _as long as_ I am already familiar with the code base! (_Is he? Or is it just me?_) If that is the case, then, Yehey! That's the kind of mindset I had before reading WELC. But after reading WELC, whose Preface says this, ...
 
 > "**Code without tests is bad code.** It doesn't matter how well written it is; it doesn't
 matter how pretty or object-oriented or well encapsulated it is.
@@ -56,7 +56,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 ..., I feel somewhat guilty when refactoring without tests.
 
-But even after reading WELC I still kept on doing that --- refactoring without tests (with a bit of guilt of course) --- because changing existing code with the goal of making it testable is a skill that cannot be learned over night. It takes time.
+But even after reading WELC I still kept on doing that :grin: --- refactoring without tests (with a bit of guilt of course) --- because changing existing code with the goal of making it testable is a skill that cannot be learned over night. It takes time to learn it.
 
 <!-- 
 And in a previous project I was involved in, I tried to do some changes to mold the project into something that is testable, but I encountered some obstacles which made me abandon the endeavor. <small>(_Did you encounter obstacles or did you become lazy?_ I can't remember anymore; or don't want to. :grin:)</small>

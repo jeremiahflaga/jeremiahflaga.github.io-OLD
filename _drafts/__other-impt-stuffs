@@ -8,6 +8,11 @@ HTML question mark (?)
 HTML for apostrophe
 &#39;
 
+HTML for double quote
+&#34;
+&quot;
+
+
 HTML for n and N with tilde
 &ntilde;
 &Ntilde;

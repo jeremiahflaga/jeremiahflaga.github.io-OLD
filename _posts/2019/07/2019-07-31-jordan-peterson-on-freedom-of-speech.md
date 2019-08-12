@@ -22,14 +22,14 @@ He is saying that it's okay for our feelings to get hurt during this _combat of 
 
 _Always?_ 
 
-Perhpas not always. Perhaps my unconscious is just exaggerating. :smile:
+Perhaps not always. Perhaps my unconscious is just exaggerating. :smile:
 
-Well, about hurting people with words, it depends on the situation I guess. There are times where we do not need to hurt people with words, and there are times where we should. There were times where we're not supposed to be hurt with words, but we cannot change the past, so... :disappointed: We're living in a fallen world you know... It's impossible not to get hurt... :disappointed: 
+Well, about hurting people with words, it depends on the situation I guess. There are instances where we do not need to hurt people with words (but we did :disappointed:), and there are times where we should (and we did not?). There were times where we're not supposed to be hurt with words, but we cannot change the past, so... :disappointed: We're living in a fallen world you know... It's impossible not to get hurt... :disappointed: 
 
 That's all there is to this post :grin: but...
 
 
-**here's a few quotes from some Jordan Peterson videos I've consumed:**
+**here's a few quotes from some videos and texts I've consumed where Jordan Peterson is involved in:**
 
 ### from ["Be Dangerous But Disciplined - Jocko Willink & Jordan Peterson"](https://www.youtube.com/watch?v=a4PS_DhzyDg)
 
@@ -44,7 +44,7 @@ You make men safe by making them strong and by making sure they are disciplined.
 
 > A harmless man is not a good man. A good man is a very dangerous man who has that under voluntary control.
 
-<small>I'm not sure if that contradicts what Jesus said(?): "Be wise as serpents but harmless like a dove." Perhaps that statement is just a manifestation of Jordan Peterson's fears? I don't really know what Jordan Peterson's fears are (except one, which is that he fears being a what he calls "happy auschwitz guard")... but... I mean, we all have our set of fears, and it seems to me that we act, and encourage other people to act, so that those things we fear will never happen, or will never happen again. And I think this is what Jordan Peterson is doing with that statement.</small>
+<small>I'm not sure if that contradicts what Jesus said(?): "Be wise as serpents but harmless like a dove." I think not, because as Dr. Petersons says, one can be dangerous but disciplined, which means that one still acts as someone who is harmless. Perhaps that statement of Dr. Peterson is just a manifestation of his fears? I don't really know what Jordan Peterson's fears are (except one, which is that he fears being a what he calls "happy auschwitz guard")... but... I mean, we all have our set of fears, and it seems to me that we act, and encourage other people to act, so that those things we fear will never happen, or will never happen again. And I think this is what Jordan Peterson is doing with that statement.</small>
 
 ### from ["The Importance of Having Thick Skin - Jocko Willink and Jordan Peterson"](https://www.youtube.com/watch?v=futHL4W4E4s)
 
@@ -101,4 +101,13 @@ It's not part of the suffering. It's not the having your hand cut off. It's the 
 
 
 > Religion divides people, but it also unites people...
+
+
+
+### from ["Jordan Peterson: 'The pursuit of happiness is a pointless goal'"](https://www.theguardian.com/global/2018/jan/21/jordan-peterson-self-help-author-12-steps-interview) by Tim Lott
+
+> Peterson talks a lot about the power of resentment in his writings. We hate those who are better than us (God, Abel) and want to destroy them, then lie to hide from the consequences. "Consult your resentment," he says. "It is revelatory. Don't underestimate malevolence and don't underestimate the utility of your capacity for malevolence. If you're weak, you should turn yourself into a monster. It's a funny thing, that 'monster' is better than 'nice'. But it's not as good as 'not monstrous'. And that's the next thing to achieve. But cowering in your basement resenting everyone is the real pathway to darkness.
+<br /><br />
+"You have to notice when you're feeling homicidal. Let's say you go to work and someone bullies you. If you notice, you're fantasising some pretty nasty stuff. That tells you two things. The first is that you're not as nice as you think. And the corollary of that is, you're not as useless as you think."
+
 

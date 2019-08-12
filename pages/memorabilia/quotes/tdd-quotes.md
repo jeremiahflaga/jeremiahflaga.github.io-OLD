@@ -128,6 +128,16 @@ The reason why this is true is because when you write the test first, it forces 
 
 
 
+### Sandro Mancuso (from page 100 of ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga))
+
+> Although TDD has "test" in its name, TDD is actually a design practice. **When test-driving our code, it becomes very difficult to write complex code.** First, because we write just enough code to satisfy the requirements --- represented as tests --- we discourage overengineering and big design up front (BDUF). Second, whenever our code becomes a bit too complex and bloated, it also becomes difficult to test. Complexity in our code and bad design choices are highlighted by the complexity in maintaining and writing new tests. These tests lead us to re-analyze the design of our code and refactor to make it simpler.
+
+
+
+
+
+
+
 ## Other useful TDD quotes
 
 
