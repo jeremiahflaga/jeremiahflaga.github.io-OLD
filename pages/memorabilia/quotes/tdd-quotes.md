@@ -6,6 +6,26 @@ tags: [TDD]
 permalink: /memorabilia/quotes/tdd/
 ---
 
+Through Uncle Bob Martin's charismatic presentations on TDD, I had been convinced (and is still am) that TDD is the way to go for programmers who want to have control over their software (instead of their software controlling them).
+
+But because I have not yet experienced using TDD in a real world project, and I am barely writing automated tests in the projects I have been involved in, I have to back off a little bit from that _belief_, because as what [Jordan Peterson](https://www.goodreads.com/quotes/9237559-you-can-only-find-out-what-you-actually-believe-rather) is saying, _"You can only find out what you actually believe (rather than what you think you believe) by watching how you act."_ :grin: And at the moment I think I'm not acting like I truly believe that TDD can help me.
+
+For now, I will just hold the same position as John Sonmez has on TDD:
+
+> ... the biggest benefit for me for doing test driven development that I found is **it helps you become better at writing good code**.
+<br /><br />
+**Let me tell you what I think now. I think now that test driven is like training wheels for writing good code.** It should be used in certain cases but not all the time.
+<br /><br />
+> Overall, with my view, I think test driven development is good. It’s really, really good for beginners. If you’re starting out you need to start practicing this in order to become better at development. As you get more experience, you have to use your common sense. You have to be pragmatic about it. If you feel like the tests aren’t adding value or they’re just wasting time, then that might be true.
+<br /><br />
+> --- John Sonmez (from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))
+
+
+
+-----
+
+## Original contents
+
 I believe, like [Uncle Bob Martin does](http://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html), that, _today_, TDD (or Test-Driven Development) is one of the hallmarks of professionalism in the software development world.
 
 So I would like to convince myself and my fellow software developers to embrace TDD. :smile:
