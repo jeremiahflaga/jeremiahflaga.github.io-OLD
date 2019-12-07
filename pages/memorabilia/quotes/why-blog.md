@@ -5,13 +5,14 @@ permalink: /memorabilia/quotes/why-blog/
 ---
 
 
+
 ### Vaughn Vernon has this to say to the question "Do you have any recommendations for newbie blog writers?" in the [comments section of one of his articles](https://vaughnvernon.co/?p=879#comment-1938):
 
 > "Write about what you are doing. When you face a tough problem in your work then you find a breakthrough, it’s probably something others will face. Blog about it." - Vaughn Vernon
 
 ### Sandro Mancuso (page 47 of ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga))
 
-<<small>(Chapter 4 is also published [here](http://www.informit.com/articles/article.aspx?p=2273071&seqNum=2)</small>
+<small>(Chapter 4 is also published [here](http://www.informit.com/articles/article.aspx?p=2273071&seqNum=2)</small>
 
 > ... do not think that just experienced professionals should write blogs. All software developers should have their own blogs, regardless of how much experience they have. We should all share our experiences and findings and help to create a great community of professionals. Sometimes we may think that we are not good enough or do not have much to say. We may think that we don’t have an original idea and no one will read our blog anyway. 
 <br /><br />
@@ -39,9 +40,12 @@ Blogging also helps you keep track of your own career and progress, as well as p
 
 ----------
 
-Aug 08, 2019 03:57 PM (PHT)
+## Some quotes on writing
 
-While googling for "I may never know until I read":
+<!-- Aug 08, 2019 03:57 PM (PHT)
+
+While googling for "I may never know until I read": 
+-->
 
 "I never know what I think about something until I read what I've written on it." --- [William Faulkner](https://www.goodreads.com/quotes/32147-i-never-know-what-i-think-about-something-until-i)
 

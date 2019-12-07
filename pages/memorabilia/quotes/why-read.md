@@ -22,6 +22,12 @@ Reading blog posts like this one is a baby step: hopefully it'll help a bit, but
 **Being willing to read is a superpower in our industry. It really is.**
 
 
+### Ed
+<small>(from [Promiscuous Reading
+](https://truefreedomtrust.co.uk/promiscuous-reading))</small>
+
+"Reading allows you to get into someone else’s heart and mind in a way that few other things do." --- Ed
+
 
 ## What to read...
 
