@@ -12,7 +12,7 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
-["Why blog?"](/2019/12/07/why-blog) <small>(December 7, 2019)</small>
+[Why blog?](/2019/12/07/why-blog) <small>(December 7, 2019)</small>
 
 [Everyone is biased](/2019/06/27/everyone-is-biased-quotes/) <small>(June 27, 2019)</small>
 
@@ -47,7 +47,7 @@ I also like writing about stuffs that I learned recently, and about some thought
 -----
 
 
-I'm also a TDD advocate, so I collected some [quotes about TDD](/memorabilia/quotes/tdd/).
+I'm also a learn-a-little-bit-of-TDD advocate, so I collected some [quotes about TDD](/memorabilia/quotes/tdd/).
 
 _Enjoy!_
 

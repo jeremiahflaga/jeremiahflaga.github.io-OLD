@@ -6,9 +6,9 @@ tags: [TDD]
 permalink: /memorabilia/quotes/tdd/
 ---
 
-Through Uncle Bob Martin's charismatic presentations on TDD, I had been convinced (and is still am) that TDD is the way to go for programmers who want to have control over their software (instead of their software controlling them).
+Through Uncle Bob Martin's charismatic presentations on TDD, I had been convinced (and is still am) that TDD is a very important practice for programmers who want to have control over their software (instead of their software controlling them).
 
-But because I have not yet experienced using TDD in a real world project, and I am barely writing automated tests in the projects I have been involved in, I have to back off a little bit from that _belief_, because as what [Jordan Peterson](https://www.goodreads.com/quotes/9237559-you-can-only-find-out-what-you-actually-believe-rather) is saying, _"You can only find out what you actually believe (rather than what you think you believe) by watching how you act."_ :grin: And at the moment I think I'm not acting like I truly believe that TDD can help me.
+But because I have not yet experienced using TDD in a real world project, and I am barely writing automated tests in the projects I have been involved in, I have to back off a little bit from that _belief_, because as what [Jordan Peterson](https://www.goodreads.com/quotes/9237559-you-can-only-find-out-what-you-actually-believe-rather) is saying, _"You can only find out what you actually believe (rather than what you think you believe) by watching how you act."_ :grin: And at the moment, I think I'm not acting the way I'm supposed to act if I truly am a TDD advocate.
 
 For now, I will just hold the same position as John Sonmez has on TDD:
 
