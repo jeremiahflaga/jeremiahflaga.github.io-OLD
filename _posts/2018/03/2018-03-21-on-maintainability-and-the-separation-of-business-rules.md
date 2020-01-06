@@ -66,7 +66,7 @@ And, most important of all (at least during my early years as a programmer), I h
 
 This experience gave me another thing to google for when deciding on how to structure my projects --- [_"How do I structure a DDD prroject?"_](https://www.google.com.ph/search?q=How+do+I+structure+a+DDD+prroject)
 
-Then... came... Uncle Bob Martin... with his [charismatic presentations of **_Clean Architecture!_**](2017-04-15-agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote) He suggests _(preaches even)_ that we keep our _business rules_ separate from the UI, from the database, from the web! And he gave a [sample diagram on how to do it.](/images/2017/CleanArchitectureDesignByUncleBobMartin.png) (You can know more about this diagram in the links I will give below.)
+Then... came... Uncle Bob Martin... with his [charismatic presentations of **_Clean Architecture!_**](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote) He suggests _(preaches even)_ that we keep our _business rules_ separate from the UI, from the database, from the web! And he gave a [sample diagram on how to do it.](/images/2017/CleanArchitectureDesignByUncleBobMartin.png) (You can know more about this diagram in the links I will give below.)
 
 This is what I consider my **_enlightnment_** on how to structure software projects so that they will be maintainable --- in my understanding, you just **make sure that the _business rules_ do not rely on things it should not rely on**, such as the I/O devices... that's it.
 
