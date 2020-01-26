@@ -10,7 +10,9 @@ date: 2019-08-12 08:55:00 PM UTC
 <!-- Aug 13, 2019 04:55:00 AM Philippine Time -->
 
 
-[Arcanys](https://www.arcanys.com), the company I currently work for, has this mini-library, which is great because I don't have to buy some very good books to be able to read them. I can just borrow frou our library. A few weeks ago I borrowed the book ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga). Here are some quotes from the book:
+[Arcanys](https://www.arcanys.com), the company I currently work for, has this mini-library, which is great because I don't have to buy some very good books to be able to read them. I can just borrow from our library. 
+
+A few weeks ago I borrowed the book ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga). Here are some great quotes from the book:
 
 ## Part I
 
@@ -83,7 +85,7 @@ world, for free.
 
 > It is not difficult to bring a culture of learning into an organization. The only thing needed is a passionate developer willing to start it. Stop finding excuses and be this developer.
 
-<small>_(I have an excuse: quoting these quotes here so that you, the one reading this, will have no excuse. :smiling_imp:)_</small>
+<small>_(I have an excuse: writing these quotes here so that you, the one reading this, will have no excuse. :smiling_imp:)_</small>
 
 > Many developers suffer from what Kent Beck calls **_adolescent surety_**. They think they have the secret formula for delivering great software and nothing else is worth considering.
 
@@ -107,7 +109,7 @@ world, for free.
 <br /><br />
 As craftsmen, we should not believe that TDD and all the XP practices are the best practices we will ever have...
 <br /><br />
-Don't call people unprofessional just because they don't use certain practices. Ask them what practices they use instead and then compare the venfits their practices have over the ptractices you use.
+Don't call people unprofessional just because they don't use certain practices. Ask them what practices they use instead and then compare the benfits their practices have over the practices you use.
 
 > As professionals, we need to understand that a sofware project is not about us and our egos. The I-know-what-I'm-doing-and-I-don't-need-to-write-tests attitude is selfish and arrogant. Even if that were true, the project is not about you. It's not about one or two great developers. We need to think about who is going to maintain the software when we leave. We need to think about how difficult it will be for the company to keep evolving that software. **If the value we add to a project is conditional to our continuous involvement in the project, it's not value. It's a point of failure.**
 
