@@ -8,6 +8,19 @@ date: 2017-07-27 03:45:00 PM UTC
 
 <!-- July 28, 2017 11:45:00 PM Philippine Time -->
 
+----------
+
+**Update (February 11, 2020):**
+
+I just learned that [sponges are considered animals](https://www.quora.com/Are-sponges-considered-animals-or-plants-Why) even though they do not move. Because of that, my definition for _animal_ below falls apart. (Please do not read this post. You will just be wasting your time if you do.) 
+
+Also C.S. Lewis, a new addition to my list of heroes, referred to people as _animals_ in his book [_Mere Christianity_](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga).
+
+I can now somewhat accept that people be classified as animals, with a strong note of course that people are not _just_ animals. We might be classified as animals but being an animal is just a subset of what we are.
+
+----------
+
+_<small>(Below is the original content of this post)</small>_
 
 I was taught, when I was a child, that people are special beings. That they are different from animals. By _animals_ I mean cats, dogs, cows... You know what I mean. :smile:
 
@@ -76,7 +89,7 @@ But _plants_ are **_clearly_** not _animals!_ They are very different from what 
 But... for now, we will just follow what we think is _clear_ today. 
 
 <!--
-But we can't just define things by what is _clear_, right?. What is _clear_ to yout might not be _clear_ to me. Plants have age, and they can have names. Certainly they can be classified as animals.
+But we can't just define things by what is _clear_, right?. What is _clear_ to you might not be _clear_ to me. Plants have age, and they can have names. Certainly they can be classified as animals.
 -->
 
 Okay... An animal is
@@ -131,14 +144,16 @@ Are we, humans, the final authority for defining things?
 
 We want to think that we are, of course! But are we?
 
-_Of course not!_
+<!-- _Of course not!_
 
-Of course we _know_ that we are not the final authority for defining things! But who else is there? We are the only ones in here. So we have to define things for ourselves!
+Of course we _know_ that we are not the final authority for defining things!  -->
+
+But who else is there? We are the only ones in here. So we have to define things for ourselves!
 
 But... are we the only ones in here?
 
 <small>
-(**Hint:** The Christian [worldview](http://www.defendingthebible.org/worldviews.html) _says_ that we _know_ that we are not the final authority for defining things, and that we _know_ that we are not the only ones in here, and that we are doing our best to suppress that knowledge. Scary right!? But the good thing is that it helps to be ready about the future.)
+(**Hint:** The Christian [worldview](http://www.defendingthebible.org/worldviews.html) _says_ that we _know_ that we are not the final authority for defining things, and that we _know_ that we are not the only ones in here, and that we are doing our best to suppress that knowledge. Scary right!? But the good thing is that it helps us to be ready about the future.)
 </small>
 
 <small>(Future?)</small>
