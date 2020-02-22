@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Entity Framework 6 error: "Invalid column name ''[EntityName]_ID1'''
+title: 'Entity Framework 6 error: "Invalid column name ''_ID1'''
 categories: [Programming]
 tags: [Programming]
 date: 2020-02-16 12:30:00 PM UTC

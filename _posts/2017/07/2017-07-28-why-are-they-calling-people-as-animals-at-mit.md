@@ -32,7 +32,7 @@ Why would some professors at MIT categorize people as animals?
 ## Are they calling people as animals at MIT?
 -->
 
-For instance, at about 21:00 minutes in the video of Lecture 10 of [MIT OCW's course #6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), the lecturer, a beautiful and intelligent lady, categorizes people as _"animals"_.
+For instance, at about 21:00 minutes in the video of Lecture 9 of [MIT OCW's course #6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), the lecturer, a beautiful and intelligent lady, categorizes people as _"animals"_.
 
 (I am learning a lot from these lectures. But this _"animal"_ thing is not CS-related, so I believe I am allowed to comment on this. :smile: I might sound stupid below, but bear with me till the end.)
 

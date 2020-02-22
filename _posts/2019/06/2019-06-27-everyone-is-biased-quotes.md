@@ -111,6 +111,14 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 ----------
 
 
+> ... You cannot view the world without any a priori structure and that a priori structure has a dogmatic element and so you can't just say we'll just get rid of the dogma because you cannot perceive the world without a structure.
+<br /><br />
+ --- Jordan Peterson in about [00:53:00 of the 2nd part of his discussion with Sam Harris (moderated by Bret Weinstein)](https://youtu.be/GEf6X-FueMo?t=3184)
+
+
+----------
+
+
 
 ## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
