@@ -12,6 +12,9 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
+
+[In order to recognize an explanation as the best, you don't have to have an explanation of the explanation](/2020/03/30/on-explanation-of-the-best-explanation/) <small>(March 31, 2020)</small>
+
 [Why blog?](/2019/12/07/why-blog) <small>(December 7, 2019)</small>
 
 [Everyone is biased](/2019/06/27/everyone-is-biased-quotes/) <small>(June 27, 2019)</small>

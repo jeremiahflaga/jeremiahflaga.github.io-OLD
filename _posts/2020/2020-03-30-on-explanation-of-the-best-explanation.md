@@ -23,9 +23,18 @@ Said another way,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wcHp_LWGgGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Example:
+<div class="message">
+This kind of explanation was <a  href="/2017/07/20/what-is-an-explanation/">hinted by Greg Bahnsen in his debate with Gordon Stein</a>:
 
-> "Suppose archeologists digging in the earth were to come across artifacts looking like arrowheads and pottery shards... it would obviously be justifiable to infer that these artifacts were the product of some lost tribe of people even if the archeologists have no idea whatsoever who these people were or how they came to be there."
+<blockquote> 
+    For Dr. Stein to say, "well, these aren't answers" doesn't convince me at all. He says there aren't going to be answers unless I include how it took place. What is God's method, and why did he do it? Well, <strong>I don't accept those standards. I don't accept that this is a requirement for an explanation at all.</strong> And he doesn't give us a good reason except that he's not going to [be] satisfied or it's unhelpful to him. — Greg Bahnsen
+</blockquote>
+</div>
+
+
+**Examples:**
+
+> "Suppose archeologists digging in the earth were to come across artifacts looking like arrowheads and pottery shards... it would obviously be justifiable to infer that these artifacts were the product of some lost tribe of people even if the archeologists have no idea whatsoever who these people were or how they came to be there." ---
 
 > "If astronauts were to discover pile of machinery on the back side of the moon, they would be justified in inferring that these were the products of intelligent design, even if they had no idea whatsoever where these machinery came from or who put it there."
 
