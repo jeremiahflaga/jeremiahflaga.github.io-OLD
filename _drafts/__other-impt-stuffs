@@ -76,3 +76,37 @@ File tree stucture (from https://www.obeythetestinggoat.com/book/chapter_unit_te
 
 
 
+Can I define a class name on paragraph using Markdown? (https://stackoverflow.com/a/49697482)
+(https://kramdown.gettalong.org/syntax.html#attribute-list-definitions)
+If your flavour of markdown is kramdown, then you can set css class like this:
+
+{:.nameofclass .anotherClass}
+paragraph is here
+
+
+<div> with markdown
+In many (most?) varietals of Markdown, you can put <div markdown="1"> on the element and it will allow Markdown inside of it.
+(https://css-tricks.com/little-stuff-markdown-always-forget-google/#article-header-id-0)
+
+<div class="special-class" markdown="1">
+    1. All
+    1. Fixed 
+    1. Up
+</div>
+
+
+Adding ids to headers:
+(https://css-tricks.com/little-stuff-markdown-always-forget-google/#article-header-id-3)
+### Custom IDs {#custom-id}
+
+
+When you want to highlight a message:
+Use the class "message"
+<div class="message message-compressed float-right">
+
+When you want to highligh a quoted text in a conversation like quotings:
+<span class="quoted-text">
+examples:
+/2017/04/27/dr-jason-lisle-facebook-post-on-induction/
+/2019/06/29/steven-van-deursen-on-async-await/
+

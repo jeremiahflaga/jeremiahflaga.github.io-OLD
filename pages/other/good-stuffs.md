@@ -224,8 +224,9 @@ The ["How to Win Friends and Influence People"](https://www.bookdepository.com/b
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
 
-["Resolving the Liar's Paradox"](http://steve-patterson.com/resolving-the-liars-paradox/) by Steve Patterson
+[The Great Debate: Does God Exist? Dr. Greg Bahnsen versus Dr. Gordon Stein](https://www.youtube.com/watch?v=ZLZdOGCE5KQ)
 
+["Resolving the Liar's Paradox"](http://steve-patterson.com/resolving-the-liars-paradox/) by Steve Patterson
 
 <br />
 

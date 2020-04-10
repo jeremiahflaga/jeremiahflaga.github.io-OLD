@@ -43,9 +43,9 @@ It is Scott Myers' _"Most Important Design Guideline":_
 > **Make interfaces easy to use correctly and hard to use incorrectly.**
 
 
-<span class="message">
-_Now, we can stop here and use our imaginations to come up with ideas on how to use that guideline in our code... But if we want to have some initial ideas on how to apply that guideline, then read on... :smile:_
-</span>
+{:.message}
+_Now, we can stop here and use our imaginations to come up with ideas on how to use that guideline in our code... But if we want to have some initial ideas on how to apply that guideline, then read on..._ :smile:
+
 
 Scott Myers is the author of [Effective Modern C++](https://www.bookdepository.com/Effective-Modern-C---Scott-Meyers/9781491903995?a_aid=jflaga). I don't really have that book. It only sounds familiar to me because it is one of [_John Sonmez's ultimate list of programming books_](https://simpleprogrammer.com/2015/03/23/the-ultimate-list-of-programming-books/). Go and get it if you are interested.
 
@@ -65,34 +65,33 @@ And now...
 
 <center>:wavy_dash::wavy_dash:</center>
 
-<span class="message message-compressed float-right">
-_Note that **TDD**, the discipline that Uncle Bob is promoting in his talks and in his blog, is also in here. Hmmm..._
-</span>
-
 And here is the summary of the suggested ways on how to get the results that that guideline is trying to achieve. 
 
 
-1.  **Adhere to the principle of least astonishment**
+1\.  **Adhere to the principle of least astonishment**
 
-	a. Avoid gratuitous incompatibilities with the surrounding environment
+- Avoid gratuitous incompatibilities with the surrounding environment
 
-	b. Choose good names
+- Choose good names
+
+- Be consistent
 	
-	c. Be consistent
+2\. **Document interfaces before implementing them**
+
+{:.message .message-compressed .float-right}
+_Note that **TDD**, the discipline that Uncle Bob is promoting in his talks and in his blog, is also in here. Hmmm..._
+
+- (46:20) proven way to discover interface problems: "If it is unpleasant to explain something, it is probably unpleasant to use it"
+
+- (47:00) Consistent with Test Driven Design (TDD) - which is involved with having the calling interface established before you actually write the implementation
 	
-2. **Document interfaces before implementing them**
+3\. **Employ progressive disclosure (to prevent overwhelming the users of the interface with too many choices)**
 
-	- (46:20) proven way to discover interface problems: "If it is unpleasant to explain something, it is probably unpleasant to use it"
+4\. **Introduce types to prevent common errors**
 
-	- (47:00) Consistent with Test Driven Design (TDD) - which is involved with having the calling interface established before you actually write the implementation
-	
-3. **Employ progressive disclosure (to prevent overwhelming the users of the interface with too many choices)**
+- Consider explicitly defining all possible values for the type
 
-4. **Introduce types to prevent common errors**
-
-	a. Consider explicitly defining all possible values for the type
-	
-	b. Avoid over-reliance on string
+- Avoid over-reliance on string
 	
 
 <center>:wavy_dash::wavy_dash:</center>

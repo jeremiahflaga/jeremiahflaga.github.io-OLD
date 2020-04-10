@@ -96,6 +96,11 @@ presupposition which is what you said a minute ago.
 
 (Oooops! I think I am presupposing the Christian worldview on this one. But... well... [everyone has a worldview](http://www.defendingthebible.org/worldviews.html). :smile:)
 
+I do not yet fully understand what this _presupposed-and-evidenced_ idea is, but I think Dr. Jason Lisle also hinted on this one [here](/2017/04/27/dr-jason-lisle-facebook-post-on-induction/):
+
+> ... An axiom usually is defined to mean something that is unprovable, but is assumed or accepted for the sake of argument. The biblical worldview is a presupposition rather than an axiom. And **some presuppositions are provable**. I would argue that the Bible is provable and thus we can know for certain that it is true. The Bible itself asserts this in a number of ways (e.g. Acts 2:36, Genesis 15:13, Proverbs 22:20-21, Romans 1:20).
+
+
 <!--
 <small>(from page 28 of the transcript)</small>
 

@@ -97,7 +97,7 @@ StudInfoSys_VB.NETProj - 4.8 - 'Created: February 17, 2012 7:00 PM to 2:00 AM th
 
 Copied from my first resume
 
-<div class="message">
+<div class="message" markdown="1">
 --------------------------
 
 

@@ -9,13 +9,12 @@ date: 2019-06-27 11:50:00 PM UTC
 
 <!-- pulished in blog (moved from pages section) in June 28, 2019 7:50:00 AM Philippine Time -->
 
-<span class="message">
+{:.message}
 <small><small>
 (This post was originally from the [Memorabilia section](/memorabilia/quotes/everyone-is-biased/) of this site.
 But I moved this to the blog section because I am going to discontinue the Memorabilia section.
 I think the chronological/historical organization of things is a better way of doing things on this site/blog of mine because it can clearly show that things change, and that people change, and that I change.)  :grin: 
 </small></small>
-</span>
 
 
 I'm a _biased_ person, and part of my set of biases is this: "**_everyone is biased_**, including you and me".<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> If you say that you are _not biased_, but _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone is biased).  :grin:

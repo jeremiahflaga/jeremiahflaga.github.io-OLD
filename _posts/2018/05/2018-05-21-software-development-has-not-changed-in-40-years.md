@@ -47,8 +47,8 @@ For the last thirty years: Nothing much.
 
 
 ----------
-
-
+> "If you haven’t been programming for at least 20 years or more, then it might be tough for you to understand how little the actual nuts and bolts of programming have evolved in the last 60 years. Every program can still be boiled down to the basics of structured programming that Dijsktra was preaching since the early 1970’s: Sequence, Selection, and Iteration."
+<br /><br />
 > "**The key to growing in this occupation is to realize that neither the languages that you love or the frameworks that you’re familiar with are the keys to your success.** Because the field is so new and because the core fundamentals of programming today are almost exactly what they were from the beginning (Sequence, Selection, and Iteration), **your ability to advance is not hinged on language particulars or framework features**.
 <br /><br />
 "The key is to rapidly apply the things we have learned from our collective battles in the trenches where the software is built. **You must accept and apply the disciplines that have emerged and have been passed down from the Gurus of our craft.**"
@@ -61,6 +61,6 @@ For the last thirty years: Nothing much.
 ----------
 
 
-I recently found the free reading materials for the [course from MIT OCW named "Software Construction"](https://ocw.mit.edu/ans7870/6/6.005/s16/) (newer materials (Fall 2018) [here](http://web.mit.edu/6.031/www/fa18/)). It might be very helpful in learning about those things that do not change a lot in software development.
+I recently found the free reading materials for the [course from MIT OCW named "Software Construction"](https://ocw.mit.edu/ans7870/6/6.005/s16/) (newer materials [here](http://web.mit.edu/6.031/www/sp20/general/previous-semesters.html)). It might be very helpful in learning about those things that do not change a lot in software development.
 
 Enjoy!

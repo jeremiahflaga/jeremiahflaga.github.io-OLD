@@ -71,15 +71,13 @@ I like that idea of having async/await calls _only_ in the presentation layer an
 
 I would like to highlight that for my future self... when he reads this to review async/await:
 
-<span class="message">
+{:.message}
 If possible, have async/await calls _only_ in the presentation layer and make everything else below it synchronous.
-</span>
 
 I'm going to repeat it, in red:
 
-<span class="message red-text">
+{:.message .red-text}
 If possible, have async/await calls _only_ in the presentation layer and make everything else below it synchronous.
-</span>
 
 Okay... :smile:
 

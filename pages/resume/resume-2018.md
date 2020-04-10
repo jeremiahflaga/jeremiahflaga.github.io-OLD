@@ -743,13 +743,13 @@ But Terence McGhee said that to be considered a codesmith one must already have 
 -->
 
 
-<span class="message">
+<div class="message" markdown="1">
 **Caution:** [I claimed to know OOP when I applied for my first and second jobs.](/2018/01/08/a-better-way-than-object-orientation-and-TDD/) I passed the interviews during those times, of course. But a few years later, I realized that [I barely knew what OOP is really all about](https://www.quora.com/How-much-is-Uncle-Bobs-definition-of-OOP-compatible-with-the-mainstream-definition). I came to this realization while listening to a talk of Uncle Bob Martin where he mentioned something about [programmers claiming to know OOP when they do not truly know OOP.](https://youtu.be/Nsjsiz2A9mg?t=34m5s) Ouch! I was that programmer. :laughing: 
 <br /><br />
 This kind of realization actually gives me doubt on whether I already truly understand what OO is today. But... all I can say is that today, I know that I have a _better_ understanding of what OO truly is.
 <br /><br />
 ... So be cautious about me claiming to be an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate) already. Perhaps I am still a [Chump Coder](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#chumpcoder), or an [Expanded Chump](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#expandedchump), in which case all I can say is, <em>"Teach me master..."</em> :smile:
-</span>
+</div>
 
 
 <small>[_^ back to Contents_](#contents)<small>

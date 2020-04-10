@@ -12,7 +12,7 @@ published: false
 </style>
  -->
 
-<span class="message">
+<div class="message" markdown="1">
 <!-- 
 The project I am currently involved in is almost finished, and I'm going to resign in the first week of February. (after my resignation, I will be needing a month before I can leave)
 <br /><br />
@@ -24,7 +24,7 @@ My purpose for this open application letter is only to make it easy for me to ap
 <br /><br />
 <em>(I actually also have a secret agenda for doing this. But it is secret, so I'm not going to tell you what it is. But this secret agenda is for the good of the software industry, so you have nothing to worry about it.)</em>
 -->
-</span>
+</div>
 
 
 <!-- 
