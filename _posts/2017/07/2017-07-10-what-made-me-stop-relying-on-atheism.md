@@ -94,7 +94,7 @@ presupposition which is what you said a minute ago.
 <br /><br />
 > **Stein:** I would disagree with that. ...
 
-(Oooops! I think I am presupposing the Christian worldview on this one. But... well... [everyone has a worldview](http://www.defendingthebible.org/worldviews.html). :smile:)
+(Oooops! I think I am presupposing the Christian worldview on this one. But... well... [everyone has a worldview](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/). :smile:)
 
 I do not yet fully understand what this _presupposed-and-evidenced_ idea is, but I think Dr. Jason Lisle also hinted on this one [here](/2017/04/27/dr-jason-lisle-facebook-post-on-induction/):
 

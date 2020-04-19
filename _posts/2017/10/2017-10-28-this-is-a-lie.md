@@ -28,7 +28,7 @@ That statement sounds like it must either be _true_ or _false_ to me!
 
 I am a big fan of Uncle Bob. I am inclined to believe almost everything that he says about programming and software development because I am inexperienced while he is very experienced. :smile: _(That might be [bad](https://dev.to/bosepchuk/is-uncle-bob-serious-dhi), I'm not sure... but I'm still learning.)_
 
-But because [I knew that I have a different set of foundational biases than him](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote), I am sometimes skeptical when he talks about things that do not seem to match with my biases or my [worldview](http://www.defendingthebible.org/worldviews.html). _(I believe that Uncle Bob will not be angry with a student who does not believe everything that he says :grin:)_
+But because [I knew that I have a different set of foundational biases than him](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote), I am sometimes skeptical when he talks about things that do not seem to match with my biases or my [worldview](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/). _(I believe that Uncle Bob will not be angry with a student who does not believe everything that he says :grin:)_
 
 So I tried googling about the _"this is a lie"_ thing.
 
@@ -52,7 +52,7 @@ _Wow! I want to know more about what this thinker thinks and says..._
 
 In his [start page](http://steve-patterson.com/start/), he said that he is **creating an entire worldview**.
 
-[_Worldview!!!_](http://www.defendingthebible.org/worldviews.html)
+[_Worldview!!!_](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/)
 
 I first heard that term from, [Jason Lisle](https://answersingenesis.org/world-religions/atheism/atheism-an-irrational-worldview/) and Ken Ham, and then from [Greg Bahnsen](http://www.datpostmil.com/the-great-debate-greg-bahnsen-vs-gordon-stein/), and from many others like [Albert Mohler](http://www.albertmohler.com/2016/10/27/will-live-now-francis-schaeffers-live-40-years/)...
 
@@ -60,4 +60,4 @@ This makes me the more interested!
 
 What could this _new_ worldview be?
 
-Would this _new_ [worldview](http://www.defendingthebible.org/worldviews.html) explain things much better than Christianity does?
+Would this _new_ [worldview](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) explain things much better than Christianity does?

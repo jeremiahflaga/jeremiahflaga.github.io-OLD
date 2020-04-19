@@ -33,7 +33,7 @@ It does not match with one of the very fundamental law in logic --- the law of n
 
 > It is not possible to have both A and not-A at the same time and in the same sense.
 
-I first heard about this idea of _"something being in two different states at the same time"_ a few years ago, in a video of Ray Comfort where he interviews someone, asking him questions, and then sharing the [gospel](https://www.gotquestions.org/what-is-the-gospel.html) to him.
+I first heard about this idea of _"something being in two different states at the same time"_ a few years ago, in a video of Ray Comfort where he interviews someone, asking him questions, and then sharing the [gospel](https://stephencleary.com/god/) to him.
 
 In that video (I'm not sure if I can still locate it), Ray Comfort was talking about the law of non-contradiction. Then at the end part of that video, the person being interviewed talked about an example where the law of non-contradiction does not apply --- the Schrodinger's Cat.
 

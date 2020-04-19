@@ -153,7 +153,7 @@ But who else is there? We are the only ones in here. So we have to define things
 But... are we the only ones in here?
 
 <small>
-(**Hint:** The Christian [worldview](http://www.defendingthebible.org/worldviews.html) _says_ that we _know_ that we are not the final authority for defining things, and that we _know_ that we are not the only ones in here, and that we are doing our best to suppress that knowledge. Scary right!? But the good thing is that it helps us to be ready about the future.)
+(**Hint:** The Christian [worldview](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) _says_ that we _know_ that we are not the final authority for defining things, and that we _know_ that we are not the only ones in here, and that we are doing our best to suppress that knowledge. Scary right!? But the good thing is that it helps us to be ready about the future.)
 </small>
 
 <small>(Future?)</small>

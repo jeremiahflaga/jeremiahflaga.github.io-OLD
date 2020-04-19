@@ -12,7 +12,7 @@ date: 2017-10-25 03:30:00 PM UTC
 
 > Seriously?
 
-Disclaimer first: I'm not a scientist. I only learned a bit about how things work in the world of science (what _laws_ or _theories_ are, for example) through Dr. Werner Gitt's talk titled ["In the Beginning was Information"](https://www.youtube.com/watch?v=YkFNS1U3FmM)
+Disclaimer first: I'm not a scientist. I only learned a bit about how things work in the world of science (what _laws_ or _theories_ are, for example) through Dr. Werner Gitt's talk titled ["In the Beginning was Information"](https://www.youtube.com/watch?v=DA0Ojxr4pv0)
 
 But I read someone in the past who said that when we, normal (non-scientist) people, hear the word _scientist_, what we have in mind is someone wearing a lab gown, experimenting with things in a _neutral_ fashion and presenting the results, in an _unbiased_ way, of those experiments when they are done. 
 
@@ -20,7 +20,7 @@ Then the author went on to say that that is not always the case.
 
 <!--more-->
 
-Scientists, also, have their own personal biases. And their biases affect how they [view the world](http://www.defendingthebible.org/worldviews.html); these biases affect how they interpret the results of their experiments.
+Scientists, also, have their own personal biases. And their biases affect how they [view the world](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/); these biases affect how they interpret the results of their experiments.
 
 These biases also affect whether or not they will accept the conclusions that their fellow scientists make!
 

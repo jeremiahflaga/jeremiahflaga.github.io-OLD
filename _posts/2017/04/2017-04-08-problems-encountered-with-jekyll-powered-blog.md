@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some problems I encountered with my Jekyll powered blog -- and their solutions
-category: Miscellaneous
+category: [Miscellaneous, Evolving Notes]
 tags: [Jekyll, Blogging, Timezones]
 date: 2017-04-08 03:30:00 PM UTC
 ---

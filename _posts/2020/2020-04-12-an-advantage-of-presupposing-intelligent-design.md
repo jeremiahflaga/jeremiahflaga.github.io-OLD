@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'An advantage of presupposing that something that looks designed was designed by an intelligent designer(??)'
-categories: [Miscellaneous]
+categories: [Miscellaneous, 'What if?']
 tags: [Intelligent Design, COVID-19 pandemic, Knut Wittkowski, Steve Patterson]
 date: 2020-04-12 07:20:00 AM UTC
 ---
