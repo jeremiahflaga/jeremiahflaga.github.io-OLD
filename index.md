@@ -12,6 +12,7 @@ I also like writing about stuffs that I learned recently, and about some thought
 
 -----
 
+[A correct attitude towards the discovery of truth by Dr. Geoff Anders](/2020/04/25/correct-attitude-towards-discovery-of-truth-by-Geoff-Anders/) <small>(April 25, 2020)</small>
 
 [In order to recognize an explanation as the best, you don't have to have an explanation of the explanation](/2020/03/30/on-explanation-of-the-best-explanation/) <small>(March 31, 2020)</small>
 

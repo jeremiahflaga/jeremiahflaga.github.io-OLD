@@ -60,4 +60,6 @@ If we presuppose that nature designed something that looks designed, it seems to
 
 But if we presuppose that an intelligent designer designed something that looks designed, we can be able to (or it's more natural to) ask questions such as "if we put ourselves in the shoes of the intelligent designer who designed this (we can do that because we are intelligent too), how would we go about doing it? or where would we put things?" I think questions like that can help the one investigating to look at the right places to _quickly_ find out what he wants or needs to find out.
 
+It will also help us avoid (not necessarily completely avoid) making stupid conclusions about these seemingly designed things.
+
 And if we add to that the presupposition of some Christians which says something like "the universe is negatively affected by sin", then we can also ask questions like "where could this this thing have originally been placed in a non-cursed world?"... or other questions similar to that.
