@@ -30,7 +30,11 @@ Footnotes
 
 Footnotes 2
 <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
-<sup id="footnote-1">[1]</sup> <small>One example of something... ([back ^](#footnote-indicator-1))</small>
+<sup id="footnote-1">[1]</sup> 
+<small>
+One example of something...
+</small>
+[&#8617;](#footnote-indicator-1)
 
 
 
