@@ -16,7 +16,7 @@ Dr. Geoff Anders has this very interesting statement in about 38:25 mins in the 
 
 <!--more-->
 
-I think that that statement makes people who believe that truth exists to be more patient with people's discovery of truth :smile:; and for those who do not believe that truth exists, to be more patient with people's discovery of whatever-it-is-they-need-to-discover :grin:
+I think that that statement makes people who believe that truth exists to be more patient with people's discovery of truth :smile:. It also helps people from dismissing as irrelevant those "points" in history which kind of guided people with the discovery of truth. And for those who do not believe that truth exists, this will help them to be more patient with people's discovery of whatever-it-is-they-need-to-discover :grin:
 
 
 

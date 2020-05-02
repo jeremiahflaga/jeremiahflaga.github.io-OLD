@@ -35,3 +35,16 @@ Reading blog posts like this one is a baby step: hopefully it'll help a bit, but
 <br /><br />
 > --- Joshua Kerievsky (from chapter 3 of Refactoring to Patterns)
 
+
+
+
+“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”
+— George R. R. Martin
+
+
+
+
+	In his classic 17th century defence of freedom of speech and expression - Areopagitica - John Milton wrote these words:
+	“Since therefore the knowledge of and survey of vice is in this world so necessary to the constituting of human virtue, and the scanning of error to the confirmation of truth, how can we more safely, and with less danger, scout into the region of sin and falsity than by reading all manner of tractates and hearing all manner of reason? And this is the benefit which may be had of books promiscuously read.”
+	
+From <https://truefreedomtrust.co.uk/promiscuous-reading> 
