@@ -43,6 +43,10 @@ I found out that it is related to this _"quantum" thing_, which I also know noth
 
 But I heard someone in the past who compared this _"quantum" thing_ to _"magic"_.
 
+
+<!-- May 3, 2020 about 6:00 PM
+The image in my memory is clear who the lecturer was who said "magic. So I tried to search for it in the AiG website, because it's from there I heard it -- in a video from the Video On Demand section of the site many years ago... Ahh, it's from someone named Mike Riddle, but I cannot find the specific video for now -->
+
 So I dismissed the _"Schrodinger's Cat"_ example as something I do not have to worry about.
 
 _The law of non-contradiction is saved! Yehey!_

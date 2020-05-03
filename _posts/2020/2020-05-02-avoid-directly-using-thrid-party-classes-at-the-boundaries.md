@@ -45,7 +45,7 @@ public interface ICommandHandler<TCommand>
 }
 ```
 
-More recent examples, such as [those given by Vladimir Khorikov](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/), returns objects from the command handler which tells about the success or failure of the operation.
+More recent examples, such as [those given by Vladimir Khorikov](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/), returns objects from the command handler which tells about the success or failure of the operation. (I used this kind of code when I had this problem in the codebase I was working on where I have to return a success or failure indicator from my command handlers.)
 
 ``` csharp
 public interface ICommandHandler<TCommand>
@@ -81,7 +81,7 @@ I forgot those words of wisdom from Uncle Bob just recently :smile:
 
 Oh wait! I did not forget them. Only that I also heard Uncle Bob say something like "we also use libraries inside our core domain, such as the the .NET Collections or the Java Collections library, but this decision involves kind of a conscious decision of using them". Those are not his exact words, but a paraphrase of what he said.<sup id="footnote-indicator-3">[[3]](#footnote-3)</sup>
 
-And so because I had this problem of having to return success or failure indicator from my command handlers, I made the _conscious_ decision of using the `Result` class from CSharpFunctionalExtensions as my return type. "What wrong can it cause!?", I told myself, "It's just a small library, a tiny class; it will cause no danger to the app."
+And so because I had this problem of needing to return a success or failure indicator from my command handlers, I made the _conscious_ decision of using the `Result` class from CSharpFunctionalExtensions as my return type. "What wrong can it cause!?", I told myself, "It's just a small library, a tiny class; it will cause no danger to the app."
 
 And so I started using this as my command handler: 
 
@@ -114,7 +114,7 @@ public interface ICommandWithErrorHandler<TCommand>
 }
 ```
 
-Tsk tsk! Look at that. Imagine having `Result<Empty, Error>` all over your app! It will look very convoluted, I think.
+Tsk tsk! Look at that. Imagine having `Result<Empty, Error>` all over your app! It will look very messy, I think.
 
 What's worse is that I now have two kinds of command handlers in my app: one which returns `Result` and another one which returns `Result<Empty, Error>`.
 
@@ -129,7 +129,7 @@ public interface ICommandWithErrorListHandler<TCommand>
 
 Whew!
 
-Solving this problem would have been easier had I used my own return type in my command handlers in the first place:
+Solving this problem would have been easier had I used my own custom return type in my command handlers in the first place:
 
 
 ``` csharp
