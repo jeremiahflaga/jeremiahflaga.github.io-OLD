@@ -140,7 +140,7 @@ public interface ICommandHandler<TCommand>
 
 public interface CommandResult
 {
-    bool IsSuccess { get; }
+    bool Succeeded { get; }
     Error Error { get; }
     IEnumerable<Error> ErrorList { get; }
 }
