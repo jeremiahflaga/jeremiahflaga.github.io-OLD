@@ -30,3 +30,11 @@ Here are some interesting quotes from that video:
 > "...the guy who invented Wikipedia, the pioneer, was Jimmy Wales. He got the idea from reading F.A. Hayek who saw and spent his life to this difficult, almost mysterious, sometimes even magical, observation that **order comes about through liberty and not through imposition.** That was his theme. And it's a hard thing to learn: that **the more you let go, the better things work.**" --- Jeffrey Tucker
 
 > "... top down control fails because those at the top can never have enough knowledge to coordinate the activities of millions of people, not even with all the supercomputers in the world. And even when they try, the results have been some of the worst cases of human suffering in history. **The only other option is to let people plan their own lives as long as they don't hurt people or take their stuff.** Trust that these individual plans will come together into a whole that is greater than the sum of its parts, and that **none of us knows as much as all of us.**"
+
+
+-----
+
+PS:
+
+From a programmer's perspective, the idea presented above seems to match what Kent Beck calls "The Implementor's Rule" in his blog post titled ["Software Design is Human Relationships: Part 3 of 3, Changers & Changers"](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0).
+
