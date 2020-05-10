@@ -131,3 +131,6 @@ The classical rule of tolerance is this: Tolerate persons in all circumstances, 
 
 
 > "... there is a simple rule about vital and free companies, communities, and societies: You never punish bad ideas. Instead, you counter bad ideas with better ideas." --- Robert C. Martin (from ["Thought Police"](https://blog.cleancoder.com/uncle-bob/2017/08/09/ThoughtPolice.html))
+
+
+> "Freedom of expression is not even all good... But we'd rather protect that freedom, rather than get to the point na bawal ka nang mag-reklamo sa Facebook..." --- John Hofileña (from [a facebook post](https://www.facebook.com/john.hofilena/posts/10221441601097027))
