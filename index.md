@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/bg-index.jpg'
+background: '/images/background/simon-berger-2JONUbTfN38-unsplash.jpg'
 ---
 
 Hi, I'm Jeremiah Flaga, also known as _Jboy_. I am programmer and I love programming! 
