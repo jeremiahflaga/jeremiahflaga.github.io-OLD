@@ -21,15 +21,9 @@ blockquote {
     }
 }
 
-p a {
+p a, a {
     color: #6a9fb5;
     text-decoration: none;
-
-    :hover {
-        background: #6a9fb5;
-        color: #fff;
-        text-decoration: underline;
-    }    
 }
 
 

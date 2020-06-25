@@ -1,5 +1,5 @@
 ---
-layout: page-with-no-comments
+layout: page
 title: Archive
 ---
 
@@ -20,9 +20,11 @@ title: Archive
             {% endif %}
             <li>
                 <small class="post-date">{{ post.date | date_to_string }} - </small>
-                <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+                <span>
+                    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
                         {{ post.title }}
-                </a>
+                    </a>
+                </span>
             </li>
             {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
