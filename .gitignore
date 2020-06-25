@@ -53,3 +53,7 @@ Gemfile
 Gemfile.lock
 package.json
 .vscode
+
+# other gitignores from https://github.com/github/gitignore/blob/master/Jekyll.gitignore
+.jekyll-cache/
+.jekyll-metadata

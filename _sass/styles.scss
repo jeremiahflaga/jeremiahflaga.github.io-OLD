@@ -1,0 +1,9 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+// Import code highlighter for Kramdown-Rogue 
+// copied from https://stackoverflow.com/a/41798467/1451757 
+// and https://github.com/yaitloutou/sass-code-highlight
+@import "sass-code-highlight/monokai"; // 'monokai' as example 
+
+@import "additional-styles";

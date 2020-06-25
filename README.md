@@ -1,3 +1,18 @@
+# [Clean Blog Jekyll (by Start Bootstrap)](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
+
+Steps:
+
+1. Never built a website with GitHub Pages before? See [this marvelous guide by Jonathan McGlone](http://jmcglone.com/guides/github-pages/) to get you up and running. This guide will teach you what you need to know about Git, GitHub, and Jekyll to create your very own website on GitHub Pages. - from https://jekyllrb.com/docs/github-pages/
+
+2. Using Jekyll with GitHub Pages - from http://jmcglone.com/guides/github-pages/
+
+3. Copy files & folders Start Bootstrap - Clean Blog Jekyll - Official Jekyll Version - from https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
+
+
+---
+
+# README from Codinfox-Lanyon which was the 2nd template I used in this blog
+
 # Codinfox-Lanyon
 
 This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
