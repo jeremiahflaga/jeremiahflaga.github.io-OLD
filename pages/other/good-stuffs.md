@@ -1,5 +1,5 @@
 ---
-layout: page-with-no-comments
+layout: page
 title: Good Stuffs
 permalink: /good-stuffs/
 ---
@@ -208,11 +208,9 @@ matter how pretty or object-oriented or wellencapsulated it is.
 
 [The Gospel of Jesus Christ](https://stephencleary.com/god/)
 
-<!--
-The Bible _of course!_
--->
+The Bible
 
-The ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) book by Dale Carnegie
+["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) by Dale Carnegie
 
 <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">
 <img src="/images/2017/how-to-win-friends-book-old.jpg" height="250">
@@ -224,9 +222,13 @@ The ["How to Win Friends and Influence People"](https://www.bookdepository.com/b
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
 
-[The Great Debate: Does God Exist? Dr. Greg Bahnsen versus Dr. Gordon Stein](https://www.youtube.com/watch?v=ZLZdOGCE5KQ)
+["The Great Debate: Does God Exist?" --- Dr. Greg Bahnsen versus Dr. Gordon Stein](https://www.youtube.com/watch?v=ZLZdOGCE5KQ)
 
 ["Resolving the Liar's Paradox"](http://steve-patterson.com/resolving-the-liars-paradox/) by Steve Patterson
+
+["Mere Christianity"](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga) by C.S. Lewis
+
+<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/0074/9780007461219.jpg" height="200">
 
 <br />
 
