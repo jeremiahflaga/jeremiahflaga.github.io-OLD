@@ -131,11 +131,28 @@ Theory allow me to then interpret that data and make sense of it."
 > --- Dr. Peter Boettke (from Steve Patterson's ["Ep. 13 – Austrian Economics: Deduction, Logic, and Theory"](http://steve-patterson.com/ep-13-austrian-economics-deduction-logic-and-theory-dr-peter-boettke/))
 
 
+
+
 ----------
 
-**Update (June 29, 2019):**
 
-I found this news on my facebook feed which might interest you: ["Secular researchers agree: worldviews control science!"](https://creation.com/secular-paper-worldviews-control-science?fbclid=IwAR3mtVfrrCjpClPM5gmvEBl3xJmunZ7gWI-D1rR9J8iIH6hnoA0TajMwl28)
+
+> I call this ubiquitous cause of failure at attempts at political persuasion the “fallacy of the assumed paradigm” because it rests on an unconscious assumption that our opponent’s paradigm (unstated beliefs, meanings of words, facts and their relevance to each other) is the same as ours --- except in the few places where he explicitly tells us it isn’t.
+
+> To quote John Rogers, “You don’t really understand an antagonist until you understand why he’s a protagonist in his own version of the world.”
+<br /><br />
+The key is in the phrase “his own version of the world”.
+<br /><br />
+Until you understand that, you can’t have a meeting of minds --- and you’ll never change a mind you’ve not met.
+<br /><br />
+--- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
+
+
+----------
+
+**PS:**
+
+I found this news on my facebook feed (on June 29, 2019) which might interest you: ["Secular researchers agree: worldviews control science!"](https://creation.com/secular-paper-worldviews-control-science?fbclid=IwAR3mtVfrrCjpClPM5gmvEBl3xJmunZ7gWI-D1rR9J8iIH6hnoA0TajMwl28)
 
 
 <br />
