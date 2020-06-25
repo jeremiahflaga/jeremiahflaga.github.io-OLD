@@ -2,6 +2,7 @@
 layout: page
 title: Good Stuffs
 permalink: /good-stuffs/
+background: '/images/background/absolutvision-82TpEld0_e4-unsplash.jpg'
 ---
 
 <style>

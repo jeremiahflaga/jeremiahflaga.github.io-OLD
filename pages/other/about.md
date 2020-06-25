@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+background: '/images/background/danielle-macinnes-IuLgi9PWETU-unsplash.jpg'
 ---
 
 <!--

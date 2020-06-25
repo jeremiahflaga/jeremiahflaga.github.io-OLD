@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
 ---
 
 <!-- archive page code from http://chris.house/blog/building-a-simple-archive-page-with-jekyll -->
