@@ -2,10 +2,11 @@
 title: Jeremiah Flaga
 tagline: My thoughts and experiences on programming, life, atbp.
 description: 'My thoughts and experiences on programming, life, atbp.'
+author: Jeremiah Flaga
 baseurl: ""
 url:
 logo: '/images/jboy-papyrus-blue.png'
-email:              flaga.jeremiah@gmail.com
+email: flaga.jeremiah@gmail.com
 
 # Site configurations
 plugins:
