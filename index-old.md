@@ -61,11 +61,11 @@ _Enjoy!_
 {% include christian.html %}
 
 
-{% include jordan-peterson-free-speech-quote.md %}
+{% include jordan-peterson-free-speech-quote.html %}
 
 <br />
 
-{% comment %} 
+{% comment %}
 <div class="hero">
   <img src="{{ site.baseurl }}{{ site.hero.image }}" />
   <p>{{ site.hero.caption }}</p>

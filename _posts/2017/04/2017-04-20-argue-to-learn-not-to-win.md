@@ -4,6 +4,7 @@ title: Argue to learn, not to win.
 category: Thoughts
 tags: [How to Win Friends and Influence People, GOOS (Growing Object-Oriented Software)]
 date: 2017-04-20 12:10:00 PM UTC
+pinned: true
 ---
 
 <!-- April 20, 2017 08:10:00 PM Philippine Time -->

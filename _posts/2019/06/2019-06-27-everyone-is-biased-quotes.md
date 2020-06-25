@@ -4,6 +4,7 @@ title: 'Everyone is biased'
 categories: [Miscellaneous]
 tags: [Worldview]
 date: 2019-06-27 11:50:00 PM UTC
+pinned: true
 # permalink: /memorabilia/quotes/everyone-is-biased/
 ---
 

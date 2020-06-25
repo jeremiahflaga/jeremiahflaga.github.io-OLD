@@ -4,6 +4,7 @@ title: 'Encountering "Vertical Slice Architecture"... Is it incompatible with Cl
 categories: [Programming]
 tags: [Vertical Slice Architecture, Clean Architecture, Jimmy Bogard, Robert Martin, Steven van Deursen]
 date: 2019-05-20 7:20:00 AM UTC
+pinned: true
 ---
 
 <!-- May 20, 2019 3:20:00 PM Philippine Time -->

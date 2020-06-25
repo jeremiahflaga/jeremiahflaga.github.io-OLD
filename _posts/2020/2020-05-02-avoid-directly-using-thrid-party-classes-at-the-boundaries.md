@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 'Avoid directly using 3rd party classes at the boundaries of your architecture'
-categories: [Music]
-tags: [Music]
+subtitle: 'A big lesson I learned recently'
+categories: [Programming]
+tags: [Robert C. Martin, Steven van Deursen, Vladimir Khorikov]
 date: 2020-05-02 06:00:00 PM UTC
+pinned: true
 ---
 
 <!-- started ‎Friday, ‎May ‎1, ‎2020, ‏‎4:38:00 PM Philippine Time -->

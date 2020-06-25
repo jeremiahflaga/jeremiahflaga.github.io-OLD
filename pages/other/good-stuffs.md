@@ -232,7 +232,7 @@ The Bible
 
 <br />
 
-{% include jordan-peterson-free-speech-quote.md %}
+{% include jordan-peterson-free-speech-quote.html %}
 
 <br />
 

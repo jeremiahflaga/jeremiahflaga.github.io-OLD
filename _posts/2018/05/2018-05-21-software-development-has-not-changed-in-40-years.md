@@ -4,6 +4,7 @@ title: '"Software development has not changed in the last 40 years"'
 categories: [Programming]
 tags: [Robert Martin, Terence McGhee, Mattias Petter Johansson]
 date: 2018-05-21 03:40:00 PM UTC
+pinned: true
 ---
 
 <!-- May 21, 2018 11:40:00 PM Philippine Time -->

@@ -28,28 +28,32 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
+        
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+        {% assign pinned-posts = site.posts | where:'pinned', true %}
+        {% for post in pinned-posts %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
+            <h4>{{ post.title }}</h4>
             {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            <h5 class="post-subtitle">{{ post.subtitle }}</h5>
             {% else %}
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-          </p>
+          <small>
+            <p class="post-meta">Posted by
+              {% if post.author %}
+              {{ post.author }}
+              {% else %}
+              {{ site.author }}
+              {% endif %}
+              on
+              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            </p>
+          </small>
         </article>
 
         <hr>
@@ -57,10 +61,19 @@ layout: default
         {% endfor %}
 
         <!-- Pager -->
-        <div class="clearfix">
+        <!-- <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/blog" | relative_url }}">View All Blog Posts &rarr;</a>
-        </div>
+        </div> -->
 
+        <p>
+          I'm also a <em>learn-a-little-bit-of-TDD advocate</em>, so I collected some <a href="/memorabilia/quotes/tdd/">quotes about TDD</a>.
+        </p>
+
+        <br />
+        <hr />        
+        
+        {% include jordan-peterson-free-speech-quote.html %}
+        
       </div>
     </div>
   </div>

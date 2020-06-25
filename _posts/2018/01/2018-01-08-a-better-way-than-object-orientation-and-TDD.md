@@ -4,6 +4,7 @@ title: A better way than OO!... and TDD?
 categories: [Programming]
 tags: [Mark Seemann, Robert Martin, OOP, Functional Programming, TDD, SOLID]
 date: 2018-01-08 07:20:00 PM UTC
+pinned: true
 ---
 
 <!-- January 9, 2018 3:20:00 AM Philippine Time -->
