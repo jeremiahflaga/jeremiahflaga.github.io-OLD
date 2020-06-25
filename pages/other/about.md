@@ -1,5 +1,5 @@
 ---
-layout: page-with-no-comments
+layout: page
 title: About
 permalink: /about/
 ---
