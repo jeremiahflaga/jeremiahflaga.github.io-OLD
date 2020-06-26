@@ -1,8 +1,8 @@
 ---
-layout: page-with-no-comments
+layout: page
 title: R&eacute;sum&eacute;
-permalink: /resume/
-published: false
+permalink: /resume/2018
+published: true
 ---
 
 <style>
@@ -16,6 +16,14 @@ published: false
 
   .indented {
     padding-left: 1rem;
+  }
+  
+  code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
   }
 </style>
 
@@ -77,7 +85,7 @@ published: false
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/resume/anti-resume/">Anti-r&eacute;sum&eacute;...</a>
+            <a href="/resume/anti-resume/2018">Anti-r&eacute;sum&eacute;...</a>
           </strong>
         </td>
       </tr>
@@ -270,7 +278,7 @@ published: false
         </p> -->
         <p>I know a little bit of Python.</p>
         <p>
-          I also like solving <em>simple</em> algorithmic problems. <small>(<a href="/resume/anti-resume/#i-never-experienced-being-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
+          I also like solving <em>simple</em> algorithmic problems. <small>(<a href="/resume/anti-resume/2018/#i-never-experienced-being-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
           <br/>
           You can view my solutions to some simple problems
           <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
@@ -528,8 +536,8 @@ published: false
   <p class="indented">
     <em>"Architecture is <strong>not</strong> about frameworks and databases and web servers..."</em>
   </p>
-  I thought architecture is about how to combine all these frameworks together to form an application!
-  <br /><br />
+  Before this time, I thought architecture is about how to combine all these frameworks together to form an application!
+  <br />
   <p class="indented">
     <small>
       <em>Windows Forms for presentation — ADO.NET for data access — SQL Server for database — ...</em>
@@ -543,8 +551,8 @@ published: false
       <em>Hot Towel SPA Template for frontent — ASP.NET Web API for backend — Entity Framework for data access — StructureMap as DI Container — SQL Server for database — ... </em>
     </small>
   </p>
-  Did I place <em>much</em> of my time and attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you. :grin:
-  <br /><br />  
+  ... did I place <em>much</em> of my time and attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you. :grin:
+  <br />
   <p class="indented">
     <em>"The important decisions that a Software Architect makes are the ones that allow you to <strong>NOT</strong> make the decisions about the database, and the webserver, and the frameworks." --- Uncle Bob Martin</em>
   </p>
@@ -850,7 +858,7 @@ Here are other lessons I learned while working as a software developer.
     <br /><br />
     I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system, even if they are not yet seniors, can help solve this problem.
     <br /><br />
-    I think no one wants to stay working on a messy codebase for too long. <a href="/resume/anti-resume/#if-your-codebase-is-messy">I don't want to work on a messy codebase for too long</a> , but I can bear working on it for a long time if the team working on that codebase decides clean it up little by little everyday.    
+    I think no one wants to stay working on a messy codebase for too long. <a href="/resume/anti-resume/2018/#if-your-codebase-is-messy">I don't want to work on a messy codebase for too long</a> , but I can bear working on it for a long time if the team working on that codebase decides clean it up little by little everyday.    
     <br /><br />    
   </dd>
 
@@ -970,7 +978,7 @@ Here are other lessons I learned while working as a software developer.
 
 <strong>If you have more time, here are other links which complement my r&eacute;sum&eacute;:</strong>
 
- - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/)
+ - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/2018)
 
 ----------------------------------------------------------
 
