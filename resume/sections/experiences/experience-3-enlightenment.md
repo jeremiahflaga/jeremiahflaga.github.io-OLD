@@ -13,17 +13,19 @@
 <br /><br />
 <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em>
 <br /><br />
-<p class="indented">
-<em>"Architecture is <strong>not</strong> about frameworks and databases and web servers..."</em>
-</p>
-<p class="indented">
-<em>"The important decisions that a Software Architect makes are the ones that allow you to <strong>NOT</strong> make the decisions about the database, and the webserver, and the frameworks." </em>
-</p>
-<p class="indented">
-<em> — Uncle Bob Martin</em>
-</p>
+<blockquote>
+  <p>
+  "Architecture is <strong>not</strong> about frameworks and databases and web servers..."
+  </p>
+  <p>
+  "The important decisions that a Software Architect makes are the ones that allow you to <strong>NOT</strong> make the decisions about the database, and the webserver, and the frameworks."
+  </p>
+  <p>
+  — Uncle Bob Martin
+  </p>
+</blockquote>
 Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I acknowledge that <strong>there are lots of <em>other</em> materials (and experiences) that helped me come into this kind of enlightenment</strong>.
 
     </div>
-    <div class="flex-shrink-0"><span class="text-primary">March 2-4, 2016 → </span></div>
+    <div class="flex-shrink-0"><span class="text-primary">March 2-4, 2016</span></div>
 </div>

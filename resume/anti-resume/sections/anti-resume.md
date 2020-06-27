@@ -1,17 +1,4 @@
----
-layout: page
-title: Anti-r&eacute;sum&eacute;
-permalink: /resume/anti-resume/2018
-published: true
----
-<!-- 
-<style>
-  h2 {
-    //color: #507988;
-    color: #6a9fb5;
-  }
-</style>
- -->
+# title: Anti-r&eacute;sum&eacute;
 
 <div class="float-right">
   <a href="/images/Jboy2017-Anti-Resume-Original.jpg">

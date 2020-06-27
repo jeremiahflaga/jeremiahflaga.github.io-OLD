@@ -11,8 +11,9 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#software-ninja-class">Software Ninja Class</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-            <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li> -->
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
             <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> -->
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#anti-resume">Anti-r&eacute;sum&eacute;</a></li>
         </ul>
     </div>
 </nav>
