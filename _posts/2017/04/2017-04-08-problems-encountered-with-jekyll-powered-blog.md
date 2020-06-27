@@ -16,6 +16,7 @@ This post contains some of the problems I encountered while adding more function
 
 <!--more-->
 
+{:#different-url-for-different-timezone}
 ## Problem: Different URLs for different timezones {#different-urls-for-different-timezones}
 
 A few days ago, I noticed that Jekyll generates different URL's for different timezones.
@@ -56,11 +57,13 @@ So I googled and found that I needed to do this: `gem install tzinfo-data -inclu
 That's it!
 
 
+{:#add-pagination}
 ## Problem: How to add pagination {#how-to-add-pagination}
 
 Just go to the docs [jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
 
 
+{:#other}
 ## Some helpful stuffs from other people:
 
 ["Little Stuff about Markdown I Always Forget and have to Google"](
