@@ -45,13 +45,14 @@ layout: default
             {% endif %}
           </a>
           <small>
-            <p class="post-meta">Posted by
+            <p class="post-meta">
+              <!-- Posted by
               {% if post.author %}
               {{ post.author }}
               {% else %}
               {{ site.author }}
               {% endif %}
-              on
+              on -->
               {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
             </p>
           </small>
