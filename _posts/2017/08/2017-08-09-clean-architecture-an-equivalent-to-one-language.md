@@ -77,4 +77,4 @@ The Clean Architecture model?
 ---
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> 
 <sup id="footnote-2">[[2]](#footnote-indicator-2)</sup> 
-<small>or, at least those programmers who are involved in creating what they call _line-of-business_ applications</small>
+<small>or, at least those programmers who are involved in creating what they call [line-of-business applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) or what is called _"representational-transactional systems"_ [here](https://web.archive.org/web/20190109022046/https://aryehoffman.com/entry/classifying-software/)</small>

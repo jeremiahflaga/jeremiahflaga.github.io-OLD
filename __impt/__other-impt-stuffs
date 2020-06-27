@@ -17,8 +17,12 @@ HTML for n and N with tilde
 &ntilde;
 &Ntilde;
 
+
 Long dash
- —    or ---
+— 
+---
+&mdash;
+
 
 In Markdown, how do I start a line with a number without creating a list?
 1986\. What a great season.
@@ -114,3 +118,8 @@ examples:
 /2017/04/27/dr-jason-lisle-facebook-post-on-induction/
 /2019/06/29/steven-van-deursen-on-async-await/
 
+
+
+---
+List of Jemojis and their images
+https://phatblat.com/2016/01/03/jemoji.html

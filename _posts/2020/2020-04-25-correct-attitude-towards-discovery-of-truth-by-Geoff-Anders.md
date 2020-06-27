@@ -4,7 +4,6 @@ title: 'A correct attitude towards the discovery of truth by Dr. Geoff Anders'
 categories: [Miscellaneous]
 tags: [Truth]
 date: 2020-04-25 03:00:00 PM UTC
-pinned: true
 ---
 
 <!-- April 25, 2020 11:45:00 PM Philippine Time -->

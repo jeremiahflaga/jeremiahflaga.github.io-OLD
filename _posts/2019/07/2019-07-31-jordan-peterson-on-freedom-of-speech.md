@@ -4,6 +4,7 @@ title: 'Jordan Peterson on freedom of speech'
 categories: [Miscellaneous]
 tags: [Jordan Peterson]
 date: 2019-07-31 02:55:00 PM UTC
+pinned: true
 ---
 
 <!-- July 30, 2019 10:15:00 AM Philippine Time  -->
@@ -58,6 +59,8 @@ You make men safe by making them strong and by making sure they are disciplined.
 
 
 > <small>[40:30]</small> My point is that it isn't reasonable to take a single sentence out of a coherent narrative and say that stands on its own, or it's rarely reasonable because you have to interpret the words in the sentence and the sentence in the paragraph and the paragraph in the chapter and the chapter in the context of the entire book.
+
+> <small>[53:00]</small> ... You cannot view the world without any a priori structure and that a priori structure has a dogmatic element and so you can't just say we'll just get rid of the dogma because you cannot perceive the world without a structure.
 
 > <small>[54:30]</small> ... I can't see how you can interpret the world of facts without an a priori interpretive structure.
 <br /><br />

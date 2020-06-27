@@ -214,7 +214,7 @@ The Bible
 ["How to Win Friends and Influence People"](https://www.bookdepository.com/book/9780091906818?a_aid=jflaga) by Dale Carnegie
 
 <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">
-<img src="/images/2017/how-to-win-friends-book-old.jpg" height="250">
+<img src="/images/2017/how-to-win-friends-book-old.jpg" height="200">
 </a>
 
 <!-- 
@@ -223,13 +223,17 @@ The Bible
 
 ["Are You Epistemologically Self-Conscious?"](http://www.jasonlisle.com/2013/09/06/are-you-epistemologically-self-conscious/) by Dr. Jason Lisle
 
-["The Great Debate: Does God Exist?" --- Dr. Greg Bahnsen versus Dr. Gordon Stein](https://www.youtube.com/watch?v=ZLZdOGCE5KQ)
+["The Great Debate: Does God Exist?"](https://www.youtube.com/watch?v=ZLZdOGCE5KQ) --- Dr. Greg Bahnsen versus Dr. Gordon Stein
 
 ["Resolving the Liar's Paradox"](http://steve-patterson.com/resolving-the-liars-paradox/) by Steve Patterson
+
+["Everything is Grounded in Logic"](http://steve-patterson.com/everything-is-grounded-in-logic/) by Steve Patterson ([video version](https://www.youtube.com/watch?v=iNqgr4mobbk))
 
 ["Mere Christianity"](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga) by C.S. Lewis
 
 <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/0074/9780007461219.jpg" height="200">
+
+["The Deadly Isms &vert; Episode 4: Things Dictators Don't Know"](https://www.youtube.com/watch?v=P1WKcaIbOjM) by Matt Kibbe
 
 <br />
 

@@ -29,6 +29,7 @@ layout: default
 
         {{ content }}
         
+        <br />
 
         <!-- Home Post List -->
         {% assign pinned-posts = site.posts | where:'pinned', true %}
@@ -69,15 +70,22 @@ layout: default
           I'm also a <em>learn-a-little-bit-of-TDD advocate</em>, so I collected some <a href="/memorabilia/quotes/tdd/">quotes about TDD</a>.
         </p>
 
-        <p>
-          If you are a coll
-        </p>
+        <br />
+        <hr />
+        {% include jordan-peterson-free-speech-quote.html %}
 
         <br />
-        <hr />        
-        
-        {% include jordan-peterson-free-speech-quote.html %}
-        
+        <hr />
+
+        <div class="message">
+          <blockquote>
+            <p>"... the disadvantage of writing 1300 articles over a dozen years is that you repeat yourself some and maybe even contradict yourself some as you grow."</p>
+            <p> &mdash; from <a href="https://greghowlett.com/free-piano-lessons-and-arrangements-for-pianists">The Vault of Greg Howlett's site</a></p>
+          </blockquote>
+          <p>
+            If you are a colleague and you read something in my blog which I do not seem to be applying in my work, please point it out to me because I might have already forgotten that one. :blush:
+          </p>
+        </div>
       </div>
     </div>
   </div>

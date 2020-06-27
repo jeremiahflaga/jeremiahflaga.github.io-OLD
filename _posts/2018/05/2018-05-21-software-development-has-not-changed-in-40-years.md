@@ -62,6 +62,8 @@ For the last thirty years: Nothing much.
 ----------
 
 
+<!-- 
 I recently found the free reading materials for the [course from MIT OCW named "Software Construction"](https://ocw.mit.edu/ans7870/6/6.005/s16/) (newer materials [here](http://web.mit.edu/6.031/www/sp20/general/previous-semesters.html)). It might be very helpful in learning about those things that do not change a lot in software development.
 
-Enjoy!
+Enjoy! 
+-->

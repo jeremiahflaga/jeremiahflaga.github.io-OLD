@@ -20,7 +20,7 @@ I decided move that part into a separate blog post and make it as my first post 
 ---
 ## too long; do not want to read
 
-> **"An explanation is something which enables you to predict the future and to account for why you predict it that way."**
+> **"An explanation is something which enables you to predict [the future] and to account for why you predict it that way."**
 <br />
 -- Greg Bahnsen
 
@@ -74,7 +74,7 @@ and those standards that He imposes on people.
 
 > For Dr. Stein to say, "well, these aren't answers" doesn't convince me at all. He says 
 there aren't going to be answers unless I include how it took place. What is God's method,
-and why did he do it? Well, I don't accept those standards. I don't accept that this is a
+and why did he do it? Well, **I don't accept those standards**. I don't accept that this is a
 requirement for an **explanation** at all. And he doesn't give us a good reason except that he's
 not going to [be] satisfied or it's unhelpful to him.
 
@@ -83,7 +83,7 @@ not going to [be] satisfied or it's unhelpful to him.
 
 This thing about _explanation_ also came up in the [Bahnsen-Smith debate](http://theophilus-defendingthefaith.blogspot.com/2015/08/reasoning-by-presupposition-bahnsen.html)
 
-(They were talking about "induction" or the "uniformity of nature" or "inductive principle".)
+(They were talking about "induction" or the "uniformity in nature" or "inductive principle".)
 
 > **Bahnsen:** Does appealing to God **explain** anything? Well, of course when you ask philosophically: **what is an explanation?**  The answer is, of course, it does.  It may strike you as being as easy as a Sunday school child’s understanding, but if I’ve got a Heavenly Father who created the entire universe and controls every detail, even to the hairs on my head, and I say of this creative personality who has this sovereign might and plan that he sees to it that gravity holds on planet Earth day by day by day—that does in fact explain it, but it may not be the explanation that you want.  I’m just talking about now what counts as an explanation.  **An explanation is something which enables you to predict the future and to account for why you predict it that way.**
 
@@ -93,8 +93,8 @@ In my understanding, what Dr. Bahnsen is saying is that an explanation is someth
 
 ... The statement _"the laws of logic reflects the thinking of God"_ is the explanation/answer for why the laws of logic are universal, unchanging, etc.
 
-... The statement _"God controls the universe"_ is an explanation to why it makes sense to rely on what is called "the uniformity of nature" --- the present will be like the past, or the laws of nature today are the same as yesterday, because God wills it to be that way.
+... The statement _"God controls the universe"_ is an explanation to why it makes sense to rely on what is called "the uniformity in nature" --- the present will be like the past, or the laws of nature today are the same as yesterday, because God wills it to be that way.
 
-To make that more clear, I will quote Dr. Jason Lisle (from page 62 of his book ["The Ultimate Proof of Creation"](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga):
+To make it more clear why we can rely on the uniformity in nature, and that "God is in control of the universe" is an acceptable explanation for it, I will quote Dr. Jason Lisle (from page 62 of his book ["The Ultimate Proof of Creation"](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga):
 
 > "The future resembles the past because God upholds the future as He has upheld the past (the laws of nature are constant). Since none of us have experienced the future, the only way we could **know** that the future is like the past is by revelation from God. Everyone relies on this vital principle"
