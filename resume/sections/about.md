@@ -1,4 +1,4 @@
-<div class="resume-section-content">
+<div class="resume-section-content col-md-10">
     <h1 class="mb-0">
         Jeremiah
         <span class="text-primary">Flaga</span>
@@ -6,21 +6,20 @@
     <div class="subheading mb-5">
         <a href="https://www.google.com/maps/place/Kidapawan+City,+Cotabato/">Kidapawan, Cotabato, Philippines</a> &nbsp; ◦ &nbsp; 
         <a href="https://www.google.com/maps/place/Cebu+City,+Cebu/">Cebu City, Cebu, Philippines</a> &nbsp; ◦ &nbsp; 
-        +63918-374-5134 &nbsp; ◦ &nbsp; 
         <a href="mailto:{{ site.email | encode_email }}">flaga.jeremiah@gmail.com</a> &nbsp; ◦ &nbsp; 
-        <a href="/">jeremiahflaga.github.io</a> 
+        <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io</a> 
     </div>
     <p class="lead">I'm a software developer<a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a>, with over 7 years of experience, including:</p>
     <ul>
-        <li>6 years of experience in C# & .NET (this includes some experience JavaScript for the frontend side)</li>
+        <li>6 years of experience in C# & .NET (this includes experience of using JavaScript for the frontend side)</li>
         <li>2 years of experience refactoring and cleaning up codebases written in C# & .NET Framework</li>
         <li>2 years of experience writing tests</li>
         <li>1 year of experience in mobile application development using Java & Android Framework</li>
-        <li>6 months of experience in AngularJS (I also have knowledge of the later version of Angular)</li>
+        <li>a bit of knowledge on Angular</li>
     </ul>
-    <p class="lead">What can I contribute:</p>
+    <p class="lead">What can I contribute to your project?</p>
     <ul>
-        <li>Fixing of bugs in an existing project (Almost all the projects I have been involved in are already in the maintenance phase.)</li>
+        <li>Fixing of bugs in an existing project. (Almost all the projects I have been involved in are already in the maintenance phase.)</li>
         <li>Adding new features in an existing project</li>
         <li>Help in the architecture/structure of a new project</li>
         <li>Help in re-architecting/re-structuring of an existing project</li>
@@ -55,4 +54,12 @@
             <a href="#lob-apps-footnote-indicator">&uarr;</a>
         </p>
     </div>
+    <!-- <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br />
+    <div>
+        <strong style="font-size: 1.3em;">
+            Please visit my online resume, <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a>, to see the rest...
+        </strong>
+    </div> -->
 </div>

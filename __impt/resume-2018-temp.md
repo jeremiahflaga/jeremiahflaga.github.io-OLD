@@ -1,6 +1,6 @@
 ---
 layout: page-with-no-comments
-title: R&eacute;sum&eacute;
+title: Résumé
 permalink: /resume/temp
 published: false
 ---

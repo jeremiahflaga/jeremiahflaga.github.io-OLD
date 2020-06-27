@@ -6,7 +6,11 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#anti-resume">Anti-r&eacute;sum&eacute;</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">Intro</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-an-algorithmer">Not an Algorithmer</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-an-expert-on-frameworks">Frameworks Expert, Not</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#i-am-introverted">I'm Introverted</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-yet-good-with-spoken-english">On Spoken English</a></li>
         </ul>
     </div>
 </nav>

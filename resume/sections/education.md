@@ -18,4 +18,12 @@
         </div>
         <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
     </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between">
+        <div class="flex-grow-1">
+            <h3 class="mb-0">TESDA</h3>
+            <div class="subheading mb-3">Short Entry Course on VB.NET & ASP.NET Development</div>
+            <p></p>
+        </div>
+        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2012</span></div>
+    </div>
 </div>

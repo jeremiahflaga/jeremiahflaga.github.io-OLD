@@ -70,7 +70,7 @@ and a ( [Design Guide](#design-guide) or [Design Partner](#design-partner) or [D
 
 Based on my statements below, I'm very excited about _design_ in software. And as you might have already known (based on experience), people who have less experience about things are often the most excited about them. So, be cautious... because you (or someone else in your team) might consider me [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx), depending on your current skillset.
 
-If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [r&eacute;sum&eacute;](/resume/2018) and [anti-r&eacute;sum&eacute;](/resume/anti-resume/2018). :smile:
+If you want to have a better way of measuring whether I'm [a phony](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx) or not, please see my [résumé](/resume/2018) and [anti-résumé](/resume/anti-resume/2018). :smile:
 
 
 
@@ -179,7 +179,7 @@ Also, through this role, I can become familiar with the whole system and might s
 > --- Terence McGhee (from ["This Is How We Do It"](https://terencemcghee.com/Articles/Tech/2015/10/25/A0B2606228759D1A888E0AFFDB9DADE0.html))
 
 
-If you read my [Anti-r&eacute;sum&eacute;](/resume/anti-resume/2018/#not-an-expert-on-frameworks), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
+If you read my [Anti-résumé](/resume/anti-resume/2018/#not-an-expert-on-frameworks), you might already know that I'm not an expert on frameworks (but I intend to be, if time permits).
 
 In the .NET world, some of the frameworks I have experience working with (but far from being an expert in) are:
 
@@ -196,7 +196,7 @@ In the .NET world, some of the frameworks I have experience working with (but fa
 
 **I'm even rusty on some of them today** because I became an Android Developer in my last job. And in the last year or so, I moved my focus into learning software design rather than on frameworks and languages. So if I will be hired as a .NET developer, I might need some time to re-familiarize myself with the specific frameworks and libraries that are being used in the app that I will be involved in.
 
-Also, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [r&eacute;sum&eacute;](/resume/2018)?)
+Also, I prefer to be involved in the Web API part of the system, because I'm not very good with the UI part of a software system. (Did you notice that I put Bootstrap instead of CSS in my [résumé](/resume/2018)?)
 
 But if your Web API team is full already, or if the role that I need to fill will still involve the UI, such as in an ASP.NET MVC project, then I have to push myself to be good at the UI also :smile:
 

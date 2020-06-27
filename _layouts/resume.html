@@ -5,7 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Résumé</title>
+        <title>
+          {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
+          {% else %}{{ site.title | escape }}{% endif %}
+        </title>
         <link rel="icon" type="image/x-icon" href='{{ "/images/Jboy2017-Real-2(200x200).jpg" | relative_url }}' />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>

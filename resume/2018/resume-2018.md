@@ -1,18 +1,51 @@
 ---
 layout: page
-title: R&eacute;sum&eacute;
+title: Résumé
 permalink: /resume/2018
 published: false
 ---
 
 <style>
-  /* h2 {
-    color: #6a9fb5;
+  td, th {
+    padding: .25rem .5rem;
+    border: 1px solid #e5e5e5;
   }
 
-  h3 {
-    color: #515151;
-  } */
+  table.basic-info {
+    width: 70%;
+    border: none;
+    background-color: #fff;
+  }
+
+  table.basic-info,
+  .basic-info tbody tr td,
+  .basic-info tbody tr:nth-child(odd) td,
+  table.resume,
+  .resume tbody tr td,
+  .resume tbody tr:nth-child(odd) td {
+    border: none;
+    background-color: #fff;
+  }
+
+  .basic-info tbody tr td:nth-child(1),
+  .resume tbody tr td:nth-child(1) {
+    font-weight: bold;
+    // display: inline;
+    vertical-align: top;
+    text-align: right;
+  }
+
+  .resume tbody tr td:nth-child(2) {
+    border-left: 1px solid grey;
+  }
+
+  .resume tbody tr {  
+    border-bottom: 1px solid #eee;
+  }
+
+  .resume tbody tr:last-child {  
+    border-bottom: none;
+  }
 
   .indented {
     padding-left: 1rem;
@@ -25,6 +58,7 @@ published: false
     background-color: #f9f2f4;
     border-radius: 4px;
   }
+  
 </style>
 
 
@@ -85,7 +119,7 @@ published: false
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/resume/anti-resume/2018">Anti-r&eacute;sum&eacute;...</a>
+            <a href="/resume/anti-resume/2018">Anti-résumé...</a>
           </strong>
         </td>
       </tr>
@@ -976,9 +1010,9 @@ Here are other lessons I learned while working as a software developer.
   <strong>Other Links</strong>
 </h2>
 
-<strong>If you have more time, here are other links which complement my r&eacute;sum&eacute;:</strong>
+<strong>If you have more time, here are other links which complement my résumé:</strong>
 
- - [**Anti-r&eacute;sum&eacute;**](/resume/anti-resume/2018)
+ - [**Anti-résumé**](/resume/anti-resume/2018)
 
 ----------------------------------------------------------
 

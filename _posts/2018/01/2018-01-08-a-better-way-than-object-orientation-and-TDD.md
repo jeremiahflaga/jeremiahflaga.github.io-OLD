@@ -12,7 +12,7 @@ pinned: true
 
 ![old-resume-technical-expertise-oo.png](/images/2018/old-resume-technical-expertise-oo.png)
 
-That image is part of my r&eacute;sum&eacute; when I applied for my first and second jobs.
+That image is part of my résumé when I applied for my first and second jobs.
 
 _Object-Oriented Programming was one of my technical expertise!_
 
