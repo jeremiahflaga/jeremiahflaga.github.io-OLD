@@ -7,6 +7,10 @@ background: '/images/Jboy2017-Real-2(200x200).jpg'
 
 <!-- first: June 27, 2020 06:30:00 PM Philippine Time -->
 
+**NOTE:** your additional CSS can be found in `/_sass/additional-styles.scss`
+
+---
+
 # date: UTC
 
 refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:4000/2017/04/08/problems-encountered-with-jekyll-powered-blog#different-url-for-different-timezone)
@@ -16,38 +20,6 @@ refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:40
 # blockquotes
 
 > blockquotes
-
----
-
-# messages
-
-<div class="message" markdown="1">
-messsage inside `div` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</div>
-
-<p class="message" markdown="1">
-    messsage inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
-
-do not use span with `class="message"`; use `div` tag and `p` tag only:
-
-<span class="message">
-    messsage inside `span` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</span>
-
-<p class="message message-compressed" markdown="1">
-    messsage-compressed inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
-
-<p class="message message-compressed float-right" markdown="1">
-    messsage-compressed inside `p` tag - `float-right` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
-
-<p class="message message-compressed float-left" markdown="1">
-    messsage-compressed inside `p` tag - `float-left` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
-
-<div class="clearfix"></div>
 
 ---
 
@@ -61,6 +33,7 @@ The property `ICommandResult.Succeeded` ...
 
 # code inside triple backticks
 
+{: .mt-5 }
 ``` csharp
 public interface ICommandHandler<TCommand>
 {
@@ -100,9 +73,66 @@ img {
 
 ---
 
+# emojis
+
+:smile: :smiling: :laughing: :blush: :+1:
+
+should not have box-shadow
+
+``` css
+img.emoji {
+    box-shadow: none;
+    display: inline;
+    margin: 0;
+    border-radius: 0;
+}
+```
+
+---
+
+# messages
+
+<div class="message" markdown="1">
+messsage inside `div` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</div>
+
+<p class="message" markdown="1">
+    messsage inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</p>
+
+`class="message"` inside `span` is not being used in this site, so it's okay even if it does not look good
+
+<span class="message">
+    messsage inside `span` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</span>
+
+<p class="message message-compressed" markdown="1">
+    messsage-compressed inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</p>
+
+<p class="message message-compressed float-right" markdown="1">
+    messsage-compressed inside `p` tag - `float-right` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</p>
+
+<p class="message message-compressed float-left" markdown="1">
+    messsage-compressed inside `p` tag - `float-left` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+</p>
+
+<div class="clearfix"></div>
+
+---
+
 # comments section: disqus
 
 ---
 
 # analytics
 
+
+---
+
+# links
+
+## [jeremiahflaga.github.io](/)
+
+[jeremiahflaga.github.io](/)
