@@ -2,7 +2,7 @@
 layout: page
 title: R&eacute;sum&eacute;
 permalink: /resume/2018
-published: false
+published: true
 ---
 
 <style>

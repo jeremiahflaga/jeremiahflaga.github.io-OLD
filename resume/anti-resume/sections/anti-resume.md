@@ -1,4 +1,4 @@
-# title: Anti-r&eacute;sum&eacute;
+# Anti-r&eacute;sum&eacute;
 
 <div class="float-right">
   <a href="/images/Jboy2017-Anti-Resume-Original.jpg">

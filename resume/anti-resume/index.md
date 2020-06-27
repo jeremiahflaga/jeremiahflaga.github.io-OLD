@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 <html lang="en">
@@ -8,7 +8,7 @@ published: false
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Jeremiah Flaga &mdash; Anti-r&eacute;sum&eacute;</title>
+        <title>Anti-résumé</title>
         <link rel="icon" type="image/x-icon" href="../../images/Jboy2017-Real-2(200x200).jpg" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -22,6 +22,7 @@ published: false
     <body id="page-top">
         <!-- Navigation-->
         {% include_relative navigation.md %}
+        <h1>This is a work in progress...</h1>
         <!-- Page Content-->
         {% include_relative content.md %}
         <!-- Bootstrap core JS-->
