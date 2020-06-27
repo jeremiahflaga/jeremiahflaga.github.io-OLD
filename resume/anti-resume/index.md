@@ -1,5 +1,6 @@
 ---
 layout: resume
+published: false
 ---
 
 <!-- Navigation-->
