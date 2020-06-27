@@ -140,7 +140,7 @@ public interface ICommandHandler<TCommand>
     ICommandResult Handle(TCommand command);
 }
 
-public interface CommandResult
+public interface ICommandResult
 {
     bool Succeeded { get; }
     Error Error { get; }

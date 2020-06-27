@@ -11,43 +11,55 @@ background: '/images/Jboy2017-Real-2(200x200).jpg'
 
 refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:4000/2017/04/08/problems-encountered-with-jekyll-powered-blog#different-url-for-different-timezone)
 
+---
 
 # blockquotes
 
 > blockquotes
 
+---
 
 # messages
 
-<div class="message">
-    messsage inside div tag
+<div class="message" markdown="1">
+messsage inside `div` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </div>
 
-<p class="message">
-    messsage inside p tag
+<p class="message" markdown="1">
+    messsage inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </p>
+
+do not use span with `class="message"`; use `div` tag and `p` tag only:
 
 <span class="message">
-    messsage inside span tag
+    messsage inside `span` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </span>
 
-<p class="message message-compressed">
-    messsage-compressed inside p tag
+<p class="message message-compressed" markdown="1">
+    messsage-compressed inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </p>
 
-<p class="message message-compressed float-right">
-    messsage-compressed inside p tag - float-right
+<p class="message message-compressed float-right" markdown="1">
+    messsage-compressed inside `p` tag - `float-right` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </p>
 
-<p class="message message-compressed float-left">
-    messsage-compressed inside p tag - float-left
+<p class="message message-compressed float-left" markdown="1">
+    messsage-compressed inside `p` tag - `float-left` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </p>
 
-<br />
-<br />
-<br />
+<div class="clearfix"></div>
 
-# code
+---
+
+# code inside single backticks
+
+The template for use case handler `ICommandHandler` ...
+
+The property `ICommandResult.Succeeded` ...
+
+---
+
+# code inside triple backticks
 
 ``` csharp
 public interface ICommandHandler<TCommand>
@@ -63,10 +75,21 @@ public interface CommandResult
 }
 ```
 
+should have `box-shadow` to make it look good to the eye:
+
+``` css
+div.highlighter-rouge {
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+```
+
+---
 
 # images
 
 ![Argue to learn, not to win - from GOOSGBT](/images/2017/Argue-to-learn-from-GOOSGBT.jpg)
+
+should not overflow to the right and should have `box-shadow` to make it look good to the eye:
 
 ``` css
 img {
@@ -75,9 +98,11 @@ img {
 }
 ```
 
+---
 
 # comments section: disqus
 
+---
 
 # analytics
 
