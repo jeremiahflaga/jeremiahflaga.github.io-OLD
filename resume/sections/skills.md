@@ -15,7 +15,7 @@
 
 <div class="resume-section-content col-md-10">
     <h2 class="mb-5">Skills</h2>
-    <!-- <div class="subheading mb-3">Programming Languages & Tools</div>     -->
+    <!-- <div class="subheading mb-3">Programming Languages & Tools</div> -->
     <table class="table table-sm skills">
         <tbody>
             <tr>
@@ -33,13 +33,14 @@
             <tr>
             <td>Web (frontend):</td>
             <td>
-                <p>HTML, jQuery, KnockoutJS, <small>Angular</small></p>
+                <p><small>HTML, CSS, Bootstrap</small></p>
+                <p><small>JavaScript, TypeScript, jQuery, KnockoutJS, Angular, RxJS</small></p>
             </td>
             </tr>
             <tr>
             <td>Android:</td>
             <td>
-                <p>Java, RxJava, <small>Android Framework</small></p>
+                <p><small>Java, RxJava, Android Framework</small></p>
                 <!-- 
                 <p>Took 
                 <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
@@ -67,7 +68,7 @@
             <td>Unit Testing: </td>
             <td>
                 <p>
-                xUnit, Moq, NSubstitute, <small>JUnit, Mockito</small>
+                    xUnit, Moq, NSubstitute, <small>JUnit, Mockito</small>
                 </p>
                 <!-- <p>
                 Knows how to create fake objects by hand :grin:
@@ -97,12 +98,16 @@
             <td>Basic Computer Science Concepts:</td>
             <td>
                 <p>
-                Learned CS through free materials of
-                <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/file/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
-                <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
+                    <small>
+                    Learned CS through free materials of
+                    <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/file/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
+                    <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
+                    </small>
                 </p>
                 <p>
-                ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
+                    <small>
+                    ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
+                    </small>
                 </p>
             </td>
             </tr>
@@ -110,7 +115,7 @@
             <td>Software Architecture or Design:</td>
             <td>
                 <p>The SOLID principles</p>
-                <p>Clean Architecture model of Uncle Bob Martin
+                <p>The <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> model of Uncle Bob Martin
                 </p>
                 <p>Also have knowledge on some design patterns such as Decorator, Strategy, Factory, Command
                 </p>
@@ -126,7 +131,8 @@
                 Believes in Agile Software Development practices such as collective ownership of the codebase, code review (even pair programming or mob programming), discarding practices that does not work in a particular team and retaining those that work, and others you might want me to believe in that works in software development
                 </p>
                 <p>
-                Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> can greatly help us make software that is highly maintainable. (Of course that does not mean that I'm going to force it on others.)
+                Believes that <a href="/memorabilia/quotes/tdd/">TDD</a> is a very good discipline that can help us when making software.
+                <!-- (Of course that does not mean that I'm going to force it on others.) -->
                 </p>
             </td>
             </tr>
@@ -141,8 +147,7 @@
                 </p> -->
                 <!-- <p>I know a little bit of Python.</p> -->
                 <p>
-                I also tried solving <em>simple</em> algorithmic problems before. <small>(<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
-                <br/>
+                I also tried solving <em>simple</em> algorithmic problems before. <small>(<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>                
                 You can view my solutions to some simple problems
                 <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
                 </p>

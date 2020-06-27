@@ -28,7 +28,7 @@ For example, there was a time when I was trying to learn AngularJS (version 1) b
 For example, these days, July 2018, I am learning/reviewing AngularJS because it is the frontend technology that is being used in my job _(just-in-time learning of specific frameworks)_. Then on the side, I am consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler and the reading materials of ["6.005 — Software Construction on MIT OpenCourseWare"](https://web.mit.edu/6.031/www/fa18/) _(ahead-of-time learning of general concepts)_
 -->
 
-I hope that kind of learning philosophy is okay with you. :smile:
+I hope that kind of learning philosophy is okay with you. :blush:
 
 <!--
 **When I am already hired in your company**, I will spend the first few weeks concentrating on learning about the structure/architecture of the project I will be involved in, learning about the coding standards being used by the team, learning about the specific frameworks and libraries and languages that are being used in the project (if I am not yet familiar with them), and most importantly learning about the domain of the business that the software is being built for, even to the point of learning _why_ the software was built.
