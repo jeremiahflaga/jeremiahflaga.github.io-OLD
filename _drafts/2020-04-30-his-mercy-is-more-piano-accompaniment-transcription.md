@@ -9,7 +9,7 @@ published: false
 
 <!-- started transcribing April 22, 2020 11:30:00 PM Philippine Time -->
 
-They say that one of the ways to practice being a good musician is to transcribe songs. In the past years, transcribing can only be done by ear. These days, because we have videos already, transcribing can be done both by sight and ear.
+They say that one of the ways to practice being a good musician is to transcribe songs. In the past years, transcribing can only be done by ear. These days, because we have videos available everywhere already, transcribing can be done both by sight and ear.
 
 Transcribing by ear is very hard for me. Thankfully today we have videos so we can not transcribe both by sight and ear (mainly by sight). I hope that by doing this, transcribing by ear will be easier someday.
 

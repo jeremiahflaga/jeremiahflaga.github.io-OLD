@@ -136,3 +136,17 @@ messsage inside `div` tag - a long long long long long long long long long long 
 ## [jeremiahflaga.github.io](/)
 
 [jeremiahflaga.github.io](/)
+
+---
+
+# youtube videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6S8RCKRIoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+should not have box-shadow
+
+``` css
+iframe[src*="https://www.youtube.com/embed/"] {
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+```
