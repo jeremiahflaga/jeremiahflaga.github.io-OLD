@@ -8,9 +8,10 @@
         <ul class="navbar-nav">
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#intro">Intro</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-an-algorithmer">Not an Algorithmer</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-an-expert-on-frameworks">Frameworks Expert, Not</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-an-expert-on-frameworks">Not a Frameworks Expert</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#i-am-introverted">I'm Introverted</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-yet-good-with-spoken-english">On Spoken English</a></li>
+            <li class="nav-item"><a href="#back-to-resume"><a class="nav-link js-scroll-trigger" href="/resume"><i class="fas fa-arrow-circle-left"></i> Back to Résumé</a></a></li>
         </ul>
     </div>
 </nav>

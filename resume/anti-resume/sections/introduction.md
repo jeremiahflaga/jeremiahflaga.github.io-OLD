@@ -1,4 +1,4 @@
-<div class="resume-section-content col-md-9" markdown="1">
+<div class="resume-section-content col-md-10" markdown="1">
 
 <h1 class="mb-4">
     Anti<span class="text-primary">-Résumé</span>

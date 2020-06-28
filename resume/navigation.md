@@ -14,7 +14,11 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
             <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li> -->
             <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> -->
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#anti-resume">Anti-résumé</a></li>
+            <li class="nav-item">
+                <a href="#go-to-anti-resume">
+                    <a class="nav-link js-scroll-trigger" href="/resume/anti-resume">Anti-résumé <i class="fas fa-arrow-circle-right"></i></a>
+                </a>
+            </li>
         </ul>
     </div>
 </nav>

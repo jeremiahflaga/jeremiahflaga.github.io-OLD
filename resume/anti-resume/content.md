@@ -24,6 +24,14 @@
     {% include_relative sections/not-yet-good-with-spoken-english.md %}
 </section>
 
+<hr class="m-0" />
+<section class="resume-section" id="back-to-resume" style="min-height: 0px;">
+    <div class="resume-section-content col-md-9">
+        <h2 class="mb-5">Résumé</h2>
+        <p><a href="/resume"><i class="fas fa-arrow-circle-left"></i> back to Résumé</a>.</p>
+        <p class="mb-0"></p>
+    </div>
+</section>
 <!-- Footer -->
 <hr class="m-0" />
 <section class="resume-section" style="min-height: 0px; padding-top: 1rem; padding-bottom: 1rem;">
