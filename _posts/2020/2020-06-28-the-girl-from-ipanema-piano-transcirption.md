@@ -11,7 +11,7 @@ date: 2020-06-28 05:30:00 PM UTC
 <small>The mp3 MuseScore export of the transcription:</small>
 
 <audio controls style="width:100%">
-  <source src="/files/music/2020-06-28-the-girl-from-ipanema.mp3" type="audio/mpeg">
+  <source src="/files/music/2020-06-28-the-girl-from-ipanema-new.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -31,6 +31,6 @@ Transcribing by ear is very hard for me --- I do not have perfect pitch, and I w
 
 Here's the transcription (with some modifications of my own):
 
-<embed src="/files/music/2020-06-28-the-girl-from-ipanema.pdf" width="100%" height="980px"/>
+<embed src="/files/music/2020-06-28-the-girl-from-ipanema-new.pdf" width="100%" height="980px"/>
 
 Enjoy!
