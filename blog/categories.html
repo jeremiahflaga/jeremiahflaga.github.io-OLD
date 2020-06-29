@@ -1,12 +1,14 @@
 ---
-layout: page-with-no-comments
+layout: page
 title: Categories
 ---
 
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    <h5 class="badge badge-info">
+      <a href="#{{ tag[0] | slugify }}" class="post-tag text-light lead font-weight-bold">{{ tag[0] }}</a>
+    </h5>
     {% endfor %}
   </div>
   <hr/>

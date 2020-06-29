@@ -7,7 +7,13 @@ background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
 <!-- archive page code from http://chris.house/blog/building-a-simple-archive-page-with-jekyll -->
 
 <div class="tags-expo">
-    <div class="tags-expo-list">
+    <div class="tags-expo-list">    
+        <h5 class="badge badge-info">
+            <a href="/blog/categories" class="post-tag text-light lead font-weight-bold">Categories</a>
+        </h5>  
+        <h5 class="badge badge-info">
+            <a href="/blog/tags" class="post-tag text-light lead font-weight-bold">Tags</a>
+        </h5>
     </div>
     <hr/>
     <div class="tags-expo-section">
@@ -57,4 +63,6 @@ background: '/images/background/monika-sojcakova-S4sEHI2B0dU-unsplash.jpg'
     </div>
 </div>
 
+<!-- 
 ## [Want some _good_ and free books?](/free-books/)
+ -->
