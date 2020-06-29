@@ -3,13 +3,13 @@
 <h1 class="mb-4">
     Anti<span class="text-primary">-Résumé</span>
 </h1>
-
+<!-- 
 <div class="float-right">
   <a href="/images/Jboy2017-Anti-Resume-Original.jpg">
     <img src="/images/Jboy2017-Anti-Resume-Small.jpg" title="Jboy Anti Resume Image" alt="Jboy Anti Resume Image" height="300" style="box-shadow: 1px 1px 5px rgba(0,0,0,0.5); margin: 1rem;" />
   </a>
 </div>
-
+ -->
 
 > "People don't walk around with anti-résumés telling you what they have not studied or experienced (it's the job of their competitors to do that), but it would be nice if they did."
 <br /><br />

@@ -174,7 +174,7 @@
                 </p>
                 <p>
                     <small>
-                        <em>(I included this here because this might give me plus points... because I saw a job posting in the past where this book is a required reading if one is hired.) :grin:</em>
+                        <em>(I included this here because this might give me plus points... because I saw a job posting in the past where this book is a required reading if one is hired.) :blush:</em>
                     </small>
                 </p>
             </td>
