@@ -41,7 +41,11 @@ img.emoji {
     border-radius: 0;
 }
 
-iframe[src*="https://www.youtube.com/embed/"] { // CSS Attribute Selectors: https://www.w3schools.com/css/css_attribute_selectors.asp
+iframe[src|="https://www.youtube.com/embed/"] { // | means "starts with" - CSS Attribute Selectors: https://www.w3schools.com/css/css_attribute_selectors.asp
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+embed[src$=".pdf"] { // $ means "ends with"
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 

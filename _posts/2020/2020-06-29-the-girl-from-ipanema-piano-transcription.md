@@ -1,16 +1,19 @@
 ---
 layout: post
 title: '"The Girl from Ipanema" piano transcription'
+subtitle: 'as played by Antoine Hervé'
 categories: [Music]
 tags: [Music, Antoine Hervé, Piano]
-date: 2020-06-28 05:30:00 PM UTC
+date: 2020-06-29 02:55:00 PM UTC
+background: /images/background/small/debby-hudson-l4MDJtoRw9M-unsplash.jpg
 ---
 
-<!-- June 29, 2020 01:30:00 AM Philippine Time -->
+<!-- first published: June 29, 2020 01:30:00 AM Philippine Time -->
+<!-- 2nd published: June 29, 2020 10:55:00 PM Philippine Time -->
 
 <small>The mp3 MuseScore export of the transcription:</small>
 
-<audio controls style="width:100%">
+<audio controls volume="0.1" style="width:100%">
   <source src="/files/music/2020-06-28-the-girl-from-ipanema.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -31,10 +34,14 @@ The truth is transcribing by ear is very hard for me --- I do not have perfect p
 
 Here's the transcription (with some modifications of my own):
 
-<!-- 
-<small>(Please pardon the dynamics notations scattered all over the sheet music. I was just experimenting with kind of sound MuseScore is able to make. :grin: Just ignore the dynamics in the sheet music.)</small>
- -->
+<small>
+(Please pardon the dynamics notations scattered all over the sheet music. I was just experimenting with kind of sound MuseScore is able to make. Please ignore the dynamics in the sheet music and play it at your own will instead.)
+</small>
  
-<embed src="/files/music/2020-06-28-the-girl-from-ipanema-minimal-dynamics.pdf" width="100%" height="980px"/>
+<embed src="/files/music/2020-06-28-the-girl-from-ipanema.pdf" width="100%" height="980px"/>
+
+Here's a video of the transcription:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1EmBtaCTJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Enjoy!
