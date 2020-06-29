@@ -53,7 +53,7 @@
             <td>Databases, ORM:</td>
             <td>
                 <p>
-                SQL, SQL Server, Entity Framework
+                SQL, Entity Framework
                 </p>
                 <!-- 
                 <p>
@@ -114,14 +114,18 @@
             <tr>
             <td>Software Architecture or Design:</td>
             <td>
-                <p>The SOLID principles</p>
-                <p>The <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> model of Uncle Bob Martin
+                <p>
+                    <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>
                 </p>
-                <p>Also have knowledge on some design patterns such as Decorator, Strategy, Factory, Command
+                <p>
+                    The <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> model of Uncle Bob Martin
                 </p>
-                <!-- <p>
-                <small>Also, a little knowledge on some DDD concepts</small>
-                </p> -->
+                <p>
+                    Also have knowledge on some design patterns such as Decorator, Strategy, Factory, Command
+                </p>
+                <p>
+                    <small>Also, a little knowledge on some DDD concepts</small>
+                </p>
             </td>
             </tr>
             <tr>
@@ -147,7 +151,7 @@
                 </p> -->
                 <!-- <p>I know a little bit of Python.</p> -->
                 <p>
-                I also tried solving <em>simple</em> algorithmic problems before. <small>(<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>                
+                I also tried solving <em>simple</em> algorithmic problems before. (<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)                
                 You can view my solutions to some simple problems
                 <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
                 </p>

@@ -2,6 +2,10 @@
     <section class="resume-section" id="about">
         {% include_relative sections/about.md %}
     </section>
+    <hr class="m-0" />
+    <section class="resume-section" id="skills">
+        {% include_relative sections/skills.md %}
+    </section>
     <hr class="m-0" /> 
     <section class="resume-section" id="experience">
         <div class="resume-section-content col-md-12">
@@ -21,10 +25,6 @@
                 </strong>
             </div> -->
         </div>
-    </section>
-    <hr class="m-0" />
-    <section class="resume-section" id="skills">
-        {% include_relative sections/skills.md %}
     </section>
     <hr class="m-0" />
     <section class="resume-section" id="software-ninja-class">
