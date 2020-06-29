@@ -146,7 +146,21 @@ messsage inside `div` tag - a long long long long long long long long long long 
 should not have box-shadow
 
 ``` css
-iframe[src*="https://www.youtube.com/embed/"] {
+iframe[src^="https://www.youtube.com/embed/"] {  // ^ means "starts with"
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 ```
+
+---
+
+# embedded pdfs
+
+should not have box-shadow
+
+``` css
+embed[src$=".pdf"] { // $ means "ends with"
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+```
+
+<embed src="/files/music/2020-06-28-the-girl-from-ipanema.pdf" width="100%" height="300px"/>
