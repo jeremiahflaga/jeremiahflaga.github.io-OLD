@@ -12,7 +12,7 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#if-your-codebase-is-messy">If your codebase is messy...</a></li>            
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#i-am-introverted">I'm Introverted</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-yet-good-with-spoken-english">On Spoken English</a></li>
-            <li class="nav-item"><a href="#back-to-resume"><a class="nav-link js-scroll-trigger" href="/resume"><i class="fas fa-arrow-circle-left"></i> Back to Résumé</a></a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#back-to-resume">Résumé</a></li>
         </ul>
     </div>
 </nav>

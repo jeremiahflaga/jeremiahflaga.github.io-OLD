@@ -46,7 +46,7 @@
     <section class="resume-section" id="go-to-anti-resume" style="min-height: 0px;">
         <div class="resume-section-content col-md-9">
             <h2 class="mb-5">Anti-résumé</h2>
-            <p>Please click <a href="/resume/anti-resume">here</a>.</p>
+            <p><a href="/resume/anti-resume">go to Anti-résumé <i class="fas fa-arrow-circle-right"></i></a></p>
             <p class="mb-0"></p>
         </div>
     </section>
