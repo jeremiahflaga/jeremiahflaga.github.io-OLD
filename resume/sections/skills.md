@@ -14,7 +14,7 @@
 </style>
 
 <div class="resume-section-content col-md-10">
-    <h2 class="mb-5">Skills</h2>
+    <h2 class="mb-5">Skills / Technical Knowledge</h2>
     <!-- <div class="subheading mb-3">Programming Languages & Tools</div> -->
     <table class="table table-sm skills">
         <tbody>
@@ -40,7 +40,7 @@
             <tr>
             <td>Android:</td>
             <td>
-                <p><small>Java, RxJava, Android Framework</small></p>
+                <p><small>Java, RxJava, Android Framework (NOTE: I will need to review if I will be involved in an Android project)</small></p>
                 <!-- 
                 <p>Took 
                 <a href="/files/certificates/Android-Cert-Coursera.pdf">"Programming Mobile Applications for Android Handheld Systems" from Coursera last 2014 
@@ -167,16 +167,17 @@
             </td>
             </tr>
             <tr>
-            <!-- <td></td>
+            <td></td>
             <td>
                 <p>
-                I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think), and I am rereading it sometimes to review the things I learned from it.</em>.
-                <br /><br />
-                <small>
-                    <em>(I included this here because this might give me plus points... because I saw a job posting in the past where this book is a required reading if one is hired.) :grin:</em>
-                </small>
+                    I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think), and I am rereading it sometimes to review the things I learned from it.</em>.
                 </p>
-            </td> -->
+                <p>
+                    <small>
+                        <em>(I included this here because this might give me plus points... because I saw a job posting in the past where this book is a required reading if one is hired.) :grin:</em>
+                    </small>
+                </p>
+            </td>
             </tr>
         </tbody>
     </table>

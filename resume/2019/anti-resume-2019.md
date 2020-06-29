@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anti-résumé
-permalink: /resume/anti-resume/2018
+permalink: /resume/2019/anti-resume
 published: false
 ---
 <!-- 
@@ -29,7 +29,7 @@ published: false
 You think having an anti-résumé will put me at a disadvantage? ...
 -->
 
-This anti-résumé (together with my [résumé](/resume/2018)) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :smile:
+This anti-résumé (together with my [résumé](/resume/2019)) will help me find the best job that fits my current skillset, and it will help you in determining if I am fit for your team or not. That would be _win-win_ for me and you! :smile:
 
 
 
@@ -45,7 +45,7 @@ This anti-résumé (together with my [résumé](/resume/2018)) will help me find
   <strong>I never experienced being an Algorithmer</strong>
 </h2>
 
-In my [résumé](/resume/2018#im-an-initiate), I considered myself as an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), based on Terence McGhee's "Software Ninja Class Hierarchy". But I never experienced being an [**Algorithmer**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#algorithmer), even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_. My weak mathematics background is the reason why I concentrated on learning how to build what they call [line-of-business (LOB) applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) (or what is called _"representational-transactional systems"_ [here](https://web.archive.org/web/20190109022046/https://aryehoffman.com/entry/classifying-software/)), because these things do not need lots of knowledge in mathematics.
+In my [résumé](/resume/2019#im-an-initiate), I considered myself as an [**Initiate**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#initiate), based on Terence McGhee's "Software Ninja Class Hierarchy". But I never experienced being an [**Algorithmer**](https://terencemcghee.com/FileStore/Tech/1D0C454A70AC3AEF01BB1BAAD94C8753.html#algorithmer), even though it is much lower than the Initiate in that hierarchy --- _I do not have special knowledge in higher mathematics_. My weak mathematics background is the reason why I concentrated on learning how to build what they call [line-of-business (LOB) applications](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) (or what is called _"representational-transactional systems"_ [here](https://web.archive.org/web/20190109022046/https://aryehoffman.com/entry/classifying-software/)), because these things do not need lots of knowledge in mathematics.
 
 But I can work with an Algorithmer, and I have high respect for an Algorithmer, because I would have liked to experience being an Algorithmer had I given the chance (education) to become one. And I believe that working with an Algorithmer will benefit me --- I believe that I will learn a lot from an Algorithmer. I'm hoping also that an Algorithmer will learn a lot from me, if I will be working with one.
 
@@ -147,7 +147,7 @@ English is not my native language. So for me, writing in English is easier than 
 
 ## **I'm not very good with UIs (and UX)**
 
-... <small>(have you noticed that I did not include CSS in my [résumé](/resume/2018)?)</small> But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when I work with you.
+... <small>(have you noticed that I did not include CSS in my [résumé](/resume/2019)?)</small> But I managed to work on UIs in all of my previous works, so I believe I can still manage to work with UIs when I work with you.
 
 If I will be working with a UI/UX designer, I believe that he will not be having a problem working with me because I _intend_ to decouple my code from the UI (if possible*), so that my code will _not_ be very affected by UI changes, and the UI will not be very affected by my code changes.
 
@@ -428,7 +428,7 @@ I want to help spread this idea of professionalism in the sovtware development c
 --------------------
 
 
-**_If you are looking for my [Resum&eacute;](/resume/2018), you can view it [here](/resume/2018)_**
+**_If you are looking for my [Resum&eacute;](/resume/2019), you can view it [here](/resume/2019)_**
 
 
 

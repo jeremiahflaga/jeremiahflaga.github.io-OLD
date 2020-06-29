@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-permalink: /resume/2018
+permalink: /resume/2019
 published: false
 ---
 
@@ -119,7 +119,7 @@ published: false
         <td></td>
         <td colspan="2">
           <strong>
-            <a href="/resume/anti-resume/2018">Anti-résumé...</a>
+            <a href="/resume/2019/anti-resume">Anti-résumé...</a>
           </strong>
         </td>
       </tr>
@@ -312,7 +312,7 @@ published: false
         </p> -->
         <p>I know a little bit of Python.</p>
         <p>
-          I also like solving <em>simple</em> algorithmic problems. <small>(<a href="/resume/anti-resume/2018/#i-never-experienced-being-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
+          I also like solving <em>simple</em> algorithmic problems. <small>(<a href="/resume/2019/anti-resume/#i-never-experienced-being-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)</small>
           <br/>
           You can view my solutions to some simple problems
           <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
@@ -892,7 +892,7 @@ Here are other lessons I learned while working as a software developer.
     <br /><br />
     I believe that code review (or pair programming) and proper guidance/mentoring from seniors or from those who are already familiar with the system, even if they are not yet seniors, can help solve this problem.
     <br /><br />
-    I think no one wants to stay working on a messy codebase for too long. <a href="/resume/anti-resume/2018/#if-your-codebase-is-messy">I don't want to work on a messy codebase for too long</a> , but I can bear working on it for a long time if the team working on that codebase decides clean it up little by little everyday.    
+    I think no one wants to stay working on a messy codebase for too long. <a href="/resume/2019/anti-resume/#if-your-codebase-is-messy">I don't want to work on a messy codebase for too long</a> , but I can bear working on it for a long time if the team working on that codebase decides clean it up little by little everyday.    
     <br /><br />    
   </dd>
 
@@ -1012,7 +1012,7 @@ Here are other lessons I learned while working as a software developer.
 
 <strong>If you have more time, here are other links which complement my résumé:</strong>
 
- - [**Anti-résumé**](/resume/anti-resume/2018)
+ - [**Anti-résumé**](/resume/2019/anti-resume)
 
 ----------------------------------------------------------
 
