@@ -8,7 +8,7 @@ permalink: /memorabilia/quotes/tdd/
 
 Through Uncle Bob Martin's charismatic presentations on TDD, I had been convinced (and is still am) that TDD is a very important practice for programmers who want to have control over their software (instead of their software controlling them).
 
-But because I am way way more **in**experienced on TDD than Uncle Bob, I will just hold the same position as John Sonmez has on TDD for now:
+But because I am way way more **in**experienced on TDD than Uncle Bob, I will have to be less dogmatic about it than him: I will just hold to the same position as John Sonmez has on TDD for now:
 
 <!-- 
 But because I have not yet experienced using TDD in a real world project, and I am barely writing automated tests in the projects I have been involved in, I have to back off a little bit from that _belief_, because as what [Jordan Peterson](https://www.goodreads.com/quotes/9237559-you-can-only-find-out-what-you-actually-believe-rather) is saying, _"You can only find out what you actually believe (rather than what you think you believe) by watching how you act."_ :grin: And at the moment, I think I'm not acting the way I'm supposed to act if I truly am a TDD advocate.
@@ -18,9 +18,11 @@ For now, I will just hold the same position as John Sonmez has on TDD:
 
 > ... the biggest benefit for me for doing test driven development that I found is **it helps you become better at writing good code**.
 <br /><br />
-**Let me tell you what I think now. I think now that test driven is like training wheels for writing good code.** It should be used in certain cases but not all the time.
+The reason why this is true is because when you write the test first, **it forces you to use the APIs of your code**. It forces you to use that production code --- so that influences you to make the structure of that code better for being used and to be more understandable.  When we just write a bunch of code first where you don’t think about how it’s going to be used, we are guessing at how people are going to use it or how easy this is going to be to use. When you write unit test first and then you write the code to make those unit test pass, **you're basically starting out by defining the API** which is really valuable for writing quality clear code that’s easy to understand.
 <br /><br />
-> Overall, with my view, I think test driven development is good. It’s really, really good for beginners. If you’re starting out you need to start practicing this in order to become better at development. As you get more experience, you have to use your common sense. You have to be pragmatic about it. If you feel like the tests aren’t adding value or they’re just wasting time, then that might be true.
+**Let me tell you what I think now. I think now that test driven is like training wheels for writing good code. It should be used in certain cases but not all the time.**
+<br /><br />
+> Overall, with my view, I think test driven development is good. It’s really, really good for beginners. If you’re starting out you need to start practicing this in order to become better at development. As you get more experience, you have to use your common sense. **You have to be pragmatic about it. If you feel like the tests aren’t adding value or they’re just wasting time, then that might be true.**
 <br /><br />
 > --- John Sonmez (from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))
 
@@ -36,7 +38,7 @@ I believe, like [Uncle Bob Martin does](http://blog.cleancoder.com/uncle-bob/201
 So 
  -->
 
-...I would like to convince myself and my fellow software developers to embrace TDD. :smile:
+... I would like to convince myself and my fellow software developers to embrace TDD. :smile:
 
 Ergo, these quotes...
 
@@ -126,7 +128,7 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
-### Harry Percival (["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html))
+### Harry Percival <small>(["Test-Driven Development with Python"](https://www.obeythetestinggoat.com/book/praise.harry.html))</small>
 
 > I’ve lost count of the number of times I’ve thought “Thanks, tests”, as a functional test uncovers a regression we would never have predicted, or a unit test saves me from making a really silly logic error. **Psychologically, [TDD] made development a much less stressful process. It produces code that’s a pleasure to work with.** (from [Preface](https://www.obeythetestinggoat.com/book/preface.html))
 
@@ -135,18 +137,18 @@ matter how pretty or object-oriented or well encapsulated it is.
 > Ultimately, programming is hard. Often, we are smart, so we succeed. TDD is there to help us out when we’re not so smart. Kent Beck (who basically invented TDD) uses the metaphor of lifting a bucket of water out of a well with a rope: when the well isn’t too deep, and the bucket isn’t very full, it’s easy. And even lifting a full bucket is pretty easy at first. But after a while, you’re going to get tired. **TDD is like having a ratchet that lets you save your progress, take a break, and make sure you never slip backwards. That way you don’t have to be smart all the time.** (from [Chapter 4](https://www.obeythetestinggoat.com/book/chapter_philosophy_and_refactoring.html))
 
 
-### Michael ([GeePaw](http://anarchycreek.com/whosgeepawhill/)) Hill ([How TDD and Pairing Increase Production](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/))
+### Michael ([GeePaw](http://anarchycreek.com/whosgeepawhill/)) Hill <small>([How TDD and Pairing Increase Production](http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/))</small>
 
 > ... the hard part of programming is the thinking, not the typing...
 <br /><br />
 > TDD increases your production because it serves as a thinking-aid.  It limits back-tracking and gold-plating  and it reduces code-study and debugging.  Pairing increases your production for the very same reason.  Two developers together don’t type as fast as two developers separately, but we don’t care: **the bottleneck is the thinking, and pairing and TDDing both improve it.**
 
 
-### John Sonmez (from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))
+### John Sonmez <small>(from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))</small>
 
 > ... the biggest benefit for me for doing test driven development that I found is **it helps you become better at writing good code**.
 <br /><br />
-The reason why this is true is because when you write the test first, it forces you to use the APIs of your code.  It forces you to use that production code so that influences you to make the structure of that code better for being used and to be more understandable.  When we just write a bunch of code first where you don’t think about how it’s going to be used, we are guessing at how people are going to use it or how easy this is going to be to use.  When you write unit test first and then you write the code to make those unit test pass, you’re basically starting out by defining the API which is really valuable for writing quality clear code that’s easy to understand.
+The reason why this is true is because when you write the test first, **it forces you to use the APIs of your code**. It forces you to use that production code --- so that influences you to make the structure of that code better for being used and to be more understandable.  When we just write a bunch of code first where you don’t think about how it’s going to be used, we are guessing at how people are going to use it or how easy this is going to be to use. When you write unit test first and then you write the code to make those unit test pass, **you're basically starting out by defining the API** which is really valuable for writing quality clear code that’s easy to understand.
 <br /><br />
 **Let me tell you what I think now.  I think now that test driven is like training wheels for writing good code.  It should be used in certain cases but not all the time.**
 
@@ -156,7 +158,7 @@ The reason why this is true is because when you write the test first, it forces 
 
 
 
-### Sandro Mancuso (from page 100 of ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga))
+### Sandro Mancuso <small>(from page 100 of ["The Software Craftsman"](https://www.bookdepository.com/Software-Craftsman-Sandro-Mancuso/9780134052502?a_aid=jflaga))</small>
 
 > Although TDD has "test" in its name, TDD is actually a design practice. **When test-driving our code, it becomes very difficult to write complex code.** First, because we write just enough code to satisfy the requirements --- represented as tests --- we discourage overengineering and big design up front (BDUF). Second, whenever our code becomes a bit too complex and bloated, it also becomes difficult to test. Complexity in our code and bad design choices are highlighted by the complexity in maintaining and writing new tests. These tests lead us to re-analyze the design of our code and refactor to make it simpler.
 
