@@ -38,7 +38,7 @@ I believe, like [Uncle Bob Martin does](http://blog.cleancoder.com/uncle-bob/201
 So 
  -->
 
-... I would like to convince myself and my fellow software developers to embrace TDD. :smile:
+... I would like to convince myself and my fellow software developers to embrace TDD. :blush:
 
 Ergo, these quotes...
 

@@ -5,18 +5,20 @@
 
 > "... Here's a possible surprise for you. I am not going to recommend that you need to become an Entity Framework guru. Nope, just the opposite in fact. I am going to suggest that you allow the Entity Framework development team to be the gurus, and you just focus on your specific application. After all, your Core Domain is where you want to put your creative energies, not in becoming an expert in Entity Framework."
 <br /><br />
-> --- Vaughn Vernon <small>(from ["Modeling Aggregates with DDD and Entity Framework"](https://vaughnvernon.co/?p=879))</small>
+> --- Vaughn Vernon <small>(from ["Modeling Aggregates with DDD and Entity Framework"](https://web.archive.org/web/20180827140727/https://vaughnvernon.co/?p=879))</small>
 
 
 You might say, _"What! Frameworks are the ones that make us do our work easily and fast! Why are you saying that being an expert on frameworks is not important?"_
 
 Wait!... I am not saying that being an expert on frameworks is not important. What I am trying to say is that, in programming, there are more important things to focus on than being an expert on frameworks --- such as [separating the business rules from the other parts of the system](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value). The business rules in a system are not googleable, so I believe that it is very important to separate them so that it will be very easy to locate them when fixing bugs.
 
+<!-- 
 (I intend to someday become an expert on some frameworks of course.)
+ -->
 
 You might ask what my excuse is for not being an expert on frameworks...
 
-My excuse is that frameworks change very often and I do not have all the time to catch up with all the changes. Also, many years ago in our school library, I read this from a book called "The Magic of Thinking Big" <sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>:
+My excuse is that frameworks change very often and I do not have all the time to catch up with all the changes. Also, many years ago in our school library, I read this from a book called "The Magic of Thinking Big":
 
 > "It is more important to use your mind to think than use it as a warehouse for facts."
 <br /><br />
