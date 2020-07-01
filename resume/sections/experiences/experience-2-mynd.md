@@ -50,7 +50,6 @@
                                 This is where I <em>started</em> to understand the Dependency Inversion Principle, the use of the Factory design pattern, and other things.
                             </p>
                         </li>
-                        <br />
                         <li> 
                             <p>
                                 I learned that programmers at this level of their carreer needs lots of guidance/mentoring from their seniors, most especially when the project is in a complex state already, and if the seniors don't want the juniors to mess with the code. :grin:
@@ -59,13 +58,11 @@
                                 (When I become a senior developer someday, I intend to guide/mentor my teammates who are in the beginning years of their carreer... provided of course that they also share some of their knowledge with me. :blush:)
                             </p>
                         </li>
-                        <br />
                         <li>
                             <p>
                                 Also, I think it will be helpful to give from time-to-time some readings or lectures about the domain of the system being maintained by the programmers, so that it will not be very hard for them to understand the parts of the codebase where knowledge of the domain is needed.
                             </p>
                         </li>
-                        <br />
                         <li>
                             <p>
                                 This is the time where I, and my teammates, plunged into the Clean Code book because one of our team leads made us read one chapter of the book each week, and spend about an hour each week discussing that chapter.
@@ -77,7 +74,6 @@
                                 But I learned a lot from the chapters which I read.
                             </p>
                         </li>
-                        <br />
                         <li>
                             <p>
                                 This is where I experienced writing unit tests <em>after-the-fact</em>, that is, after the production code is already written. — It was hard.
@@ -89,13 +85,13 @@
                                 -->
                             </p>
                             <p>
-                                I think the time I spent writing those tests was a waste of time :grin:, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system <em>better</em> at a later time, which is supposed to be the reason for writing tests for an existing software. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> existed.)
+                                I think the time I spent writing those tests was a waste of time :grin:, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system <em>better</em> at a later time, which is supposed to be one of the reasons for writing tests for an existing software. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> existed during that time.)
                             </p>
                             <p>
                                 Don't get me wrong here. I don't hate unit testing. During that time, I already have an appreciation on the benefits of having unit tests — it had been three years already since I first heard about unit testing and TDD during that time.
                             </p>
                             <p>
-                                I think I should have told my team leads about my opinion that writing those tests was just a waste of time. If I have told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em> that I encountered. But I was very timid during that time and was afraid to express my opinions.
+                                I think I should have told my team leads about my opinion that writing those tests was just a waste of time. Had I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em> that I encountered. But I was very timid during that time and was afraid to express my opinions.
                             </p>
                             <p>
                                 But despite that experience, I'm not against writing tests. I am even a <a href="/memorabilia/quotes/tdd/">TDD advocate</a> today through the influence of Uncle Bob Martin. But writing tests <em>after</em> the production code is already written requires a somewhat different skillset than doing TDD. I was, and is still, not skillfull on writing tests <em>after-the-fact</em>. But I'm trying to be good at it also.

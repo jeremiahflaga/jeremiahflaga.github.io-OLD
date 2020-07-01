@@ -55,14 +55,13 @@
                                 Doing Android made me more confident that I can also do work on other platforms.
                             </p>
                         </li>
-                        <br />
                         <li>
                             <p>
-                                Even though we were using <a href="/2018/05/23/rxjava-is-not-intuitive/">RxJava</a> in our project, which others say makes dealing with background threads much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this <em>threads</em> thing while working on version 2 of the app. 
+                                Even though we were using <a href="/2018/05/23/rxjava-is-not-intuitive/">RxJava</a> in our project, which others say makes dealing with threading much easier, there was a time where I had to deal with what they call a <em>race condition</em> with this <em>threads</em> thing while working on version 2 of the app. 
                             </p>
                             <p>
-                                It was hard. The bug was intermittent. It was hard to find, partly because a large part of the project uses RxJava in a wrong way(?)
-                                After I few weeks/months working on the project I discovered that when using RxJava, methods must return <code>Observables</code> all the way up from the data source to the presentation layer, so that they can be composed.
+                                It was hard. The bug was intermittent. It was hard to find, [partly because <a href="/2018/05/23/rxjava-is-not-intuitive/">that part of the project uses RxJava in a wrong way(?)</a>
+                                After I few weeks/months working on the project I discovered that when using RxJava, methods must return <code>Observables</code> all the way up from the data source to the presentation layer, to avoid memory leaks and so that they can be easily composed.
                             </p>
                             <p>
                                 But I'm not 100% sure if the wrong way of using RxJava is truly the reason for that bug. Perhaps it was just my ignorance on how to deal with threads.

@@ -2,7 +2,7 @@
 layout: post
 title: 'RxJava is not intuitive... and what helped me to somewhat understand it'
 categories: [Programming]
-tags: [Android, RxJava, Retrofit, Jake Wharton, Dan Lew]
+tags: [Android, RxJava, Jake Wharton, Dan Lew]
 date: 2018-05-23 08:45:00 PM UTC
 ---
 
@@ -39,8 +39,7 @@ public class Data {
     public String id;
 }
 
-// We were using Retrofit for getting and sending data through the network.
-public interface DataRetrofitService {
+public interface DataService {
     @GET("/data")
     Observable<Data> getData();
 
@@ -49,18 +48,18 @@ public interface DataRetrofitService {
 }
 
 public class DataSource {
-    DataRetrofitService dataRetrofitService;
+    DataService dataService;
     ...
 
     public void getData(Observer<Data> observer) {
-        dataRetrofitService.getData()
+        dataService.getData()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(observer);
     }
     
     public void getDetails(String dataId, Observer<Details> observer) {
-        dataRetrofitService.getDetails()
+        dataService.getDetails()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(observer);
@@ -169,16 +168,16 @@ In the code below, notice the methods in the `DataSource` class --- they do _not
 ``` java
 public class DataSource {
     public Observable<Data> getData() {
-        return dataRetrofitService.getData();
+        return dataService.getData();
         // you can also do something like
-        //      return dataRetrofitService.getData()
+        //      return dataService.getData()
         //          .flatMap(data => { 
         //              // save data to database
         //          });
     }
     
     public Observable<Details> getDetails(String dataId) {
-        return dataRetrofitService.getDetails();
+        return dataService.getDetails();
     }
 }
 

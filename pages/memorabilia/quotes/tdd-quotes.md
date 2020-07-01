@@ -193,6 +193,8 @@ matter how pretty or object-oriented or well encapsulated it is.
 >
 > When I'm designing a test case for a particular piece of functionality, I want to assess whether it will document that functionality and provide regressions protection, whilst being cost effective to write and maintain. **As with most software it's the maintenance cost that will dominate.**
 
+> ... The cost needs to be in proportion to the benefits you get: helping you understand what the system does, and regression protection.
+
 
 
 
