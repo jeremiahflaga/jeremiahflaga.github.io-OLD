@@ -37,8 +37,10 @@ Here's the transcription (with some modifications of my own):
 <small>
 (Please pardon the dynamics notations scattered all over the sheet music. I was just experimenting with kind of sound MuseScore is able to make. Please ignore the dynamics in the sheet music and play it at your own will instead.)
 </small>
- 
+
 <embed src="/files/music/2020-06-28-the-girl-from-ipanema.pdf" width="100%" height="980px"/>
+
+(PS: ... I understand... I should have made the sheet music more readable by not using _ties_ everywhere. :grin: I will do better [MuseScore](https://musescore.org) writing next time.) 
 
 <!-- 
 Here's a video of the transcription:
