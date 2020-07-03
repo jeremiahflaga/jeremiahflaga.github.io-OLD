@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"The Girl from Ipanema" piano transcription'
-subtitle: 'as played by Antoine Hervé'
+subtitle: 'as taught by Antoine Hervé'
 categories: [Music]
 tags: [Music, Antoine Hervé, Piano]
 date: 2020-06-29 02:55:00 PM UTC
@@ -40,8 +40,10 @@ Here's the transcription (with some modifications of my own):
  
 <embed src="/files/music/2020-06-28-the-girl-from-ipanema.pdf" width="100%" height="980px"/>
 
+<!-- 
 Here's a video of the transcription:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1EmBtaCTJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Enjoy!
+ -->
