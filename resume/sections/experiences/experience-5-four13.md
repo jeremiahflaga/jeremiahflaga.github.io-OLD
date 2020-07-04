@@ -37,12 +37,11 @@
             </div>
         </div>
     </div>
-<!-- 
     <div class="card">
         <div class="card-header p-0" id="experience-5-four13-heading-lessons-learned">
 	        <p class="mb-0">
 	            <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-5-four13-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-5-four13-collapse-lessons-learned">
-	            Discontributions:
+	            Dis-contributions:
 	            </button>
 	        </p>
         </div>
@@ -50,44 +49,68 @@
 	        <div class="card-body col-md-9">
                 <div class="pr-3 border-right border-light">
                     <p>
-                        I was the only one working on my first project so it seems to me that I am free to do whatever I want. There was a test module in the project, but it was empty. So I decided to find a way so that I can create tests for the tasks assigned to me. This means I will need to re-structure things...
+                        I was the only one working on my first project in the company so it seemed to me that I am free to do whatever I want.
+                    </p>
+                    <p>
+                        I noticed that there was a test module in the project, but it was empty. So I decided to find a way where that I can create tests for the tasks assigned to me. I needed to re-structure things...
                     </p>
                     <div class="mb-3">
                         <table>
                             <tbody>
                                 <tr>
-                                    <td>from this: </td>
-                                    <td><img src="https://blog.ploeh.dk/content/binary/typical-layered-dependency-graph.png" class="img-fluid"></td>
-                                    <td>to this: </td>
-                                    <td><img src="https://blog.ploeh.dk/content/binary/inverted-layered-dependency-graph.png" class="img-fluid"></td>
+                                    <td>from this: &nbsp;&nbsp;&nbsp;</td>
+                                    <td>
+                                        <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">
+                                            <img src="https://blog.ploeh.dk/content/binary/typical-layered-dependency-graph.png" class="img-fluid">
+                                        </a>
+                                    </td>
+                                    <td>&nbsp;&nbsp;&nbsp; ... to this: &nbsp;&nbsp;&nbsp;</td>
+                                    <td>
+                                        <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">
+                                            <img src="https://blog.ploeh.dk/content/binary/inverted-layered-dependency-graph.png" class="img-fluid">
+                                        </a>
+                                    </td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <td colspan="4">
                                         <small>(images are from Mark Seeman's post, <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">"Layers, Onions, Ports, Adapters: it's all the same"</a>)</small>
                                     </td>
-                                </tr>
+                                </tr> -->
                             </tbody>
                         </table>
                     </div>
                     <p>
-                        I was able to setup the tests, but I later abandoned them for some reasons that I cannot remember anymore. (I think part of the reason was the client was billed for )
-                        <br />
-                        But now the project has two sturctures...
+                        ... to make the code testable.
+                    </p>
+                    <p>
+                        I was able to setup the tests, and then managed to create some unit tests and some acceptance tests, but I later abandoned them for some reasons... 
+                    </p>
+                    <p>
+                        The major reason why the tests were abandoned was because I started working on the project with the kind of mindset which says something like <em>"I have all the time in the world to work on this project, and so I will be able to write all the tests needed".</em> Well, I later learned that the client does not always have all the time in the world to give to me. Worse, I needed to resign from the job.
+                    </p>                    
+                    <p>
+                        Now, because of the restructuring that I did, the project now has two different structures: the original one, and the other one which makes the code easier to test.
+                    </p>                
+                    <p>
+                        More than a year later, when I am already working in another company, I came across this text in <a href="https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953?a_aid=jflaga">"The Mythical Man-Month"</a>:
                     </p>
                     <blockquote>
                         <p>
-                            "I will certainly not contend that only the architects will have good architectural ideas. Often the fresh concept does come from an implementer or from a user. However, all my own experience convinces me, and I have tried to show, that the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." &mdash; Frederick P. Brooks (from "The Mythical Man-Month")
+                            "... I will certainly not contend that only the architects will have good architectural ideas. Often the fresh concept does come from an implementer or from a user. However, all my own experience convinces me, and I have tried to show, that the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." &mdash; Frederick P. Brooks
                         </p>
                     </blockquote>
                     <p>
-                        I think the lesson to be learned here is that if the structure of a software project is too messy and we decided to restructure it, we must choose a structure that is not too different from the old one, because such restructuring cannot be done in a day.
+                        I think the lesson to be learned in that is that if I decided to restructure software, I must choose a structure that is not too different from the old one but still solves the problem I am having with the current structure.
                     </p>
                     <p>
-                        Changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time.
+                        I think that changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time.
                     </p>
+                    <p>
+                        <small>(* the images in this section are from Mark Seeman's post, <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">"Layers, Onions, Ports, Adapters: it's all the same"</a>)</small>
+                    </p>
+                    
 	            </div>
 	        </div>
         </div>
     </div>
-     -->
 </div>
