@@ -12,19 +12,17 @@
     <p class="lead">I'm a software developer<a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a>, with over 7 years of experience, including:</p>
     <ul>
         <li>6 years of experience in C# & .NET (this includes experience of using JavaScript for the frontend side)</li>
-        <li>2 years of experience refactoring and cleaning up codebases written in C# & .NET Framework</li>
-        <li>2 years of experience writing tests</li>
         <li>1 year of experience in mobile application development using Java & Android Framework</li>
-        <li>a bit of knowledge on Angular</li>
+        <li>a little bit of knowledge on Angular</li>
     </ul>
     <p class="lead">What can I contribute to your project?</p>
     <ul>
-        <li>Fixing of bugs in an existing project. (Almost all the projects I have been involved in are already in the maintenance phase.)</li>
-        <li>Adding new features in an existing project</li>
+        <li>Fix bugs</li>
+        <li>Add new features </li>
+        <li>Write unit tests</li>
+        <li>Refactor or clean up codebase, <a href="https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23">bit-by-bit as I work on it daily</a></li>
         <li>Help in the architecture/structure of a new project</li>
         <li>Help in re-architecting/re-structuring of an existing project</li>
-        <li>Writing unit tests</li>
-        <li>Refactoring of code to make it more readable</li>
     </ul>
     <div class="social-icons mt-5">
         {% if site.linkedin_username %}
@@ -47,11 +45,11 @@
             <a href="https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/">
                 "line-of-business applications"
             </a> 
-            or 
+            <!-- or 
             <a href="https://web.archive.org/web/20190109022046/https://aryehoffman.com/entry/classifying-software/">
                 "representational-transactional systems"
             </a>. 
-            <a href="#lob-apps-footnote-indicator">&uarr;</a>
+            <a href="#lob-apps-footnote-indicator">&uarr;</a> -->
         </p>
     </div>
     <!-- <br /><br /><br /><br />

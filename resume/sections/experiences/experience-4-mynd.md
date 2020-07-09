@@ -1,6 +1,6 @@
 <div class="d-flex flex-column flex-md-row justify-content-between">
     <div class="flex-grow-1">
-        <h3 class="mb-0">Software Developer (Mobile, Java, Android Framework)</h3>
+        <h3 class="mb-0">Software Developer (Android)</h3>
         <div class="subheading mb-3">
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
@@ -26,7 +26,7 @@
                         Nothing extraordinary. Just finished the tasks assigned to me.
                     </p>
                     <p>
-                        But this time, because I already have a better understanding of polymorphism (and its use), the SOLID principles, and other things related to software design, I tried to use these  knowledge in my coding.
+                        But this time, because I already have a better understanding of polymorphism (and its use), and the SOLID principles, and other things related to software design, I tried to use these knowledge in my coding.
                     </p>
                 </div>
             </div>

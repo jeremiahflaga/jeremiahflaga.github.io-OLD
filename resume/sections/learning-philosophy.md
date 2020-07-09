@@ -8,7 +8,7 @@ Then a few years later, my focus moved into trying to master specific frameworks
 
 But then I heard Uncle Bob Martin saying that software development has not changed in the last 40 years. And I heard Mattias Petter Johansson's [advise for programmers:](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
-> "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in **general**. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
+> "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in general. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
 So today, my focus moved into learning the basic principles of software design and methodologies, because these are the things that do not change a lot, and these things will help me make software that is [highly maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software for customers (and for the programmers also).
 
@@ -18,9 +18,9 @@ Many years ago, I heard/read someone say that the maintenance phase is the most 
 
 Today, my learning philosophy is like this:
 
-> [Just-in-time learning](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
+> [**Just-in-time learning**](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
 
-> Ahead-of-time learning about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
+> **Ahead-of-time learning** about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 For example, there was a time when I was trying to learn AngularJS (version 1) because it was the frontend technology that is being used in my new job _(just-in-time learning of specific frameworks)_. Then on the side, I was consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler _(ahead-of-time learning of general concepts.)_
 

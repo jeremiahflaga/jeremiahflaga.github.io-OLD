@@ -1,11 +1,11 @@
 <div class="d-flex flex-column flex-md-row justify-content-between">
     <div class="flex-grow-1">
-        <h3 class="mb-0">Software Developer (Web, .NET, VB.NET, C#, JavaScript, KnockoutJS)</h3>
+        <h3 class="mb-0">Software Developer (.NET)</h3>
         <div class="subheading mb-3">
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
         <p>
-            I was part of a team working for a client who develops apps for insurance companies in the US. We were involved in the maintenance of a web application and a desktop application which are being used for insurance enrollment and insurance records management.
+            I was part of a team working for a client who develops apps for insurance companies. We were involved in the maintenance of a web app and a desktop app used for insurance enrollment and insurance records management.
         </p>
     </div>
     <div class="flex-shrink-0"><span class="text-primary">December 2012 - May 2016 (3 years, 5 months)</span></div>
