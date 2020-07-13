@@ -39,7 +39,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Software Architecture or Design:</td>
+                <td>Software Architecture/Design:</td>
                 <td>
                     <p>
                         <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>
@@ -55,29 +55,33 @@
                     <p>
                         <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
                     </p>
+                    <!-- 
                     <p>
                         I also tried solving <em>simple</em> algorithmic problems before. (<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)                
                         You can view my solutions to some simple problems
                         <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
-                    </p>
+                    </p> 
+                    -->
                     <p>
                         <a href="/memorabilia/quotes/why-read/">I read</a>.
                     </p>
                 </td>
             </tr>
+            <!-- 
             <tr>
                 <td></td>
                 <td>
                     <p>
-                        I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think), and I am rereading it sometimes to review the things I learned from it.</em>.
+                        I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a>, and I am rereading it sometimes to review the things I learned from it.
                     </p>
                     <p>
                         <small>
-                            <em>(I included this here because this might give me plus points... because I saw a job posting in the past where this book is a required reading if one is hired.) :blush:</em>
+                            <em>(I included this here because this might give me plus points... because I saw a job posting in the past which said that this book is a required reading if one is hired.)</em>
                         </small>
                     </p>
                 </td>
-            </tr>
+            </tr> 
+            -->
         </tbody>
     </table>
 </div>

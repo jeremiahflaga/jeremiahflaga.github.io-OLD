@@ -8,6 +8,12 @@ date: 2020-05-04 06:00:00 PM UTC
 
 <!-- May 5, 2020 02:45:00 AM Philippine Time -->
 
+{:.message}
+_"Honestly, most of the stuff I find is better than the stuff I write, so why not pass it on?"_ --- Derek Rishmawy <small>(from the comments section of ["Is Christianity Individualistic or Collectivist? "Yes" – C.S. Lewis and J. Gresham Machen"](https://derekzrishmawy.com/2013/01/03/is-christianity-individualistic-or-collectivist-yes-c-s-lewis-and-j-gresham-machen/))
+</small>
+
+<hr />
+
 
 Here's a summary of the best thing I learned to date from those who call themselves "libertarians", and those who oppose tyranny and big governments:
 
