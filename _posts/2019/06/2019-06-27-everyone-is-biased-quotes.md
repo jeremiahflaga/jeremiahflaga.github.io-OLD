@@ -34,9 +34,9 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 
 > Since everyone has a worldview, everyone has a bias. All of us are naturally biased toward our own worldviews, and all of us tend to interpret and evaluate the world in accordance with our worldviews. **So do I have a bias? Yes of course ---  but so do you!**
-<br /><br />
+> 
 > **The real issue isn't whether we have biases --- we all do --- but whether we're aware of them and able to think critically about them.**
-<br /><br />
+> 
 > --- from the Introduction of ["What's Your Worldview: An Interactive Approach to Life's Big Questions"](https://www.bookdepository.com/Whats-Your-Worldview-James-N-Anderson/9781433538926?a_aid=jflaga) by James N. Anderson
 
 
@@ -44,11 +44,11 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 
 > Each of us tend to think we see things as they are, that we are objective. But this is not the case. **We see the world, not as it is, but as we are --- or, as we are conditioned to see it**...
-<br /><br />
+> 
 > This does not mean that there are no **facts**. [There are] facts. But **each person's interpretation of these facts represents prior experiences** and the facts have no meaning whatsoever apart from the interpretation.
-<br /><br />
+> 
 > The more aware we are of our basic paradigms, maps, or assumptions,... the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
-<br /><br />
+> 
 > --- from the "Inside-Out" chapter of ["The 7 Habits of Highly Effective People"](https://www.bookdepository.com/7-Habits-Highly-Effective-People-Dr-Stephen-R-Covey/9781451639612?a_aid=jflaga) by Stephen R. Covey
 
 
@@ -56,9 +56,9 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 
 > **It is not a matter of whether one is biased or not. It is really a question of which bias is the best bias with which to be biased.**
-<br /><br />
+> 
 > Occasionally people are upset when dogmatic statements are made. They say, "You cannot be dogmatic like that." This in itself is a dogmatic statement. Many think that some people are dogmatic and others are not. **It is not a matter of whether you are dogmatic or not, but of which dogma is the best dogma with which to be dogmatized!**
-<br /><br />
+> 
 > --- Ken Ham (from ["The Lie: Evolution"](https://answersingenesis.org/christianity/christianity-is-under-attack/))
 
 
@@ -66,7 +66,7 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 
 > Most people today have not given much thought to their own worldview. In fact, many people do not even realize they have a worldview. Many people tend to think that all knowledge is acquired by unbiased observation of the evidence around us. This view is called "empiricism" and is itself a kind of worldview. We cannot help but have some beliefs about how the world works, how we attain knowledge, and how we should live. **Even if we believe that we have no such beliefs --- this is itself a belief. So there's no escaping it. A worldview is inevitable.** A rational worldview is not.
-<br /><br />
+> 
 > --- Jason Lisle (from ["The Ultimate Proof of Creation"](https://www.bookdepository.com/book/9780890515686?a_aid=jflaga))
 
 
@@ -74,7 +74,7 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 
 > When it comes to the political and cultural left and right in this country, it’s not that on one side there are those who want to control information and those on the other side who do not; it’s all a matter of what kind of information which side wants to control. When it comes to this kind of question judgmentalism is found everywhere; it’s just a question of who’s making the judgment and what kind of judgment one is making.
-<br /><br />
+> 
 > --- Albert Mohler (from ["The Briefing 09-29-17"](https://albertmohler.com/2017/09/29/briefing-09-29-17/))
 
 
@@ -84,11 +84,11 @@ I believe that this _"everyone is biased"_ idea is very valuable. I think that w
 
 > "If you don't know something about apples to begin with, you can't devise a method for separating them.
 And in the same way, if you don't know something about the universe to begin with, if you don't know something about reality to begin with, if you don't know something about the difference between truth and error about the universe to begin with, you cannot devise a method that separates the true conclusions from the false conclusions about reality."
-<br /><br />
+> 
 You can't even devise an epistemology --- an apple sorting machine --- unless you already know something about reality; unless you already know something about the apples to begin with.
-<br /><br />
+> 
 "**Everyone begins with a worldview.** Everyone begins with a certain view about reality. And in terms of that perception, that conception of reality, you devise your epistemology ---  your theory of knowledge --- and so neutrality is indeed impossible."
-<br /><br />
+> 
 > --- Greg Bahnsen (from his lecture on ["The Myth of Neutrality"](https://www.youtube.com/watch?v=L9Jc5b56NtU))
 
 
@@ -96,7 +96,7 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 
 
 > Part 1 of Dr. Greg Bahnsen’s video lecture series, Basic Training For Defending the Faith, is titled "The Myth of Neutrality." The title sums up the lesson succintly: neutrality is a myth. In this lecture, **Dr. Bahnsen teaches that the idea of neutrality --- be it intellectual, philosophical, emotional, scientific, or in any other area --- is a myth**. You see and read several passages of Scripture that prove this. Jesus spoke definitively about this (Matthew 6:24, Matthew 12:30).
-<br /><br />
+> 
 > --- from [a commentary on Dr. Greg Bahnsen's lecture on "The Myth of Neutrality"](https://rebuildbiblicalworldview.wordpress.com/2012/10/12/the-myth-of-neutrality/)
 
 
@@ -104,35 +104,35 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 
 
 > The myth of neutrality applies to all levels of reasoning, even in matters that one would consider trivial or surface level.
-<br /><br />
- --- from a comment by someone named Josef in [here](http://www.jasonlisle.com/2017/03/31/the-gospel-in-hollywood-part-2/#more-294)
+> 
+> --- from a comment by someone named Josef in [here](http://www.jasonlisle.com/2017/03/31/the-gospel-in-hollywood-part-2/#more-294)
 
 
 ----------
 
 
 > ... I can't see how you can interpret the world of facts without an a priori interpretive structure.
-<br /><br />
- --- Jordan Peterson in about [00:54:30 of the 1st part of his discussion with Sam Harris (moderated by Bret Weinstein)"](https://youtu.be/jey_CzIOfYE?t=3270)
+> 
+> --- Jordan Peterson in about [00:54:30 of the 1st part of his discussion with Sam Harris (moderated by Bret Weinstein)"](https://youtu.be/jey_CzIOfYE?t=3270)
 
 > ... You cannot view the world without any a priori structure and that a priori structure has a dogmatic element and so you can't just say we'll just get rid of the dogma because you cannot perceive the world without a structure.
-<br /><br />
- --- Jordan Peterson in about [00:53:50 of the 2nd part of his discussion with Sam Harris (moderated by Bret Weinstein)](https://youtu.be/GEf6X-FueMo?t=3230)
+> 
+> --- Jordan Peterson in about [00:53:50 of the 2nd part of his discussion with Sam Harris (moderated by Bret Weinstein)](https://youtu.be/GEf6X-FueMo?t=3230)
+
 
 
 ----------
 
-
-
 ## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
+
 > "I believe that **we need to have our theories prior to our interpretation of the facts**."
-<br /><br />
-"Theories are eyeglasses and we put that for us to be able to read."
-<br /><br />
-"Without theory there is a bunch of data but I can't make any sense out of it.
+> 
+> "Theories are eyeglasses and we put that for us to be able to read."
+> 
+> "Without theory there is a bunch of data but I can't make any sense out of it.
 Theory allow me to then interpret that data and make sense of it."
-<br /><br />
+> 
 > --- Dr. Peter Boettke (from Steve Patterson's ["Ep. 13 – Austrian Economics: Deduction, Logic, and Theory"](http://steve-patterson.com/ep-13-austrian-economics-deduction-logic-and-theory-dr-peter-boettke/))
 
 
@@ -140,16 +140,22 @@ Theory allow me to then interpret that data and make sense of it."
 
 ----------
 
+> ... In the modern world, data is considered more important than theory. Our theories are supposed to play a supplementary role to the data we analyze. However, this is backward. **Theory is inescapably prior to any interpretation of data.** Data, by itself, is meaningless. It requires a theory in order to be understood. There is a popular notion that "data speaks for itself." It doesn't.
+> 
+> --- Steve Patterson (from ["Square One: The Foundations of Knowledge"](http://steve-patterson.com/squareone/))
 
+
+
+----------
 
 > I call this ubiquitous cause of failure at attempts at political persuasion the “fallacy of the assumed paradigm” because it rests on an unconscious assumption that our opponent’s paradigm (unstated beliefs, meanings of words, facts and their relevance to each other) is the same as ours --- except in the few places where he explicitly tells us it isn’t.
 
 > To quote John Rogers, “You don’t really understand an antagonist until you understand why he’s a protagonist in his own version of the world.”
-<br /><br />
+> 
 The key is in the phrase “his own version of the world”.
-<br /><br />
+> 
 Until you understand that, you can’t have a meeting of minds --- and you’ll never change a mind you’ve not met.
-<br /><br />
+> 
 --- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
 
 
