@@ -26,9 +26,12 @@ My excuse is that frameworks change very often and I do not have all the time to
 
 Today, we already have [the] google [search engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using that are readily available online.
 
+(Related to this is my ["Learning Philosophy"](/resume#learning-philosophy))
+
+<!-- 
 I would rather spend my time learning about how to write clean and decoupled code, and learning about software architecture and design, and learning about the _domain_ of the project I am working on, than being an expert on frameworks. 
 
 But like I said above, I'm still willing to read and study more about a specific framework when I think my job requires a deeper knowledge of that specific framework. :blush:
-
+ -->
 
 </div>

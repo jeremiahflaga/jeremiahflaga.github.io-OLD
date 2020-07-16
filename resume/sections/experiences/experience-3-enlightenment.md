@@ -20,7 +20,7 @@
 </div>
 
 
-<div class="accordion mb-5 mt-2" id="experience-3-enlightenment-accordion">
+<div class="accordion mb-5 mt-2 d-print-none" id="experience-3-enlightenment-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-3-enlightenment-heading-lessons-learned">
 	        <p class="mb-0">
@@ -57,7 +57,7 @@
                     <li>
                       <p>
                         <small>
-                          <em>Hot Towel SPA Template for frontend | ASP.NET Web API for backend — Entity Framework for data access | StructureMap as DI Container | SQL Server for database | etc. </em>
+                          <em>Hot Towel SPA Template for frontend | ASP.NET Web API for backend | Entity Framework for data access | StructureMap as DI Container | SQL Server for database | etc. </em>
                         </small>
                       </p>
                     </li>

@@ -11,7 +11,7 @@
     <div class="flex-shrink-0"><span class="text-primary">April 2012 - October 2012 (6 months)</span></div>    
 </div>
 
-<div class="accordion mb-5 mt-2" id="experience-1-jairo-accordion">
+<div class="accordion mb-5 mt-2 d-print-none" id="experience-1-jairo-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-1-jairo-heading-contributions">
             <p class="mb-0">
@@ -38,10 +38,13 @@
 	        <div class="card-body col-md-9">
                 <div class="pr-3 border-right border-light">
                     <p>
-                        This is where I was first exposed to this idea of DDD. Our employer made us read some articles about DDD because we will be using it in an in-house project. But I was not lucky to be involved in the in-house project because the employment of three junior developers, which inlcuded me, ended after six months due to a problem unbeknownst to me.
+                        This is where I was first exposed to this idea of Domain-Driven Design (DDD). I was excited with this because I have always been in search for the best way to structure software, and this DDD thing seems to offer ideas on how to do it. 
                     </p>
                     <p>
-                        I just saw the initial structure of the project. I saw that there was a <code>Core</code> module, which I now understand to be the module which holds the business rules. There was also an <code>Infrastructure</code> module(s), which holds the data layer, the email service, and some other parts of the system. There was no presentation layer yet during the time that I saw the project. But it has unit tests.
+                        Our employer made us read some articles about DDD because we will be using it in an in-house project. But I was not lucky to be involved in the in-house project because the employment of three junior developers, which included me, ended after six months due to a problem unbeknownst to me.
+                    </p>
+                    <p>
+                        I just saw the initial structure of the project. I saw that there was a <code>Core</code> module, which I now understand to be the module which holds the business rules. There was also an <code>Infrastructure</code> module(s), which holds the data layer, the email service, and some other parts of the system. There was no presentation layer yet during the time that I saw the project. But it had unit tests.
                     </p>
                 </div>
             </div>

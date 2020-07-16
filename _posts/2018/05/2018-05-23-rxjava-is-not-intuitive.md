@@ -161,7 +161,7 @@ And I'm sure I will be making that assumption a lot later in my life. I hope not
 
 Okay, enough of that... seems like the correct way of doing it is like this:
 
-_All your methods must **return observables all the way up** [from the data source to the presenter, for example],_ then use the RxJava operators, such as `flatMap()`, to compose the observables.
+_All your methods must **return observables all the way up** --- from the data source to the presenter, for example --- then use the RxJava operators, such as `flatMap()`, to compose the observables.
 
 In the code below, notice the methods in the `DataSource` class --- they do _not_ receive an `Observer` anymore, and they now return an `Observable` instead of `void`.
 
@@ -217,7 +217,7 @@ So a typical method with this signature
 public Data getData()
 ```
 
-will be replaced by
+will be replaced with
 
 ``` java
 public Observable<Data> getData()
@@ -230,13 +230,13 @@ A method with a `void` return type
 public void doThis()
 ```
 
-will be replaced by
+will be replaced with
 
 ``` java
 public Observable<Void> doThis()
 ```
 
-Or in the case of RxJava 2, it will be replaced by
+Or in the case of RxJava 2, it will be replaced with
 
 ``` java
 public Completable doThis()
@@ -260,7 +260,7 @@ And through Jake Wharton's talk ["Exploring RxJava 2 for Android - GOTO 2016"](h
 
 And please note that even masters such as Jake Wharton and Dan Lew say that RxJava is **not intuitive on first enconter**. These quotes below might help you go in the right direction when trying to _grok_ RxJava...
 
-In an interview (["Reactive Extensions, RxAndroid, Optimization (Android Dialogs)"](insert link here])), Jake Wharton said this:
+In [an interview](https://www.youtube.com/watch?v=qGM04LcSCmo), Jake Wharton said this:
 
 > "**It's a different way of thinking**, but once you get that way of thinking, you **start seeing everything as streams** and how to compose them and break them apart just to create these different pieces of your app."
 <br /><br />

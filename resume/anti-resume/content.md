@@ -14,10 +14,12 @@
     {% include_relative sections/not-an-expert-on-frameworks.md %}
 </section>
 
+<!-- 
 <hr class="m-0" /> 
 <section class="resume-section" id="if-your-codebase-is-messy">
-    {% include_relative sections/if-your-codebase-is-messy.md %}
+    
 </section>
+-->
 
 <hr class="m-0" /> 
 <section class="resume-section" id="i-am-introverted">

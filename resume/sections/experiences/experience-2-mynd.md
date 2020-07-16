@@ -12,7 +12,7 @@
 </div>
 
 
-<div class="accordion mb-5 mt-2" id="experience-2-mynd-accordion">
+<div class="accordion mb-5 mt-2 d-print-none" id="experience-2-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-2-mynd-heading-contributions">
             <p class="mb-0">
@@ -85,10 +85,10 @@
                                 -->
                             </p>
                             <p>
-                                I think the time I spent writing those tests was a waste of time :grin:, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system <em>better</em> at a later time, which is supposed to be one of the reasons for writing tests for an existing software. (I did not yet know that books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a> existed during that time.)
+                                I think the time I spent writing those tests was a waste of time :grin:, partly because there were parts of the system that I skipped testing (because I did not know how to test them), and partly because I did not have the goal of using the tests to make the design of the system <em>better</em> at a later time, which is supposed to be one of the reasons for writing tests for an existing software. I did not know yet that sometimes it is necessary to change production code to make them testable &mdash; something I learned later on after reading books such as <a href="https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga">"Working Effectively with Legacy Code"</a>, and after learning more about TDD.
                             </p>
                             <p>
-                                Don't get me wrong here. I don't hate unit testing. During that time, I already have an appreciation on the benefits of having unit tests — it had been three years already since I first heard about unit testing and TDD during that time.
+                                Don't get me wrong here. I don't hate unit testing. During that time, I already have an appreciation on the benefits of having unit tests &mdash; it had been three years already since I first heard about unit testing and TDD during that time.
                             </p>
                             <p>
                                 I think I should have told my team leads about my opinion that writing those tests was just a waste of time. Had I told them about it, they might have explained to me why those tests should be written, and they might have helped me look for ways to write tests for the <em>untestables</em> that I encountered. But I was very timid during that time and was afraid to express my opinions.

@@ -22,7 +22,11 @@ Today, my learning philosophy is like this:
 
 > **Ahead-of-time learning** about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
-For example, there was a time when I was trying to learn AngularJS (version 1) because it was the frontend technology that is being used in my new job _(just-in-time learning of specific frameworks)_. Then on the side, I was consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler _(ahead-of-time learning of general concepts.)_
+
+For example, there was a time when I was trying to learn AngularJS because it was the frontend framework being used in my new job _(just-in-time learning of specific frameworks)_. Then on the side, I was consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler _(ahead-of-time learning of general concepts.)_
+
+Currently, I am learning .NET Core because I am working as a .NET programmer for Arcanys _(just-in-time learning of specific frameworks)_. At the same time I am reading ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/) because I think most code bases I will be working on in my entire career will legacy ones, and this book gives knowledge on how to work with them effectively _(ahead-of-time learning of general concepts)_.
+
 
 <!--
 For example, these days, July 2018, I am learning/reviewing AngularJS because it is the frontend technology that is being used in my job _(just-in-time learning of specific frameworks)_. Then on the side, I am consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler and the reading materials of ["6.005 — Software Construction on MIT OpenCourseWare"](https://web.mit.edu/6.031/www/fa18/) _(ahead-of-time learning of general concepts)_

@@ -10,7 +10,7 @@
 </div>
 
 
-<div class="accordion mb-5 mt-2" id="experience-4-mynd-accordion">
+<div class="accordion mb-5 mt-2 d-print-none" id="experience-4-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-4-mynd-heading-contributions">
             <p class="mb-0">
@@ -52,7 +52,7 @@
                                 Before this job, I only knew how to do real world apps using .NET.
                             </p>
                             <p>
-                                Doing Android made me more confident that I can also do work on other platforms.
+                                Doing Android made me more confident that I can also do work on other platforms. (Big thanks to my employer for giving me this job even though I had almost no experience with Android development.)
                             </p>
                         </li>
                         <li>

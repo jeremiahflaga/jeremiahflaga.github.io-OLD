@@ -27,15 +27,13 @@
             <tr>
                 <td>Web (frontend):</td>
                 <td>
-                    <p><small>HTML, CSS, JavaScript, TypeScript</small></p>
+                    <p><small>JavaScript, HTML, Bootstrap</small></p>
                 </td>
             </tr>
             <tr>
                 <td>Databases, ORM:</td>
                 <td>
-                    <p>
-                    SQL, Entity Framework
-                    </p>
+                    <p>SQL, Entity Framework</p>
                 </td>
             </tr>
             <tr>
@@ -84,4 +82,19 @@
             -->
         </tbody>
     </table>
+
+
+<div class="alert alert-secondary" markdown="1">
+
+> If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. The concepts haven’t changed that much.
+> 
+> &mdash; Uncle Bob Martin in <a href="http://blog.cleancoder.com/uncle-bob/2012/12/19/Three-Paradigms.html">"Three Paradigms"</a>
+
+That quote from Uncle Bob seems to suggest that I can manage to work on any codebase, even those that use technologies I am not yet familiar with!!! 
+Not very sure yet...
+
+But if you cannot find anyone to work on your codebase, and if I also cannot find any job which uses technologies I am familiar with, I believe I can manage to work on your codebase. :blush: (Except when your codebase uses a functional language, I cannot work on it yet, because I have almost no knowledge about functional programming for now.)
+
+</div>
+
 </div>

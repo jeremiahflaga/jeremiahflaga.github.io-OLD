@@ -15,7 +15,7 @@
 </div>
 
 
-<div class="accordion mb-5 mt-2" id="experience-5-four13-accordion">
+<div class="accordion mb-5 mt-2 d-print-none" id="experience-5-four13-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-5-four13-heading-contributions">
             <p class="mb-0">
@@ -49,25 +49,25 @@
 	        <div class="card-body col-md-9">
                 <div class="pr-3 border-right border-light">
                     <p>
-                        I was the only one working on my first project in the company so it seemed to me that I am free to do whatever I want.
+                        I was the only one working on my first project in the company so it seemed to me that I was free to do whatever I wanted with the codebase.
                     </p>
                     <p>
-                        I noticed that there was a test module in the project, but it was empty. So I decided to find a way where that I can create tests for the tasks assigned to me. I needed to re-structure things...
+                        I noticed that there was a test module in the project, but it was empty. So I decided to find a way where that I can create tests for the tasks assigned to me. I needed to re-structure things
                     </p>
                     <div class="mb-3">
                         <table>
                             <tbody>
                                 <tr>
-                                    <td>from this: &nbsp;&nbsp;&nbsp;</td>
+                                    <td>... from this: &nbsp;&nbsp;&nbsp;</td>
                                     <td>
                                         <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">
-                                            <img src="https://blog.ploeh.dk/content/binary/typical-layered-dependency-graph.png" class="img-fluid">
+                                            <img src="https://blog.ploeh.dk/content/binary/typical-layered-dependency-graph.png" height="250">
                                         </a>
                                     </td>
                                     <td>&nbsp;&nbsp;&nbsp; ... to this: &nbsp;&nbsp;&nbsp;</td>
                                     <td>
                                         <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">
-                                            <img src="https://blog.ploeh.dk/content/binary/inverted-layered-dependency-graph.png" class="img-fluid">
+                                            <img src="https://blog.ploeh.dk/content/binary/inverted-layered-dependency-graph.png" height="250">
                                         </a>
                                     </td>
                                 </tr>
@@ -86,29 +86,28 @@
                         I was able to setup the tests, and then managed to create some unit tests and some acceptance tests, but I later abandoned them for some reasons... 
                     </p>
                     <p>
-                        The major reason why the tests were abandoned was because I started working on the project with the kind of mindset which says something like <em>"I have all the time in the world to work on this project, and so I will be able to write all the tests needed".</em> Well, I later learned that the client does not always have all the time in the world to give to me. Worse, I needed to resign from the job.
+                        The major reason why the tests were abandoned was because I started working on the project with the kind of mindset which says something like <em>"I have all the time in the world to work on this project, and so I will be able to write all the tests needed".</em> Well, I later learned that the client does not always have all the time in the world to give to me. Worse, I needed to work somewhere else so I have to resign from the job.
                     </p>                    
                     <p>
-                        Now, because of the restructuring that I did, the project now has two different structures: the original one, and the other one which makes the code easier to test.
+                        Because of the restructuring that I did, the project now has two different structures: the original one, and the other one which makes the code easier to test. Poor guy who inherited the codebase.
                     </p>                
                     <p>
-                        More than a year later, when I am already working in another company, I came across this text in <a href="https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953?a_aid=jflaga">"The Mythical Man-Month"</a>:
+                        ... More than a year later, when I am already working in another company, I came across these words in <a href="https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953?a_aid=jflaga">"The Mythical Man-Month"</a> by Frederick P. Brooks:
                     </p>
                     <blockquote>
                         <p>
-                            "... I will certainly not contend that only the architects will have good architectural ideas. Often the fresh concept does come from an implementer or from a user. However, all my own experience convinces me, and I have tried to show, that the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." &mdash; Frederick P. Brooks
+                            "... I will certainly not contend that only the architects will have good architectural ideas. Often the fresh concept does come from an implementer or from a user. However, all my own experience convinces me, and I have tried to show, that the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." 
                         </p>
                     </blockquote>
                     <p>
-                        I think the lesson to be learned in that is that if I decided to restructure software, I must choose a structure that is not too different from the old one but still solves the problem I am having with the current structure.
+                        I think the lesson to be learned in that is that if one decides to restructure a codebase, he must choose a structure that is not too different from the old one but still solves the problem he is having with the current structure.
                     </p>
                     <p>
                         I think that changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time.
                     </p>
                     <p>
                         <small>(* the images in this section are from Mark Seeman's post, <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">"Layers, Onions, Ports, Adapters: it's all the same"</a>)</small>
-                    </p>
-                    
+                    </p>                    
 	            </div>
 	        </div>
         </div>

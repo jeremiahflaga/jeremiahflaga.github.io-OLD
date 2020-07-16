@@ -229,7 +229,7 @@ The Bible
 
 ["Everything is Grounded in Logic"](http://steve-patterson.com/everything-is-grounded-in-logic/) by Steve Patterson ([video version](https://www.youtube.com/watch?v=iNqgr4mobbk))
 
-["Mere Christianity"](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga) by C.S. Lewis
+["Mere Christianity"](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga) by C.S. Lewis (most especially [The Shocking Alternative](https://www.youtube.com/watch?v=bxzuh5Xx5G4) part)
 
 <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/0074/9780007461219.jpg" height="200">
 

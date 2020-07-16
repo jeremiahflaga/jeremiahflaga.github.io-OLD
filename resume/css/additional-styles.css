@@ -15,3 +15,8 @@ blockquote p {
 html {
     font-size: 110%;
 }
+
+body {
+    font-family: 'Lora', 'Times New Roman', serif;
+    color: #353636;
+}
