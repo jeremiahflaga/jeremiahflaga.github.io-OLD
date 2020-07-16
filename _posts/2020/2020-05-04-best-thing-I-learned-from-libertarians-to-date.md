@@ -38,6 +38,8 @@ Here are some interesting quotes from that video:
 > "... top down control fails because those at the top can never have enough knowledge to coordinate the activities of millions of people, not even with all the supercomputers in the world. And even when they try, the results have been some of the worst cases of human suffering in history. **The only other option is to let people plan their own lives as long as they don't hurt people or take their stuff.** Trust that these individual plans will come together into a whole that is greater than the sum of its parts, and that **none of us knows as much as all of us.**"
 
 
+If nothing else, this will give you comfort knowing that "it is okay to not know everything". Yehey!!!
+
 -----
 
 PS:
