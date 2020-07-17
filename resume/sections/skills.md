@@ -45,7 +45,7 @@
                     <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
                     </p>
                     <p>
-                    ... also through <a href="https://www.bookdepository.com/Computer-Science-Distilled-Wladston-Ferreir-Filho-Raimondo-Pictet/9780997316025?a_aid=jflaga">"Computer Science Distilled"</a> of Wladston Filho
+                    ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
                     </p>
                 </td>
             </tr>
