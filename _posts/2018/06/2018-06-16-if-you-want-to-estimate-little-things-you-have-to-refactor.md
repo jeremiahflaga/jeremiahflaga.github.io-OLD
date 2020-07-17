@@ -4,7 +4,7 @@ title: '"If you want to estimate little things, you have to refactor"'
 categories: [Programming]
 tags: [J. B. Rainsberger, Scrum, XP, Robert Martin]
 date: 2018-06-16 12:10:00 AM UTC
-pinned: true
+pinned: false
 ---
 
 <!-- June 15, 2018 08:00:00 AM Philippine Time -->
