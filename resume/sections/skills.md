@@ -37,28 +37,42 @@
                 </td>
             </tr>
             <tr>
+                <td>Basic Computer Science Concepts:</td>
+                <td>
+                    <p>
+                    Learned CS through free materials of
+                    <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/files/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
+                    <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
+                    </p>
+                    <p>
+                    ... also through <a href="https://www.bookdepository.com/Computer-Science-Distilled-Wladston-Ferreir-Filho-Raimondo-Pictet/9780997316025?a_aid=jflaga">"Computer Science Distilled"</a> of Wladston Filho
+                    </p>
+                </td>
+            </tr>
+            <tr>
                 <td>Software Architecture/Design:</td>
                 <td>
                     <p>
                         <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>
                     </p>
                     <p>
-                        The <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">Clean Architecture</a> model of Uncle Bob Martin
+                        The <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> model of Uncle Bob Martin
                     </p>
                 </td>
             </tr>
             <tr>
-            <td>Basic Computer Science Concepts:</td>
-            <td>
-                <p>
-                Learned CS through free materials of
-                <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/files/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
-                <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
-                </p>
-                <p>
-                ... also through <a href="https://www.bookdepository.com/Computer-Science-Distilled-Wladston-Ferreir-Filho-Raimondo-Pictet/9780997316025?a_aid=jflaga">"Computer Science Distilled"</a> of Wladston Filho
-                </p>
-            </td>
+                <td>Working with Legacy Code:</td>
+                <td>
+                    <p>
+                        <a href="https://simpleprogrammer.com/deal-with-legacy-code/">"The Right Attitude to Deal with Legacy Code"</a> by Jonathan Boccara
+                    </p>
+                    <p>
+                        I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers
+                    </p>
+                    <p>
+                        <small>(I'm currently reading <a href="http://scg.unibe.ch/download/oorp/">"Object-Oriented Reengineering Patterns"</a>)</small>
+                    </p>
+                </td>
             </tr>
             <tr>
                 <td>Other:</td>

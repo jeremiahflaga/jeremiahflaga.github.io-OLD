@@ -17,14 +17,6 @@
         {% include_relative sections/experiences/experience-4-mynd.md %}
         {% include_relative sections/experiences/experience-5-four13.md %}
         {% include_relative sections/experiences/experience-6-arcanys.md %}
-        <!-- <br /><br /><br /><br />
-        <br /><br /><br /><br />
-        <br /><br />
-        <div>
-            <strong style="font-size: 1.3em;">
-                Please visit my online resume, <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a>, to see the rest...
-            </strong>
-        </div> -->
     </div>
 </section>
 <hr class="m-0" />
@@ -43,8 +35,7 @@
 <section class="resume-section" id="education">
     {% include_relative sections/education.md %}
 </section> -->
-
-<!-- 
+ 
 <hr class="m-0" />
 <section class="resume-section" id="go-to-anti-resume" style="min-height: 0px;">
     <div class="resume-section-content col-md-9">
@@ -53,7 +44,6 @@
         <p class="mb-0"></p>
     </div>
 </section>
- -->
 
 <!-- Footer -->
 <div class="d-print-none">

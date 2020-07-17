@@ -55,7 +55,7 @@ Okay back to my point...
 
 
 
-In the talk, he gave some code examples. On first look, the examples look the same as the [Clean Architecture examples](https://jeremiahflaga.github.io/2017/08/16/clean-architecture-sample-projects/) I found more than a year ago, except that he is directly using a _concretion_, Entity Framework's DbContext, in his UseCase or Interactor classes (or _task handlers_; I will call classes such as the StudentCreateHandler below as **_task handlers_** in this post)...
+In the talk, he gave some code examples. On first look, the examples look the same as the [Clean Architecture examples](/2017/08/16/clean-architecture-sample-projects/) I found more than a year ago, except that he is directly using a _concretion_, Entity Framework's DbContext, in his UseCase or Interactor classes (or _task handlers_; I will call classes such as the StudentCreateHandler below as **_task handlers_** in this post)...
 
 ``` csharp
     public class StudentCreateHandler
@@ -223,7 +223,7 @@ Let me repeat the interesting part of Jimmy Bogard's statement above:
 
 Hmmmm...
 
-Reading ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) of Uncle Bob Martin and other resources on Clean Architecture was kind of an [enlighnement to me](https://jeremiahflaga.github.io/2017/08/09/clean-architecture-an-equivalent-to-one-language/) because it seemed to have with it attached the promise of control with our software projects.
+Reading ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) of Uncle Bob Martin and other resources on Clean Architecture was kind of an [enlighnement to me](/2017/08/09/clean-architecture-an-equivalent-to-one-language/) because it seemed to have with it attached the promise of control with our software projects.
 
 But reading that experience of Jimmy Bogard and his team makes me rethink about using Clean Architecture in all of my future software projects :laughing:
 

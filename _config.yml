@@ -72,3 +72,5 @@ disqus_short_name: 'jeremiahflaga' # leave blank if you don't want disqus
 # Exclude these files from your production _site
 exclude:
   - README.md
+  - resume/sections
+  - resume/anti-resume/sections
