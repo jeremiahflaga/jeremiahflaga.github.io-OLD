@@ -269,7 +269,7 @@ published: false
       <td>
         <p>
           Learned CS through free materials of
-          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/file/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
+          <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/files/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
           <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
         </p>
         <p>
