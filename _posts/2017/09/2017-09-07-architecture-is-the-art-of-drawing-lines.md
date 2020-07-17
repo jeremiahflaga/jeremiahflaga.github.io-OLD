@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Architecture is the art of drawing lines -- Uncle Bob Martin
+title: Architecture is the art of drawing lines -- Uncle Bob Martin
 categories: [Programming]
 tags: [Clean Architecture, Robert Martin]
 date: 2017-09-07 01:15:00 AM UTC
+pinned: true
 ---
 
 <!-- September 7, 2017 09:15:00 AM Philippine Time -->
@@ -12,7 +13,7 @@ date: 2017-09-07 01:15:00 AM UTC
 <br /><br />
 > --- Robert Martin
 
-I heard that from Uncle Bob's _"Architecture: The Lost Years (Ruby Midwest 2011)"_ talk.
+I heard that from Uncle Bob's [_"Architecture: The Lost Years (Ruby Midwest 2011)"_](https://www.youtube.com/watch?v=WpkDN78P884) talk.
 
 This is the diagram that he uses in his talk:
 
@@ -59,7 +60,7 @@ But they are doable! Right?
 
 ### Update - September 9, 2017
 
-While reading Clean Architecture from Safari Books Online, I found this:
+While reading the "Rough Cuts" of Uncle Bob Martin's book "Clean Architecture: A Craftsman's Guide to Software Structure and Design" in Safari Books Online, I found this:
 
 > "... I’ve done this in order to show that architectural boundaries exist everywhere. We, as architects, must be careful to recognize when they are needed. We also have to be aware that such boundaries, fully implemented, are expensive. On the other hand, we also have to recognize that when such boundaries are ignored, they are very expensive to add in later — even in the presence of comprehensive test-suites and refactoring discipline."
 <br /><br />
