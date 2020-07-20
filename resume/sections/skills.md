@@ -66,9 +66,9 @@
                     <p>
                         <a href="https://simpleprogrammer.com/deal-with-legacy-code/">"The Right Attitude to Deal with Legacy Code"</a> by Jonathan Boccara
                     </p>
-                    <p>
+                    <!-- <p>
                         I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers
-                    </p>
+                    </p> -->
                     <p>
                         <small>(I'm currently reading <a href="http://scg.unibe.ch/download/oorp/">"Object-Oriented Reengineering Patterns"</a>)</small>
                     </p>
@@ -110,7 +110,7 @@
         </tbody>
     </table>
 
-
+<!-- 
 <div class="alert alert-secondary" markdown="1">
 
 > If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. The concepts haven’t changed that much.
@@ -123,5 +123,6 @@ Not very sure yet...
 But if you cannot find anyone to work on your codebase, and if I also cannot find any job which uses technologies I am familiar with, I believe I can manage to work on your codebase. :blush: (Except when your codebase uses a functional language, I cannot work on it yet, because I have almost no knowledge about functional programming for now.)
 
 </div>
+ -->
 
 </div>

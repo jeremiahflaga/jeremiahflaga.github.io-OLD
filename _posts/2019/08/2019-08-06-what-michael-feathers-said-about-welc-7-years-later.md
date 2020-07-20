@@ -73,6 +73,17 @@ Okay, back to the quote again...
 I hope that my initial thoughts, that Micheal Feathers is backing out from his _"Code without tests is bad code"_ statement, is _not_ 100% accurate. I may never know until I read his upcoming book, ["Brutal Refactoring : More Working Effectively with Legacy Code"](https://www.bookdepository.com/Brutal-Refactoring-Michael-C-Feathers/9780321793201?a_aid=jflaga), about a year from now, May 2020. I cannot wait.
 
 
+### Update (July 17, 2020):
+
+Forgot about the release date again...
+
+While googling, I found this: ["Brutal refactoring, lying code, the Churn, and other emotional stories from Legacy Land"](https://matthiasnoback.nl/talk/brutal-refactoring-lying-code-the-churn-and-other-emotional-stories-from-legacy-land/) by Matthias Noback:
+
+> Working effectively with legacy code isn’t all about creating test harnesses before refactoring algorithms. The “safety first” strategy doesn’t always apply. Not if the code you’re looking at is LYING IN YOUR FACE anyway.
+
+
+(here's [the video](https://vimeo.com/338475467) of his talk)
+
 
 <!-- 
 in the previous months I feel of

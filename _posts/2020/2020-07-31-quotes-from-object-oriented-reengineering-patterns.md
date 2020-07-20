@@ -29,6 +29,8 @@ Tsk tsk! Too bad I forgot to continue reading this book the first time I found i
 >
 > --- from the Foreword by Ralph E. Johnson
 
+Here are some interesting quotes from the book to awake your excitement:
+
 -----
 
 ## Preface

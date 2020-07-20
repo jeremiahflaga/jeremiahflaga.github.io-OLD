@@ -1,6 +1,6 @@
 <div class="d-flex flex-column flex-md-row justify-content-between">
     <div class="flex-grow-1">
-        <h3 class="mb-0">Software Developer (.NET)</h3>
+        <h3 class="mb-0">.NET Developer</h3>
         <div class="subheading mb-3">
             <a href="https://four13group.com/">Four13 Group</a>
         </div>
