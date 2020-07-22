@@ -4,6 +4,8 @@
 > For a long time it’s puzzled me that most books on software development processes talk about what to do when you are starting from a blank sheet of editor screen. It’s puzzled me because that’s not the most common situation that people write code in. Most people have to make changes to an existing code base, even if it’s their own. In an ideal world this code base is well designed and well factored, but we all know how often the ideal world appears in our career.
 > 
 > &mdash; from the Foreword by Martin Fowler in ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/)
+
+I have already accepted my fate of working on legacy systems (mostly) in my lifetime...
  -->
 
 <p class="lead mt-5">Hi, I'm </p>

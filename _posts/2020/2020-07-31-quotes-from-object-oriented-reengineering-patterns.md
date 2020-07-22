@@ -6,6 +6,7 @@ categories: [Programming]
 tags: [Programming]
 date: 2020-07-31 12:00:00 AM UTC
 background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
+published: false
 ---
 
 <!-- first edits: June July 15, 2020 08:15:00 AM Philippine Time -->
@@ -86,5 +87,39 @@ been developed and adapted without having been reengineered. The wrong conclusio
 > Software artifacts that are stable and do not threaten the future of the legacy system are not “broken” and do not need to be reengineered, no matter what state the code is in.
 
 
+## Chapter 3
 
+> Software maintenance is generally considered a second-class job, often left to junior programmers and often leading to a maintenance team which changes frequently.
+
+<small>Oh. Does this mean that system maintenance is a niche market?... I should aspire to become very good at this then. :blush:</small>
+
+
+> “The major problems of our work are not so much technological as sociological in nature.” — Tom De Marco
+
+<small>This is similar to what Eric Ries said in ["The Lean Startup"](https://www.bookdepository.com/Lean-Startup-Eric-Ries/9780670921607?a_aid=jflaga), in the section about the 'five whys': "At the root of every seemingly technical problem is a human problem." Interesting... </small>
+
+> “Organizations which design systems are constrained to produce designs which are copies of the communications structure of these organizations.” — Melvin Conway
+>
+> Conway’s law is often paraphrased as: “If you have 4 groups working on a compiler; you’ll get a 4-pass compiler”
+>
+> One particular reason why it is important to know about the way the development team was organized, is because it is likely that this structure will somehow reflect the structure of the source code.
+
+> “Maintenance fact #1. In the late ‘60s and throughout the 70’s, production system support and maintenance were clearly treated as second-class work.
+> Maintenance fact #2. In 1998, support and maintenance of production systems continues to be treated as second-class work.” — Rob Thomsett
+
+
+> We learned the hard way that maintainers are very proud about their job and very sensitive to critique.
+Therefore, we emphasize that such a kick-off meeting must be “maintainer oriented”, i.e. aimed to let the maintainers show what they do well and what they want to do better. Coming in with the attitude that you — the newcomer — will teach these stupid maintainers how to do a proper job will almost certainly lead to disasters.
+
+<small>Very very interesting... I hope I will not forget this.</small>
+
+
+
+
+
+
+<small></small>
+
+
+**That's all I will put here folks. I hope those quotes made you interested to read the book. [Dowload the book](http://scg.unibe.ch/download/oorp/) to learn more...**
 

@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Résumé
-published: true
+published: false
 ---
 
 <!-- Navigation-->
