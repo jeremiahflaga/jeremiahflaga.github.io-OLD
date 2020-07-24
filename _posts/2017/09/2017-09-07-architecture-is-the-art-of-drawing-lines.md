@@ -10,10 +10,10 @@ pinned: true
 <!-- September 7, 2017 09:15:00 AM Philippine Time -->
 
 > "Architecture is the art of drawing lines"
-<br /><br />
-> --- Robert Martin
 
 I heard that from Uncle Bob's [_"Architecture: The Lost Years (Ruby Midwest 2011)"_](https://www.youtube.com/watch?v=WpkDN78P884) talk.
+
+> "Architecture is the art of drawing lines, with the interesting rule that once you have drawn the lines, all the dependencies that cross that line go in the same direction."
 
 This is the diagram that he used in his talk:
 
