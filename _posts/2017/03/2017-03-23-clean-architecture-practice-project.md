@@ -8,6 +8,9 @@ date: 2017-03-23 01:00:00 AM UTC
 
 <!-- March 23, 2017 9:00:00 AM Philippine Time -->
 
+<!-- strike-throughed because I was not able to complete this project -->
+<div markdown="1" style="text-decoration: line-through;"> 
+
 <small>(Originally written on March 21, 2017)</small>
 
 <small>(The contents of this post might be outdated. The [README in this project's GitHub repository](https://github.com/jeremiahflaga/clean-architecture-practice/blob/master/README.md) might have updates.)</small>
@@ -51,3 +54,6 @@ What is this `Leads`?
 Ahh! So the `Interest` class is a [_"sales lead"_](http://www.investopedia.com/terms/s/sales-lead.asp). I'm going to use `SalesLead` instead of `Interest`. I'm not sure if this is correct, but I will use `SalesLead` because it seems more clear to me than `Interest`. I will just change it later if I find out that I'm wrong.
 
 Happy coding!!! :smile:
+
+
+</div>
