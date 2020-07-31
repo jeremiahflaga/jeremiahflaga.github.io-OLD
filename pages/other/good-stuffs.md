@@ -93,7 +93,7 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 ["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/) by Jonathan Boccara
 
-> "... **consider that the code you’re working on is your code**. Even if you haven’t written it yourself, and regardless of how good or bad you think it is, this is your code, and you have responsibility over it."
+> "... What’s the right attitude, then? I was lucky to learn it very early in my career from my fantastic manager, Patrice Dalesme. A few weeks after I came in, Patrice gave us the following piece of advice: **consider that the code you’re working on is your code**. Even if you haven’t written it yourself, and regardless of how good or bad you think it is, this is your code, and you have responsibility over it."
 
 
 
