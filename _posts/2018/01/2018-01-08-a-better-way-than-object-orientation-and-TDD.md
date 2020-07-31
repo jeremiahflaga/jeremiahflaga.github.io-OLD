@@ -125,7 +125,7 @@ He said that pure functions are **always** [testable](/2017/12/19/tdd-and-teachi
 
 Does that mean that [TDD](/memorabilia/quotes/tdd/) will not be needed in this kind of setting?
 
-Does that mean that [writing tests after-the-fact](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code) will not be very difficult in functional programming?
+Does that mean that [writing tests after-the-fact](/2017/05/11/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code) will not be very difficult in functional programming?
 
 I hope...
 

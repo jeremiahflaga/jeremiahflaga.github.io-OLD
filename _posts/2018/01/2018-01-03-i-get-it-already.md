@@ -20,7 +20,7 @@ I'm a [TDD fan](/quotes/tdd). But [many others are not](http://blog.cleancoder.c
 
 <!--more-->
 
-And I have never been in a team which practices TDD, but the apps I was and am involved in are working just fine... I hope :smile:! (Actually they were not very fine if we use [Uncle Bob Martin's standards](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#expectations) as our measure, but I'm not going to incriminate myself or my teammates here :grin:)
+And I have never been in a team which practices TDD, but the apps I was and am involved in are working just fine... I hope :smile:! (Actually they were not very fine if we use [Uncle Bob Martin's standards](/2017/05/11/expecting-professionalism-by-uncle-bob-martin/#expectations) as our measure, but I'm not going to incriminate myself or my teammates here :grin:)
 
 So when it comes to TDD, I'm negotiable. I'm not a TDD fanatic --- at least not yet :laughing:. But let me experience TDD... I believe I'm never going back... [I hope...](http://blog.cleancoder.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html) :smile:
 

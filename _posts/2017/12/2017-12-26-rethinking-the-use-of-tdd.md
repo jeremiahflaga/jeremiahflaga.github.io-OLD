@@ -110,7 +110,7 @@ Maybe he was not... because the original code did not seem to have been written 
 
 So maybe Jimmy Bogard was _not_ opposed to TDD... 
 
-Maybe he was opposed only to [writing tests _after-the-fact_](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) :smile:).
+Maybe he was opposed only to [writing tests _after-the-fact_](/2017/05/11/expecting-professionalism-by-uncle-bob-martin/#testing-legacy-code), that is, writing tests after the production code is already written, because that is hard to do (unless you are [Michael Feathers](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) :smile:).
 
 
 _Okay! Great!_
@@ -121,7 +121,7 @@ Hmmmm...
 
 Or maybe not... Maybe we still need TDD...
 
-Because [TDD has other uses](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd), such as giving us confidence when cleaning our code base, and having [examples to help others understand our code base](/memorabilia/books/the-craftsman-series/#8).
+Because [TDD has other uses](/2017/05/11/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd), such as giving us confidence when cleaning our code base, and having [examples to help others understand our code base](/memorabilia/books/the-craftsman-series/#8).
 
 Kent Beck also, in his debate with DHH, said that the first reason why he writes tests first was to have fast feedback on whether what he is doing is correct or not. That is one of the advantages of writing the tests first: _fast feedback loop_.
 

@@ -22,6 +22,6 @@ permalink: /memorabilia/
 
 ## from Videos
 
-["Expecting Professionalism" by Uncle Bob Martin](/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/)
+["Expecting Professionalism" by Uncle Bob Martin](/2017/05/11/expecting-professionalism-by-uncle-bob-martin/)
 
 

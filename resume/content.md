@@ -42,6 +42,15 @@
         <h2 class="mb-5">Anti-résumé</h2>
         <p><a href="/resume/anti-resume">go to Anti-résumé <i class="fas fa-arrow-circle-right"></i></a></p>
         <p class="mb-0"></p>
+<!-- 
+<p>
+    I am someone more inclined to []  a supporting role instead of leadership role.
+    <br />
+    When I am hired, I think it's best if you tell me why the project was built or is being built. And if possible, the why of the company I am working with; It's okay with me even if your "why" is a seeming selfish one, such as "I want to make money to be able to buy this and that"
+    <br />
+    and be constantly reminded of it until I know it by heart.
+</p> 
+-->
     </div>
 </section>
 

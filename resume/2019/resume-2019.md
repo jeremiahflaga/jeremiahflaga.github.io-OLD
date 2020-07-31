@@ -906,7 +906,7 @@ Here are other lessons I learned while working as a software developer.
     </blockquote>
  -->
     Through Uncle Bob's 
-    <a href="/memorabilia/videos/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd">charismatic presentation of TDD</a> 
+    <a href="/2017/05/11/expecting-professionalism-by-uncle-bob-martin/#advantages-of-tdd">charismatic presentation of TDD</a> 
     in his talks, I understood the value of TDD.
     <br /><br />
     So even though I had a <em>somewhat</em> bad experience with writing automated tests, as I stated in the "Lesson(s) Learned" section in my 
