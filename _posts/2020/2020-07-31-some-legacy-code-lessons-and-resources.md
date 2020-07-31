@@ -67,7 +67,6 @@ Another thing I remember is that working on a codebase which uses old technologi
 But I now understand that legacy code does not necessarily mean bad code, even though it might still be hard to work on it.
 
 > "... What’s the right attitude, then? I was lucky to learn it very early in my career from my fantastic manager, Patrice Dalesme. A few weeks after I came in, Patrice gave us the following piece of advice: **consider that the code you’re working on is your code. Even if you haven’t written it yourself, and regardless of how good or bad you think it is, this is your code, and you have responsibility over it.**"
-<br /><br />
 > 
 > --- Jonathan Boccara (["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/))
 
@@ -83,7 +82,7 @@ I hope learning more about DDD will help me more in dealing with legacy codebase
 **Other resources for dealing with legacy codebases:**
 
 - ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga) by Michael Feathers
-- ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) by Martin Fowler
+- ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) by Martin Fowler ([2nd edition here](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780134757599?a_aid=jflaga))
 - ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/) by Serge Demeyer, Stéphane Ducasse, & Oscar Nierstrasz
 
 </div>
