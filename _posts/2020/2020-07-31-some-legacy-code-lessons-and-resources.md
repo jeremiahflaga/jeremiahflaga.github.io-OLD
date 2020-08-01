@@ -33,7 +33,7 @@ third‐party code to protect the integrity of a bounded context. An anticorrupt
 
 > If you are working in a legacy environment, ensure that you protect yourself from external code, don’t trust anyone, and enforce your borders. Carve out an area to add new functionality. **Don’t try to clean up everything.** (p. 147)
 
-_"Don’t try to clean up everything."_ That sounds like what Uncle Bob Martin said in his talk, ["Expecting Professionalism"](/2017/05/13/expecting-professionalism-by-uncle-bob-martin/):
+_"Don’t try to clean up everything."_ That sounds like what Uncle Bob Martin said in his talk, ["Expecting Professionalism"](/2017/05/13/expecting-professionalism-by-uncle-bob-martin/) (I have forgotten this one already; good that I found it again.):
 
 <blockquote markdown="1">
 
