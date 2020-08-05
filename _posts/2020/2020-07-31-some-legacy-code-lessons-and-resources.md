@@ -6,6 +6,7 @@ categories: [Programming]
 tags: [Programming, DDD, PPPDDD, Scott Millett, Robert C. Martin, Jonathan Boccara, Eric Evans]
 date: 2020-07-31 10:25:00 AM UTC
 background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
+pinned: true
 ---
 
 <!-- July 29, 2020 Philippine Time -->

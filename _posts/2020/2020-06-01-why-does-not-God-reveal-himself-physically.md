@@ -11,7 +11,9 @@ date: 2020-06-01 01:00:00 AM UTC
 
 Why doesn't God physically reveal Himself??
 
+<!-- 
 (**TLDR:** Because we would reject him over and over again if he does! Do we have any idea how much **that hurts**!?)
+ -->
 
 William Lane Craig has an answer to that question: ["Why doesn't God physically reveal Himself?"
 ](https://www.youtube.com/watch?v=IBIsLTQ-GKQ)
@@ -26,7 +28,7 @@ When we hear questions like that, _"Why doesn't God physically reveal Himself?"_
 
 We do have an idea how much it hurts being rejected. We also have an idea how much more it hurts when the rejection happens so many times!
 
-Now, let's imagine for a while that we were able to create programs that can somewhat think like we humans think; and that these programs have a little bit of free will in them. Then someone from our world went inside their world, the "virtual" world. 
+Now, let's imagine for a while that we are able to create programs that can somewhat think like we humans think; and that these programs have a little bit of free will in them. Then someone from our world goes inside their world, the "virtual" world. 
 
 Let's call that someone Juan.
 
@@ -38,7 +40,7 @@ _"Anytime you want? At your own will?"_
 
 Some are joyed by that. _"Really? Wow!"_
 
-Some are skeptical. _"There are lots of programs who disappeared before but came back later with more information and functionality in them. How could you be any different than them?"_
+Some are skeptical. _"There are lots of programs who disappeared before but came back later with more information and more functionality in them. How could you be any different than them?"_
 
 The skeptical ones want Juan to prove that he came from another world.
 
@@ -60,9 +62,9 @@ _"Let me see... I do not know how to solve this too. I will go back to my world 
 
 _"Okay."_
 
-So Juan went out from the virtual world into the human world, again. He told his human colleagues about the very difficult problem they are having in the virtual world. 
+So Juan went out from the virtual world into the human world, again. He told his human colleagues about the _very difficult_ problem they are having in the virtual world. 
 
-One of his colleagues, who is an expert in solving that kind of problem, taught Juan how to solve it. After a few days of learning, and after having all of his questions answered by the expert, he came back to the virtual world to help the programs solve the very difficult problem they are having.
+One of his colleagues, who is an expert in solving that kind of problem, taught Juan how to solve it. After a few days of learning, and after having all of his questions answered by the expert, he came back to the virtual world to help the programs solve the _very difficult_ problem they are having.
 
 _"Wow!"._ Many programs are amazed by what Juan did.
 
@@ -74,11 +76,11 @@ _"I will go back to my world to ask my colleagues about this more difficult prob
 
 _"Okay."_
 
-So Juan went out from the virtual world into the human world, the third time. He told his human colleagues about the more difficult problem they are having in the virtual world. 
+So Juan went out from the virtual world into the human world, the third time. He told his human colleagues about the _more difficult_ problem they are having in the virtual world. 
 
-After a few days of learning how to solve the more difficult problem, and after having all of his questions answered by his colleagues, he came back to the virtual world to help the programs solve the more difficult problem they are having.
+After a few days of learning how to solve the _more difficult_ problem, and after having all of his questions answered by his colleagues, he came back to the virtual world to help the programs solve the _more difficult_ problem they are having.
 
-_"Wow!"._ Many programs are amazed by Juan solving the more difficult problem.
+_"Wow!"._ Many programs are amazed by Juan solving the _more difficult_ problem.
 
 ... After a thousand more visits...
 
@@ -86,9 +88,9 @@ _"Wow!"._ Many programs are amazed by Juan solving the more difficult problem.
 
 _"Wait... You there... I'm the one who programmed you."_
 
-The 'you there' program is shocked. _"The one I am skeptical of is the one who programmed me?",_ he thought to himself. Well, Juan is a skeptic himself so it is just normal for him to teach his skepticism to the programs he makes.
+The _'you there'_ program is shocked. _"The one I am skeptical of is the one who programmed me?",_ he thought to himself. Well, Juan is a skeptic himself so it is just normal for him to teach his skepticism to the programs he had made.
 
-I'm going to go out from this virtual world, then I'm going to eliminate you at exactly 4pm today, then start installing you back, with a little bit of extra functionality, at exactly 7pm. Would that prove to you that I'm from the outside world?
+_I'm going to go out from this virtual world, then I'm going to eliminate you at exactly 4pm today, then start installing you back, with a little bit of extra functionality, at exactly 7pm. Would that prove to you that I'm from the outside world?_
 
 ... 10 years later...
 
