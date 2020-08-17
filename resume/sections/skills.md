@@ -92,6 +92,21 @@
                     </p>
                 </td>
             </tr>
+            <tr>
+            <td>GitHub:</td>
+            <td>
+                <p>
+                <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
+                </p>
+                <small>Old GitHub:</small>
+                <br />
+                <p class="indented">
+                <small><a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a></small>
+                <br />
+                <small><a href="https://github.com/jboyflaga">github.com/jboyflaga</a></small>
+                </p>
+            </td>
+            </tr>
             <!-- 
             <tr>
                 <td></td>
