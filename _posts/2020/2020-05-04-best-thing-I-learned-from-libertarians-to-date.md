@@ -19,13 +19,14 @@ Here's a summary of the best thing I learned to date from those who call themsel
 
 > **"It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong."** --- Thomas Sowell
 
+<small>(I'm not sure if Thomas Sowell is a libertarian. Perhaps he is not. It's just that his quote seems to match with what libertarians believe.)</small>
 
 <!--more-->
 
 
-I found that while reading [an article](https://mises.org/wire/oil-craters-mexicos-government-still-bets-its-oil-monopoly) from mises.org.
+I found that while reading [an article](https://mises.org/wire/oil-craters-mexicos-government-still-bets-its-oil-monopoly) from mises.org<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>. (Not that I understood everything from this article :laughing: but... how would you know that there are still lots of things you don't understand if you don't read things you don't understand, right? :laughing:)
 
-I first heard of this idea a few months ago from ["The Deadly Isms \| Episode 4: Things Dictators Don't Know"](https://www.youtube.com/watch?v=P1WKcaIbOjM) by Matt Kibbe.
+I first heard of this idea a few months ago from ["The Deadly Isms \| Episode 4: Things Dictators Don't Know"](https://www.youtube.com/watch?v=P1WKcaIbOjM) by Matt Kibbe, which was linked to in fee.org's ["The Battle Isn't Right vs. Left. It’s Statism vs. Individualism"](https://fee.org/articles/the-battle-isnt-right-vs-left-it-s-statism-vs-individualism/).
 
 Here are some interesting quotes from that video:
 
@@ -45,4 +46,15 @@ If nothing else, this will give you comfort knowing that "it is okay to not know
 PS:
 
 From a programmer's perspective, the idea presented above seems to match what Kent Beck calls "The Implementor's Rule" in his blog post titled ["Software Design is Human Relationships: Part 3 of 3, Changers & Changers"](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0).
+
+
+-----
+
+
+<sup id="footnote-1">[1]</sup> 
+<small>
+(Aug 18, 2020) While googling for "Bahnsen on Austrian Economics", I found an interesting article by David Bahnsen which mentions Mises Institute's founder, Lew Rockwell: ["The Undiscerning and Dangerous Appreciation of Ron Paul"](https://davidbahnsen.com/index.php/2011/05/21/the-undiscerning-and-dangerous-appreciation-of-ron-paul/). It's a very interesting read.
+</small>
+[&#8617;](#footnote-indicator-1)
+
 
