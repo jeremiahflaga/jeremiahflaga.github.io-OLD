@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A eShopOnContainers error: "Sorry, there was an error: unauthorized_client"'
+title: 'An eShopOnContainers error - "Sorry, there was an error: unauthorized_client"'
 subtitle: ''
 categories: [Programming]
 tags: [Programming, DDD, PPPDDD, Scott Millett, Robert C. Martin, Jonathan Boccara, Eric Evans]
@@ -19,7 +19,7 @@ _"... When you face a tough problem in your work then you find a breakthrough, i
 
 -----
 
-Are you getting this error when you click on the Login button of the eShopOnContainers project? Or when you click on the Authorize button of a swagger page in that project?:
+Are you getting this error when you click on the Login button of the [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) project? Or when you click on the Authorize button of a swagger page in that project?:
 
 {: .alert .alert-danger }
 Sorry, there was an error : unauthorized_client
