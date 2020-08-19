@@ -12,9 +12,10 @@ background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 <!-- ended August 18, 2020 09:00 PM Philippine Time -->
 
 
-<div class="message" markdown="1">
-"... When you face a tough problem in your work then you find a breakthrough, it’s probably something others will face. Blog about it." - [Vaughn Vernon](https://web.archive.org/web/20180827140727/https://vaughnvernon.co/?p=879#comment-1938)
-</div>
+
+{:.message}
+_"... When you face a tough problem in your work then you find a breakthrough, it’s probably something others will face. Blog about it."_ - [Vaughn Vernon](https://web.archive.org/web/20180827140727/https://vaughnvernon.co/?p=879#comment-1938)
+
 
 -----
 
@@ -89,8 +90,7 @@ Tada!!!
 - [Getting error of unauthorized_client when clicking on Login button from web mvc](https://github.com/dotnet-architecture/eShopOnContainers/issues/1273)
 - [unauthorized_client error on Login](https://github.com/dotnet-architecture/eShopOnContainers/wiki/unauthorized_client-error-on-login)
 - [eShopOnContainers: Explore the application](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Explore-the-application) 
-- [Stop all docker containers at once on Windows](https://stackoverflow.com/a/48813850/1451757)
-- [Delete all Stopped Containers](https://stackoverflow.com/a/42458318/1451757)  
+- [Stop / remove all Docker containers](https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers)
 - Restart machine
 
 
