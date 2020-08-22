@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In order to recognize an explanation as the best, you don''t have to have an explanation of the explanation'
+title: '"In order to recognize an explanation as the best, you don''t have to have an explanation of the explanation"'
 categories: [Miscellaneous]
 tags: [William Lane Craig]
 date: 2020-03-30 01:50:00 PM UTC

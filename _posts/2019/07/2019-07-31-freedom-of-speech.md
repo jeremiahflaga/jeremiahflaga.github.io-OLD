@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jordan Peterson on freedom of speech'
+title: 'Freedom of speech'
 categories: [Miscellaneous]
 tags: [Jordan Peterson]
 date: 2019-07-31 02:55:00 PM UTC
@@ -13,7 +13,7 @@ pinned: true
 
 I need to post something for July... so...
 
-I've been consuming a few Jordan Peterson videos lately. And this led me to this very very interesting, enlightening, and good [quote of his on free speech](https://en.wikiquote.org/wiki/Jordan_Peterson):
+I've been consuming a few Jordan Peterson videos lately. And this led me to this very very interesting, enlightening, and good [quote of his on freedom of speech](https://en.wikiquote.org/wiki/Jordan_Peterson):
 
 > "I regard free speech as a prerequisite to a civilized society, because freedom of speech means that you can have combat with words. That's what it means. It doesn't mean that people can happily and gently exchange opinions. It means that we can engage in combat with words, in the battleground of ideas. And the reason that that's acceptable, and why it's acceptable that people's feelings get hurt during that combat, is that the combat of ideas is far preferable to actual combat."
 
@@ -25,7 +25,36 @@ _Always?_
 
 Perhaps not always. Perhaps my unconscious is just exaggerating. :smile:
 
-Well, about hurting people with words, it depends on the situation I guess. There are instances where we do not need to hurt people with words (but we did :disappointed:), and there are times where we should (and we did not?). There were times where we're not supposed to be hurt with words, but we cannot change the past, so... :disappointed: We're living in a fallen world you know... It's impossible not to get hurt... :disappointed: 
+Well, about hurting people with words, it depends on the situation I guess. There are instances where we do not need to hurt people with words (but we did :disappointed:), and there are times where we should (and we did not?). There were times where we're not supposed to be hurt with words, but we cannot change the past, so... :disappointed: [We're living in a fallen world](https://www.bookdepository.com/Mere-Christianity-C-S-Lewis/9780007461219?a_aid=jflaga) you know... It's impossible not to get hurt... :disappointed: 
+
+
+-----
+
+## Other quotes on freedom of speech
+
+{: .mt-5}
+> "Criticizing an idea does not equate to condemning the people who believe it.
+<br />
+I still find this difficult to remember when the idea in question is one I care about. I'm trying. Let's all try." --- J.B. Rainsberger (from [a tweet](https://twitter.com/jbrains/status/1254102596891152384))
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Criticizing an idea does not equate to condemning the people who believe it.<br><br>I still find this difficult to remember when the idea in question is one I care about. I&#39;m trying. Let&#39;s all try.</p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/1254102596891152384?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+{: .mt-5}
+> "... tolerance could apply to different things --- persons, behaviors, or ideas--and the rules are different for each...
+<br />
+The classical rule of tolerance is this: Tolerate persons in all circumstances, by according them respect and courtesy even when their ideas are false or silly. Tolerate (i.e., allow) behavior that is moral and consistent with the common good. Finally, tolerate (i.e., embrace and believe) ideas that are sound. This is still a good guideline." --- Greg Koukl (from ["The Intolerance of Tolerance"](https://www.cbn.com/special/apologetics/articles/koukl_the_intolerance_of_tolerance.aspx))
+
+
+{: .mt-5}
+> "... there is a simple rule about vital and free companies, communities, and societies: You never punish bad ideas. Instead, you counter bad ideas with better ideas." --- Robert C. Martin (from ["Thought Police"](https://blog.cleancoder.com/uncle-bob/2017/08/09/ThoughtPolice.html))
+
+
+{: .mt-5}
+> "Freedom of expression is not even all good... But we'd rather protect that freedom, rather than get to the point na bawal ka nang mag-reklamo sa Facebook..." --- John Hofileña (from [a facebook post](https://www.facebook.com/john.hofilena/posts/10221441601097027))
+
+-----
+
 
 That's all there is to this post :grin: but...
 
@@ -112,26 +141,3 @@ It's not part of the suffering. It's not the having your hand cut off. It's the 
 "You have to notice when you're feeling homicidal. Let's say you go to work and someone bullies you. If you notice, you're fantasising some pretty nasty stuff. That tells you two things. The first is that you're not as nice as you think. And the corollary of that is, you're not as useless as you think."
 
 
-
------
-
-## Other quotes on freedom of speech
-
-> "Criticizing an idea does not equate to condemning the people who believe it.
-<br />
-I still find this difficult to remember when the idea in question is one I care about. I'm trying. Let's all try." --- J.B. Rainsberger (from [a tweet](https://twitter.com/jbrains/status/1254102596891152384))
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Criticizing an idea does not equate to condemning the people who believe it.<br><br>I still find this difficult to remember when the idea in question is one I care about. I&#39;m trying. Let&#39;s all try.</p>&mdash; ☕ J. B. Rainsberger (@jbrains) <a href="https://twitter.com/jbrains/status/1254102596891152384?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-> "... tolerance could apply to different things --- persons, behaviors, or ideas--and the rules are different for each...
-<br />
-The classical rule of tolerance is this: Tolerate persons in all circumstances, by according them respect and courtesy even when their ideas are false or silly. Tolerate (i.e., allow) behavior that is moral and consistent with the common good. Finally, tolerate (i.e., embrace and believe) ideas that are sound. This is still a good guideline." --- Greg Koukl (from ["The Intolerance of Tolerance"](https://www.cbn.com/special/apologetics/articles/koukl_the_intolerance_of_tolerance.aspx))
-
-
-
-> "... there is a simple rule about vital and free companies, communities, and societies: You never punish bad ideas. Instead, you counter bad ideas with better ideas." --- Robert C. Martin (from ["Thought Police"](https://blog.cleancoder.com/uncle-bob/2017/08/09/ThoughtPolice.html))
-
-
-> "Freedom of expression is not even all good... But we'd rather protect that freedom, rather than get to the point na bawal ka nang mag-reklamo sa Facebook..." --- John Hofileña (from [a facebook post](https://www.facebook.com/john.hofilena/posts/10221441601097027))

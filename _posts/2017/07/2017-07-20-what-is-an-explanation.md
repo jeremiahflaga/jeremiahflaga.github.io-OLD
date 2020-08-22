@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is an Explanation? (or What is an Answer?)
+title: What is an explanation? (or What is an answer?)
 categories: [Let's ask our masters]
 tags: [God, Explanation, Greg Bahnsen, Gordon Stein, George Smith]
 date: 2017-07-20 07:00:00 PM UTC
