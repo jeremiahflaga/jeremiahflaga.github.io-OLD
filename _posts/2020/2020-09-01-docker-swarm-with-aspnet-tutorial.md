@@ -56,9 +56,35 @@ ENTRYPOINT ["dotnet", "TokenGen.dll"]
 
 (For an explanation on what these `Dockerfile` contents mean, you can refer to this: ["How Visual Studio builds containerized apps (version vs-2019)"](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019))
 
+
+After the projects is created, go to the `Controllers` folder and add a new controller named `TokenController` with the following content:
+
+
+``` csharp
+namespace TokenGen.Controllers
+{
+    [Route("api/[controller]")]
+    public class TokenController : Controller
+    {
+        [HttpGet]
+        public dynamic Get()
+        {
+            return new
+            {
+                Guid = Guid.NewGuid().ToString(),
+                Expires = DateTime.UtcNow.AddHours(1),
+                Issuer = Environment.MachineName
+            };
+        }
+    }
+}
+```
+
+(You can see the resulting project in this public GitHub [repository](https://github.com/jeremiahflaga/containers-playground/tree/master/2020-08-27-docker-swarm).)
+
 ### Step 2: Docker image
 
-Open a command window in root folder (the folder where the `.sln` file is located).
+Open a command window in root folder of the project created in Step 1 (the folder where the `.sln` file is located).
 
 Execute this command to build a Docker image named `tokengen-img`:
 
