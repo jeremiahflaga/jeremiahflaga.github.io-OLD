@@ -5,7 +5,6 @@ subtitle: ''
 categories: [Programming]
 tags: [Programming, Microservices, DDD]
 date: 2020-09-01 01:00:00 PM UTC
-background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 published: false
 ---
 

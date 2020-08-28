@@ -8,6 +8,7 @@ baseurl: ""
 url:
 logo: '/images/jboy-papyrus-blue.png'
 email: flaga.jeremiah@gmail.com
+background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 
 # Site configurations
 plugins:

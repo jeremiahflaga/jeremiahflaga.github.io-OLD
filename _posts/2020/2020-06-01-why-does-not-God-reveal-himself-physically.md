@@ -22,6 +22,8 @@ I also have an answer to that question which focuses more on the emotional part 
 
 Here it goes...
 
+(Please **note** that that question assumes that God exists. If you do not believe that God exists, then that question will not be of any significance to you.)
+
 When we hear questions like that, _"Why doesn't God physically reveal Himself?"_, we sometimes forget that God has emotions too. He is not a robot.
 
 <!--more-->

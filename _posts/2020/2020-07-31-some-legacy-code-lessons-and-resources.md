@@ -5,7 +5,6 @@ subtitle: '"Don’t strive for perfect code; strive for perfect boundaries."'
 categories: [Programming]
 tags: [Programming, DDD, PPPDDD, Scott Millett, Robert C. Martin, Jonathan Boccara, Eric Evans]
 date: 2020-07-31 10:25:00 AM UTC
-background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 pinned: true
 ---
 

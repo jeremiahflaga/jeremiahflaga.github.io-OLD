@@ -5,7 +5,6 @@ subtitle: ''
 categories: [Programming]
 tags: [Programming, Docker]
 date: 2020-09-01 01:00:00 AM UTC
-background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 ---
 
 <!-- started August 27, 2020 11:59 AM Philippine Time -->

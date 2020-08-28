@@ -5,91 +5,91 @@ layout: default
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title2 }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
+{% else %}
+<header class="masthead">
+{% endif %}
+  <div class="overlay"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-
-        {{ content }}
-        
-        <br />
-
-        <!-- Home Post List -->
-        {% assign pinned-posts = site.posts | where:'pinned', true %}
-        {% for post in pinned-posts %}
-
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h4>{{ post.title }}</h4>
-            {% if post.subtitle %}
-            <h5 class="post-subtitle">{{ post.subtitle }}</h5>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-            {% endif %}
-          </a>
-          <small>
-            <p class="post-meta">
-              <!-- Posted by
-              {% if post.author %}
-              {{ post.author }}
-              {% else %}
-              {{ site.author }}
-              {% endif %}
-              on -->
-              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-            </p>
-          </small>
-        </article>
-
-        <hr>
-
-        {% endfor %}
-
-        <!-- Pager -->
-        <!-- <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/blog" | relative_url }}">View All Blog Posts &rarr;</a>
-        </div> -->
-
-        <p>
-          I'm also a <em>learn-a-little-bit-of-TDD advocate</em>, so I collected some <a href="/memorabilia/quotes/tdd/">quotes about TDD</a>.
-        </p>
-
-        <!-- 
-        <br />
-        <hr />
-        {% include jordan-peterson-free-speech-quote.html %}
-
-        <br />
-        
-        <hr />
-        
-        <div class="message">
-          <blockquote>
-            <p>"... the disadvantage of writing 1300 articles over a dozen years is that you repeat yourself some and maybe even contradict yourself some as you grow."</p>
-            <p> &mdash; from <a href="https://greghowlett.com/free-piano-lessons-and-arrangements-for-pianists">The Vault of Greg Howlett's site</a></p>
-          </blockquote>
-          <p>
-            If you are a colleague and you read something in my blog which I do not seem to be applying in my work, please point it out to me because I might have already forgotten that one. :blush:
-          </p>
+        <div class="page-heading">
+          <h1>{{ site.title2 }}</h1>
+          {% if site.description %}
+          <span class="subheading">{{ site.description }}</span>
+          {% endif %}
         </div>
-         -->
       </div>
     </div>
   </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+
+      {{ content }}
+      
+      <br />
+
+      <!-- Home Post List -->
+      {% assign pinned-posts = site.posts | where:'pinned', true %}
+      {% for post in pinned-posts %}
+
+      <article class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+          <h4>{{ post.title }}</h4>
+          {% if post.subtitle %}
+          <h5 class="post-subtitle">{{ post.subtitle }}</h5>
+          {% else %}
+          <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+          {% endif %}
+        </a>
+        <small>
+          <p class="post-meta">
+            <!-- Posted by
+            {% if post.author %}
+            {{ post.author }}
+            {% else %}
+            {{ site.author }}
+            {% endif %}
+            on -->
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+          </p>
+        </small>
+      </article>
+
+      <hr>
+
+      {% endfor %}
+
+      <!-- Pager -->
+      <!-- <div class="clearfix">
+        <a class="btn btn-primary float-right" href="{{"/blog" | relative_url }}">View All Blog Posts &rarr;</a>
+      </div> -->
+
+      <p>
+        I'm also a <em>learn-a-little-bit-of-TDD advocate</em>, so I collected some <a href="/memorabilia/quotes/tdd/">quotes about TDD</a>.
+      </p>
+
+      <!-- 
+      <br />
+      <hr />
+      {% include jordan-peterson-free-speech-quote.html %}
+
+      <br />
+      
+      <hr />
+      
+      <div class="message">
+        <blockquote>
+          <p>"... the disadvantage of writing 1300 articles over a dozen years is that you repeat yourself some and maybe even contradict yourself some as you grow."</p>
+          <p> &mdash; from <a href="https://greghowlett.com/free-piano-lessons-and-arrangements-for-pianists">The Vault of Greg Howlett's site</a></p>
+        </blockquote>
+        <p>
+          If you are a colleague and you read something in my blog which I do not seem to be applying in my work, please point it out to me because I might have already forgotten that one. :blush:
+        </p>
+      </div>
+        -->
+    </div>
+  </div>
+</div>

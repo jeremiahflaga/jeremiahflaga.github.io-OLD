@@ -5,7 +5,6 @@ subtitle: ''
 categories: [Programming]
 tags: [Programming]
 date: 2020-07-31 12:00:00 AM UTC
-background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 published: false
 ---
 
