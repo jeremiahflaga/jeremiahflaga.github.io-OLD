@@ -86,3 +86,8 @@ I hope learning more about DDD will help me more in dealing with legacy codebase
 - ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/) by Serge Demeyer, Stéphane Ducasse, & Oscar Nierstrasz
 
 </div>
+
+
+## More quotes about legacy code
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Legacy&quot; code is underrated. The very fact that it lived long enough to become legacy code is evidence of its value. <br><br>Keeping this in mind helps me feel grateful in the face of frustration refactoring old code. Without this code would the company have survived to employ me? ❤️</p>&mdash; Merrick Christensen (@iammerrick) <a href="https://twitter.com/iammerrick/status/1299141939166457856?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
