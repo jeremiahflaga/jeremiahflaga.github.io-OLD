@@ -10,7 +10,7 @@ date: 2020-09-01 01:00:00 AM UTC
 <!-- started August 27, 2020 11:59 AM Philippine Time -->
 <!-- finished August 28, 2020 12:22 PM Philippine Time -->
 
-I tried to follow the first half of ["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) tutorial but I encountered lots of errors when doing it in the latest version of ASP.NET. I looked for solutions for the errors.. and here is a guide to that same tutorial for .NET Core 3.1 using Visual Studio 2019.
+I tried to follow the first half of ["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) tutorial but I encountered lots of errors because that tutorial was written for a preview version of .NET Core, 1.0.0-preview2-003121. To save you from the errors, here is a guide to that same tutorial but for ASP.NET Core 3.1 using Visual Studio 2019.
 
 ### Windows 10 prerequisites:
 
@@ -18,13 +18,13 @@ I tried to follow the first half of ["Scale ASP.NET Core Apps with Docker Swarm 
 - [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/)
 - [.NET Core SDK](https://dotnet.microsoft.com/download#windows)
 
-### Step 1: ASP.NET project
+### Step 1: Create ASP.NET project
 
 Using Visual Studio 2019, create an ASP.NET Web API project named `TokenGen`.
 
 <!--more-->
 
-Be sure to "Enable Docker Support" by clicking on the chechbox as shown in the image below.
+Be sure to **"Enable Docker Support"** by clicking on the chechbox as shown in the image below.
 
 ![Visual Studio 2019 - New ASP.NET Web API project with Docker support enbled](/images/2020/aspnet-web-api-enable-docker-support.png)
 
@@ -82,9 +82,9 @@ namespace TokenGen.Controllers
 
 (You can see the resulting project in this public GitHub [repository](https://github.com/jeremiahflaga/containers-playground/tree/master/2020-08-27-docker-swarm).)
 
-### Step 2: Docker image
+### Step 2: Create Docker image
 
-Open a command window in root folder of the project created in Step 1 (the folder where the `.sln` file is located).
+Open a command window in **root folder** of the project created in Step 1 (the folder where the `.sln` file is located).
 
 Execute this command to build a Docker image named `tokengen-img`:
 
@@ -108,7 +108,7 @@ mcr.microsoft.com/dotnet/core/aspnet   3.1-buster-slim     bdca989bc8d3
 ```
 
 
-### Step 3: Docker container
+### Step 3: Create Docker container
 
 Execute this command to create and run a container named `tokengen` based on the `tokengen-img` image created in Step 2
 
@@ -158,7 +158,7 @@ docker rm tokengen
 ```
 
 
-### Step 4: Docker Swarm
+### Step 4: Use Docker Swarm
 
 First, enable Docker Swarm mode by executing this command:
 
@@ -191,7 +191,7 @@ docker service scale tokengen=3
 
 Try to execute the command
 
-```
+``` shell
 docker ps
 ```
 
@@ -214,7 +214,7 @@ Note that the `issuer` in the responses have three different values, which corre
 
 To delete the service, execute this command:
 
-```
+``` shell
 docker service rm tokengen
 ```
 
@@ -223,10 +223,8 @@ That's all folks.
 
 #### References:
 
-["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) by Stefan Prodan
+- ["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) by Stefan Prodan
+- ["Dockerize an ASP.NET Core application"](https://docs.docker.com/engine/examples/dotnetcore/) from Docker docs
+- ["How Visual Studio builds containerized apps (version vs-2019)"](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019)
+- [difference between Docker container and Docker service](https://stackoverflow.com/a/46646524/1451757)
 
-["Dockerize an ASP.NET Core application"](https://docs.docker.com/engine/examples/dotnetcore/) from Docker docs
-
-["How Visual Studio builds containerized apps (version vs-2019)"](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019)
-
-[difference between Docker container and Docker service](https://stackoverflow.com/a/46646524/1451757)
