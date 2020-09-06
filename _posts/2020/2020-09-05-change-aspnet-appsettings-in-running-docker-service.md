@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 'Changing appsettings value of an ASP.NET app in a running Docker service'
 subtitle: ''
 categories: [Programming]
