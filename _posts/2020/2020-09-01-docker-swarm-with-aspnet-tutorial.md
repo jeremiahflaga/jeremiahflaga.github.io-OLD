@@ -82,6 +82,7 @@ namespace TokenGen.Controllers
 
 (You can see the resulting project in this public GitHub [repository](https://github.com/jeremiahflaga/containers-playground/tree/master/2020-08-27-docker-swarm).)
 
+
 ### Step 2: Create Docker image
 
 Open a command window in **root folder** of the project created in Step 1 (the folder where the `.sln` file is located).
@@ -220,6 +221,7 @@ docker service rm tokengen
 
 That's all folks.
 
+-----
 
 #### References:
 

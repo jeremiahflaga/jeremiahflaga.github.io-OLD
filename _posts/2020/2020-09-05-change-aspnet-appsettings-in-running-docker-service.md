@@ -166,7 +166,7 @@ public class TokenController : Controller
 (You can see the resulting project in this public GitHub [repository](https://github.com/jeremiahflaga/containers-playground/tree/master/2020-08-28-docker-swarm-with-config).)
 
 
-### Step 4: Create Docker image
+### Step 5: Create Docker image
 
 Open a command window in **root folder** of the project created in Step 1 (the folder where the `.sln` file is located).
 
@@ -192,7 +192,7 @@ mcr.microsoft.com/dotnet/core/aspnet   3.1-buster-slim     bdca989bc8d3
 ```
 
 
-### Step 4: Use Docker Swarm
+### Step 6: Use Docker Swarm
 
 First, enable Docker Swarm mode by executing this command:
 
@@ -234,7 +234,7 @@ setting2 : setting-2
 ```
 
 
-### Step 5: Update app settings
+### Step 7: Update app settings
 
 Update the app settings by running this command:
 
@@ -271,7 +271,9 @@ The end.
 
 Bow. :bow:
 
-### References
+-----
+
+#### References:
 
 - ["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) by Stefan Prodan
 - ["Dockerize an ASP.NET Core application"](https://docs.docker.com/engine/examples/dotnetcore/) from Docker docs
