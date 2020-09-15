@@ -82,6 +82,8 @@ Tada!!!
 
 -----
 
+<div class="small" markdown="1">
+
 #### References:
 
 - [After Docker-up get the issue on the login page](https://github.com/dotnet-architecture/eShopOnContainers/issues/1236)
@@ -91,6 +93,8 @@ Tada!!!
 - [eShopOnContainers: Explore the application](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Explore-the-application) 
 - [Stop / remove all Docker containers](https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers)
 - Restart machine
+
+</div>
 
 
 

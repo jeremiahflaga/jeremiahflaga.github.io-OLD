@@ -223,6 +223,8 @@ That's all folks.
 
 -----
 
+<div class="small" markdown="1">
+
 #### References:
 
 - ["Scale ASP.NET Core Apps with Docker Swarm Mode"](https://www.pluralsight.com/guides/scale-asp-net-core-apps-with-docker-swarm-mode) by Stefan Prodan
@@ -230,3 +232,4 @@ That's all folks.
 - ["How Visual Studio builds containerized apps (version vs-2019)"](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019)
 - [difference between Docker container and Docker service](https://stackoverflow.com/a/46646524/1451757)
 
+</div>

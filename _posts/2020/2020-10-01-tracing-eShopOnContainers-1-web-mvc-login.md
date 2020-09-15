@@ -221,22 +221,19 @@ in your `WebMVC` app gets the access token from.
 
 -----
 
+<div class="small" markdown="1">
+
 #### References:
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
-
 - [Which OAuth 2.0 Flow Should I Use?](https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use) from Auth0 docs
-
 - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) by David Neal from Okta
-
 - [ASP.NET Core, C#, IdentityServer4 - Authentication - Tricking Library Ep28](https://www.youtube.com/watch?v=Ql0ZB67J0TQ&list=PLOeFnOV9YBa4LslgNo31ukBrwpJTz7BzM&index=31&t=0s&ab_channel=RawCoding) by Anton Wieslander of Raw Coding
-
 - [IdentityServer4 documentation](https://identityserver4.readthedocs.io/en/latest/quickstarts/1_client_credentials.html)
-
 - [User Authentication and Identity with Angular, Asp.Net Core and IdentityServer](https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver) by Mark Macneil
-
 - [Login Workflow](https://docs.identityserver.io/en/dev/topics/signin.html#login-workflow) from the IdentityServer4 docs
-
 - [Accessing the OIDC tokens in ASP.NET Core 2.0](https://www.jerriepelser.com/blog/accessing-tokens-aspnet-core-2/)
-
 - [How to manually decrypt an ASP.NET Core Authentication cookie?](https://web.archive.org/web/20170809191253/https://stackoverflow.com/questions/42842511/how-to-manually-decrypt-an-asp-net-core-authentication-cookie)
+- [ASP.NET Core 3 - IdentityServer4 - Ep.12 Cookies, id_token, access_token, Claims](https://www.youtube.com/watch?v=bcfThLdEcOM&ab_channel=RawCoding) by Anton Wieslander of Raw Coding
+
+</div>

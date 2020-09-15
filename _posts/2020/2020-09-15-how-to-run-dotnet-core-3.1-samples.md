@@ -79,12 +79,13 @@ dotnet run
 
 -----
 
+<div class="small" markdown="1">
+
 #### References:
 
 - [Run the samples](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/samples?view=aspnetcore-3.1)
-
 - [How to get daily builds of ASP.NET Core](https://github.com/dotnet/aspnetcore/blob/master/docs/DailyBuilds.md)
-
 - [Download .NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-
 - [Download .NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+
+</div>
