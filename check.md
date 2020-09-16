@@ -93,30 +93,65 @@ img.emoji {
 # messages
 
 <div class="message" markdown="1">
+
 messsage inside `div` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+
+```
+code
+here
+```
+
 </div>
 
 <p class="message" markdown="1">
-    messsage inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+
+messsage inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+
+```
+code
+here
+```
+
 </p>
 
 `class="message"` inside `span` is not being used in this site, so it's okay even if it does not look good
 
 <span class="message">
-    messsage inside `span` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+messsage inside `span` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 </span>
 
-<p class="message message-compressed" markdown="1">
-    messsage-compressed inside `p` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
+<div class="message message-compressed" markdown="1">
 
-<p class="message message-compressed float-right" markdown="1">
-    messsage-compressed inside `p` tag - `float-right` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
+messsage-compressed inside `div` tag - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
 
-<p class="message message-compressed float-left" markdown="1">
-    messsage-compressed inside `p` tag - `float-left` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
-</p>
+```
+code
+here
+```
+
+</div>
+
+<div class="message message-compressed float-right" markdown="1">
+
+messsage-compressed inside `div` tag - `float-right` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+
+```
+code
+here
+```
+
+</div>
+
+<div class="message message-compressed float-left" markdown="1">
+
+messsage-compressed inside `div` tag - `float-left` - a long long long long long long long long long long long long long long long long long long long long long long long long long long long long  message
+
+```
+code
+here
+```
+
+</div>
 
 <div class="clearfix"></div>
 
