@@ -2,8 +2,8 @@
 layout: post
 title: 'How to run ASP.NET Core 3.1 samples'
 subtitle: ''
-categories: [Programming, .NET, ASP.NET]
-tags: [Programming, eShopOnContainers]
+categories: [Programming]
+tags: [Programming, eShopOnContainers, .NET, ASP.NET]
 date: 2020-09-15 01:00:00 AM UTC
 ---
 

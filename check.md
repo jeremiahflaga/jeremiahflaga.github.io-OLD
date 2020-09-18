@@ -20,6 +20,17 @@ refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:40
 # blockquotes
 
 > blockquotes
+> 
+> > blockquotes
+> 
+> blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes blockquotes
+---
+
+# emojis
+
+:smile: :smiley: :laughing: :grin: :grinning: :blush: :grimacing: :bow: :disappointed: :worried: :innocent: 
+
+More emojis at [https://phatblat.com/2016/01/03/jemoji.html](https://phatblat.com/2016/01/03/jemoji.html)
 
 ---
 
