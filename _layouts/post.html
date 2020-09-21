@@ -22,11 +22,14 @@ layout: default
             <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
             on  -->
             <!-- {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=page.content %} -->
-            <span data-toggle="tooltip" data-placement="top" title="{{ page.date | date: '%B %d, %Y' }}">
-              {{ page.date | date: '%B %d' }}
-            </span> 
+            {% if page.hide_date == false %}
+              <span data-toggle="tooltip" data-placement="top" title="first published on {{ page.date | date: '%B %d, %Y' }}">
+                {{ page.date | date: '%B %d' }}
+              </span> 
+              &middot;
+            {% endif %}
             <span>
-              &middot; {% include read_time.html content=page.content %}
+              {% include read_time.html content=page.content %}
             </span>
           </span>
         </div>
