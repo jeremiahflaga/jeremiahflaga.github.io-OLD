@@ -112,7 +112,7 @@ How did Page 1 know that it should execute that code?... It's because the defaul
 
 ``` csharp
 ...
-options.LoginPath = "/loginc1"`
+options.LoginPath = "/loginc1"
 ...
 ```
 
@@ -180,7 +180,7 @@ The string `"OpenIdConnect"` in
 [Authorize(AuthenticationSchemes = "OpenIdConnect")]
 ```
 
-is just the _name_ of the authentication scheme to use, the same _name_ you used in configuring authentication in your `Startup` class:
+of [eShopOnContainers' WebMVC project](https://github.com/dotnet-architecture/eShopOnContainers/blob/85aea20046ef495ba44c5d6031c75960aa316eb4/src/Web/WebMVC/Controllers/AccountController.cs) is just the _name_ of the authentication scheme to use, the same _name_ used in configuring authentication in the `Startup` class:
 
 ``` csharp
 services.AddAuthentication(...)
