@@ -4,7 +4,7 @@ title: 'Tracing eShopOnContainers (1): WebMVC Login'
 subtitle: ''
 categories: [Programming]
 tags: [Programming, eShopOnContainers, Microservices]
-date: 2020-10-01 01:00:00 PM UTC
+date: 2020-10-01 01:00:00 AM UTC
 ---
 
 <!-- started September 10, 2020 12:00 PM Philippine Time -->
