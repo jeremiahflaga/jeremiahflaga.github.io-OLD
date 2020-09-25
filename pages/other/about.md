@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 background: /images/background/retrosupply-jLwVAUtLOAQ-unsplash.jpg
+published: false
 ---
 
 <!--
