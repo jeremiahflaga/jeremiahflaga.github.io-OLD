@@ -30,7 +30,7 @@ I tried practicing what he taught in the video. It was very cool. I greatly enjo
 
 I created a transcription of what he played in the video because I know that I'm going to forget how to play this music a year from now. A transcription will help me easily remember this.
 
-The truth is transcribing by ear is very hard for me --- I do not have perfect pitch, and I was not trained to transcribe. Thankfully today we already have videos available for our musics, so it's now possible to transcribe both by sight and by ear (mainly by 'sight', in my case). I hope that by doing this, transcribing by ear will become easier for me someday... :stuck_out_tongue_winking_eye: _I hope... <small>("libre lang mangarap", ingon pa nila)</small>_
+The truth is transcribing by ear is very hard for me --- I do not have perfect pitch, and I was not trained to transcribe. Thankfully today we already have videos available for our musics, so it's now possible to transcribe both by sight and by ear (mainly by 'sight', in my case). I hope that by doing this, transcribing by ear will become easier for me someday... :stuck_out_tongue_winking_eye: _I hope... <small>(["libre lang mangarap", ingon pa nila](https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=%E2%80%9Clibre%20lang%20mangarap%E2%80%9D%2C%20ingon%20pa%20nila))</small>_
 
 Here's the transcription (with some modifications of my own):
 
