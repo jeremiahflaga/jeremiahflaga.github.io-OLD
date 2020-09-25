@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to run ASP.NET Core 3.1 samples'
+title: 'How to run the ASP.NET Core 3.1 samples'
 subtitle: ''
 categories: [Programming]
 tags: [Programming, eShopOnContainers, .NET, ASP.NET]
@@ -9,6 +9,7 @@ date: 2020-09-15 01:00:00 AM UTC
 
 <!-- started September 11, 2020 01:18 PM Philippine Time -->
 <!-- finished September 12, 2020 -->
+<!-- updated September 25, 2020 -->
 
 I was trying to run the [Cookie authentication sample](https://github.com/dotnet/AspNetCore/tree/release/3.1/src/Security/samples/Cookies) from [ASP.NET Core 3.1 code repository](https://github.com/dotnet/aspnetcore). I encountered some errors. These steps mights save you from those errors:
 
@@ -30,7 +31,7 @@ git checkout release/3.1
 ```
 
 {: .mt-4}
-### Step 2: Open `/global.json` to know correct SDK
+### Step 2: Open `/global.json` to know the correct SDK
 
 Open the file `/global.json` in a text editor. It contains the SDK version being used in the project.
 
@@ -57,7 +58,7 @@ dotnet --list-sdks
 3.1.402 [C:\Program Files\dotnet\sdk]
 ```
 
-If the version from your `/global.json`, version `3.1.107`, is not listed, go to [].NET Core 3.1 SDK downloads site](https://dotnet.microsoft.com/download/dotnet-core/3.1) then search for version `3.1.107`, then download the installer for the SDK.
+If the version from your `/global.json`, version `3.1.107`, is not listed, go to [.NET Core 3.1 SDK downloads site](https://dotnet.microsoft.com/download/dotnet-core/3.1) then search for version `3.1.107`, then download the installer for the SDK.
 
 
 ### Step 3: Restore dependencies then run
