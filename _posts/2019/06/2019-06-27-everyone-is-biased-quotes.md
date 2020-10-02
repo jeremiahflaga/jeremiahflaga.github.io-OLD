@@ -4,18 +4,21 @@ title: 'Everyone is biased'
 categories: [Miscellaneous]
 tags: [Worldview]
 date: 2019-06-27 11:50:00 PM UTC
+hide_date: true
 pinned: true
 # permalink: /memorabilia/quotes/everyone-is-biased/
 ---
 
 <!-- pulished in blog (moved from pages section) in June 28, 2019 7:50:00 AM Philippine Time -->
 
+<!-- 
 {:.message}
 <small><small>
 (This post was originally from the [Memorabilia section](/memorabilia/quotes/everyone-is-biased/) of this site.
 But I moved this to the blog section because I am going to discontinue the Memorabilia section.
 I think the chronological/historical organization of things is a better way of doing things on this site/blog of mine because it can clearly show that things change, and that people change, and that I change.)  :grin: 
 </small></small>
+ -->
 
 
 I'm a _biased_ person, and part of my set of biases is this: "**_everyone is biased_**, including you and me".<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup> If you say that you are _not biased_, but _neutral_, then that is already proof that you are _biased_ because you already stated your disagreement with me (and with many others who believe that everyone is biased).  :grin:
@@ -115,16 +118,28 @@ You can't even devise an epistemology --- an apple sorting machine --- unless yo
 > 
 > --- Jordan Peterson in about [00:54:30 of the 1st part of his discussion with Sam Harris (moderated by Bret Weinstein)"](https://youtu.be/jey_CzIOfYE?t=3270)
 
-> ... You cannot view the world without any a priori structure and that a priori structure has a dogmatic element and so you can't just say we'll just get rid of the dogma because you cannot perceive the world without a structure.
+> ... **You cannot view the world without any a priori structure** and that a priori structure has a dogmatic element and so you can't just say we'll just get rid of the dogma because you cannot perceive the world without a structure.
 > 
 > --- Jordan Peterson in about [00:53:50 of the 2nd part of his discussion with Sam Harris (moderated by Bret Weinstein)](https://youtu.be/GEf6X-FueMo?t=3230)
 
 
+----------
+
+> ... In the modern world, data is considered more important than theory. Our theories are supposed to play a supplementary role to the data we analyze. However, this is backward. **Theory is inescapably prior to any interpretation of data.** Data, by itself, is meaningless. It requires a theory in order to be understood. There is a popular notion that "data speaks for itself." It doesn't.
+> 
+> --- Steve Patterson (from ["Square One: The Foundations of Knowledge"](http://steve-patterson.com/squareone/))
+
 
 ----------
 
-## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
+> From my perspective, sound apriorist claims are rarely about states of the world. They are about our concepts. **A careful rationalist will correctly point out that everybody brings pre-empirical concepts to the table before analyzing any data.** These concepts are themselves not the subject of empirical inquiry; they are the lens through which we make sense of empirical data.
+> 
+> Every discipline has these presuppositions – including physics, mathematics, biology, etc. – though most people simply aren’t aware of them because they tend to be very abstract and philosophic rather than concrete and scientific.
+> 
+> --- Steve Patterson (from ["The Abuse of Apriorism in Economics"](http://steve-patterson.com/abuse-apriorism-economics/))
 
+
+----------
 
 > "I believe that **we need to have our theories prior to our interpretation of the facts**."
 > 
@@ -140,13 +155,8 @@ Theory allow me to then interpret that data and make sense of it."
 
 ----------
 
-> ... In the modern world, data is considered more important than theory. Our theories are supposed to play a supplementary role to the data we analyze. However, this is backward. **Theory is inescapably prior to any interpretation of data.** Data, by itself, is meaningless. It requires a theory in order to be understood. There is a popular notion that "data speaks for itself." It doesn't.
-> 
-> --- Steve Patterson (from ["Square One: The Foundations of Knowledge"](http://steve-patterson.com/squareone/))
+## Other quotes which might not be _directly_ related to this "biased" thing, but might still be related...
 
-
-
-----------
 
 > I call this ubiquitous cause of failure at attempts at political persuasion the “fallacy of the assumed paradigm” because it rests on an unconscious assumption that our opponent’s paradigm (unstated beliefs, meanings of words, facts and their relevance to each other) is the same as ours --- except in the few places where he explicitly tells us it isn’t.
 
@@ -159,11 +169,28 @@ Until you understand that, you can’t have a meeting of minds --- and you’ll 
 --- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
 
 
+
+
 ----------
 
 **PS:**
 
 I found this news on my facebook feed (on June 29, 2019) which might interest you: ["Secular researchers agree: worldviews control science!"](https://creation.com/secular-paper-worldviews-control-science?fbclid=IwAR3mtVfrrCjpClPM5gmvEBl3xJmunZ7gWI-D1rR9J8iIH6hnoA0TajMwl28)
+
+
+
+<br />
+
+----------
+
+<div class="message small" markdown="1">
+
+This post will be one of those [_"evolving publications"_](https://martinfowler.com/bliki/EvolvingPublication.html), as Martin Fowler calls them.
+
+But I will call them "_evolving notes_" here in my blog, because most of my posts are not really publications but are just my personal _notes_ on what others have published.
+
+</div>
+
 
 
 <br />
@@ -177,7 +204,7 @@ I found this news on my facebook feed (on June 29, 2019) which might interest yo
     <br /><br />
     Of course, I'm not saying that I agree with the people I quote _on everything_. What I am saying is that today, I agree with them on this _one_ thing.
     <br /><br />
-    Today, year 2019, I am still convinced that _everyone is biased_. That might change in the future, of course. I don't know...
+    Today, year 2020, I am still convinced that _everyone is biased_. That might change in the future, of course. I don't know...
     <br /><br />
     If you disagree with this _"everyone is biased"_ thing, I would like to hear your arguments. Please tell me about it in the comments section of this page. :+1: :+1:
 </small>

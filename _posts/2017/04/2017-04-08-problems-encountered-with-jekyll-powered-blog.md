@@ -8,9 +8,15 @@ date: 2017-04-08 03:30:00 PM UTC
 
 <!-- April 8, 2017 11:30:00 PM Philippine Time -->
 
-This post will be one of those [_"evolving publications"_](https://martinfowler.com/bliki/EvolvingPublication.html) as called by Martin Fowler.
+<div class="message" markdown="1">
 
-But I will call this "_evolving notes_".
+This post will be one of those [_"evolving publications"_](https://martinfowler.com/bliki/EvolvingPublication.html), as Martin Fowler calls them.
+
+But I will call them "_evolving notes_" here in my blog, because most of my posts are not really publications but are just my personal _notes_ on what others have published.
+
+</div>
+
+-----
 
 This post contains some of the problems I encountered while adding more functionality or fixing some errors to my Jekyll-powered blog.
 
