@@ -10,7 +10,7 @@ date: 2020-10-07 01:00:00 AM UTC
 <!-- October 6, 2020 5:43 PM Philippine Time -->
 
 {: .message .small }
-**NOTE:** the purpose of this post is just to force my brain to remember something I consider very important, so that I can [easily search for it when I need it in the future](https://www.hanselman.com/blog/TheVBEquivalentToCTypeofKeyword.aspx).
+**NOTE:** The purpose of this post is just to force my brain to remember something I consider very important. Another purpose is so that I can [easily search for it when I need it in the future](https://www.hanselman.com/blog/TheVBEquivalentToCTypeofKeyword.aspx).
 
 -----
 
