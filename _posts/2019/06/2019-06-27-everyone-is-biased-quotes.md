@@ -166,8 +166,19 @@ The key is in the phrase “his own version of the world”.
 > 
 Until you understand that, you can’t have a meeting of minds --- and you’ll never change a mind you’ve not met.
 > 
---- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
+> --- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
 
+
+
+----------
+
+> ... I think that I am biased. I think this is unavoidable and people should take that for granted when they read my work and then when they read other scientists' work. **We all have some priors**, and sometimes it is possible to track these priors based on what we have published.
+> 
+> I don't think it is wrong to have opinions or hypotheses. I don't think it is wrong even to have beliefs. To be honest, when I launch a new project, I try to be as open as possible to all types of outcomes... Sometimes, I have found errors in the process, hopefully early enough before publishing.
+> 
+> **What makes a scientist is an acknowledgement that he or she can be biased.** We have to watch out for that possibility in whatever we do.
+> 
+> --- John Ioannidis (from ["Ioannidis: Most Research Is Flawed; Let's Fix It"](https://www.medscape.com/viewarticle/898405))
 
 
 
