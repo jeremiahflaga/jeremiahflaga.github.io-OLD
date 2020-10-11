@@ -37,11 +37,11 @@ I'm going to paste the whole thread here so that it will not be lost in the inte
 
 > I'm developing **a new alternative to microservices that addresses many of the problems that people run into**. I call it "SPMSA". Bear with me -- I'll explain the acronym in a later tweet.
 > 
-> First, **design your microservices in the usual way**. No more than 500 lines each, say, and with well-defined interfaces. But here's the first trick: you put them all in the same repo. This means that you have a single commit that encompasses all services at once.
+> First, **design your microservices in the usual way**. No more than 500 lines each, say, and with well-defined interfaces. But here's the first trick: you **put them all in the same repo.** This means that you have a single commit that encompasses all services at once.
 >  
 > That means when you commit or refactor, you can build and test the services as a whole system and be sure that they *always* all work together! Awesome!
 >  
-> The next trick is that when you deploy, you deploy *all* the services for a given commit at the same time! If that means redeploying a unchanged service, no worries -- you should have a fast CI/CD pipeline, yes?
+> The next trick is that when you deploy, you **deploy *all* the services for a given commit at the same time!** If that means redeploying a unchanged service, no worries -- you should have a fast CI/CD pipeline, yes?
 > 
 > Here's the cool part: you deploy all the services in such a way that **they access some shared memory**. This means that **they can communicate super-fast**, without having to do all that JSON serialization (up to 50% of servicing time). This can make your system twice as fast!
 > 

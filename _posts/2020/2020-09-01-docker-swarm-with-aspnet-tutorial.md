@@ -221,6 +221,17 @@ docker service rm tokengen
 
 That's all folks.
 
+
+
+-----
+
+**Update (Oct 11, 2020):**
+
+I found a very interesting talk about Docker: ["Heresy in the Church of Docker"](https://www.youtube.com/watch?v=RB6MvSEaMKI&ab_channel=DevOpsDaysSiliconValley) by Corey Quinn, a Cloud Economist. Watch it if you have time :smile: 
+
+
+
+
 -----
 
 <div class="small" markdown="1">
