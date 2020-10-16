@@ -28,9 +28,22 @@ refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:40
 
 # emojis
 
-:smile: :smiley: :laughing: :grin: :grinning: :blush: :grimacing: :bow: :disappointed: :worried: :innocent: 
+:smile: :smiley: :laughing: :grin: :grinning: :+1: :blush: :grimacing: :bow: :disappointed: :worried: :innocent: 
+
+should not have box-shadow
+
+``` css
+img.emoji {
+    box-shadow: none;
+    display: inline;
+    margin: 0;
+    border-radius: 0;
+}
+```
 
 More emojis at [https://phatblat.com/2016/01/03/jemoji.html](https://phatblat.com/2016/01/03/jemoji.html)
+
+
 
 ---
 
@@ -82,22 +95,6 @@ img {
 }
 ```
 
----
-
-# emojis
-
-:smile: :smiling: :laughing: :blush: :+1:
-
-should not have box-shadow
-
-``` css
-img.emoji {
-    box-shadow: none;
-    display: inline;
-    margin: 0;
-    border-radius: 0;
-}
-```
 
 ---
 
