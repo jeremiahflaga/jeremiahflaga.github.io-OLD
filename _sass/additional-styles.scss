@@ -30,9 +30,29 @@ blockquote {
     }
 }
 
+pre {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 p a, a {
     color: #6a9fb5;
     text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-block-start: 1.1em;
 }
 
 img {

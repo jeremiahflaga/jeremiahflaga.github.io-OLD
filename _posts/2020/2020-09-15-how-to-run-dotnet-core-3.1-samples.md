@@ -16,21 +16,18 @@ I was trying to run the [Cookie authentication sample](https://github.com/dotnet
 <!--more-->
 
 
-{: .mb-3}
 ### Step 0: Clone the repository
 
 ``` shell
 git clone https://github.com/dotnet/aspnetcore.git
 ```
 
-{: .mt-4 .mb-3}
 ### Step 1: Select the correct branch
 
 ``` shell
 git checkout release/3.1
 ```
 
-{: .mt-4}
 ### Step 2: Open `/global.json` to know the correct SDK
 
 Open the file `/global.json` in a text editor. It contains the SDK version being used in the project.
