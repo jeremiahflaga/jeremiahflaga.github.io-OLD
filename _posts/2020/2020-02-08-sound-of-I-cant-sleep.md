@@ -27,4 +27,4 @@ the sound in my head when I cannot sleep a few days ago is the first bar in this
 
 **Update:**
 
-That is not really the sound of "I can't sleep" :laughing". I just have been listening to [Chopin Nocturne Op. 9 No. 1 in B-flat Minor](https://www.youtube.com/watch?v=myRTkyWejfo) before that sound came to my mind while trying to get to sleep when I cannot sleep.
+That is not really the sound of "I can't sleep" :laughing:. I was just listening to [Chopin Nocturne Op. 9 No. 1 in B-flat Minor](https://www.youtube.com/watch?v=myRTkyWejfo) while trying to get to sleep when I cannot sleep, then that sound popped in my mind.

@@ -22,19 +22,23 @@ I also have an answer to that question which focuses more on the emotional part 
 
 Here it goes...
 
-(Please **note** that that question assumes that God exists. If you do not believe that God exists, then that question will not be of any significance to you.)
-
-When we hear questions like that, _"Why doesn't God physically reveal Himself?"_, we sometimes forget that God has emotions too. He is not a robot.
-
 <!--more-->
 
-We do have an idea how much it hurts being rejected. We also have an idea how much more it hurts when the rejection happens so many times!
+When we hear questions like that --- _"Why doesn't God physically reveal Himself?"_ --- we tend to forget that God has emotions too. He is not a robot.
 
-Now, let's imagine for a while that we are able to create programs that can somewhat think like we humans think; and that these programs have a little bit of free will in them. Then someone from our world goes inside their world, the "virtual" world. 
+<small>
+(Please **note** that that question assumes that God exists. If you do not believe that God exists, then that question might not be of significant interest to you.)
+<small>
+
+As people with emotions, we do have an idea how much it hurts being rejected. We also have an idea how much more it hurts when the rejection happens so many times!
+
+I'm going to tell a story of a scenario that might happen if God reveals himself physically all the time:
+
+Let's _imagine_ for a while that we are able to create computer programs that can somewhat think like we humans think; and that these programs have a little bit of free will in them. Then someone from our world goes inside their world, the "virtual" world. 
 
 Let's call that someone Juan.
 
-Juan is very happy to meet these human-like programs in the virtual world -- he wants to find out how they are doing. 
+Juan is very happy to meet these human-like-programs-with-a-little-bit-of-free-will in the virtual world -- he wants to find out how they are doing. 
 
 When Juan arrives in the virtual world, he began teaching the human-like programs how things can be done "better" than how they are currently doing them. Some are happy that Juan is there; some are not. _"What is this new program doing here. He thinks he is better at doing things than us?"._ Then Juan claimed that he came from the world outside the virtual world, and that even if he is eliminated from the virtual world he can come back anytime he wants.
 
@@ -94,6 +98,12 @@ The _'you there'_ program is shocked. _"The one I am skeptical of is the one who
 
 _I'm going to go out from this virtual world, then I'm going to eliminate you at exactly 4pm today, then start installing you back, with a little bit of extra functionality, at exactly 7pm. Would that prove to you that I'm from the outside world?_
 
+
+<div class="message message-compressed float-right" markdown="1">
+Note: [Christianity has this claim](https://www.youtube.com/watch?v=TyZ1l7faKSw&ab_channel=CrossExamined) that God did show himself physically at one point, and lived with us...
+</div>
+
+
 ... 10 years later...
 
 ... the skeptics are still doubtful.
@@ -105,10 +115,24 @@ If that kind of rejection from the human-like programs happens to us over and ov
 _What if_ the reason why God does not show himself physically all of the time is to minimize the hurt it will bring him, which also minimizes the hurt it will bring us and maximizes the time of our existence?
 
 
-
 <!-- 
 ----------
 
 (Please note that in this story, it is assumed that Juan exists from the perspective of the machines, just as the question "Why doesn't God physically reveal Himself?" assumes that God exists.)
  -->
 
+
+-----
+
+<div class="small" markdown="1">
+
+**PS:**
+
+Will machines/programs be able to think for themselves, like we humans do? These resources greatly influenced my current stand on that issue:
+
+- ["Does 'Artificial Intelligence' Exist?"](https://answersingenesis.org/genetics/information-theory/language-creating-communicating-and-storing-information/) by Werner Gitt
+- ["Don't fear superintelligent AI"](https://www.youtube.com/watch?v=z0HsPBKfhoI&ab_channel=TED) by Grady Booch
+- ["Drive me to Toronto, Hal."](https://blog.cleancoder.com/uncle-bob/2017/07/24/DriveMeToTorontoHal.html) by Uncle Bob Martin (also, ["The Brain Problem"](https://blog.cleancoder.com/uncle-bob/2017/07/28/TheBrainProblem.html))
+- ["Will Computers Ever Be Able to Think on Their Own?"](https://www.computersciencedegreehub.com/faq/computers/)
+
+</div>

@@ -26,7 +26,7 @@ Here is a transcription of some things in that video:
 > **"For some reason that we haven't fully understood yet humankind has survived all sorts of respiratory diseases. Nature has way of making sure that we survive"**
 
 (Mine: 
-I think people who assume that we were designed by an intelligent designer, rather than by nature, and that our environment was designed too, could make statements similar to that too :smile: )
+I think people who assume that we were designed by an intelligent designer, rather than by nature, and that our environment was designed too, could also make statements similar to that too :smile: )
 
 <small>23:50</small>
 > "In Italy there was a spike on one day; there was a spike on one day on Norway. But we have seen so many of these spikes they last for one and then the numbers go back to where it was before... Nature doesn't jump, as people have known for a long time. The course of an epidemic is always smooth. There is never a tenfold increase in number of cases from one day to the other.
@@ -47,7 +47,7 @@ A: No... Testing doesn't stop anything by itself. If we do antibody testing, not
 <small>39:35</small>
 > "We may have not reached herd immunity yet. So if we are stopping we may have an increase in the number of new infections. That is a downside of starting containment. **We should not believe that we are more intelligent than mother nature was when we were evolving. Mother nature was pretty good at making sure that we're a good match for the diseases that we happen to see virtually every year.**"
 
-(Mine: Similar to what I said above,I think people who assume that we were designed by an intelligent designer, rather than by nature, and that our environment was designed too, could make statements similar to that too :smile: )
+(Mine: Similar to what I said above,I think people who assume that we were designed by an intelligent designer, rather than by nature, and that our environment was designed too, could make statements similar to that too :blush: )
 	
 <small>40:40</small>
 > "People should talk with their politicians, question them, ask them to explain, because if people don’t stand up to their rights, their rights will be forgotten."
@@ -58,8 +58,10 @@ The things he said in that video about _nature_ reminded me of something that ha
 
 If we presuppose that nature designed something that looks designed, it seems to me that we are only limited to asking questions such as "what is this thing?", "what does it do?" "how does it do what it does?".
 
-But if we presuppose that an intelligent designer designed something that looks designed, we can be able to (or it's more natural to) ask questions such as "if we put ourselves in the shoes of the intelligent designer who designed this (we can do that because we are intelligent too), how would we go about doing it? or where would we put things?" I think questions like that can help the one investigating to look at the right places to _quickly_ find out what he wants or needs to find out.
+But if we presuppose that an intelligent designer designed something that looks designed, we can be able to (or it's more natural to) ask questions such as "if we put ourselves in the shoes of the intelligent designer who designed this (we can do that because we are intelligent too), how would we go about doing it? or where would we put things?" I think questions like that could help the one investigating to look at the right places to _quickly_ find out what he wants or needs to find out.(??)
 
-It will also help us avoid (not necessarily completely avoid) making stupid conclusions about these seemingly designed things.
+It might also help us avoid (not necessarily completely avoid) making stupid conclusions about these seemingly designed things.
 
 And if we add to that the presupposition of some Christians which says something like "the universe is negatively affected by sin", then we can also ask questions like "where could this this thing have originally been placed in a non-cursed world?"... or other questions similar to that.
+
+... But perhaps I'm just day-dreaming?? :smile: ...

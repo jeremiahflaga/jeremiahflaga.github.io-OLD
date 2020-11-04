@@ -30,7 +30,7 @@ On some issues, I think my set of biases on that issue is the best, [so I hold o
 
 This blog post contains quotes about this _"everyone is biased"_ thing.
 
-I believe that this _"everyone is biased"_ idea is very valuable. I think that when we understand that everyone is biased, it helps us be more [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards other people... because it will give us hope... that if we will just dig deep into learning about the _biases_ of other people, we can be able to understand them more deeply, and might be able to find techniques in changing their minds (if we want to) in a peaceful and rational kind of way.
+I believe that this _"everyone is biased"_ idea is very valuable. I think that when we understand that everyone is biased, it helps us be more [empathetic](http://chadfowler.com/2014/01/19/empathy.html) towards [other people](https://russroberts.medium.com/the-three-blind-spots-of-politics-c5e8cc7c60b6)... because it will give us hope... that if we will just dig deep into learning about the _biases_ of other people, we can be able to understand them more deeply, and might be able to find techniques in changing their minds (if we want to) in a peaceful and rational kind of way.
 
 
 ### Here are the quotes:
