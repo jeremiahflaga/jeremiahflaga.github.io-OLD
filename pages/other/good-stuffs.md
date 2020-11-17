@@ -149,6 +149,14 @@ The ["Clean Code"](https://www.bookdepository.com/book/9780132350884?a_aid=jflag
 
 > "... But here's the thing. We all feel like phonies sometimes. We are all phonies. That's how we grow. We get into situations that are just a little more than we can handle, or we get in a little over our heads. Then we **can** handle them, and we **aren't** phonies, and we move on to the next challenge."
 
+
+
+[Curb code rot with thresholds](https://blog.ploeh.dk/2020/04/13/curb-code-rot-with-thresholds/#6c5e4b0817f742bf9ecc0a9050ecb7b5) by Mark Seemann
+
+> ... Rules make great training wheels. Once you become proficient, the rules are no longer required. They may even be in your way. When that happens, get rid of them.
+
+
+
 ----------------------------------------------------------
 
 
