@@ -26,7 +26,8 @@ For now, I will just hold the same position as John Sonmez has on TDD:
 >
 > --- John Sonmez (from ["My Views On Test Driven Development"](https://simpleprogrammer.com/views-test-driven-development/))
 
-
+(Take note also of what Mark Seemann says about rules in his article
+["Curb code rot with thresholds"](https://blog.ploeh.dk/2020/04/13/curb-code-rot-with-thresholds/#6c5e4b0817f742bf9ecc0a9050ecb7b5): _"Rules make great training wheels. Once you become proficient, the rules are no longer required. They may even be in your way. When that happens, get rid of them."_)
 
 -----
 
