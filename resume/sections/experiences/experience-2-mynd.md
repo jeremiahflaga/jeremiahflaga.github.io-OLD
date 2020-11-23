@@ -1,22 +1,24 @@
-<div class="d-flex flex-column flex-md-row justify-content-between">
-    <div class="flex-grow-1">
+<div class="">
+    <div class="float-right">
+        <span class="text-primary experience-date">December 2012 - May 2016 (3 years, 5 months)
+    </span></div>
+    <div class="">
         <h3 class="mb-0">Software Developer (.NET)</h3>
         <div class="subheading mb-3">
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
-        <p>
+        <p class="col-md-10">
             I was part of a team working for a client who develops apps for insurance companies. We were involved in the maintenance of a web app and a desktop app used for insurance enrollment and insurance records management.
         </p>
     </div>
-    <div class="flex-shrink-0"><span class="text-primary">December 2012 - May 2016 (3 years, 5 months)</span></div>
 </div>
 
 
-<div class="accordion mb-5 mt-2 d-print-none" id="experience-2-mynd-accordion">
+<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-2-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-2-mynd-heading-contributions">
             <p class="mb-0">
-                <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-2-mynd-collapse-contributions" aria-expanded="true" aria-controls="experience-2-mynd-collapse-contributions">
+                <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-2-mynd-collapse-contributions" aria-expanded="true" aria-controls="experience-2-mynd-collapse-contributions">
                 Contributions:
                 </button>
             </p>
@@ -30,14 +32,14 @@
     <div class="card">
         <div class="card-header p-0" id="experience-2-mynd-heading-lessons-learned">
 	        <p class="mb-0">
-	            <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-2-mynd-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-2-mynd-collapse-lessons-learned">
+	            <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-2-mynd-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-2-mynd-collapse-lessons-learned">
 	            Lessons Learned:
 	            </button>
 	        </p>
         </div>
         <div id="experience-2-mynd-collapse-lessons-learned" class="collapse" aria-labelledby="experience-2-mynd-heading-lessons-learned" data-parent="#experience-2-mynd-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <ol>
                         <li> 
                             <p>

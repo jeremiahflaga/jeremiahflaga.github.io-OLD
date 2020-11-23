@@ -17,9 +17,9 @@
 
 
 
-## **I have almost no experience deploying things**
+## **I have almost no experience deploying things and scaling things**
 
-... But a coleague of mine once said that it is just almost the same as clicking the build button in an IDE. 
+... But a colleague of mine once said that it is just almost the same as clicking the build button in an IDE. 
 
 So if I am tasked of deployment and no one else is to guide me, I will just google how to do it. :smile:
 

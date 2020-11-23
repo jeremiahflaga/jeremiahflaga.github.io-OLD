@@ -1,27 +1,29 @@
-<div class="d-flex flex-column flex-md-row justify-content-between">
-    <div class="flex-grow-1">
+<div class="">
+    <div class="float-right">
+        <span class="text-primary experience-date">October 2016 - May 2018 (1 year, 7 months)</span>
+    </div>
+    <div class="">
         <h3 class="mb-0">Software Developer (Android)</h3>
         <div class="subheading mb-3">
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
-        <p>Involved in developing versions 2 and 3 of an Android app for a TV show.</p>
+        <p class="col-md-10">Involved in developing versions 2 and 3 of an Android app for a TV show.</p>
     </div>
-    <div class="flex-shrink-0"><span class="text-primary">October 2016 - May 2018 (1 year, 7 months)</span></div>
 </div>
 
 
-<div class="accordion mb-5 mt-2 d-print-none" id="experience-4-mynd-accordion">
+<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-4-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-4-mynd-heading-contributions">
             <p class="mb-0">
-                <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-4-mynd-collapse-contributions" aria-expanded="true" aria-controls="experience-4-mynd-collapse-contributions">
+                <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-4-mynd-collapse-contributions" aria-expanded="true" aria-controls="experience-4-mynd-collapse-contributions">
                 Contributions:
                 </button>
             </p>
         </div>
         <div id="experience-4-mynd-collapse-contributions" class="collapse" aria-labelledby="experience-4-mynd-heading-contributions" data-parent="#experience-4-mynd-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <p>
                         Nothing extraordinary. Just finished the tasks assigned to me.
                     </p>
@@ -35,14 +37,14 @@
     <div class="card">
         <div class="card-header p-0" id="experience-4-mynd-heading-lessons-learned">
 	        <p class="mb-0">
-	            <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-4-mynd-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-4-mynd-collapse-lessons-learned">
+	            <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-4-mynd-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-4-mynd-collapse-lessons-learned">
 	            Lessons Learned:
 	            </button>
 	        </p>
         </div>
         <div id="experience-4-mynd-collapse-lessons-learned" class="collapse" aria-labelledby="experience-4-mynd-heading-lessons-learned" data-parent="#experience-4-mynd-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <ol>
                         <li>
                             <p>

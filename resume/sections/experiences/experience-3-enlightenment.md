@@ -1,37 +1,34 @@
-<div class="d-flex flex-column flex-md-row justify-content-between">
-  <div class="flex-grow-1">
+<div class="">
+  <div class="float-right">
+    <span class="text-primary experience-date">March 2 - 4, 2016</span>
+  </div>
+  <div class="">
     <h3 class="mb-3">Enlightenment Period</h3>
-    <p>
-      I read and studied Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
-    </p>
-    <p>
-      <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em> 
-    </p>
-</div>
-
-<div class="flex-shrink-0">
-  <span class="text-primary">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    March 2-4, 2016
-  </span>
+    <div class="col-md-10">
+      <p>
+        I read and studied Uncle Bob Martin's blog post titled <a  href="http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html">"A Little Architecture"</a>.
+      </p>
+      <p>
+        <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em> 
+      </p>
+    </div>
 </div>
 
 </div>
 
 
-<div class="accordion mb-5 mt-2 d-print-none" id="experience-3-enlightenment-accordion">
+<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-3-enlightenment-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-3-enlightenment-heading-lessons-learned">
 	        <p class="mb-0">
-	            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#experience-3-enlightenment-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-3-enlightenment-collapse-lessons-learned">
+	            <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-3-enlightenment-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-3-enlightenment-collapse-lessons-learned">
 	            Lessons Learned:
 	            </button>
 	        </p>
         </div>
         <div id="experience-3-enlightenment-collapse-lessons-learned" class="collapse" aria-labelledby="experience-3-enlightenment-heading-lessons-learned" data-parent="#experience-3-enlightenment-accordion">
-	        <div class="card-body col-md-9">
-            <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+            <div class="pr-3">
                 <blockquote>
                   "Architecture is <strong>not</strong> about frameworks and databases and web servers..."
                 </blockquote>

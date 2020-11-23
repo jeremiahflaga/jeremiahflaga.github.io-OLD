@@ -1,34 +1,38 @@
-<div class="d-flex flex-column flex-md-row justify-content-between">
-    <div class="flex-grow-1">
+<div class="">
+    <div class="float-right">
+        <span class="text-primary experience-date">June 2018 - June 2019 (1 year, 1 month)</span>
+    </div>
+    <div class="">
         <h3 class="mb-0">Software Developer (.NET)</h3>
         <div class="subheading mb-3">
             <a href="https://four13group.com/">Four13 Group</a>
         </div>
-        <p>
-            Worked on an application used for points-based rewards system for agents in a company.
-        </p>
-        <p>
-            Also involved in a team working on a Customer Relationship Management app for an online store. The CRM generates reports, allows searching for nearby clients, viewing quotes of clients, viewing products and number of stocks available, etc.
-        </p>
+        <div class="col-md-10">
+            <p>
+                Worked on an application used for points-based rewards system for agents in a company.
+            </p>
+            <p>
+                Also involved in a team working on a Customer Relationship Management app for an online store. The CRM generates reports, allows searching for nearby clients, viewing quotes of clients, viewing products and number of stocks available, etc.
+            </p>
+        </div>
     </div>
-    <div class="flex-shrink-0"><span class="text-primary">June 2018 - June 2019 (1 year, 1 month)</span></div>
 </div>
 
 
-<div class="accordion mb-5 mt-2 d-print-none" id="experience-5-four13-accordion">
+<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-5-four13-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-5-four13-heading-contributions">
             <p class="mb-0">
-                <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-5-four13-collapse-contributions" aria-expanded="true" aria-controls="experience-5-four13-collapse-contributions">
+                <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-5-four13-collapse-contributions" aria-expanded="true" aria-controls="experience-5-four13-collapse-contributions">
                 Contributions:
                 </button>
             </p>
         </div>
         <div id="experience-5-four13-collapse-contributions" class="collapse" aria-labelledby="experience-5-four13-heading-contributions" data-parent="#experience-5-four13-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <p>
-                        The first app I worked on has two ways for data access: one uses a database-first model of Entity Framework and the other one uses a code-first model of Entity Framework. It sometimes get's in the way when I'm searching for the model to use. So I refactored the app so that it will only use the code-first model. Then I was able to remove all of the the database-first models when the refactorings was finished.
+                        The first app I worked on has two ways for data access: one uses a database-first model of Entity Framework and the other one uses a code-first model of Entity Framework. It sometimes get's in the way when I'm searching for the model to use when adding features in the app. So I refactored the app so that it will only use the code-first model. Then, when the refactorings was finished, I was able to delete all of the the database-first models.
                     </p>
                     <p>
                         But it was just a small app and not very complex, so it was doable within a short period of time.
@@ -40,14 +44,14 @@
     <div class="card">
         <div class="card-header p-0" id="experience-5-four13-heading-lessons-learned">
 	        <p class="mb-0">
-	            <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-5-four13-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-5-four13-collapse-lessons-learned">
+	            <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-5-four13-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-5-four13-collapse-lessons-learned">
 	            Dis-contributions:
 	            </button>
 	        </p>
         </div>
         <div id="experience-5-four13-collapse-lessons-learned" class="collapse" aria-labelledby="experience-5-four13-heading-lessons-learned" data-parent="#experience-5-four13-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <p>
                         I was the only one working on my first project in the company so it seemed to me that I was free to do whatever I wanted with the codebase.
                     </p>

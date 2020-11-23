@@ -1,21 +1,23 @@
-<div class="d-flex flex-column flex-md-row justify-content-between">
-    <div class="flex-grow-1">
+<div class="">
+    <div class="float-right">
+        <span class="text-primary experience-date">April 2012 - October 2012 (6 months)</span>
+    </div>
+    <div class="">
         <h3 class="mb-0">Software Developer (.NET)</h3>
         <div class="subheading mb-3">
             <a href="http://www.jairosolutions.com/">Jairosolutions</a>
         </div>
-        <p>
+        <p class="col-md-10">
             I experienced being in a team working as outsource developers for another company, building contest pages for www.verizoninsider.com.
         </p>
     </div>
-    <div class="flex-shrink-0"><span class="text-primary">April 2012 - October 2012 (6 months)</span></div>    
 </div>
 
-<div class="accordion mb-5 mt-2 d-print-none" id="experience-1-jairo-accordion">
+<div class="col-md-10 accordion mb-5 mt-2 d-print-none " id="experience-1-jairo-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-1-jairo-heading-contributions">
             <p class="mb-0">
-                <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-1-jairo-collapse-contributions" aria-expanded="true" aria-controls="experience-1-jairo-collapse-contributions">
+                <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-1-jairo-collapse-contributions" aria-expanded="true" aria-controls="experience-1-jairo-collapse-contributions">
                 Contributions:
                 </button>
             </p>
@@ -29,14 +31,14 @@
     <div class="card">
         <div class="card-header p-0" id="experience-1-jairo-heading-lessons-learned">
             <p class="mb-0">
-                <button class="btn btn-link btn-block text-left  collapsed" type="button" data-toggle="collapse" data-target="#experience-1-jairo-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-1-jairo-collapse-lessons-learned">
+                <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#experience-1-jairo-collapse-lessons-learned" aria-expanded="false" aria-controls="experience-1-jairo-collapse-lessons-learned">
                 Lesson Learned:
                 </button>
             </p>
         </div>
         <div id="experience-1-jairo-collapse-lessons-learned" class="collapse" aria-labelledby="experience-1-jairo-heading-lessons-learned" data-parent="#experience-1-jairo-accordion">
-	        <div class="card-body col-md-9">
-                <div class="pr-3 border-right border-light">
+	        <div class="card-body">
+                <div class="pr-3">
                     <p>
                         This is where I was first exposed to this idea of Domain-Driven Design (DDD). I was excited with this because I have always been in search for the best way to structure software, and this DDD thing seems to offer ideas on how to do it. 
                     </p>

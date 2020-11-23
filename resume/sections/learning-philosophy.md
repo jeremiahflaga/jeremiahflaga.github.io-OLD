@@ -6,7 +6,7 @@ When I started coding, my focus on learning was trying to master the specifics o
 
 Then a few years later, my focus moved into trying to master specific frameworks and libraries.
 
-But then I heard Uncle Bob Martin saying that software development has not changed in the last 40 years. And I heard Mattias Petter Johansson's [advise for programmers:](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
+But then I heard Uncle Bob Martin saying that software development [has not changed in the last 40 years](http://blog.cleancoder.com/uncle-bob/2012/12/19/Three-Paradigms.html). I also heard Mattias Petter Johansson's [advise for programmers:](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 > "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in general. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
@@ -18,15 +18,18 @@ Many years ago, I heard/read someone say that the maintenance phase is the most 
 
 Today, my learning philosophy is like this:
 
-> [**Just-in-time learning**](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) about specific languages and frameworks and libraries
+> [**Just-in-time learning**](https://simpleprogrammer.com/2014/06/23/dont-overwhelm-trying-learn-much/) when learning about specific languages and frameworks and libraries
 
-> **Ahead-of-time learning** about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
+> **Ahead-of-time learning** learning about basic principles and practices in software development, and about [programming in general](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 
 
 For example, there was a time when I was trying to learn AngularJS because it was the frontend framework being used in my new job _(just-in-time learning of specific frameworks)_. Then on the side, I was consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler _(ahead-of-time learning of general concepts.)_
 
-Currently, I am learning .NET Core because I am working as a .NET programmer for Arcanys _(just-in-time learning of specific frameworks)_. At the same time I am reading ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/) because I think most code bases I will be working on in my entire career will legacy ones, and this book gives knowledge on how to work with them effectively _(ahead-of-time learning of general concepts)_.
+There was also a time when I was training on .NET Microservices and .NET Core while working for Arcanys _(just-in-time learning of specific frameworks)_. At the same time I was reading ["Patterns, Principles, and Practices of Domain-Driven Design"](https://www.bookdepository.com/Patterns-Principles-Practices-Domain-Driven-Design-Scott-Millett/9781118714706?a_aid=jflaga) _(ahead-of-time learning of general concepts)_.
 
+<!-- 
+Currently, I am learning .NET Core because I am working as a .NET programmer for Arcanys _(just-in-time learning of specific frameworks)_. At the same time I am reading ["Object-Oriented Reengineering Patterns"](http://scg.unibe.ch/download/oorp/) because I think most code bases I will be working on in my entire career will legacy ones, and this book gives knowledge on how to work with them effectively _(ahead-of-time learning of general concepts)_.
+ -->
 
 <!--
 For example, these days, July 2018, I am learning/reviewing AngularJS because it is the frontend technology that is being used in my job _(just-in-time learning of specific frameworks)_. Then on the side, I am consuming ["Refactoring: Improving the Design of Existing Code"](https://www.bookdepository.com/Refactoring-Martin-Fowler/9780201485677?a_aid=jflaga) of Martin Fowler and the reading materials of ["6.005 — Software Construction on MIT OpenCourseWare"](https://web.mit.edu/6.031/www/fa18/) _(ahead-of-time learning of general concepts)_
@@ -39,5 +42,7 @@ I hope that kind of learning philosophy is okay with you. :blush:
 
 When I reach the point where am already comfortable with my knowledge on the specific frameworks and libraries being used in the project, I will move my concentration again into [learning about programming _in general_.](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43)
 -->
+
+
 
 </div>

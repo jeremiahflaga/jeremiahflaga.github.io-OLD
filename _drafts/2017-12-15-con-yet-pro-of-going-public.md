@@ -118,4 +118,4 @@ Like what Greg Howlett says when talking about hymns
 
 
 [Another appetizer for the upcoming big music question](https://greghowlett.com/blog/music-philosophy/appetizer.aspx?affid=5114) by Greg Howlett
-- This is one of Greg's articles (among others) that changed my view on "music standards". (I had a very strict standard before :blush:)
+- This is one of Greg's articles (among others) that changed my view on "music standards". (I have a very strict standard before :blush:)

@@ -28,8 +28,8 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 <!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
 with over seven years of experience, including:</p>
 
-- About six years of experience in C# & .NET Framework (this includes experience of using JavaScript for the frontend side)
-- More than one year of experience in mobile application development using Java & Android Framework
+- About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript for the frontend side)
+- More than one year of experience in mobile application development using Java & Android Platform
 <!-- - A few months of experience on Angular -->
 - Some experience on refactoring code and writing tests
 
@@ -61,6 +61,7 @@ with over seven years of experience, including:</p>
     {% endif %}
 </div> 
 -->
+
 <!-- 
 <hr />
 <div id="lob-apps-footnote">
@@ -72,14 +73,19 @@ with over seven years of experience, including:</p>
         <a href="#lob-apps-footnote-indicator">&uarr;</a>
     </p>
 </div> 
--->
+ -->
+
 <div class="d-none d-print-block">
     <br /><br /><br /><br />
     <br /><br /><br /><br />
-    <br /><br />
-    <strong style="font-size: 1.3em;">
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <span style="font-size: 1.3em;">
         Please visit my online resume at <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a> for more...
-    </strong>
-</div> 
+    </span>
+</div>
+
 
 </div>

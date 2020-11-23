@@ -138,7 +138,7 @@ published: false
         Knows how to create fake objects by hand :grin:
         </p>
         <p>
-        Had read "Professional Test Driven Developmnt with C#" in the past
+        Read "Professional Test Driven Developmnt with C#" in the past
         </p>
         <p>
         Have read most chapters of <a href="https://www.bookdepository.com/book/9780321503626?a_aid=jflaga">"GOOS (Growing Object Oriented Software Guided by Tests)"</a></p>
@@ -220,7 +220,7 @@ published: false
       <td></td>
       <td>
         <p>
-          I had read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think)</em>.
+          I read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> in the past <em>(year 2007 or 2008, I think)</em>.
           <br /><br />
           <small>
             <em>(I included this here because this might give plus points for me... because I saw a job posting in the past where reading this book is one of the requirements if one is hired. :smile:)</em>
