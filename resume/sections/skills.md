@@ -60,8 +60,11 @@
                         <a href="https://simpleprogrammer.com/deal-with-legacy-code/">"The Right Attitude to Deal with Legacy Code"</a> by Jonathan Boccara
                     </p>
                     <p>
-                        <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
+                        <small>I had read "Working Effectively with Legacy Code" by Michael Feathers last 2018</small>
                     </p>
+                    <!-- <p>
+                        <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
+                    </p> -->
                     <!-- <p>
                         (I'm currently reading <a href="http://scg.unibe.ch/download/oorp/">"Object-Oriented Reengineering Patterns"</a>)
                     </p> -->
@@ -70,6 +73,7 @@
                     </p>
                 </td>
             </tr>
+            <!-- 
             <tr>
                 <td>Basic Computer Science Concepts:</td>
                 <td>
@@ -83,6 +87,7 @@
                     </p>
                 </td>
             </tr>
+             -->
             <tr>
                 <td>Other:</td>
                 <td>
@@ -156,7 +161,9 @@ But if you cannot find anyone to work with your codebase, and if I also cannot f
 
 <div class="d-none d-print-block">
     <br /><br /><br /><br />
-    <br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br />
 </div>
 
 

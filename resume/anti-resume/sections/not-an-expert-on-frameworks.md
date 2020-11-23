@@ -26,6 +26,8 @@ My excuse is that frameworks change very often and I do not have all the time to
 
 Today, we already have [the] google [search engine] which can serve as our garage for facts. We have StackOverflow too! And we have documentations for the frameworks we are using that are readily available online.
 
+Because I don't have all the time in the world, I will have to learn frameworks as I go.
+
 (Related to this is my ["Learning Philosophy"](/resume#learning-philosophy))
 
 <!-- 
