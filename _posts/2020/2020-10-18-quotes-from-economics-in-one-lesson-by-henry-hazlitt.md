@@ -71,6 +71,10 @@ It takes more than One hour to learn One Lesson
 
 
 
+> In general Smith rested his case on one fundamental proposition: “In every country it always is and must be the interest of the great body of the people to buy whatever they want of those who sell it cheapest.”
+
+
+
 > In order that new industries may grow fast enough it is necessary that some old industries should be allowed to shrink or die. They must do this in order to release the necessary capital and labor for the new industries. If we had tried to keep the horse-and-buggy trade artificially alive we should have slowed down the growth of the automobile industry and all the trades dependent on it. We should have lowered the production of wealth and retarded economic and scientific progress.
 
 

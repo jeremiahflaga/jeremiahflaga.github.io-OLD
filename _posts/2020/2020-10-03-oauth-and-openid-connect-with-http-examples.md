@@ -40,3 +40,14 @@ etc.
 [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) by David Neal from Okta
 
 [OpenID Connect explained](https://connect2id.com/learn/openid-connect) from Connect2id
+
+
+#### Easy to understand resources on HTTPS:
+
+[How HTTPS works](https://www.youtube.com/watch?v=w0QbnxKRD0w&ab_channel=thecuriousengineer)
+
+[How Does HTTPS Work - HTTPS Explained](https://www.youtube.com/watch?v=uS36UFiDlhk&ab_channel=GraceHopperAcademy)
+
+[public-key cryptography for non-geeks](https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/) by Vrypan
+
+[What happens during a TLS handshake?](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/) from CloudFlare
