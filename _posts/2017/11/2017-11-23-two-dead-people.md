@@ -9,6 +9,26 @@ published: true
 
 <!-- November 24, 2017 11:30:00 PM Philippine Time -->
 
+**Update, May 5, 2021:**
+
+While browsing through my past blog posts, I came across this post... and so read it, and read the contents of the articles linked from it, then came across a [book recommendation from Albert Mohler](https://albertmohler.com/2017/09/29/briefing-09-29-17): "Wired for Intimacy" by William M. Struthers.
+
+I read the Introduction and Chapter 1 of the book, which is available for free [here](https://content.wtsbooks.com/shopify/pdf_links/9780830837007.pdf).
+
+> I believe that even those who wholeheartedly embrace pornography’s lie of sexual fulfillment and freedom (whether producers, actors or consumers) are still loved by God. Our calling as Christians is to examine ourselves and walk alongside those who have been damaged by this evil. **We are not to demonize others**, but to share God’s healing, grace and mercy as they discover their identity in Christ. 
+>
+> --- William M. Struthers
+
+Guilty me!
+
+Please forgive me if I sound like I'm demonizing others in this blog post. It's just that there are times in our lives where we act immaturely. Maybe this blog post is one of those times when I acted immaturely(?)
+
+I need to [buy this book](https://www.amazon.com/Wired-Intimacy-Pornography-Hijacks-Brain-ebook/dp/B002YX0GSM/ref=tmm_kin_swatch_0?_encoding=UTF8).
+
+-----
+
+**(Start of original post)**
+
 > Any fool can criticize, condemn, and complain --- and most fools do.
 > <br /><br /> But it takes character and self-control to be understanding and
 > forgiving.
@@ -35,7 +55,7 @@ Okay... Let's do some judging of some dead people!
 [Helen Gurley Brown](https://albertmohler.com/2012/08/24/why-the-sexual-revolution-needed-a-sexual-revolutionary/)
 is dead!
 
-[Hugh Hefner](https://albertmohler.com/2012/08/24/why-the-sexual-revolution-needed-a-sexual-revolutionary/)
+[Hugh Hefner](https://albertmohler.com/2017/09/29/briefing-09-29-17)
 is dead!
 
 _We should be celebrating!_
