@@ -4,12 +4,16 @@ title: 'Everyone is biased'
 categories: [Miscellaneous]
 tags: [Worldview]
 date: 2019-06-27 11:50:00 PM UTC
+dateLastUpdated: 2021-05-08 09:53:00 PM UTC
 hide_date: true
 pinned: true
 # permalink: /memorabilia/quotes/everyone-is-biased/
 ---
 
 <!-- pulished in blog (moved from pages section) in June 28, 2019 7:50:00 AM Philippine Time -->
+
+<!-- updated May 9, 2021 5:53 AM PHT -->
+
 
 <!-- 
 {:.message}
@@ -167,6 +171,15 @@ The key is in the phrase “his own version of the world”.
 Until you understand that, you can’t have a meeting of minds --- and you’ll never change a mind you’ve not met.
 > 
 > --- ["The Mistake You Make in Every Political Argument" by Robin Koerner](https://fee.org/articles/the-mistake-you-make-in-every-political-argument/)
+
+
+
+
+> There is no such thing as pure, neutral history — **every event that has ever occurred must be interpreted. All historians interpret history according to their presuppositions.**
+>
+> --- ["Introduction to Church History"](https://www.fbcdurham.org/connect/bible-for-life/bfl-class-notes/introduction-to-church-history) FBC Durham - [Week 1 Notes](https://www.fbcdurham.org/wp-content/uploads/2015/08/Introduction-to-Church-History-1-Introduction-to-Church-History.pdf)
+
+
 
 
 
