@@ -23,9 +23,18 @@ layout: default
             on  -->
             <!-- {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=page.content %} -->
             {% if page.hide_date != true %}
-              <span data-toggle="tooltip" data-placement="top" title="first published on {{ page.date | date: '%B %d, %Y' }}">
-                {{ page.date | date: '%B %d' }}
-              </span> 
+              {% if page.dateUpdated == nil or page.dateUpdated == "" or page.dateUpdated == blank %}
+                <span data-toggle="tooltip" data-placement="top" 
+                  title="first published on {{ page.date | date: '%B %d, %Y' }}">
+                  {{ page.date | date: '%B %d' }}
+                </span> 
+              {% else %}
+                <span data-toggle="tooltip" data-placement="top" 
+                  title="Published on {{ page.date | date: '%B %d, %Y' }}
+                    &middot; Updated on {{ page.dateUpdated | date: '%B %d, %Y' }}">
+                  {{ page.date | date: '%B %d' }}
+                </span> 
+              {% endif %}
               &middot;
             {% endif %}
             <span>
