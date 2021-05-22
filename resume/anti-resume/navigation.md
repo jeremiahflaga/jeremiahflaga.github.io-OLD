@@ -14,7 +14,7 @@
             -->
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#i-am-introverted">I'm Introverted</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-yet-good-with-spoken-english">On Spoken English</a></li>
-            <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-good-with-ui-ux">Not good with UI/UX</a></li> -->
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#not-good-with-ui-ux">Not good with UI/UX</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#back-to-resume">Résumé</a></li>
         </ul>
     </div>

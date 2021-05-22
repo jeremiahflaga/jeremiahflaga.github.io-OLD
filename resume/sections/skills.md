@@ -20,28 +20,29 @@
             <tr>
                 <td>.NET:</td>
                 <td>
-                    <p>C#, <small>VB.NET</small></p>
-                    <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p>
+                    <p>C#, ASP.NET MVC, ASP.NET Web API</p>
+                    <!-- <p>C#, <small>VB.NET</small></p>
+                    <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Other Languages:</td>
                 <td>
                     <p>Java, <small>JavaScript, TypeScript, Python</small></p>
                 </td>
-            </tr>
+            </tr> -->
             <tr>
                 <td>Web (frontend):</td>
                 <td>
                     <p><small>HTML, Bootstrap, Angular</small></p>
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Databases, ORM:</td>
                 <td>
                     <p>SQL, Entity Framework</p>
                 </td>
-            </tr>
+            </tr> -->
             <tr>
                 <td>Software Architecture/Design:</td>
                 <td>
@@ -53,7 +54,7 @@
                     </p>
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Working with Legacy Code:</td>
                 <td>
                     <p>
@@ -62,17 +63,18 @@
                     <p>
                         <small>I had read "Working Effectively with Legacy Code" by Michael Feathers last 2018</small>
                     </p>
-                    <!-- <p>
+                    <p>
                         <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
-                    </p> -->
-                    <!-- <p>
+                    </p>
+                    <p>
                         (I'm currently reading <a href="http://scg.unibe.ch/download/oorp/">"Object-Oriented Reengineering Patterns"</a>)
-                    </p> -->
+                    </p>
                     <p>
                         The majority of the code bases I have been involved in since I started working as a programmer were legacy code bases.
                     </p>
                 </td>
-            </tr>
+            </tr> 
+            -->
             <!-- 
             <tr>
                 <td>Basic Computer Science Concepts:</td>
@@ -88,19 +90,18 @@
                 </td>
             </tr>
              -->
+             <!-- 
             <tr>
                 <td>Other:</td>
                 <td>
                     <p>
                         <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
                     </p>
-                    <!-- 
                     <p>
                         I also tried solving <em>simple</em> algorithmic problems before. (<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)                
                         You can view my solutions to some simple problems
                         <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
                     </p> 
-                    -->
                     <p>
                         <a href="/memorabilia/quotes/why-read/">I read</a>.
                     </p>
@@ -109,6 +110,7 @@
                     </p>
                 </td>
             </tr>
+            -->
             <!-- 
             <tr>
             <td>GitHub:</td>
@@ -126,12 +128,13 @@
             </td>
             </tr>
             -->
+            <!-- 
             <tr>
                 <td></td>
                 <td>
                     <p>
                         I read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> years ago.
-                        <!-- , and I am rereading it sometimes to review the things I learned from it. -->
+                        , and I am rereading it sometimes to review the things I learned from it.
                     </p>
                     <p>
                         <small>
@@ -139,6 +142,11 @@
                         </small>
                     </p>
                 </td>
+            </tr> 
+             -->
+            <tr>
+                <td></td>
+                <td></td>
             </tr> 
         </tbody>
     </table>

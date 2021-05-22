@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anti-résumé
+title: 'Anti-résumé'
 permalink: /resume/2019/anti-resume
 published: true
 ---

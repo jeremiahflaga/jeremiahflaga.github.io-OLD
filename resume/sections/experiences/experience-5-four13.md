@@ -98,13 +98,16 @@
                     <p>
                         ... More than a year later, when I am already working in another company, I came across these words in <a href="https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953?a_aid=jflaga">"The Mythical Man-Month"</a> by Frederick P. Brooks:
                     </p>
-                    <blockquote>
+                    <blockquote>                  
+                        <p>
+                            I will contend that conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+                        </p>
                         <p>
                             "... I will certainly not contend that only the architects will have good architectural ideas. Often the fresh concept does come from an implementer or from a user. However, all my own experience convinces me, and I have tried to show, that the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." 
                         </p>
                     </blockquote>
                     <p>
-                        I think the lesson to be learned in that is that if one decides to restructure a codebase, he must choose a structure that is not too different from the old one but still solves the problem he is having with the current structure.
+                        I think the lesson to be learned in that is that if one decides to restructure a codebase, he must choose a structure that is not too different from the old one, but still removes the problem he will be having if he retains the current structure.
                     </p>
                     <p>
                         I think that changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time.

@@ -5,14 +5,14 @@
 
 
 > The biggest obstacle to improvement in large codebases is the existing code. "Duh." you might say. But I'm not talking about how hard it is to work in difficult code; **I'm talking about what that code leads you to believe.**
-<br /><br />
-If you spend most of your day wading through ugly code, it's very easy to believe that it will always be ugly and that any little thing that you do to make it better is simply not worth it. You might think, "What does it matter whether I make this little peice nicer if 90 percent of the time I'll still be working with murky slime? Sure, I can make this piece better, but what will that do for me this afternoon? Tomorrow?"
-<br /><br />
-Well, if you look at it that way, I'd have to agree with you. Not much.
-<br /><br />
-**But if you consistently do these little improvements, your system will start to look significantly different over the course of a couple of months.** At some point, you'll come to work in the morning expecting to sink your hands into some slime and discover, "Huh, this code looks pretty good. It looks like someone was in here refactoring recently." At that point, when you feel the difference between good code and bad code in your gut, you are a changed person...
-<br /><br />
- --- Michael Feathers (p. 75 of ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga))
+>
+> If you spend most of your day wading through ugly code, it's very easy to believe that it will always be ugly and that any little thing that you do to make it better is simply not worth it. You might think, "What does it matter whether I make this little peice nicer if 90 percent of the time I'll still be working with murky slime? Sure, I can make this piece better, but what will that do for me this afternoon? Tomorrow?"
+>
+> Well, if you look at it that way, I'd have to agree with you. Not much.
+>
+> **But if you consistently do these little improvements, your system will start to look significantly different over the course of a couple of months.** At some point, you'll come to work in the morning expecting to sink your hands into some slime and discover, "Huh, this code looks pretty good. It looks like someone was in here refactoring recently." At that point, when you feel the difference between good code and bad code in your gut, you are a changed person...
+>
+> --- Michael Feathers (p. 75 of ["Working Effectively with Legacy Code"](https://www.bookdepository.com/Working-Effectively-with-Legacy-Code-Michael-Feathers/9780131177055?a_aid=jflaga))
 
 I would love to work on new projects where I will have influence on the decisions about the structure of the project (or at least I know the reasons behind the chosen structure), and whose codebase is kept clean from the start.
 
@@ -21,8 +21,8 @@ But most software systems in existence today are in the _maintenance phase_. And
 But my attitude towards messy codebases _somewhat_ changed after I read this from an article written by Jonathan Boccara (["The Right Attitude to Deal with Legacy Code"](https://simpleprogrammer.com/2017/03/01/deal-with-legacy-code/)):
 
 > I think it is important to recognize that legacy code is not the enemy.
-<br /><br />
-In fact, in most cases, we're here thanks to legacy code. The early stages of a given project were where it started to grow, capture clients, build up financial interest, and establish a brand that inspired customers. All of this was done with code that may happen to still be around today and that still performs the functionalities that your customers liked you for in the first place. This is legacy code. As its name states, this is your legacy. **Without it you would probably not even be getting paid today.**
+>
+> In fact, in most cases, we're here thanks to legacy code. The early stages of a given project were where it started to grow, capture clients, build up financial interest, and establish a brand that inspired customers. All of this was done with code that may happen to still be around today and that still performs the functionalities that your customers liked you for in the first place. This is legacy code. As its name states, this is your legacy. **Without it you would probably not even be getting paid today.**
 
 > "... **consider that the code you’re working on is your code. Even if you haven’t written it yourself**, and regardless of how good or bad you think it is, this is your code, and **you have responsibility over it**."
 

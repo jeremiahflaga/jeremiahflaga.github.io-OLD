@@ -31,12 +31,10 @@
     {% include_relative sections/not-yet-good-with-spoken-english.md %}
 </section>
 
-<!-- 
 <hr class="m-0" /> 
 <section class="resume-section" id="not-good-with-ui-ux">
-
+    {% include_relative sections/not-good-with-ui-and-ux.md %}
 </section>
- -->
 
 <hr class="m-0" />
 <section class="resume-section" id="back-to-resume" style="min-height: 0px;">

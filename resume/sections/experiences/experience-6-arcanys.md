@@ -49,14 +49,26 @@
 
 
 
+<div class="col-md-10 d-flex flex-column flex-md-row justify-content-between">
+    <div class="flex-grow-1">
+        <h3 class="mb-0"></h3>
+        <div class="subheading mb-3">
+        </div>      
+        <p class="text-primary experience-date">May 2020 - Jan 2021:</p>
+        <p>
+            Our client was affected by the lockdowns, so our work with them stopped (temporarily, I hope), and our team was put on bench. I was learning Angular, Microservices in .NET, and Domain-Driven Design during this time.
+        </p>
+    </div>
+</div>
+
 <div class="col-md-10 d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
         <h3 class="mb-0"></h3>
         <div class="subheading mb-3">
         </div>      
-        <p class="text-primary experience-date">May 2020 - Oct 2020:</p>
+        <p class="text-primary experience-date">February 2021 - Present:</p>
         <p>
-            Our client was affected by the lockdowns, so our work with them stopped (temporarily, I hope), and our team was put on bench. I was learning Angular, Microservices in .NET, and Domain-Driven Design during this time.
+            Being involved in maintaining an app which is being used to facilitate the flow of patients in a hospital.
         </p>
     </div>
 </div>

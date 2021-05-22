@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Anti-résumé
+title: 'Anti-résumé'
 published: true
 ---
 
