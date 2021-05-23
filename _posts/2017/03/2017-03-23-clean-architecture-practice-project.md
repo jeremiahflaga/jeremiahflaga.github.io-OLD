@@ -4,11 +4,12 @@ title: Clean Architecture Practice Project
 category: Programming
 tags: [Programming, Clean Code, Clean Architecture, TDD, Robert Martin, Matthew Renze]
 date: 2017-03-23 01:00:00 AM UTC
-dateLastUpdated: 2021-05-20 10:00:00 PM UTC
+dateLastUpdated: 2021-05-23 06:00:00 AM UTC
 ---
 
 <!-- March 23, 2017 9:00:00 AM Philippine Time -->
-<!-- Updated May 21, 2021 6:00:00 AM Philippine Time -->
+<!-- Updated May 21, 2021 06:00:00 AM Philippine Time -->
+<!-- UPDATED: May 23, 2021 02:00:00 PM Philippine Time - removed name -->
 
 <!-- strike-throughed because I was not able to complete this project -->
 <div markdown="1" style="text-decoration: line-through;"> 
@@ -19,7 +20,10 @@ dateLastUpdated: 2021-05-20 10:00:00 PM UTC
 
 </div>
 
-Last year, after learning that Robert C. Martin of the "Clean Code" book has a blog (through a [link](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html) shared in our Skype group by a coleague, I&ntilde;aki Narciso, who later became a friend), I started reading anything in that blog whose title catches my attention. _(I was not aware that busy people, like Robert C. Martin, have blogs!)_
+Last year, after learning that Robert C. Martin of the "Clean Code" book has a blog (through a [link](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html) shared in our Skype group by a coleague
+<!-- I&ntilde;aki Narciso, who later became a friend  -->
+),
+I started reading anything in that blog whose title catches my attention. _(I was not aware that busy people, like Robert C. Martin, have blogs!)_
 
 I was able to read his article ["The Clean Architecture"](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). While reading that article I thought that he is just explaining how _most_ software developers do architecture in the real world. And that all I have to do to be able to experience this clean architecture thing is to wait until I can find a job where the project I will be involved in uses this kind of architecture.
 

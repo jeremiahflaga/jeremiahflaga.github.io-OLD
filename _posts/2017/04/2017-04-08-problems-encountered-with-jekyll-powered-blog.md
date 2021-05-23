@@ -4,9 +4,11 @@ title: Some problems I encountered with my Jekyll powered blog -- and their solu
 category: [Miscellaneous, Evolving Notes]
 tags: [Jekyll, Blogging, Timezones]
 date: 2017-04-08 03:30:00 PM UTC
+dateLastUpdated: 2021-05-23 06:00:00 AM UTC
 ---
 
 <!-- April 8, 2017 11:30:00 PM Philippine Time -->
+<!-- UPDATED: May 23, 2021 02:00:00 PM Philippine Time - added line numbers -->
 
 <div class="message" markdown="1">
 
@@ -67,6 +69,12 @@ That's it!
 ## Problem: How to add pagination {#how-to-add-pagination}
 
 Just go to the docs [jekyllrb.com/docs/pagination/](https://jekyllrb.com/docs/pagination/)
+
+
+{:#add-pagination}
+## Adding line numbers in code blocks
+
+[https://www.richwerden.com/2017/line-numbers-in-jekyll-code.html](https://www.richwerden.com/2017/line-numbers-in-jekyll-code.html)
 
 
 {:#other}

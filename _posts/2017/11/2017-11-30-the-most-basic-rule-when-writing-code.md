@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is the most basic rule when writing code?
+subtitle: 'Focus on the "what", not the "how"'
 categories: [Programming, Let's ask our masters]
 tags: [Computer Science, Abstraction, Noam Nisan, Shimon Schocken, Jonathan Boccara, GOOS, Duke Ellington, Greg Howlett, Albert Einstein, RObert Martin, Kent Beck]
 date: 2017-11-30 03:30:00 AM UTC
@@ -92,8 +93,6 @@ _"what" over "how"_
 
 ---
 
-<br />
-
 ## An example:
 
 When computing the sum of a list of numbers, it is easier to read this
@@ -111,7 +110,7 @@ sum = computeSumOf(listOfNumbers);
 than this
 
 ``` python
-sum = 0
+sum = 0 
 index = 0
 while index < listOfNumbers.length
     n = listOfNumbers[index]

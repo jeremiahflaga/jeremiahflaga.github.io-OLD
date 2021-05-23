@@ -32,7 +32,9 @@ refer to ["Problem: Different URLs for different timezones"](http://127.0.0.1:40
 
 should not have box-shadow
 
+{: .small }
 ``` css
+// CSS for removing box-shadow in emojis
 img.emoji {
     box-shadow: none;
     display: inline;
@@ -45,7 +47,7 @@ More emojis at [https://phatblat.com/2016/01/03/jemoji.html](https://phatblat.co
 
 
 
----
+-----
 
 # code inside single backticks
 
@@ -53,7 +55,9 @@ The template for use case handler `ICommandHandler` ...
 
 The property `ICommandResult.Succeeded` ...
 
----
+
+
+-----
 
 # code inside triple backticks
 
@@ -74,13 +78,38 @@ public interface CommandResult
 
 should have `box-shadow` to make it look good to the eye:
 
+{: .small }
 ``` css
+// CSS for adding box-shadow
 div.highlighter-rouge {
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 ```
 
----
+
+
+-----
+
+# code inside {% raw %}{% highlight %}{% endraw %}, and with line numbers
+
+Without line numbers:
+
+{% highlight javascript %}
+function some(code) { /*goes here*/ }
+let x = 21;
+{% endhighlight %}
+
+With line numbers:
+
+{% highlight javascript linenos %}
+function some(code) { /*goes here*/ }
+let x = 21;
+{% endhighlight %}
+
+
+
+
+-----
 
 # images
 
@@ -88,7 +117,9 @@ div.highlighter-rouge {
 
 should not overflow to the right and should have `box-shadow` to make it look good to the eye:
 
+{: .small }
 ``` css
+// CSS for adding box-shadow
 img {
     max-width: 100%;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5)
@@ -186,9 +217,11 @@ here
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R6S8RCKRIoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-should not have box-shadow
+should have box-shadow
 
+{: .small }
 ``` css
+// CSS for adding box-shadow in videos
 iframe[src^="https://www.youtube.com/embed/"] {  // ^ means "starts with"
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
@@ -198,9 +231,11 @@ iframe[src^="https://www.youtube.com/embed/"] {  // ^ means "starts with"
 
 # embedded pdfs
 
-should not have box-shadow
+should have box-shadow
 
+{: .small }
 ``` css
+// CSS for adding box-shadow in PDFs
 embed[src$=".pdf"] { // $ means "ends with"
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }

@@ -123,3 +123,36 @@ examples:
 ---
 List of Jemojis and their images
 https://phatblat.com/2016/01/03/jemoji.html
+
+
+
+---
+Making Your YouTube Embeds Mobile Responsive with Bootstrap
+https://www.solodev.com/blog/web-design/making-your-youtube-embeds-mobile-responsive-with-bootstrap.stml
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="..." allowfullscreen></iframe>
+</div>
+
+The standard aspect ratio for YouTube on a computer is 16:9. - from https://support.google.com/youtube/answer/6375112
+
+<!-- 21:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-21by9">
+
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+
+<!-- 1:1 aspect ratio -->
+<div class="embed-responsive embed-responsive-1by1">
+
+
+
+---
+Adding line numbers
+https://www.richwerden.com/2017/line-numbers-in-jekyll-code.html
+
+{% highlight javascript linenos %}
+    function some(code) { /*goes here*/ }
+    let x = 21;
+{% endhighlight %}
