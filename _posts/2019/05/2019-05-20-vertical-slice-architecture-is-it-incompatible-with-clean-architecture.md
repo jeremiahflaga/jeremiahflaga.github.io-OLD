@@ -11,7 +11,8 @@ pinned: true
 
 <!-- May 20, 2019 3:20:00 PM Philippine Time -->
 <!-- UPDATED: May 21, 2019 2:00:00 PM Philippine Time -->
-<!-- UPDATED: May 23, 2021 02:00:00 PM Philippine Time added "derefactoring"; updated section taken from youtube comments -->
+<!-- UPDATED: May 23, 2021 02:00:00 PM Philippine Time - added "defactoring"; updated section taken from youtube comments -->
+<!-- UPDATED: May 24, 2021 06:48:00 PM Philippine Time - added link to Mar Seemann's article on using decorators to implement cross-cutting concerns -->
 
 <!-- 
 <small>
@@ -45,7 +46,7 @@ Hmmmm...
 I need to learn more... So I watched his talk titled ["SOLID Architecture in Slices not Layers"](https://www.youtube.com/watch?v=wTd-VcJCs_M)...
 
 
-<div class="message" markdown="1">
+<div class="message m-3" markdown="1">
 
 One of the interesting things in that talk is his comparison of "Traditional N-Tier" and "DDD-style N-Tier architecture". Regarding that, he said this:
 
@@ -57,7 +58,7 @@ That statement and picture talks to my unconscious and says _"Learning more abou
 
 Another interesting thing is in about 6:00 to 8:00 minutes in the video, when he described his **first step** in changing a complicated code into a simpler one; what he calls the **defactoring step**, where he removed the existing patterns and **hardcoded everything into the controller**:
 
-> In the applications I build these days I really try to have the code tell me when I need patterns through code smells and design issues, and not try to just put patterns in place just because.
+> In the applications I build these days, I really try to have the code tell me when I need patterns through code smells and design issues, and not try to just put patterns in place just because.
 
 I think that is a good strategy to remember when trying to understand a complicated code: code with lots of branching if/else.
 
@@ -159,13 +160,13 @@ Ahh! That might be the reason why Jimmy Bogard wants to <strong><em>max</em></st
 
 
 
-<div class="small" markdown="1">
+<div class="message m-3" markdown="1">
 
-Also, remember [what Sandi Metz said](https://www.youtube.com/watch?v=8bZh5LMaSmE): 
+Also, remember [what Sandi Metz said in "All the Little Things"](https://www.youtube.com/watch?v=8bZh5LMaSmE): 
 
 > duplication is far cheaper than the wrong abstraction
 
-And also, duplication might not be a problem if the system is divided into what is called bounded contexts in DDD:
+And also, duplication might not be a problem **if** the system is divided into what is called bounded contexts in DDD:
 
 > Even if the code is the same and it never changes, usually the duplication causes no problem. Duplication is a problem because you may update code in one place, and forget to update it in another. However, this is rarely a problem when you have loosely coupled bounded contexts that are intended to run in isolation. There are very few reasons that the same concept in two bounded contexts should be changed at the same time. So don’t worry about duplicating similar code, and instead focus on isolating your bounded context and maintaining their boundaries.
 >
@@ -228,6 +229,8 @@ Reading more about Vertical Slice Architecture also led me to these very enlight
 - [Meanwhile... on the query side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
 
 > "Two simple interfaces will change the look of your architecture… forever." --- Steven van Deursen
+
+These two articles are kind of more elaborate explanation of what I had read from Mark Seemann on the use of decorators to implement cross-cutting concerns in his blog post ["Dependency Injection is Loose Coupling"](https://blog.ploeh.dk/2010/04/07/DependencyInjectionisLooseCoupling/) (also [here](https://blog.ploeh.dk/2010/09/20/InstrumentationwithDecoratorsandInterceptors/))
 
 Enjoy!
 

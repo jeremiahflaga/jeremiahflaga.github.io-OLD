@@ -92,6 +92,10 @@ div.highlighter-rouge {
 
 # code inside {% raw %}{% highlight %}{% endraw %}, and with line numbers
 
+**NOTE: Using {% raw %}{% highlight %}{% endraw %} syntax throws an exception when you're not online:**
+
+`Liquid Exception: Liquid syntax error (line 177): Unknown tag 'highlight' in <filename>`
+
 Without line numbers:
 
 {% highlight javascript %}

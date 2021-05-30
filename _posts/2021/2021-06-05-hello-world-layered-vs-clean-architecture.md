@@ -5,7 +5,7 @@ subtitle:
 categories: [Programming]
 tags: [Programming]
 date: 2021-06-01 12:00:00 AM UTC
-published: false
+published: true
 ---
 
 <!-- Started May 7, 2021 12:00 AM Philippine Time -->
@@ -25,9 +25,9 @@ A few weeks ago, I read [an article](https://xianminx.github.io/2013/02/28/compu
 > the best way to learn a field is to know the overall structure, but not many single isolated points
 
 
-<img width="300" class="float-left" src="/images/2021/2021-05-22-hello-world-layered-architecture-code-with-diagram.png" alt="">
+<img width="300" class="float-left img-fluid" src="/images/2021/2021-05-22-hello-world-layered-architecture-code-with-diagram.png" alt="">
 
-<img width="400" class="float-right" src="/images/2021/2021-05-22-hello-world-clean-architecture-code-with-diagram.png" alt="">
+<img width="400" class="float-right img-fluid" src="/images/2021/2021-05-22-hello-world-clean-architecture-code-with-diagram.png" alt="">
 
 <div class="clearfix"></div>
 
@@ -36,12 +36,13 @@ A few weeks ago, I read [an article](https://xianminx.github.io/2013/02/28/compu
 
 Bird's eye view
 
+<!-- 
+
 One of the things -- my mind -- preoccupied with since the beginning of my  programming is how to best structure a software system -- is software architecture.
 
 
 
 I'm going to write a few blog post on the simplest possible example of Layers architecture and clean architecture I can think of, and then compare them and point out the differences between them.
-
 
 
 But who knows, these posts might someday help a poor young soul who is trying to understand Clean Architecture.
@@ -79,4 +80,6 @@ Uncle Bob gave this diagram as an example of how to implement a Clean Architectu
 
 
 
-----------
+---------- 
+
+-->

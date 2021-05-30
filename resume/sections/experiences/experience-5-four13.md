@@ -107,10 +107,10 @@
                         </p>
                     </blockquote>
                     <p>
-                        I think the lesson to be learned in that is that if one decides to restructure a codebase, he must choose a structure that is not too different from the old one, but still removes the problem he will be having if he retains the current structure.
+                        I think the lesson to be learned in that is that if one decides to restructure a codebase because he finds it hard to work with that codebase if he will not restructure it, he must choose a structure that is not too different from the existing one, but still makes the codebase easier to work with.
                     </p>
                     <p>
-                        I think that changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time.
+                        I think that changing it to a completely different structure is okay only if the original restructur-er will be involved in the project for a long time or until the restrucuring is completed.
                     </p>
                     <p>
                         <small>(* the images in this section are from Mark Seeman's post, <a href="https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/">"Layers, Onions, Ports, Adapters: it's all the same"</a>)</small>

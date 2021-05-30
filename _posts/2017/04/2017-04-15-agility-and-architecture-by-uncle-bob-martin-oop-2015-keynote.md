@@ -4,9 +4,11 @@ title: 'OOP 2015 Keynote - Robert C. Martin ("Uncle Bob"): Agility and Architect
 category: Programming
 tags: [Clean Architecture, Robert Martin]
 date: 2017-04-15 02:40:00 PM UTC
+dateLastUpdated: 2021-05-30 03:11:00 AM UTC
 ---
 
 <!-- April 15, 2017 10:40:00 PM Philippine Time -->
+<!-- Updated May 30, 2021 11:11:00 AM Philippine Time - removed part on disagreement with Uncle Bob -->
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0oGpWmS0aYQ" frameborder="0" allowfullscreen></iframe>
@@ -15,9 +17,13 @@ Robert Martin is talking about some important history of software development he
 
 Very interesting!
 
+<!-- 
 I disagree with his conclusion in the introduction part -- the years the first man and the first woman appeared -- because I have a different bias than Uncle Bob Martin when it comes to the history of the human race (take note that [all of us have some biases](/memorabilia/quotes/everyone-is-biased/) that influence the conclusions that we make)...
 
-...but I really like listening to Bob Martin's talks on software development :smile:
+...but 
+ -->
+
+I really like listening to Bob Martin's talks on software development :smile:
 
 <!--more-->
 

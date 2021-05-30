@@ -10,7 +10,7 @@ published: true
 
 <!-- Started May 22, 2021 5:30 AM Philippine Time -->
 
-A link to Uncle Bob Martin's talk on Clean Architecture is needed in my new blog post. But, where is my post transcribing his talks about it!?
+A link to Uncle Bob Martin's talk on Clean Architecture is needed in my next blog posts. But, where is my post transcribing his talks about it!?
 
 [Nothing. I found nothing.](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote/) I got lazy transcribing my handwritten notes a few years ago.
 
