@@ -325,6 +325,14 @@ Have fun coding!
 
 If you want code you can run, I've created a simple example [here](https://github.com/jeremiahflaga/hello-world-layered-vs-clean-architecture). Go to the `csharp` folder, open the solution file in Visual Studio 2019, then set the project named `CleanAspNet.WebApi` as the startup project. Then run the application.
 
+<div class="message" markdown="1">
+
+I think this Clean Architecture idea is most useful only to the software that is expected to become big, or software that is expected to be used for many years. This will not be very useful, and might be a waste of time to implement, to software that will live only for a few months.
+
+Actually, it will still be useful for you and for other devs if you use this Clean Architecture idea in smaller or short-lived softwares --- you can use smaller softwares to practice doing clean architecture, because [it's better to practice doing clean architecture in the small](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/). But, depending on your situation, you might have to ask permission from your employer, so that he will not be surprised if the initial phase of the project will take a long time to finish.
+
+</div>
+
 <!-- 
 <div class="message small" markdown="1">
 
