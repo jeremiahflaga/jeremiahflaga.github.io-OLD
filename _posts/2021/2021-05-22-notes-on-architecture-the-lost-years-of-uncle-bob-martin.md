@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Notes on Uncle Bob Martin''s talks on Clean Architecture'
-subtitle: 
+subtitle: '"The Web is a delivery mechanism."  | "The database is not the center of the app." | "The Web drove out of our range the architectural ideas Jacobson had given us."'
 categories: [Programming]
 tags: [Programming]
 date: 2021-05-22 03:45:00 PM UTC
@@ -16,7 +16,7 @@ Thomas Pierrain's [articles](https://tpierrain.blogspot.com/2016/04/hexagonal-la
 
 I have things in mind to write about it... and so...
 
-A link to Uncle Bob Martin's talk on Clean Architecture is needed in my [next](/2021/05/30/clean-architecture-of-uncle-bob-martin-in-aspnet-mvc) blog posts. But, where is my post transcribing his talks about it!?
+A link to Uncle Bob Martin's talk on Clean Architecture is needed in my [next](/2021/05/30/clean-architecture-of-uncle-bob-martin-in-aspnet-mvc-web-api) blog posts. But, where is my post transcribing his talks about it!?
 
 [Nothing. I found nothing.](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote/) I got lazy transcribing my handwritten notes a few years ago.
 
