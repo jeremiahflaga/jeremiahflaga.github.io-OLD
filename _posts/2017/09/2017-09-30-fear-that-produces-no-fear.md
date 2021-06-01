@@ -104,3 +104,11 @@ there already exists practices that can prevent that from happening:
 > --- from ["The Craftsman #3: Clarity and Collaboration"](https://drive.google.com/file/d/0BwhCYaYDn8EgMjc5ZGVjYTQtZmE4NS00MjM0LWIwMDMtMTE2M2NkNTUxNzgx/view) of Uncle Bob Martin
 
 
+> Many consultants believe that pair programming is the universal solution to any problem that a software project can have.
+> 
+> - It spreads the technical skills
+> - It spreads the functional knowledge
+> - It builds the team
+> - It's fun
+>
+> --- Victor Rentea (["Brainstorming your way from a Monolith to a Clean Architecture"](https://www.youtube.com/watch?v=4-4ahz7zDiQ))

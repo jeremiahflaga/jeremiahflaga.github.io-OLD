@@ -11,22 +11,24 @@ pinned: true
 
 <!-- Started May 21, 2021 5:39 AM Philippine Time -->
 
-In his talks on Clean Architecture, Uncle Bob gives this diagram as an example of how to implement it:
+In his [talks on Clean Architecture](/2021/05/22/notes-on-architecture-the-lost-years-of-uncle-bob-martin), Uncle Bob gives this diagram as an example of how to implement it:
 
 ![CleanArchitectureDesignByUncleBobMartin.png](/images/2017/CleanArchitectureDesignByUncleBobMartin.png)
 
 <!--more-->
 
-In the diagram, the **Controller** does not point to the **Presenter**, which means that the **Controller** does not know about the **Presenter**. That means that there is no code like `var presenter = new Presenter()` inside the **Controller**. And there is no instance level field like `private Presenter presenter`, or instance level property like `private Presenter presenter { get; set; }` inside the **Controller**.
+In the diagram, the **Controller** does not point to the **Presenter**, which means that the **Controller** does not know about the **Presenter**. That means that there is no code like `var presenter = new Presenter()` inside the **Controller**. And there is no instance level field like `private Presenter presenter`, or instance level property like `private Presenter presenter { get; set; }` inside the **Controller**. <small>(Maybe he knows intuitively that making the Controller know about the Presenter will make things harder to manage?? I don't know. Maybe.)</small>
 
-More on that later...
+More on this later...
 
-**This post focuses only on the interaction between the Controller, the Interactor, and the Presenter of that diagram** (of course, because ASP.NET MVC Web API only touches on those parts of the diagram), and will not talk about the other parts of the diagram. If you want to understand everything in that diagram, I encourage you to watch his [talks titled "Architecture: The Lost Years" or "Clean Architecture and Design"](/2021/05/22/notes-on-architecture-the-lost-years-of-uncle-bob-martin). And to read his artistically done article on it: ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
+**This post focuses only on the interaction between the Controller, the Interactor, and the Presenter of that diagram** (of course, because ASP.NET MVC Web API only touches on those parts of the diagram). This post does not talk about the other parts of the diagram. If you want to understand everything in that diagram, I encourage you to watch his [talks titled "Architecture: The Lost Years" or "Clean Architecture and Design"](/2021/05/22/notes-on-architecture-the-lost-years-of-uncle-bob-martin). And to read his artistically done article on it: ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
 
 
 ## Descriptions
 
-_(If you are in a hurry, go ahead to the ["Implementation in ASP.NET MVC Web API" section](#implementation-in-aspnet-mvc-web-api) of this post.)_
+<!-- 
+_(If you are in a hurry, go ahead to the ["Implementation in ASP.NET MVC Web API" section](#implementation-in-aspnet-mvc-web-api) of this post.)_ 
+-->
 
 Let's zoom in on that diagram (still using an image from Uncle Bob's slides) and give a short description of some of the components that we will touch on in this blog post.
 
@@ -34,7 +36,7 @@ Let's zoom in on that diagram (still using an image from Uncle Bob's slides) and
 ![The dance between the Controller, the Interactor, and the Presenter](/images/2021/2021-05-24-controller-interactor-presenter-dance-fom-slides-of-uncle-bob.png)
 
 
-##### The **Controller** 
+#### The **Controller** 
 
 --- the one who receives **InputData** from the user or the client, converts that input into a **RequestModel**, then passes the **RequestModel** to the **Interactor**. (Note that the **Controller** in that diagram is not necessarily the same as the **MVC-Controller** in ASP.NET. But if we implement that diagram in ASP.NET, we will be using the **MVC-Controller** as our **Controller**.)
 
@@ -49,7 +51,7 @@ class Controller {
 }
 ```
 
-##### The **Interactor**
+#### The **Interactor**
 
 --- accepts the **RequestModel** given by the **Controller**, does the work described in the use case document, then creates a **ResponseModel** which it passes to the **Presenter**.  (Maybe you have heard of things called Application Services, or Command Handlers, or Query Handlers, or Use Case Handlers. The **Interactor** has the same purpose as those things. And remember, if you watched Uncle Bob's talks, that the **ResponseModel** here is NOT the same as the the HTTP Response that web developers are familiar with.)
 
@@ -69,7 +71,7 @@ class Interactor {
 }
 ```
 
-##### The **Presenter**
+#### The **Presenter**
 
 --- accepts the **ResponseModel** given by the **Controller**, converts that into a **ViewModel**, then passes the **ViewModel** to the **View** which is the UI in our case.
 
@@ -325,6 +327,7 @@ Have fun coding!
 
 If you want code you can run, I've created a simple example [here](https://github.com/jeremiahflaga/hello-world-layered-vs-clean-architecture). Go to the `csharp` folder, open the solution file in Visual Studio 2019, then set the project named `CleanAspNet.WebApi` as the startup project. Then run the application.
 
+<!-- 
 <div class="message" markdown="1">
 
 I think this Clean Architecture idea is most useful only to the software that is expected to become big, or software that is expected to be used for many years. This will not be very useful, and might be a waste of time to implement, to software that will live only for a few months.
@@ -332,20 +335,19 @@ I think this Clean Architecture idea is most useful only to the software that is
 Actually, it will still be useful for you and for other devs if you use this Clean Architecture idea in smaller or short-lived softwares --- you can use smaller softwares to practice doing clean architecture, because [it's better to practice doing clean architecture in the small](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/). But, depending on your situation, you might have to ask permission from your employer, so that he will not be surprised if the initial phase of the project will take a long time to finish.
 
 </div>
+ -->
 
-<!-- 
 <div class="message small" markdown="1">
 
-Please note that this Clean Architecture idea is most valuable during the maintenance phase of a software system, because it is during that phase when lots of changes in the business rules are going to happen, and changes in business rules can be implemented easily only if the software is structured properly. 
+I think this Clean Architecture idea is most valuable during the maintenance phase of a software system, because it is during that phase when lots of changes in the business rules are going to happen, and changes in business rules can be implemented easily only if the software is structured properly. 
 
-That means that this Clean Architecture idea is very valuable only when the software is expected to become big, or when the software is expected to be used for many years, because in those cases the maintenance phase will be longer.
+I think that means that this Clean Architecture idea is very valuable only when the software is expected to become big, or when the software is expected to be used for many years, because in those cases the maintenance phase will be longer.
 
-This Clean Architecture idea will not be very useful, and might be a waste of time to implement, if your software will live only for a few months.
+This Clean Architecture idea might not be very useful, and might be a waste of time to implement, if your software will live only for a few months.
 
 Actually, it will still be useful for you and for other devs if you use this Clean Architecture idea in smaller or short-lived softwares --- you can use smaller softwares to practice doing clean architecture, because [it's better to practice doing clean architecture in the small](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/). But, depending on your situation, you might have to ask permission from your employer, so that he will not be surprised if the initial phase of the project will take a long time to finish.
 
 </div>
- -->
 
 -----
 
@@ -487,7 +489,7 @@ Remember that the `MVC_Controller` is also the one who will give the output to t
 
 
 =====
-Not all duplication is bad. Even in the real world there are duplicates, and they are not bad --- smaller organizations are still electing or appointing presidents even when we already have a president in our country. And I think there is such a thing as premature de-duplication --- sometimes, we have to wait for a few days or weeks before we can be sure if something that looks the same are really the same. Also, sometimes, it's also okay to make a temparary kind of re-duplication (what Jimmy Bogard calls **defactoring** in [one of his talks](2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture)) to make it easier to understand things and to fix things; and I think it's even okay to make a permanent re-duplication if we discovered  that something we thought is the same are not really the same.
+Not all duplication is bad. Even in the real world there are duplicates, and they are not bad --- smaller organizations are still electing or appointing presidents even when we already have a president in our country. And I think there is such a thing as premature de-duplication --- sometimes, we have to wait for a few days or weeks before we can be sure if something that looks the same are really the same. Also, sometimes, it's also okay to make a temparary kind of re-duplication (what Jimmy Bogard calls **defactoring** in [one of his talks](/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture)) to make it easier to understand things and to fix things; and I think it's even okay to make a permanent re-duplication if we discovered  that something we thought is the same are not really the same.
 =====
 
  -->

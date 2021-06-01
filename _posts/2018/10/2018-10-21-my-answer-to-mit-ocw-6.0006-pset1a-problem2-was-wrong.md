@@ -140,14 +140,11 @@ And sometimes it is tiredness...
 Sometimes, perhaps oftentimes, we just need someone else to check our confidence or our attitude when writing code. This makes me remember what Victor Rentea said about pair programming in his talk ["Brainstorming your way from a Monolith to a Clean Architecture"](https://www.youtube.com/watch?v=4-4ahz7zDiQ): 
 
 > Many consultants believe that pair programming is the universal solution to any problem that a software project can have.
-<br />
-- It spreads the technical skills
-<br />
-- It spreads the functional knowledge
-<br />
-- It builds the team
-<br />
-- It's fun
+> 
+> - It spreads the technical skills
+> - It spreads the functional knowledge
+> - It builds the team
+> - It's fun
 
 I hope pair programming will become a common practice for programmers in the near future.
 

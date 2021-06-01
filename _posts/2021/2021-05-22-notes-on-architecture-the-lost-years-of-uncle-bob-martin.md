@@ -5,12 +5,18 @@ subtitle:
 categories: [Programming]
 tags: [Programming]
 date: 2021-05-22 03:45:00 PM UTC
+dateLastUpdated: 2021-06-02 06:00:00 AM UTC
 published: true
 ---
 
 <!-- Started May 22, 2021 5:30 AM Philippine Time -->
+<!-- Updated June 2, 2021 1:55 AM Philippine Time -->
 
-A link to Uncle Bob Martin's talk on Clean Architecture is needed in my next blog posts. But, where is my post transcribing his talks about it!?
+Thomas Pierrain's [articles](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html) on [hexagonal](https://tpierrain.blogspot.com/2013/08/a-zoom-on-hexagonalcleanonion.html) architecture, and his [articles on "Outside-in Diamond TDD"](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-1-style-made.html) (which I need to spend more time on later to understand it full well) brought back my interest for Clean Architecture.
+
+I have things in mind to write about it... and so...
+
+A link to Uncle Bob Martin's talk on Clean Architecture is needed in my [next](/2021/05/30/clean-architecture-of-uncle-bob-martin-in-aspnet-mvc) blog posts. But, where is my post transcribing his talks about it!?
 
 [Nothing. I found nothing.](/2017/04/15/agility-and-architecture-by-uncle-bob-martin-oop-2015-keynote/) I got lazy transcribing my handwritten notes a few years ago.
 
@@ -18,7 +24,7 @@ My treasured learning from Uncle Bob: Clean Architecture --- and I do not have a
 
 Therefore, this post.
 
-And because I'm still lazy, I'll just put here the digitally scanned copies of my notes instead of transcribing them to typewritten text.
+And because I'm still lazy, I'll just put here the scanned copies of my notes instead of transcribing them to typewritten text.
 
 
 

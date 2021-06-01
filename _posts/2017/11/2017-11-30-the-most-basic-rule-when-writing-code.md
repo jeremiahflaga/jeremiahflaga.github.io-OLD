@@ -72,7 +72,7 @@ Of course we might still be the one to write the _"how" part_. But if we focus o
 <br /><br />
 > "ahhh!"
 
-And **_"intention revealing" code_** is easy to read! Remember that we, and our coleagues _(we should think about our coleagues also :smile:)_ spend _more_ time reading code than writing code!
+And **_"intention revealing" code_** is easy to read! Remember that we, and our coleagues _(we should [think about our coleagues also](/2017/09/30/fear-that-produces-no-fear) :smile:)_ spend _more_ time reading code than writing code!
 
 
 I should put this in mind always then...
