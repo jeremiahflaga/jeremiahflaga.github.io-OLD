@@ -18,9 +18,15 @@
     <table class="table table-sm skills">
         <tbody>
             <tr>
+                <td></td>
+                <td>
+                    <p>I think I can work on any platform even when I have no experience working on that platform, as long as your software system adheres to a best practice architectural guidlines and best practices on coding (clean coding). You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that the values of your software development team will be passed on to me.</p>
+                </td>
+            </tr>
+            <tr>
                 <td>.NET:</td>
                 <td>
-                    <p>C#, ASP.NET MVC, ASP.NET Web API</p>
+                    <p>C#, ASP.NET MVC Web API</p>
                     <!-- <p>C#, <small>VB.NET</small></p>
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
@@ -51,6 +57,9 @@
                     </p>
                     <p>
                         The <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> of Uncle Bob Martin
+                    </p>
+                    <p>
+                        <small>Some DDD concepts</small>
                     </p>
                 </td>
             </tr>

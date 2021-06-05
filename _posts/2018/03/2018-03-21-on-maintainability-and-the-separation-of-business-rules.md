@@ -4,9 +4,12 @@ title: On maintainability and the separation of the business rules
 categories: [Programming]
 tags: [Clean Architecture, Robert Martin, Terence McGhee, Eddie Bush, Mark Seemann, Woody Zuill]
 date: 2018-03-21 11:30:00 PM UTC
+dateLastUpdated: 2021-06-05 10:00:00 AM UTC
 ---
 
 <!-- January 22, 2018 -->
+<!-- Updated June 5, 2021 6:00 PM Philippine Time -->
+
 
 > "The value of another's experience is to give us hope, not to tell us how or whether to proceed." 
 <br /><br />
@@ -77,7 +80,7 @@ _Okay... End of story._
 That was just a very long introduction to the following list of materials and quotes from our masters, which emphasizes the importance of separating the business rules from the other parts of a software system so that they will be maintainable:
 
 
-## Some great materials about separating the business rules
+## Some great materials about separating the business rules from the other parts of the application
 
 ### 1. ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) of Uncle Bob Martin
 
@@ -136,6 +139,17 @@ Mark Seemann gives here an example of how to separate things in a software syste
 He also said that separation is an "all-or-nothing proposition"
 
 > "... the point of the post is that as soon as you soften separation of concerns just a bit, it becomes impossible to maintain that separation. It's an all-or-nothing proposition. Either you maintain strict separation, or you'd be building a monolithic application whether you know it or not."
+
+### 10. ["Hexagonal != Layers"](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html) of Thomas Pierrain
+
+> Created by Alistair Cockburn in the 2000s, **the hexagonal architecture was designed to prevent the infiltration of the business logic into the UI code** (such infiltration leading to less testable and more difficult to maintain apps).
+>
+> The proposed solution is to divide our software in 2 distinct regions:
+>
+> **the inside** (i.e. the business application logic)
+> and 
+> **the outside** (i.e. the infrastructure code like the APIs, the SPIs, the databases, etc.).
+
 
 And remember what Eddie Bush said above: **_"Don’t Ignore Simple Applications... Simple applications are the first place you should begin practicing..."_**
 

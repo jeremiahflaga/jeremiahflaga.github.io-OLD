@@ -1,16 +1,17 @@
 ---
 layout: post
 title: 'My Notes on Uncle Bob Martin''s talks on Clean Architecture'
-subtitle: '"The Web is a delivery mechanism."  | "The database is not the center of the app." | "The Web drove out of our range the architectural ideas Jacobson had given us."'
+subtitle: '"The database is not the center of the application." <br /> "The Web is a delivery mechanism." <br /> "The Web drove out of our range the architectural ideas Jacobson had given us."'
 categories: [Programming]
 tags: [Programming]
 date: 2021-05-22 03:45:00 PM UTC
-dateLastUpdated: 2021-06-02 06:00:00 AM UTC
+dateLastUpdated: 2021-06-05 10:00:00 AM UTC
 published: true
+pinned: true
 ---
 
 <!-- Started May 22, 2021 5:30 AM Philippine Time -->
-<!-- Updated June 2, 2021 1:55 AM Philippine Time -->
+<!-- Updated June 5, 2021 6:00 PM Philippine Time -->
 
 Thomas Pierrain's [articles](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html) on [hexagonal](https://tpierrain.blogspot.com/2013/08/a-zoom-on-hexagonalcleanonion.html) architecture, and his [articles on "Outside-in Diamond TDD"](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-1-style-made.html) (which I need to spend more time on later to understand it full well) brought back my interest for Clean Architecture.
 

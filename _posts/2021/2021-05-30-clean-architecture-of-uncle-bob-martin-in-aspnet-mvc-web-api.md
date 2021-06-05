@@ -5,11 +5,23 @@ subtitle: Does the Controller have to know about the Presenter?
 categories: [Programming]
 tags: [Programming]
 date: 2021-05-30 04:00:00 PM UTC
+dateLastUpdated: 2021-06-05 10:00:00 AM UTC
 published: true
-pinned: true
+pinned: false
 ---
 
 <!-- Started May 21, 2021 5:39 AM Philippine Time -->
+<!-- Updated June 5, 2021 6:00 PM Philippine Time -->
+
+<div class="small alert alert-danger" markdown="1">
+
+This post is just a personal inquiry into how to do a clean architecture implementation in ASP.NET MVC Web API without making the Controller know about the Presenter.
+
+Don't waste your time reading this.
+
+Read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
+
+</div>
 
 In his [talks on Clean Architecture](/2021/05/22/notes-on-architecture-the-lost-years-of-uncle-bob-martin), Uncle Bob gives this diagram as an example of how to implement it:
 
@@ -120,12 +132,7 @@ That means that the **Presenter** implements the **Boundary**, like this:
 class Presenter : Boundary { ... }
 ```
 
-or like this, in other languages:
-
-{: .small }
-```
-class Presenter implements Boundary { ... }
-```
+(In C#, the **Boundary** is either an abtract class or an interface.)
 
 Now, there are lots of objects called Boundary in Uncle Bob's example, so we will name the **Boundary** that the **Presenter** implements as `PresenterBoundary`. Or maybe name it `IPresenterBoundary` (because it is customary in .NET to prefix interfaces with "`I`"). Or make it shorter, like `IPresenter`:
 
@@ -248,6 +255,18 @@ services.AddScoped<IPresenter, MVC_Controller>();
 services.AddScoped<IRepository, Repository>();
 ```
 
+<div class="small alert alert-danger" markdown="1">
+
+Please note that the clean architecture implementation presented in tis blog post --- an ASP.NET implementation where the Controller does not know about the Presenter --- might not be useful to softwares being built these days --- the client-server kinds of applications.
+
+Steven van Deursen's implementation presented [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) seems best for those kinds of applications. If you follow that implementation, there is no need for a Presenter (or an `IPresenter` interface); the Controller will be the one who will create the ViewModels.
+
+The implementation presented in this post is useful to software where there is a need for different kinds of Controllers and Presenters, which reuses the module where the Interactor resides.
+
+For example, if you need to have Web API endpoints in the server, a console app in the server, and a rich-client app in the server, all of which uses the same Interactors --- these three will have different Controllers and Presenters, but they reuse the Interactors.
+
+</div>
+
 
 **WARNING:** The code above will actually throw a [circular dependency error](https://medium.com/software-ascending/circular-dependencies-in-dependency-injection-403b790daebb) like this:
 
@@ -327,6 +346,7 @@ Have fun coding!
 
 If you want code you can run, I've created a simple example [here](https://github.com/jeremiahflaga/hello-world-layered-vs-clean-architecture). Go to the `csharp` folder, open the solution file in Visual Studio 2019, then set the project named `CleanAspNet.WebApi` as the startup project. Then run the application.
 
+
 <!-- 
 <div class="message" markdown="1">
 
@@ -339,11 +359,11 @@ Actually, it will still be useful for you and for other devs if you use this Cle
 
 <div class="message small" markdown="1">
 
-I think this Clean Architecture idea is most valuable during the maintenance phase of a software system, because it is during that phase when lots of changes in the business rules are going to happen, and changes in business rules can be implemented easily only if the software is structured properly. 
+I think this Clean Architecture idea is most valuable during the maintenance phase<sup id="maintenance-phase-footnote-indicator">[[1]](#maintenance-phase-footnote)</sup> of a software system, because it is during that phase when lots of changes in the business rules are going to happen, and changes in business rules can be implemented easily only if the software is structured properly. 
 
 I think that means that this Clean Architecture idea is very valuable only when the software is expected to become big, or when the software is expected to be used for many years, because in those cases the maintenance phase will be longer.
 
-This Clean Architecture idea might not be very useful, and might be a waste of time to implement, if your software will live only for a few months.
+This Clean Architecture idea might not be very useful, and might be a waste of time<sup id="waste-of-time-footnote-indicator">[[1]](#waste-of-time-footnote)</sup> to implement, if your software will live only for a few months.
 
 Actually, it will still be useful for you and for other devs if you use this Clean Architecture idea in smaller or short-lived softwares --- you can use smaller softwares to practice doing clean architecture, because [it's better to practice doing clean architecture in the small](http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value/). But, depending on your situation, you might have to ask permission from your employer, so that he will not be surprised if the initial phase of the project will take a long time to finish.
 
@@ -359,6 +379,33 @@ Some of these implementations make the Controller know about the Presenter, but 
 
 Some of these implementations are implemented the way Uncle Bob draws them in the diagram, but might not be compatible with the very interesting idea of using decorators to implement cross-cutting concerns, as presented by Steven van Deursen [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/), and by Mark Seemann [here](https://blog.ploeh.dk/2010/04/07/DependencyInjectionisLooseCoupling/) and [here](https://blog.ploeh.dk/2010/09/20/InstrumentationwithDecoratorsandInterceptors/).
 
+
+
+-----
+
+**Footnotes**:
+
+<sup id="maintenance-phase-footnote">[1]</sup>
+<small>
+Of all the aspects of a software system, maintenance is the most costly. The 
+never-ending parade of new features and the inevitable trail of defects and 
+corrections consume vast amounts of human resources.
+...
+A carefully thought-through architecture vastly mitigates these costs. By 
+separating the system into components, and isolating those components through 
+stable interfaces, it is possible to illuminate the pathways for future features and 
+greatly reduce the risk of inadvertent breakage. 
+(Uncle Bob Martin, Clean Architecture: A Craftsman's Guide to Software Structure and Design <!-- chapter 15 -->)
+</small>
+[&#8617;](#maintenance-phase-footnote-indicator)
+
+
+<sup id="waste-of-time-footnote">[1]</sup>
+<small>
+... architectural boundaries exist everywhere. We, as architects, must be careful to recognize when they are needed. We also have to be aware that such boundaries, fully implemented, are expensive. On the other hand, we also have to recognize that when such boundaries are ignored, they are very expensive to add in later — even in the presence of comprehensive test-suites and refactoring discipline.
+(Uncle Bob Martin, Clean Architecture: A Craftsman's Guide to Software Structure and Design <!-- chapter 25 -->)
+</small>
+[&#8617;](#waste-of-time-footnote-indicator)
 
 <!-- 
 

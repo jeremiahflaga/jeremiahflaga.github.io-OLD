@@ -63,8 +63,8 @@ But they are doable! Right?
 While reading the "Rough Cuts" of Uncle Bob Martin's book "Clean Architecture: A Craftsman's Guide to Software Structure and Design" available in Safari Books Online, I found this:
 
 > "... I’ve done this in order to show that architectural boundaries exist everywhere. We, as architects, must be careful to recognize when they are needed. We also have to be aware that such boundaries, fully implemented, are expensive. On the other hand, we also have to recognize that when such boundaries are ignored, they are very expensive to add in later — even in the presence of comprehensive test-suites and refactoring discipline."
-<br /><br />
---- Uncle Bob Martin
+> 
+> --- Uncle Bob Martin
 
 So... moving the lines might be doable. But it will be hard.
 

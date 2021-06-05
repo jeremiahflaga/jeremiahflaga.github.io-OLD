@@ -5,11 +5,13 @@ subtitle: '"Don’t strive for perfect code; strive for perfect boundaries."'
 categories: [Programming]
 tags: [Programming, DDD, PPPDDD, Scott Millett, Robert C. Martin, Jonathan Boccara, Eric Evans]
 date: 2020-07-31 10:25:00 AM UTC
+dateLastUpdated: 2021-06-05 10:00:00 AM UTC
 pinned: true
 ---
 
 <!-- July 29, 2020 Philippine Time -->
 <!-- finished July 31, 2020 06:24 PM Philippine Time -->
+<!-- Updated June 5, 2021 6:00 PM Philippine Time -->
 
 When I first heard (and read a little) of DDD, I thought that it only contains lessons for dealing with greenfield projects. But while reading ["Patterns, Principles, and Practices of Domain-Driven Design"](https://www.bookdepository.com/Patterns-Principles-Practices-Domain-Driven-Design-Scott-Millett/9781118714706?a_aid=jflaga) (PPPDDD) of Scott Millett I learned that DDD also contains some gems on how to properly deal with legacy codebases. 
 
@@ -61,6 +63,11 @@ In the Introduction of [PPPDDD](https://www.bookdepository.com/Patterns-Principl
 Hmmmm... I hated working on legacy codebases when I was starting with my programming career because, you know, I was never told that code running in production can be so bad. All code I had been seeing in books and in programming tutorials was relatively good code. (The only _bad_ code I had seen by that time was my own code. :laughing:)
 
 I remember the first time I worked on a legacy code base; I thought to myself, "This might just be some kind of a test; they are just testing us to see if we can work on code like this; after the test they will allow us to work on the real project." Later on I learned that the one we were working on was already the real project. :laughing: (I would just like to add that one of the major reasons why a code base might look like spaghetti code to a programmer is [unfamiliarity with the domain](https://terencemcghee.com/Articles/Tech/2016/06/26/262AFE44011BA22125FC0376AF532D01.html#easytounderstand) for which the code was written, just like the case with my first legacy code base --- I was not familiar with the domain.)
+
+<!-- "Tradecraft 101" - Terence McGhee -  https://terencemcghee.com/Articles/Tech/2016/06/26/262AFE44011BA22125FC0376AF532D01.html#easytounderstand -->
+
+> Code that's easy to understand is largely determined first by the author's adherence to good naming and grouping practices and secondly by
+the reader's familiarity with the domain of the problem space that the code is addressing. --- Terence McGhee
 
 Another thing I remember is that working on a codebase which uses old technologies made me think that I was left out from learning all the [new shiny technologies popping up from everywhere every millisecond of the day](/2018/05/21/software-development-has-not-changed-in-40-years/)... because, you know, young programmers often want to work on new technologies.
 
