@@ -69,7 +69,7 @@ One of the things I have observed about life so far is that people can have more
 		(There's another thing: it seems to me that knowing what is good does not necessarily make one want to do what is good, or it does not make one move towards the direction of goodness.)
 
 
-	(I'm not saying that I know what good is.. But there was someone who claimed to be Truth, and who also said that only God is good. If he was right, then...)
+	(I'm not saying that I know what good is.. But there was someone who claimed to be good, but he also said that only God is good.)
 
 
 
