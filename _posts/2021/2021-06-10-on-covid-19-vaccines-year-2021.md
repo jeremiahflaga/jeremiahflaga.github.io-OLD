@@ -52,7 +52,9 @@ But everyone quickly realized that around day five, seven, eight, there was a pr
 > And what I will never forget in my life is those early months because (and i'm going to go back to that steroid thing) we saw patients just this disease
 marching straight to the ventilator, and so many people were landing on ventilators. And you remember people were running out of ventilators and there was two reasons for that. One is because the entire health care community, globally, said this is a viral disease so supportive care only --- you're talking about tylenol
 and fluids. And as they did supportive care only --- because there was no randomized controlled trials... like, everyone talks about evidence based, I'm always like what about experience based medicine; I've been doing this for 30 years why can't I do what my experience tells me to do. I don't have randomized controlled trials, but to do nothing was leading to ventilator shortages...
+>
 > ...
+>
 > ... **It's incorrect to say that they were dying of the virus.** We knew relatively early on by the time they get to the ICU, and they're that sick, there's not a lot of viral replication going on. In fact you can't culture virus after about day seven or eight. **And so it's actually disease of inflammation, not viral invasion.** In fact in autopsy series only 20 percent do they find what's called cytopathic changes from the virus into the lung. And so you didn't have to go after the virus at that point. You had to actually check the inflammation.
 
 
@@ -60,14 +62,8 @@ and fluids. And as they did supportive care only --- because there was no random
 
 -----
 
-I don't really know some of the terminologies used in those statements --- tylenol, cytopathic changes, etc. But consider only those statments from those two doctors that we, laypeople, can understand. Then analyze them. What do you hear them saying?
-
-
-<!-- 
------
+I don't really know some of the terminologies used in those statements --- tylenol, cytopathic changes, etc. But considering only those statments that we, laypeople, can understand, and analyzing them, what do you hear them saying?
 
 <small>
-Based on those statements, it seems to me that if ones immune system is able to handle the vaccine it can also be able to handle the SARS-CoV-2 virus itself. Not really sure, but that's how it sounds to me.
+If I understood those statements correctly, they seem to sound like "if ones immune system is able to handle the vaccine it would have been able to handle the SARS-CoV-2 virus itself". Not sure, but that's how they sound to me. :smiley: _(I heard that I can say anything on the internets as long as there is a smiley at the end.)_ Lots of smiley for you; please don't be angry with me. :smiley: :smiley: :smiley:
 </small>
- -->
-
