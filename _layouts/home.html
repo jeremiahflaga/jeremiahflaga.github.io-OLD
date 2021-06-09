@@ -40,8 +40,12 @@ layout: default
           <h4>{{ post.title }}</h4>
           {% if post.subtitle %}
           <h5 class="post-subtitle">{{ post.subtitle }}</h5>
-          <!-- {% else %}
-          <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3> -->
+            {% comment %}
+            <!-- 
+            {% else %}
+            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3> 
+            -->
+            {% endcomment %}
           {% endif %}
         </a>
         <small>
