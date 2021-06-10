@@ -62,10 +62,10 @@
 <section class="resume-section" id="interests" style="min-height: 0px;">
     {% include_relative sections/interests.md %}
 </section>
-<!-- <hr class="m-0" />
+<hr class="m-0" />
 <section class="resume-section" id="education">
     {% include_relative sections/education.md %}
-</section> -->
+</section>
  
 <div class="d-print-none">
     <hr class="m-0" />
