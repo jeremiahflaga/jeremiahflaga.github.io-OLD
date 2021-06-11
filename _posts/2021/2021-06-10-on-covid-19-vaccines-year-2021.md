@@ -5,9 +5,11 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
+dateLastUpdated: 2021-06-12 12:00:00 AM UTC
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
+<!-- Updated June 12, 2021 5:40 AM  Philippine Time - removed conclusion -->
 
 During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
 
@@ -64,6 +66,23 @@ and fluids. And as they did supportive care only --- because there was no random
 
 I don't really know some of the terminologies used in those statements --- tylenol, cytopathic changes, etc. But considering only those statments that we, laypeople, can understand, and analyzing them, what do you hear them saying?
 
+<!-- 
 <small>
 If I understood those statements correctly, they seem to sound like "if ones immune system is able to handle the vaccine it would have been able to handle the SARS-CoV-2 virus itself". Not sure, but that's how they sound to me. :smiley: _(I heard that I can say anything on the internets as long as there is a smiley at the end.)_ Lots of smiley for you; please don't be angry with me. :smiley: :smiley: :smiley:
 </small>
+ -->
+
+<!-- 
+Spike protein causes cell damage (from Livestream #79) - https://www.youtube.com/watch?v=fMjPtDK8evg&ab_channel=DarkHorsePodcastClips
+
+How many cells are damaged to achieve immunity from vaccines (from Livestream #79) - https://www.youtube.com/watch?v=GDu8mUji6Ww&ab_channel=DarkHorsePodcastClips
+
+
+Should the COVID vaccine campaign be halted? (Geert Vanden Bossche & Bret Weinstein) - https://www.youtube.com/watch?v=2PgIUDn__WU&ab_channel=DarkHorsePodcastClips
+
+COVID Vs 1918 pandemic response & impact on antibodies (Geert Vanden Bossche & Bret Weinstein) - https://www.youtube.com/watch?v=2dX_Cr7lh-g&ab_channel=DarkHorsePodcastClips
+
+What should our vaccination strategy be? (Geert Vanden Bossche & Bret Weinstein) - https://www.youtube.com/watch?v=WxlJcIea5VI&ab_channel=DarkHorsePodcastClips
+
+DarkHorse Podcast with Geert Vanden Bossche & Bret Weinstein - https://www.youtube.com/watch?v=BNyAovuUxro&ab_channel=BretWeinstein
+ -->
