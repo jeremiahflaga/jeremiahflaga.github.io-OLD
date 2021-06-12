@@ -5,19 +5,20 @@ subtitle: Does the Controller have to know about the Presenter?
 categories: [Programming]
 tags: [Programming]
 date: 2021-05-30 04:00:00 PM UTC
-dateLastUpdated: 2021-06-05 10:00:00 AM UTC
+dateLastUpdated: 2021-06-12 07:40:00 AM UTC
 published: true
 pinned: false
 ---
 
 <!-- Started May 21, 2021 5:39 AM Philippine Time -->
 <!-- Updated June 5, 2021 6:00 PM Philippine Time -->
+<!-- Updated June 12, 2021 3:40 PM Philippine Time - added Uncle Bob's link to example of Controller knowing about the Presenter -->
 
 <div class="small alert alert-danger" markdown="1">
 
 This post is just a personal inquiry into how to do a clean architecture implementation in ASP.NET MVC Web API without making the Controller know about the Presenter.
 
-Don't waste your time reading this.
+This might not give any value to you. Don't waste your time reading this.
 
 Read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
 
@@ -32,6 +33,17 @@ In his [talks on Clean Architecture](/2021/05/22/notes-on-architecture-the-lost-
 In the diagram, the **Controller** does not point to the **Presenter**, which means that the **Controller** does not know about the **Presenter**. That means that there is no code like `var presenter = new Presenter()` inside the **Controller**. And there is no instance level field like `private Presenter presenter`, or instance level property like `private Presenter presenter { get; set; }` inside the **Controller**. <small>(Maybe he knows intuitively that making the Controller know about the Presenter will make things harder to manage?? I don't know. Maybe.)</small>
 
 More on this later...
+
+<div class="small alert alert-danger" markdown="1">
+
+**Update, June 12, 2021:** I just learned that Uncle Bob has an example of the Controller knowing about the Presenter [here](https://softwareengineering.stackexchange.com/questions/423333/clean-architecture-how-does-the-use-case-interactor-generate-different-outputs). This shows yet another example of the fact that the relationship between the Controller and the Presenter depends on the kind of application you are building.
+
+So, like I said above, this post might not give any value to you. Don't waste your time reading this, Read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
+
+But if you have time to waste, this post might give you an idea on what **NOT** to do in your ASP.NET MVC Web API application.
+
+</div>
+
 
 **This post focuses only on the interaction between the Controller, the Interactor, and the Presenter of that diagram** (of course, because ASP.NET MVC Web API only touches on those parts of the diagram). This post does not talk about the other parts of the diagram. If you want to understand everything in that diagram, I encourage you to watch his [talks titled "Architecture: The Lost Years" or "Clean Architecture and Design"](/2021/05/22/notes-on-architecture-the-lost-years-of-uncle-bob-martin). And to read his artistically done article on it: ["A Little Architecture"](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
 
