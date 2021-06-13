@@ -38,8 +38,8 @@ with over seven years of experience, including:</p>
 - Fix bugs
 - Add new features 
 - Write tests (if needed, and if I know how to do it in a specific software system)
-- Refactor and clean up codebase, [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23), ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)
-- I think I can teach younger developers the concepts of Clean Architecture and clean coding (writing intention-revealing code).
+- Refactor and clean up codebase ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)), [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23), 
+- I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps.
 
 <!-- 
 , because you know, ["If it ain't broke, don't fix it"](https://en.wiktionary.org/wiki/if_it_ain%27t_broke,_don%27t_fix_it), but of course, also, ["what does broke mean?"](link to WELC))

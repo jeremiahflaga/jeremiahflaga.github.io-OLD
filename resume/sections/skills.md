@@ -18,13 +18,7 @@
     <table class="table table-sm skills">
         <tbody>
             <tr>
-                <td></td>
-                <td>
-                    <p>I think I can work on any platform even when I have no experience working on that platform, as long as your software system adheres to a best practice architectural guidlines and best practices on coding (clean coding). You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that the values of your software development team will be passed on to me.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>.NET:</td>
+                <td>.NET</td>
                 <td>
                     <p>C#, ASP.NET MVC Web API</p>
                     <!-- <p>C#, <small>VB.NET</small></p>
@@ -38,7 +32,7 @@
                 </td>
             </tr> -->
             <tr>
-                <td>Web (frontend):</td>
+                <td>Web (frontend)</td>
                 <td>
                     <p><small>HTML, Bootstrap, Angular</small></p>
                 </td>
@@ -50,7 +44,13 @@
                 </td>
             </tr> -->
             <tr>
-                <td>Software Architecture/Design:</td>
+                <td>Other Platforms</td>
+                <td>
+                    <p>I think I can work software systems written using <i>some</i> other platforms even when I have no experience working on those platform, as long as the software system adheres to good architectural guidelines and best practices on coding (clean coding). You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that I will become familiar with the coding styles of your programming team, and so that the values of your team will be passed on to me.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Software Architecture/Design</td>
                 <td>
                     <p>
                         <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>

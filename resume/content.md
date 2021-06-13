@@ -59,7 +59,7 @@
     {% include_relative sections/learning-philosophy.md %}
 </section>
 <hr class="m-0" />
-<section class="resume-section" id="interests" style="min-height: 0px;">
+<section class="resume-section" id="interests">
     {% include_relative sections/interests.md %}
 </section>
 <hr class="m-0" />
@@ -69,7 +69,7 @@
  
 <div class="d-print-none">
     <hr class="m-0" />
-    <section class="resume-section" id="go-to-anti-resume" style="min-height: 0px;">
+    <section class="resume-section" id="go-to-anti-resume">
         <div class="resume-section-content col-md-9">
             <h2 class="mb-5">Anti-résumé</h2>
             <p><a href="/resume/anti-resume">go to Anti-résumé <i class="fas fa-arrow-circle-right"></i></a></p>

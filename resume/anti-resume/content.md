@@ -37,7 +37,7 @@
 </section>
 
 <hr class="m-0" />
-<section class="resume-section" id="back-to-resume" style="min-height: 0px;">
+<section class="resume-section" id="back-to-resume">
     <div class="resume-section-content col-md-9">
         <h2 class="mb-5">Résumé</h2>
         <p><a href="/resume"><i class="fas fa-arrow-circle-left"></i> back to Résumé</a>.</p>
