@@ -26,7 +26,7 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 
 <p class="lead">I'm a software developer,
 <!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
-with over seven years of experience, including:</p>
+with over eight years of experience, including:</p>
 
 - About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript for the frontend side)
 - More than one year of experience in mobile application development using Java & Android Platform
