@@ -28,7 +28,7 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 <!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
 with over eight years of experience, including:</p>
 
-- About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript for the frontend side)
+- About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript/TypeScript for the frontend side)
 - More than one year of experience in mobile application development using Java & Android Platform
 <!-- - A few months of experience on Angular -->
 - Some experience on refactoring code and writing tests

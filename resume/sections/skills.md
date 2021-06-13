@@ -25,6 +25,12 @@
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
             </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <p><small>Rx, ORMs, Databases</small></p>
+                </td>
+            </tr>
             <!-- <tr>
                 <td>Other Languages:</td>
                 <td>
@@ -34,7 +40,7 @@
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p><small>HTML, Bootstrap, Angular</small></p>
+                    <p><small>HTML, Bootstrap, Angular, JavaScript/TypeScript</small></p>
                 </td>
             </tr>
             <!-- <tr>
