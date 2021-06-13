@@ -31,7 +31,7 @@ with over eight years of experience, including:</p>
 - About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript/TypeScript for the frontend side)
 - More than one year of experience in mobile application development using Java & Android Platform
 <!-- - A few months of experience on Angular -->
-- Some experience on refactoring code and writing tests
+- Some experience in refactoring code and writing tests
 
 <p class="lead">What can I contribute to your project?</p>
 
@@ -107,7 +107,7 @@ https://simpleprogrammer.com/2017/01/27/respecting-abstraction/
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
-    <br /><br /><br /><br />
+    <br /><br />
     <span style="font-size: 1.3em;">
         Please visit my online resume at <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a> for more...
     </span>

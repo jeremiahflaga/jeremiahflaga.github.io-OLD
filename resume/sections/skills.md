@@ -25,12 +25,12 @@
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td></td>
                 <td>
                     <p><small>Rx, ORMs, Databases</small></p>
                 </td>
-            </tr>
+            </tr> -->
             <!-- <tr>
                 <td>Other Languages:</td>
                 <td>
@@ -52,7 +52,7 @@
             <tr>
                 <td>Other Platforms</td>
                 <td>
-                    <p>I think I can work software systems written using <i>some</i> other platforms even when I have no experience working on those platform, as long as the software system adheres to good architectural guidelines and best practices on coding (clean coding). You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that I will become familiar with the coding styles of your programming team, and so that the values of your team will be passed on to me.</p>
+                    <p>I think I can work on software systems made using platforms other than .NET, even when I have no experience working on those platform, as long as the codebase of the system adheres to good architectural guidelines and best practices on coding. You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that I will become familiar with the coding styles of your programming team, and so that the values of your team will be passed on to me.</p>
                 </td>
             </tr>
             <tr>
