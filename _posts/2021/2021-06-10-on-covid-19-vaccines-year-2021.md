@@ -38,7 +38,12 @@ During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave 
 
 A few days ago (**June 2021**) I heard this from Dr. Pierre Kory, in his [interview with Bret Weinstein](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein):
 
+<small>(The video, "COVID, Ivermectin, and the Crime of the Century: DarkHorse Podcast with Pierre Kory & Bret Weinstein", was [removed from youtube](https://twitter.com/BretWeinstein/status/1403561674792075264) last June 12, 2021. You can view that same video [on BitChute](https://www.bitchute.com/video/a3a0EOIe8aK1/). Audio is available [on Apple Podcasts](https://podcasts.apple.com/fi/podcast/covid-ivermectin-crime-century-darkhorse-podcast-pierre/id1471581521?i=1000523859023))</small>
+
+
 <!-- "COVID, Ivermectin, and the Crime of the Century: DarkHorse Podcast with Pierre Kory & Bret Weinstein" -->
+
+
 
 <!-- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tn_b4NRTB6k?start=880" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
