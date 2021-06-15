@@ -49,12 +49,12 @@
                     <p>SQL, Entity Framework</p>
                 </td>
             </tr> -->
-            <tr>
+            <!-- <tr>
                 <td>Other Platforms</td>
                 <td>
                     <p>I think I can work on software systems made using platforms other than .NET, even when I have no experience working on those platform, as long as the codebase of the system adheres to good architectural guidelines and best practices on coding. You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that I will become familiar with the coding styles of your programming team, and so that the values of your team will be passed on to me.</p>
                 </td>
-            </tr>
+            </tr> -->
             <tr>
                 <td>Software Architecture/Design</td>
                 <td>

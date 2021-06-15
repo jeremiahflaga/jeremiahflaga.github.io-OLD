@@ -56,7 +56,7 @@ But who knows, these posts might someday help a poor young soul who is trying to
 
 
 
-One of the things I have observed about life so far is that people can have more courage or patience to deal with evil if they have a clear picture of what good looks like.
+One of the things I have observed about life so far is that people can have more courage or patience to deal with evil if they have a clear picture of what good looks like. But sometimes people becomes overwhelmed with the evil, they also become discouraged to face it.
 
 	As a corollary: people will know what things to avoid doing what they know is evil, but they will have no direction to go if evil is all they know. They will only have direction if they know what is good.
 	

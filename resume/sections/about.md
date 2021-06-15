@@ -28,7 +28,7 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 <!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
 with over eight years of experience, including:</p>
 
-- About seven years of experience in C# & .NET Framework (this includes experience of using JavaScript/TypeScript for the frontend side)
+- About seven years of experience in C# & .NET Framework (this includes some experience of using JavaScript/TypeScript for the frontend side)
 - More than one year of experience in mobile application development using Java & Android Platform
 <!-- - A few months of experience on Angular -->
 - Some experience in refactoring code and writing tests
@@ -39,7 +39,26 @@ with over eight years of experience, including:</p>
 - Add new features 
 - Write tests (if needed, and if I know how to do it in a specific software system)
 - Refactor and clean up codebase ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)), [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23), 
-- I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps.
+- If there is a need, I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps.
+
+<div class="alert alert-primary small" markdown="1">
+
+NOTE: Depending on the complexity of your software system, I might ask to have pair programming sessions with one of your programmers for 1-3 hours per day during my first two or four weeks on the job. This will help me become familiar with the coding styles and standards of your programming team. This will also help in passing your team's values on to me.
+
+
+> Many consultants believe that pair programming is the universal solution to any problem that a software project can have.
+> 
+> - It spreads the technical skills
+> - It spreads the functional knowledge
+> - It builds the team
+> - It's fun
+>
+> Victor Rentea, ["Brainstorming your way from a Monolith to a Clean Architecture"](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
+
+</div>
+
+
+<!-- Not sure if there are programmers who make a codebase they are working on harder to maintain on purpose. If there are, I am not that kind of programmer.  -->
 
 <!-- 
 , because you know, ["If it ain't broke, don't fix it"](https://en.wiktionary.org/wiki/if_it_ain%27t_broke,_don%27t_fix_it), but of course, also, ["what does broke mean?"](link to WELC))
