@@ -5,11 +5,12 @@ subtitle: ''
 categories: [Programming]
 tags: [DbContext, Unit of Work, Repository, .NET]
 date: 2020-10-17 01:00:00 AM UTC
-dateLastUpdated: 2021-06-15 03:50:00 AM UTC
+dateLastUpdated: 2021-06-16 08:00:00 AM UTC
 ---
 
 <!-- started October 11, 2020 PM Philippine Time -->
 <!-- Updated June 15, 2021 11:50:00 AM Philippine Time - added statements from Steven van Deursen, Mark Seemann, and others -->
+<!-- Updated June 16, 2021 4:00:00 PM Philippine Time - added statements from Steven van Deursen, Mark Seemann, and others -->
 
 I have always googled for the IoC container lifetime of DbContext, Unit of Work, and Repositories every time I create practice projects from scratch. I [tend to forget](https://www.hanselman.com/blog/TheVBEquivalentToCTypeofKeyword.aspx) what their lifetime should be, perhaps because I don't know the _why_ behind it.
 
@@ -95,3 +96,9 @@ I hope brain will not forget this ever...
 [**EntityFramework: Yes or No?**](https://www.cleverti.com/blog/entityframework-yes-or-no/) by Dinis Ferreira
 
 > Like everything else, EF has qualities and flaws...
+
+
+-----
+
+Uncle Bob Martin also talked about ORM's in his blog posts ["Dance you Imps!"](https://blog.cleancoder.com/uncle-bob/2013/10/01/Dance-You-Imps.html) and ["Classes vs. Data Structures"](https://blog.cleancoder.com/uncle-bob/2019/06/16/ObjectsAndDataStructures.html)
+
