@@ -34,20 +34,24 @@ If you intend me to work on messy codebases
 And if I will work on such codebases, I can stay long working on it **only if** the current team involved in it are cleaning it up (or intends to clean it up) bit-by-bit as they work on it daily.
 -->
 
-Because of that, it's okay for me to be involved working on a legacy (or messy) codebase **on one condition**: If you are going to hire me to work on a messy codebase, I will stay working on it for a long time **_only if_** the current team involved in it (which will include me) are cleaning it up (or intends to clean it up) [_bit-by-bit as they work on it daily_](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23). :smile:
+Because of that, it's okay for me to be involved working on a legacy (or messy) codebase **on one condition**: If you are going to hire me to work on a messy codebase, I will stay working on it for a long time **_only if_** the current team involved in it (which will include me) are cleaning it up (or intends to clean it up, and will clean it up) [_bit-by-bit as they work on it daily_](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23). :smile:
 
-If I'm the only one working on the codebase, then I strongly request that I be allowed to clean it up [bit-by-bit...](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23) except maybe when it is too messy that I do not know where or how to start, then I will not be able to clean it up. :sad:
+If I'm the only one working on the codebase, then I strongly request that I be allowed to clean it up [bit-by-bit...](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23) except maybe when it is too messy that I do not know where or how to start, then I will not be able to clean it up. :disappointed:
 
-I'm not saying that I'm already an expert in cleaning messy codebases. I'm not. But I'm studying to be good at it too. And one of the reasons why I want to be part of a team who wants to keep their codebases clean is that I want to learn from them; I want to learn their techniques of cleaning up codebases; I hope they can also learn from me. Another reason why I want the codebases I will be working on as clean as I can make it is because I do not want the programmers who will inherit my codebase to [spit lots of WT*s](https://www.osnews.com/story/19266/wtfsm/) while working on it in the future. :grin: Another reason is because ["a well-crafted code base makes me happy to go to work every day"](https://verraes.net/2011/04/beautiful-code/). Another is [pride](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557). Lastly, if I stay long working on a project, there might arise a problem someday which will be hard to solve, or will take very long to solve, if the codebase is messy.
+I'm not saying that I'm already an expert in cleaning messy codebases. I'm not. But I'm studying to be good at it too. 
+
+And one of the reasons why I want to be part of a team who wants to keep their codebases clean is that I want to learn from them. I want to learn their techniques of cleaning up codebases. I hope they can also learn from me. 
+
+Another reason why I want the codebases I will be working on as clean as I can make it is because I do not want the programmers who will inherit my codebase to [spit lots of WT*s](https://www.osnews.com/story/19266/wtfsm/) while working on it in the future. :grin: Another reason is because ["a well-crafted code base makes me happy to go to work every day"](https://verraes.net/2011/04/beautiful-code/). Another is [pride](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557), a good kind of pride I hope. Lastly, if I stay long working on a project, there might arise a problem someday which will be hard to solve, or will take very long to solve, if the codebase is messy.
 
 Okay... That's my condition before I will agree to work on a messy codebase. I hope that is okay with you. :blush:
 
-<!-- 
+-----
+
 If you hire me to work on a messy codebase, and the team working on it does not care about it and does not have a plan of doing something to clean it up bit-by-bit, I will work on that project and with that team _only if_ you pay me a million pesos per month. :grin: :laughing:
 
 I'm including this here in my anti-résumé because I noticed in my previous jobs that if a programming team does not have a common set of values (such as adhering to ["Always leave the codebase cleaner than you found it"](http://verraes.net/2011/04/beautiful-code/)) working on a project will become frustrating. And frustrated people will not be very productive.
 
 And if I noticed that I'm not productive in my job, I feel ashamed and I tend to quit.
- -->
 
 </div>

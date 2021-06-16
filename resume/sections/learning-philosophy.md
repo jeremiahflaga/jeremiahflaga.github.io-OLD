@@ -10,7 +10,9 @@ But then I heard Uncle Bob Martin saying that software development [has not chan
 
 > "... **learn the stuff that doesn’t change around a lot**. Learn the fundamentals that we figured out in the 70s and that have been true since. Learn programming in general. Don’t be a better Angular programmer, or even a better JavaScript programmer — just be a better programmer, period."
 
-So today, my focus moved into learning the basic principles of software design, because these are the things that do not change a lot, and these things will help me make software that is [highly maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software for customers (and for the programmers also).
+So today, my focus moved into learning the basic principles of software design, because these are the things that do not change a lot, and these things will help me make software that is [highly maintainable](https://terencemcghee.com/Articles/Tech/2016/10/15/551B3828CD47198C7C5A58903228DA71.html), which many master programmers say is the primary value of software for customers (and for the programmers also). And the maintenance phase is the most costly phase in the life of software.
+
+> "The true cost of software (80%) lies in its maintenance, not in its initial development." --- from ["The Art of Clean Code" by Victor Rentea](https://youtu.be/AeWbJ5LIFNg?t=205)
 
 <!-- 
 Many years ago, I heard/read someone say that the maintenance phase is the most expensive phase of a software system.

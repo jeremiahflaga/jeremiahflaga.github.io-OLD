@@ -35,13 +35,12 @@ Here are some interesting quotes from the book to awake your excitement:
 
 ## Preface
 
-> ... we are kidding ourselves if we think that we can know all the requirements and build the perfect system. The best we can hope for is to build a useful system that will survive long enough for it to be
-asked to do something new.
+> ... we are kidding ourselves if we think that we can know all the requirements and build the perfect system. The best we can hope for is to build a useful system that will survive long enough for it to be asked to do something new.
 
 > ... the most interesting and challenging side of software engineering may not be building brand new software systems, but rejuvenating existing ones.
 
 > Patterns as a form of documentation are most useful and interesting when the problem being considered entails a number of conflicting _forces_, and the solution described entails a number of _tradeoffs_.
-... Understanding these tradeoffs is essential to successfully applying the patterns.
+> ... Understanding these tradeoffs is essential to successfully applying the patterns.
 
 > ... If you take an extreme viewpoint, you could say that every software project is a reengineering project.
 
@@ -107,8 +106,7 @@ been developed and adapted without having been reengineered. The wrong conclusio
 > Maintenance fact #2. In 1998, support and maintenance of production systems continues to be treated as second-class work.” — Rob Thomsett
 
 
-> We learned the hard way that maintainers are very proud about their job and very sensitive to critique.
-Therefore, we emphasize that such a kick-off meeting must be “maintainer oriented”, i.e. aimed to let the maintainers show what they do well and what they want to do better. Coming in with the attitude that you — the newcomer — will teach these stupid maintainers how to do a proper job will almost certainly lead to disasters.
+> We learned the hard way that maintainers are very proud about their job and very sensitive to critique. Therefore, we emphasize that such a kick-off meeting must be “maintainer oriented”, i.e. aimed to let the maintainers show what they do well and what they want to do better. Coming in with the attitude that you — the newcomer — will teach these stupid maintainers how to do a proper job will almost certainly lead to disasters.
 
 <small>Very very interesting... I hope I will not forget this.</small>
 
