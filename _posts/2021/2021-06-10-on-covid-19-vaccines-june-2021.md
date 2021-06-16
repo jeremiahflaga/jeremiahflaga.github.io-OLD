@@ -5,12 +5,13 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-12 12:00:00 AM UTC
-published: false
+dateLastUpdated: 2021-06-16 12:00:00 PM UTC
+published: true
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
 <!-- Updated June 12, 2021 5:40 AM  Philippine Time - removed conclusion -->
+<!-- Updated June 16, 2021 2:30 PM  Philippine Time - added other links on Bret Weinstein interviews -->
 
 During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
 
@@ -71,6 +72,21 @@ and fluids. And as they did supportive care only --- because there was no random
 -----
 
 I don't really know some of the terminologies used in those statements --- tylenol, cytopathic changes, etc. But considering only those statments that we, laypeople, can understand, and analyzing them, what do you hear them saying?
+
+
+-----
+
+**Other interesting inteviews by Bret Weinstein:**
+
+- [Spike protein is very dangerous, it's cytotoxic (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=Du2wm5nhTXY&list=LL&index=13&ab_channel=DarkHorsePodcastClips)
+
+- [Spike Protein & Immune Escape - Dr Robert Malone (Inventor mRNA Vaccines), PhD Bret Weinstein &Steve](https://www.youtube.com/watch?v=aMB1dRJNHe8&ab_channel=JusticeLeague)
+
+- [DarkHorse Podcast with Geert Vanden Bossche & Bret Weinstein](https://www.youtube.com/watch?v=BNyAovuUxro&ab_channel=BretWeinstein)
+
+- [Trials on various COVID treatments (Robert Malone, Steve Kirsch, Bret Weinstein)
+](https://www.youtube.com/watch?v=LejHy4UYBtw&ab_channel=DarkHorsePodcastClips)
+
 
 <!-- 
 <small>
