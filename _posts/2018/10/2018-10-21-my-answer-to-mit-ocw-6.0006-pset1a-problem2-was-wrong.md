@@ -137,7 +137,7 @@ But sometimes it's not really misplaced confidence but laziness. :laughing:
 
 And sometimes it is tiredness...
 
-Sometimes, perhaps oftentimes, we just need someone else to check our confidence or our attitude when writing code. This makes me remember what Victor Rentea said about pair programming in his talk ["Brainstorming your way from a Monolith to a Clean Architecture"](https://www.youtube.com/watch?v=4-4ahz7zDiQ): 
+Sometimes, perhaps oftentimes, we just need someone else to check our confidence or our attitude when writing code. This makes me remember what Victor Rentea said about pair programming in his talk ["Brainstorming a Clean, Pragmatic Architecture"](https://www.youtube.com/watch?v=mBxpOvlbAow&ab_channel=JUG.ru): 
 
 > Many consultants believe that pair programming is the universal solution to any problem that a software project can have.
 > 

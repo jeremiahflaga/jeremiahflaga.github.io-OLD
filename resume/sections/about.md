@@ -53,7 +53,7 @@ NOTE: Depending on the complexity of your software system, I might ask to have p
 > - It builds the team
 > - It's fun
 >
-> --- Victor Rentea, ["Brainstorming your way from a Monolith to a Clean Architecture"](https://www.youtube.com/watch?v=4-4ahz7zDiQ)
+> --- Victor Rentea, ["Brainstorming a Clean, Pragmatic Architecture"](https://www.youtube.com/watch?v=mBxpOvlbAow&ab_channel=JUG.ru)
 
 </div>
 
