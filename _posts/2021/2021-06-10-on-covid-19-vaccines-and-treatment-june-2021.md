@@ -1,17 +1,19 @@
 ---
 layout: post
-title: 'On COVID-19 vaccines, June 2021'
+title: 'On COVID-19 vaccines and treatment, June 2021'
 subtitle: 
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-16 12:00:00 PM UTC
+dateLastUpdated: 2021-06-16 07:20:00 PM UTC
 published: true
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
 <!-- Updated June 12, 2021 5:40 AM  Philippine Time - removed conclusion -->
-<!-- Updated June 16, 2021 2:30 PM  Philippine Time - added other links on Bret Weinstein interviews -->
+<!-- Updated June 16, 2021 3:20 PM  Philippine Time - added other links on Bret Weinstein interviews; and Ivermectin treatment for COVID-19 -->
+
+#### John Ioannidis on corona vaccines
 
 During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
 
@@ -36,7 +38,8 @@ During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave 
 > I wish that we could do it very fast, and I want to see these studies done, and I know that lots of brilliant scientists are working on this front, and I want to remain optimistic. But it's unlikely that we will be able to wait for 12 or 18 or 24 months to get a vaccine, and even more so under such uncertainty. I don't think that we can remain in lockdown states for so long and not just destroy ourselves, destroy our communities, destroy our societies, create huge problems for health, for unemployment, for out economy, for our society, that are much worse than even the worst and most pessimistic scenario of what corona virus can do.
 
 
------
+
+#### Pierre Kory on COVID-19
 
 A few days ago (**June 2021**) I heard this from Dr. Pierre Kory, in his [interview with Bret Weinstein](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein):
 
@@ -69,14 +72,29 @@ and fluids. And as they did supportive care only --- because there was no random
 
 
 
------
+<div class="alert alert-danger" markdown="1">
 
 I don't really know some of the terminologies used in those statements --- tylenol, cytopathic changes, etc. But considering only those statments that we, laypeople, can understand, and analyzing them, what do you hear them saying?
 
+</div>
+
 
 -----
 
-**Other interesting inteviews by Bret Weinstein:**
+#### Pierre Kory & Bret Weinstein also talked about solutions/treatments in [the video](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein)
+
+- 01:27:31 Will vaccines work against variants? Ivermectin Vs vaccines
+
+- 01:32:01 Dosage of ivermectin for prevention, exposure, and treatment
+
+- 02:20:55 Post vaccine syndrome and ivermectin
+
+
+This video by Mobeen Syed also talks about Ivermectin dosage, side-effects and contraindications: [Ivermectin Dose For COVID (Prophylaxis, Acute Disease, Long Haulers)](https://www.youtube.com/watch?v=f7RqPjDZyeg&ab_channel=MobeenSyed)
+
+-----
+
+#### Other interesting inteviews by Bret Weinstein:
 
 - [Spike protein is very dangerous, it's cytotoxic (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=Du2wm5nhTXY&list=LL&index=13&ab_channel=DarkHorsePodcastClips)
 
