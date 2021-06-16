@@ -37,13 +37,19 @@ with over eight years of experience, including:</p>
 
 - Fix bugs.
 - Add new features.
-- Refactor and clean up codebase, [if needed](/2020/07/31/some-legacy-code-lessons-and-resources/), [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23).
-- Write tests, if needed, and if I know of a way to make your software system testable if it is not yet testable.
-- If there is a need, I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps.
+- Refactor and clean up codebase [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23) ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)).
+- Write tests, if needed, 
+
+<!-- 
+and if I know of a way to make your software system testable if it is not yet testable.
+- If there is a need, I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps. 
+-->
+
+-----
 
 <div class="alert alert-secondary" markdown="1">
 
-NOTE: Depending on the complexity of your software system, I might ask to have pair programming sessions with one of your programmers, for 1-3 hours per day, during my first two or four weeks on the job. And maybe once every two weeks after that, if needed. This will help me become familiar with the coding styles and standards of your programming team. This will also help in passing your team's values on to me.
+NOTE: Depending on the complexity of your software system, I might ask to have pair programming sessions with one of your programmers, for 1-3 hours per day, during my first few weeks on the job. And maybe once every two weeks after that, if needed. This will help me become familiar with the coding styles and standards of your programming team. This will also help in passing your team's values on to me.
 
 
 > Many consultants believe that pair programming is the universal solution to any problem that a software project can have.
@@ -115,13 +121,13 @@ https://simpleprogrammer.com/2017/01/27/respecting-abstraction/
         <a href="https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/">
             "line-of-business applications"
         </a>
-        <a href="#lob-apps-footnote-indicator">&uarr;</a>
+        <a href="#lob-apps-footnote-indicator">&#8617;</a>
     </p>
 </div> 
  -->
 
 <div class="d-none d-print-block">
-    <br /><br />
+    <br /><br /><br /><br /><br /><br />
     <span style="font-size: 1.3em;">
         Please visit my online resume at <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a> for more...
     </span>

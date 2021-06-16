@@ -20,17 +20,11 @@
             <tr>
                 <td>.NET</td>
                 <td>
-                    <p>C#, ASP.NET MVC Web API</p>
+                    <p>C#, ASP.NET Web API, <small>ASP.NET MVC, VB.NET</small></p>
                     <!-- <p>C#, <small>VB.NET</small></p>
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
             </tr>
-            <!-- <tr>
-                <td></td>
-                <td>
-                    <p><small>Rx, ORMs, Databases</small></p>
-                </td>
-            </tr> -->
             <!-- <tr>
                 <td>Other Languages:</td>
                 <td>
@@ -40,7 +34,16 @@
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p><small>HTML, Bootstrap, Angular, JavaScript/TypeScript</small></p>
+                    <p><small>HTML, Bootstrap, Angular, JavaScript, TypeScript</small></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Other</td>
+                <td>
+                    <p><small>Entity Framework, SQL, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></small></p>
+                    <p>
+                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
+                    </p>
                 </td>
             </tr>
             <!-- <tr>
@@ -64,12 +67,12 @@
                     <p>
                         The <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> of Uncle Bob Martin
                     </p>
-                    <p>
+                    <!-- <p>
                         <small>Some DDD concepts</small>
-                    </p>
+                    </p> -->
                 </td>
             </tr>
-            <!-- <tr>
+            <tr>
                 <td>Working with Legacy Code:</td>
                 <td>
                     <p>
@@ -79,6 +82,9 @@
                         <small>I had read "Working Effectively with Legacy Code" by Michael Feathers last 2018</small>
                     </p>
                     <p>
+                        Please refer also to the section in my Anti-résumé titled <a href="/resume/anti-resume/#if-your-codebase-is-messy">"If your codebase is messy"</a>.
+                    </p>
+                    <!-- <p>
                         <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
                     </p>
                     <p>
@@ -86,11 +92,9 @@
                     </p>
                     <p>
                         The majority of the code bases I have been involved in since I started working as a programmer were legacy code bases.
-                    </p>
+                    </p> -->
                 </td>
-            </tr> 
-            -->
-            <!-- 
+            </tr>
             <tr>
                 <td>Basic Computer Science Concepts:</td>
                 <td>
@@ -104,7 +108,6 @@
                     </p>
                 </td>
             </tr>
-             -->
              <!-- 
             <tr>
                 <td>Other:</td>
@@ -188,10 +191,7 @@ But if you cannot find anyone to work with your codebase, and if I also cannot f
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
-    <br /><br /><br /><br />
-    <br /><br /><br /><br />
-    <br /><br /><br /><br />
-    <br /><br /><br /><br />
+    <br />
 </div>
 
 

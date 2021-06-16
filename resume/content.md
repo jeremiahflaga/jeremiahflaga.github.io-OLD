@@ -44,7 +44,7 @@
             <br /><br /><br /><br />
             <br /><br /><br /><br />
             <br /><br /><br /><br />
-            <br /><br /><br /><br />
+            <br /><br /><br />
         </div>
     </div>
 </section>
@@ -62,11 +62,13 @@
 </section>
 
 <!-- 
+{% comment %}
 <hr class="m-0" />
 <section class="resume-section" id="education">
     {% include_relative sections/education.md %}
 </section>
-  -->
+{% endcomment %}
+ -->
 
 <div class="d-print-none">
     <hr class="m-0" />
