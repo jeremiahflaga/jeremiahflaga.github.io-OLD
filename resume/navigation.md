@@ -12,7 +12,7 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#software-ninja-class">Software Ninja Class</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#learning-philosophy">Learning Philosophy</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+            <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li> -->
             <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> -->
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#go-to-anti-resume">Anti-résumé</a></li>
         </ul>

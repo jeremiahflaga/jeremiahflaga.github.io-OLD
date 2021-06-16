@@ -60,11 +60,14 @@
 <section class="resume-section" id="interests">
     {% include_relative sections/interests.md %}
 </section>
+
+<!-- 
 <hr class="m-0" />
 <section class="resume-section" id="education">
     {% include_relative sections/education.md %}
 </section>
- 
+  -->
+
 <div class="d-print-none">
     <hr class="m-0" />
     <section class="resume-section" id="go-to-anti-resume">
