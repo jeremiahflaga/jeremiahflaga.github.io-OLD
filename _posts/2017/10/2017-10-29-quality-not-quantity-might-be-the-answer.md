@@ -4,9 +4,11 @@ title: Quality, not quantity, might be the answer
 categories: [Programming]
 tags: [Clean Architecture, Robert Martin, David Parnas, Jeff Atwood, Software Craftsmanship]
 date: 2017-10-29 03:55:00 PM UTC
+dateLastUpdated: 2021-06-18 04:00:00 PM UTC
 ---
 
 <!-- October 29, 2017 11:55:00 PM Philippine Time -->
+<!-- Updated June 18, 2021 12:00:00 AM Philippine Time - added footnote on programmers as one of the most intelligent, from No Silver Bullet of Fred Brooks-->
 
 During the panel discussion at the DevCon Davao 2017 last October 7, the panelists talked about the _number of programmers needed by the industry_ versus the _number of programmers being produced by the academia_.
 
@@ -58,6 +60,10 @@ _Where do we get good software architects?_
 
 I'm not sure if we can _easily_ get them from anywhere. But, even though there are incompetent programmers (as said by David Parnas above), I also heard many master programmers who said that software developers are one of the most intelligent and most educated people in the world.
 
+For example, Fred Brooks said this in "No Silver Bullet": 
+
+> We can get good designs by following good practices instead of poor ones. Good design practices can be taught. Programmers are among the most intelligent part of the population, so they can learn good practice...
+
 Maybe we can get good software architects by training existing software developers about software architecture and design!
 
 The next question would be **_"How?"_**.
@@ -76,6 +82,18 @@ _Wow!_
 But... _where to get mentors?_ 
 
 <small>_(I remember reading someone named Jakob who offers mentorship! ... [Jakob Holderbaum](https://jakob.io))_</small>
+
+<br />
+
+-----
+
+**Footnotes:**
+
+<sup id="no-silver-bullet-footnote">[1]</sup> 
+<small>
+For example, Fred Brooks said this in ["No Silver Bullet"](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html): _"The central question in how to improve the software art centers, as it always has, on people. We can get good designs by following good practices instead of poor ones. Good design practices can be taught. Programmers are among the most intelligent part of the population, so they can learn good practice..."_
+</small>
+[&#8617;](#no-silver-bullet-footnote-indicator)
 
 
 <!--

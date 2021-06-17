@@ -33,12 +33,12 @@ Footnotes
 <sup id="footnote-1">[[1]](#footnote-indicator-1)</sup> <small>One example of something...</small>
 
 Footnotes 2
-<sup id="footnote-indicator-1">[[1]](#footnote-1)</sup>
-<sup id="footnote-1">[1]</sup> 
+<sup id="footnote-indicator">[[1]](#footnote)</sup>
+<sup id="footnote">[1]</sup> 
 <small>
 One example of something...
 </small>
-[&#8617;](#footnote-indicator-1)
+[&#8617;](#footnote-indicator)
 
 
 

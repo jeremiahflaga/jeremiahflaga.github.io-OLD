@@ -5,17 +5,20 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-16 07:20:00 PM UTC
+dateLastUpdated: 2021-06-18 04:00:00 PM UTC
 published: true
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
 <!-- Updated June 12, 2021 5:40 AM  Philippine Time - removed conclusion -->
 <!-- Updated June 16, 2021 3:20 PM  Philippine Time - added other links on Bret Weinstein interviews; and Ivermectin treatment for COVID-19 -->
+<!-- Updated June 18, 2021 12:00:00 AM Philippine Time - added video by Dr. John Campbell; and comments on cycle threshold of PCR tests -->
 
-#### John Ioannidis on corona vaccines
 
-During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
+
+### John Ioannidis on corona vaccines, April 2020
+
+During the early days of the pandemic (April 2020), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
 
 <!-- "Perspectives on the Pandemic | Dr. John Ioannidis Update: 4.17.20 | Episode 4" -->
 
@@ -39,9 +42,9 @@ During the early days of the pandemic (**April 2020**), Dr. John Ioannidis gave 
 
 
 
-#### Pierre Kory on COVID-19
+### Pierre Kory on COVID-19, June 2021
 
-A few days ago (**June 2021**) I heard this from Dr. Pierre Kory, in his [interview with Bret Weinstein](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein):
+A few days ago (June 2021) I heard this from Dr. Pierre Kory, in his [interview with Bret Weinstein](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein):
 
 <small>(The video, "COVID, Ivermectin, and the Crime of the Century: DarkHorse Podcast with Pierre Kory & Bret Weinstein", was [removed from youtube](https://twitter.com/BretWeinstein/status/1403561674792075264) last June 12, 2021. You can view that same video [on BitChute](https://www.bitchute.com/video/a3a0EOIe8aK1/). Audio is available [on Apple Podcasts](https://podcasts.apple.com/fi/podcast/covid-ivermectin-crime-century-darkhorse-podcast-pierre/id1471581521?i=1000523859023))</small>
 
@@ -79,6 +82,13 @@ I don't really know some of the terminologies used in those statements --- tylen
 </div>
 
 
+<!-- 
+<small>
+If I understood those statements correctly, they seem to sound like "if ones immune system is able to handle the vaccine it would have been able to handle the SARS-CoV-2 virus itself". Not sure, but that's how they sound to me. :smiley: _(I heard that I can say anything on the internets as long as there is a smiley at the end.)_ Lots of smiley for you; please don't be angry with me. :smiley: :smiley: :smiley:
+</small>
+ -->
+
+
 -----
 
 #### Pierre Kory & Bret Weinstein also talked about solutions/treatments in [the video](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein)
@@ -96,21 +106,59 @@ This video by Mobeen Syed also talks about Ivermectin dosage, side-effects and c
 
 #### Other interesting inteviews by Bret Weinstein:
 
-- [Spike protein is very dangerous, it's cytotoxic (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=Du2wm5nhTXY&list=LL&index=13&ab_channel=DarkHorsePodcastClips)
+- [Spike protein is very dangerous, it's cytotoxic (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=Du2wm5nhTXY&ab_channel=DarkHorsePodcastClips)
 
 - [Spike Protein & Immune Escape - Dr Robert Malone (Inventor mRNA Vaccines), PhD Bret Weinstein &Steve](https://www.youtube.com/watch?v=aMB1dRJNHe8&ab_channel=JusticeLeague)
 
 - [DarkHorse Podcast with Geert Vanden Bossche & Bret Weinstein](https://www.youtube.com/watch?v=BNyAovuUxro&ab_channel=BretWeinstein)
 
-- [Trials on various COVID treatments (Robert Malone, Steve Kirsch, Bret Weinstein)
-](https://www.youtube.com/watch?v=LejHy4UYBtw&ab_channel=DarkHorsePodcastClips)
+- [Trials on various COVID treatments (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=LejHy4UYBtw&ab_channel=DarkHorsePodcastClips)
 
+#### Other related videos
+
+- [Vaccination and ivermectin](https://www.youtube.com/watch?v=R0-90kvoQac&ab_channel=Dr.JohnCampbell) by Dr. John Campbell
+
+<div class="alert alert-info ml-5 small" markdown="1">
+
+There is this part in the video where Dr. John Campbell talks about "Ct>30", or cycle threshold level of more than 30, being used in the Ivermectin study from Israel. He said,
+
+> The greater the Ct value the lower the level of the virus... If someone has heavy infection then they will test positive with lower Ct values.
+
+This gives me an idea in case we be tested using PCR test. We should ask the tester to test us using Ct=1 so that we will all test negative, and we can cross borders. :smile: Just joking.
+
+Also found an [interesting comment](https://www.youtube.com/watch?v=R0-90kvoQac&lc=Ugz37igvfE7gwCaIumd4AaABAg) regarding that:
+
+> Comment: Interesting that the paper says Ct>30 is a NON-infections level. Especially considering that the world wide PCR testing started with Ct=40 and eventually got down to Ct=33. Though Ct=30 vs Ct=33 is a HUGH difference (it is exponential). It more or less correlates with the French paper that showed a Ct of about 28 had only 20% of infectious virus in the samples, so 80% of the samples were non-infectious. You can also call it 80% false positive, if you decide that you want to actually detect active/"alive"/transmissible viral load, which I would say is what the PCR test should be used for as there is no point in forcing a person with inactive viral particles to quarantine if he cannot transmit disease. --- (Rikk Show)
 
 <!-- 
-<small>
-If I understood those statements correctly, they seem to sound like "if ones immune system is able to handle the vaccine it would have been able to handle the SARS-CoV-2 virus itself". Not sure, but that's how they sound to me. :smiley: _(I heard that I can say anything on the internets as long as there is a smiley at the end.)_ Lots of smiley for you; please don't be angry with me. :smiley: :smiley: :smiley:
-</small>
+
+The paper contains this:
+
+ -- Primary endpoint was reduction of viral-load on the 6th day -- 
+
+ -- As reflected by Ct level more than 30 (non-infectious level) -- 
+
+> Indicating there is lower level of the virus there because more cycle threshold were needed to detect it.
+> 
+> The greater the Ct value the lower the level of the virus. So if this got over 30, then they said that was non-infectious level, because we have to multiply more than 30 times to get a positive result.
+> 
+> If someone has heavy infection then they will test positive with lower Ct values.
+
  -->
+ 
+ 
+</div>
+
+
+
+<div class="alert alert-info ml-5 small" markdown="1">
+Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyGR1NXz1_B2X6Z4AaABAg.9LyC60LkrtC9NqWK5BE8OY) from another youtube video:
+
+> PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
+
+</div>
+
+
 
 <!-- 
 Spike protein causes cell damage (from Livestream #79) - https://www.youtube.com/watch?v=fMjPtDK8evg&ab_channel=DarkHorsePodcastClips
@@ -125,4 +173,7 @@ COVID Vs 1918 pandemic response & impact on antibodies (Geert Vanden Bossche & B
 What should our vaccination strategy be? (Geert Vanden Bossche & Bret Weinstein) - https://www.youtube.com/watch?v=WxlJcIea5VI&ab_channel=DarkHorsePodcastClips
 
 DarkHorse Podcast with Geert Vanden Bossche & Bret Weinstein - https://www.youtube.com/watch?v=BNyAovuUxro&ab_channel=BretWeinstein
+
+How to save the world, in three easy steps. - https://www.youtube.com/watch?v=-_NNTVJzqtY&ab_channel=BretWeinstein - Bret Weinstein, Dr. Robert Malone, Mr. Steve Kirsch
+
  -->

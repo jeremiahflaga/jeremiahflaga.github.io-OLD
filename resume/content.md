@@ -60,6 +60,10 @@
 <section class="resume-section" id="interests">
     {% include_relative sections/interests.md %}
 </section>
+<hr class="m-0" />
+<section class="resume-section" id="requests-when-hired">
+    {% include_relative sections/requests-when-hired.md %}
+</section>
 
 <!-- 
 {% comment %}

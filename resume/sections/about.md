@@ -38,13 +38,10 @@ with over eight years of experience, including:</p>
 - Fix bugs.
 - Add new features.
 - Refactor and clean up codebase [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23) ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)).
-- Write tests, if needed, 
+- Write tests, if needed <!-- ,and if I know of a way to make your software system testable if it is not yet testable.-->
+- If there is a need, I think I can teach younger developers the concepts of clean coding and clean architecture while working on your software, perhaps through pair programming, or through code reviews. 
 
 <!-- 
-and if I know of a way to make your software system testable if it is not yet testable.
-- If there is a need, I think I can teach younger developers the concepts of Clean Architecture and clean coding, through pair programming perhaps. 
--->
-
 -----
 
 <div class="alert alert-secondary" markdown="1">
@@ -62,7 +59,7 @@ NOTE: Depending on the complexity of your software system, I might ask to have p
 > --- Victor Rentea, ["Brainstorming a Clean, Pragmatic Architecture"](https://www.youtube.com/watch?v=mBxpOvlbAow&ab_channel=JUG.ru)
 
 </div>
-
+ -->
 
 <!-- Not sure if there are programmers who make a codebase they are working on harder to maintain on purpose. If there are, I am not that kind of programmer.  -->
 
@@ -127,7 +124,10 @@ https://simpleprogrammer.com/2017/01/27/respecting-abstraction/
  -->
 
 <div class="d-none d-print-block">
-    <br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
+    <br /><br /><br /><br />
     <span style="font-size: 1.3em;">
         Please visit my online resume at <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a> for more...
     </span>
