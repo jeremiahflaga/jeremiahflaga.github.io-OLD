@@ -67,14 +67,10 @@
     {% include_relative sections/interests.md %}
 </section>
 
-<!-- 
-{% comment %}
 <hr class="m-0" />
 <section class="resume-section" id="requests-when-hired">
     {% include_relative sections/requests-when-hired.md %}
 </section>
-{% endcomment %}
- -->
 
 <!-- 
 {% comment %}
@@ -85,8 +81,6 @@
 {% endcomment %}
  -->
 
-<!-- 
-{% comment %}
 <div class="d-print-none">
     <hr class="m-0" />
     <section class="resume-section" id="go-to-anti-resume">
@@ -97,8 +91,6 @@
         </div>
     </section>
 </div>
-{% endcomment %}
--->
 
 <!-- 
 {% comment %}
