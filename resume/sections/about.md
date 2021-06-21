@@ -128,9 +128,9 @@ https://simpleprogrammer.com/2017/01/27/respecting-abstraction/
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
-    <span style="font-size: 1.3em;">
+    <!-- <span style="font-size: 1.3em;">
         Please visit my online resume at <a href="https://jeremiahflaga.github.io/resume">jeremiahflaga.github.io/resume</a> for more...
-    </span>
+    </span> -->
 </div>
 
 

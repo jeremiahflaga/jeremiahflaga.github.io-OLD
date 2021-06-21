@@ -34,15 +34,15 @@
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p><small>KnockoutJS, Angular, JavaScript/TypeScript</small></p>
+                    <p>KnockoutJS, Angular, JavaScript/TypeScript</p>
                 </td>
             </tr>
             <tr>
                 <td>Other</td>
                 <td>
-                    <p>SQL, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></p>
+                    <p>SQL, REST, Git, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></p>
                     <p>
-                        <small><a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:</small>
+                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
                     </p>
                 </td>
             </tr>
