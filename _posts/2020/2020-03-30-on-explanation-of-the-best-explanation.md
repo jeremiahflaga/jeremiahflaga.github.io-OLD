@@ -4,7 +4,7 @@ title: '"In order to recognize an explanation as the best, you don''t have to ha
 categories: [Miscellaneous]
 tags: [William Lane Craig]
 date: 2020-03-30 01:50:00 PM UTC
-pinned: true
+pinned: false
 ---
 
 <!-- Mar 30, 2020 09:50:00 PM Philippine Time -->

@@ -16,7 +16,7 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 </h1>
 
 <div class="subheading mb-5">
-    <a href="https://www.google.com/maps/place/Kidapawan+City,+Cotabato/">Kidapawan, Cotabato, Philippines</a> &nbsp; ◦ &nbsp;  
+    <!-- <a href="https://www.google.com/maps/place/Kidapawan+City,+Cotabato/">Kidapawan, Cotabato, Philippines</a> &nbsp; ◦ &nbsp;   -->
     <!-- 
     <a href="https://www.google.com/maps/place/Cebu+City,+Cebu/">Cebu, Philippines</a> &nbsp; ◦ &nbsp; 
     -->

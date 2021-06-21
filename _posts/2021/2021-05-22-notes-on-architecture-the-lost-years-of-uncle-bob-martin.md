@@ -25,7 +25,7 @@ My treasured learning from Uncle Bob: Clean Architecture --- and I do not have a
 
 Therefore, this post.
 
-And because I'm still lazy, I'll just put here the scanned copies of my notes instead of transcribing them to typewritten text.
+I'll just put here the scanned copies of my notes instead of transcribing them to typewritten text.
 
 
 

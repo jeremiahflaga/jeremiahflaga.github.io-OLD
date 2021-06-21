@@ -18,9 +18,7 @@ pinned: false
 
 This post is just a personal inquiry into how to do a clean architecture implementation in ASP.NET MVC Web API without making the Controller know about the Presenter.
 
-This might not give any value to you. Don't waste your time reading this.
-
-Read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
+This might not give any value to you. :grin: If you want more valueable stuffs, read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
 
 </div>
 
@@ -40,7 +38,7 @@ More on this later...
 
 So, like I said above, this post might not give any value to you. Don't waste your time reading this, Read Steven van Deursen's posts [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) instead.
 
-But if you have time to waste, this post might give you an idea on what **NOT** to do in your ASP.NET MVC Web API application.
+But if you have time to waste, this post might give you an idea on what **NOT** to do in your ASP.NET MVC Web API application. :smile:
 
 </div>
 

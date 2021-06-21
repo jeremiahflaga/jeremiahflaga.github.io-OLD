@@ -18,9 +18,9 @@
     <table class="table table-sm skills">
         <tbody>
             <tr>
-                <td>.NET</td>
+                <td>.NET/.NET Core</td>
                 <td>
-                    <p>C#, ASP.NET Web API, <small>ASP.NET MVC, VB.NET</small></p>
+                    <p>C#, ASP.NET Web API, ASP.NET MVC, Entity Framework, Dapper</p>
                     <!-- <p>C#, <small>VB.NET</small></p>
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
@@ -34,15 +34,15 @@
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p><small>HTML, Bootstrap, Angular, JavaScript, TypeScript</small></p>
+                    <p><small>KnockoutJS, Angular, JavaScript/TypeScript</small></p>
                 </td>
             </tr>
             <tr>
                 <td>Other</td>
                 <td>
-                    <p><small>Entity Framework, SQL, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></small></p>
+                    <p>SQL, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></p>
                     <p>
-                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
+                        <small><a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:</small>
                     </p>
                 </td>
             </tr>
@@ -65,14 +65,17 @@
                         <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>
                     </p>
                     <p>
-                        The <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> of Uncle Bob Martin
+                        <a href="https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/">Some design Patterns</a>
+                    </p>
+                    <p>
+                        <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> of Uncle Bob Martin
                     </p>
                     <!-- <p>
                         <small>Some DDD concepts</small>
                     </p> -->
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <td>Working with Legacy Code:</td>
                 <td>
                     <p>
@@ -84,7 +87,7 @@
                     <p>
                         Please refer also to the section in my Anti-résumé titled <a href="/resume/anti-resume/#if-your-codebase-is-messy">"If your codebase is messy"</a>.
                     </p>
-                    <!-- <p>
+                    <p>
                         <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
                     </p>
                     <p>
@@ -92,9 +95,9 @@
                     </p>
                     <p>
                         The majority of the code bases I have been involved in since I started working as a programmer were legacy code bases.
-                    </p> -->
+                    </p>
                 </td>
-            </tr>
+            </tr> -->
             <tr>
                 <td>Basic Computer Science Concepts:</td>
                 <td>
@@ -103,9 +106,9 @@
                     <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/files/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
                     <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
                     </p>
-                    <p>
+                    <!-- <p>
                     ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
-                    </p>
+                    </p> -->
                 </td>
             </tr>
              <!-- 
