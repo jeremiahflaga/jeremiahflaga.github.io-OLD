@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: 'Anti-résumé'
-published: true
+published: false
 ---
 
 <!-- Navigation-->
