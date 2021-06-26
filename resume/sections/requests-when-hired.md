@@ -39,7 +39,7 @@ But these might give you some insights about the experiences of programmers, in 
     <div class="card-header p-0" id="shared-set-of-values-sessions-heading-lessons-learned">
       <p class="mb-0">
           <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#shared-set-of-values-sessions-collapse-lessons-learned" aria-expanded="false" aria-controls="shared-set-of-values-sessions-collapse-lessons-learned">
-          More:
+          More...
           </button>
       </p>
     </div>
@@ -87,7 +87,7 @@ Depending on the complexity of your software system, and depending on my familia
     <div class="card-header p-0" id="request-when-hired-pair-programming-sessions-heading-lessons-learned">
       <p class="mb-0">
           <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#request-when-hired-pair-programming-sessions-collapse-lessons-learned" aria-expanded="false" aria-controls="request-when-hired-pair-programming-sessions-collapse-lessons-learned">
-          More:
+          More...
           </button>
       </p>
     </div>
@@ -158,7 +158,7 @@ Thank you so much :smile:
     <div class="card-header p-0" id="single-architectural-vision-heading-lessons-learned">
       <p class="mb-0">
           <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#single-architectural-vision-collapse-lessons-learned" aria-expanded="false" aria-controls="single-architectural-vision-collapse-lessons-learned">
-          More:
+          More...
           </button>
       </p>
     </div>

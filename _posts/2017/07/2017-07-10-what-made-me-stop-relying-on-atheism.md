@@ -29,7 +29,7 @@ So I thought of posting this because it might help others (who will accidentally
 (You can go [here](https://www.youtube.com/watch?v=ZLZdOGCE5KQ) to listen to the debate; and [here](https://presupp101.files.wordpress.com/2012/07/apol_bahnsen_stein_debate_transcript.pdf) for the transcript.)
 
 
-## 1. [For every _expert_, there is an equal and opposite _expert_](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#Proposed_fourth_law) :smile:
+## 1. [For every _expert_, there is an equal and opposite _expert_](http://self.gutenberg.org/articles/eng/Clarke%27s_three_laws) :smile:
 
 <small>(from page 1 of the transcript)</small>
 

@@ -6,7 +6,7 @@ categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
 dateLastUpdated: 2021-06-18 04:00:00 PM UTC
-published: false
+published: true
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
@@ -115,7 +115,6 @@ This video by Mobeen Syed also talks about Ivermectin dosage, side-effects and c
 - [Trials on various COVID treatments (Robert Malone, Steve Kirsch, Bret Weinstein)](https://www.youtube.com/watch?v=LejHy4UYBtw&ab_channel=DarkHorsePodcastClips)
 
 
-<!-- 
 #### Other related videos
 
 - [Vaccination and ivermectin](https://www.youtube.com/watch?v=R0-90kvoQac&ab_channel=Dr.JohnCampbell) by Dr. John Campbell
@@ -133,7 +132,6 @@ Also found an [interesting comment](https://www.youtube.com/watch?v=R0-90kvoQac&
 > Comment: Interesting that the paper says Ct>30 is a NON-infections level. Especially considering that the world wide PCR testing started with Ct=40 and eventually got down to Ct=33. Though Ct=30 vs Ct=33 is a HUGH difference (it is exponential). It more or less correlates with the French paper that showed a Ct of about 28 had only 20% of infectious virus in the samples, so 80% of the samples were non-infectious. You can also call it 80% false positive, if you decide that you want to actually detect active/"alive"/transmissible viral load, which I would say is what the PCR test should be used for as there is no point in forcing a person with inactive viral particles to quarantine if he cannot transmit disease. --- (Rikk Show)
 
 </div>
- -->
 
 <!-- 
 
@@ -153,14 +151,12 @@ The paper contains this:
  
  
 
-<!-- 
 <div class="alert alert-info ml-5 small" markdown="1">
 Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyGR1NXz1_B2X6Z4AaABAg.9LyC60LkrtC9NqWK5BE8OY) from another youtube video:
 
 > PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
 
 </div>
- -->
 
 
 <!-- 

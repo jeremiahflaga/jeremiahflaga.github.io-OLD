@@ -5,6 +5,7 @@ categories: [Miscellaneous]
 tags: [Worldview]
 date: 2019-06-27 11:50:00 PM UTC
 dateLastUpdated: 2021-05-08 09:53:00 PM UTC
+dateLastUpdated: 2021-06-25 06:20:00 AM UTC
 hide_date: true
 pinned: true
 # permalink: /memorabilia/quotes/everyone-is-biased/
@@ -13,6 +14,7 @@ pinned: true
 <!-- pulished in blog (moved from pages section) in June 28, 2019 7:50:00 AM Philippine Time -->
 
 <!-- updated May 9, 2021 5:53 AM PHT -->
+<!-- Updated June 26, 2021 02:20:00 AM Philippine Time - added Clarke's Fourth Law -->
 
 
 <!-- 
@@ -180,6 +182,11 @@ Until you understand that, you can’t have a meeting of minds --- and you’ll 
 > --- ["Introduction to Church History"](https://www.fbcdurham.org/connect/bible-for-life/bfl-class-notes/introduction-to-church-history) FBC Durham - [Week 1 Notes](https://www.fbcdurham.org/wp-content/uploads/2015/08/Introduction-to-Church-History-1-Introduction-to-Church-History.pdf)
 
 
+
+
+> **"For every expert, there is an equal and opposite expert"**
+> 
+> [Clarke's Fourth Law](http://self.gutenberg.org/articles/eng/Clarke%27s_three_laws)
 
 
 

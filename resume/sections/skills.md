@@ -20,7 +20,7 @@
             <tr>
                 <td>.NET/.NET Core</td>
                 <td>
-                    <p>C#, ASP.NET Web API, ASP.NET MVC, Entity Framework, Dapper</p>
+                    <p>C#, ASP.NET Web API, ASP.NET MVC, Entity Framework, Dapper, xUnit, Moq</p>
                     <!-- <p>C#, <small>VB.NET</small></p>
                     <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
