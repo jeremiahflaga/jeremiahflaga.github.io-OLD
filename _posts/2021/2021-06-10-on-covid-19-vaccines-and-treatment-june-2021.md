@@ -5,7 +5,7 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-18 04:00:00 PM UTC
+dateLastUpdated: 2021-06-27 03:00:00 AM UTC
 published: true
 ---
 
@@ -13,6 +13,30 @@ published: true
 <!-- Updated June 12, 2021 5:40 AM  Philippine Time - removed conclusion -->
 <!-- Updated June 16, 2021 3:20 PM  Philippine Time - added other links on Bret Weinstein interviews; and Ivermectin treatment for COVID-19 -->
 <!-- Updated June 18, 2021 12:00:00 AM Philippine Time - added video by Dr. John Campbell; and comments on cycle threshold of PCR tests -->
+<!-- Updated June 27, 2021 11:00:00 AM Philippine Time - added quotes by C.S. Lewis -->
+
+
+<div class="alert alert-danger small" markdown="1">
+
+Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-libertarian/) usahay... kay basin himuon mandatory ang vaccinations :grin:
+
+> I do not like the pretensions of Government --- the grounds on which it demands my obedience --- to be pitched too high. I don't like the medicine-man's magical pretensions nor the Bourbon's Divine Right... I believe in God, but I detest theocracy. For every Government consists of mere men and is, strictly viewed, a makeshift; if it adds to its commands 'Thus saith the Lord', it lies, and lies dangerously.
+> 
+> On just the same ground I dread government in the name of science. That is how tyrannies come in. In every age the men who want us under their thumb, if they have any sense, will put forward the particular pretension which the hopes and fears of that age render most potent. They 'cash in'. **It has been magic, it has been Christianity. Now it will certainly be science.** Perhaps the real scientists may not think much of the tyrants' 'science'-- they didn't think much of Hitler's racial theories or Stalin's biology. But they can be muzzled.
+
+
+> I am a democrat because I believe in the Fall of Man. I think most people are democrats for the opposite reason. A great deal of democratic enthusiasm descends from the ideas of people like Rousseau, who believed in democracy because they thought mankind so wise and good that everyone deserved a share in the government. The danger of defending democracy on those grounds is that they’re not true. And whenever their weakness is exposed, the people who prefer tyranny make capital out of the exposure... **The real reason for democracy is just the reverse. Mankind is so fallen that no man can be trusted with unchecked power over his fellows.** Aristotle said that some people were only fit to be slaves. I do not contradict him. But I reject slavery because I see no men fit to be masters.
+
+
+... og kay [Frédéric Bastiat](https://fee.org/articles/was-cs-lewis-a-libertarian/)
+
+> If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? **Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?**
+
+</div>
+
+
+
+-----
 
 
 
@@ -157,6 +181,27 @@ Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyG
 > PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
 
 </div>
+
+
+-----
+
+<!-- 
+You might ask why I am putting these here... It's because s
+ -->
+
+Sometimes (or maybe most of the times), [when we try to control things we are not supposed to control, we are actually making things worse.](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/)
+
+
+<!-- 
+> We who favor liberty over lockdowns don’t pretend to have all the answers. We don’t pretend to know exactly how a more free society would deal with COVID-19. If we did, we would be just as epistemically arrogant as the central planners we criticize.
+> 
+> But one thing we definitely know better than even the most scientifically knowledgable lockdowner is how little any one of us knows about such a complex challenge.
+> 
+> Thus, we also know that the response of free people to complex emergencies like COVID-19, whatever it may be, will be better informed and better for us all than anything scientific central planners can come up with.
+> 
+> --- Dan Sanchez, ["Why Most Fell for the Lockdowns, While a Few Stood for Liberty: Central planning, science, and the pretense of omniscience"](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/)
+ -->
+
 
 
 <!-- 
