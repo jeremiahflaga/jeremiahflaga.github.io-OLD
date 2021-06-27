@@ -5,7 +5,7 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-27 03:00:00 AM UTC
+dateLastUpdated: 2021-06-27 10:30:00 AM UTC
 published: true
 ---
 
@@ -14,9 +14,10 @@ published: true
 <!-- Updated June 16, 2021 3:20 PM  Philippine Time - added other links on Bret Weinstein interviews; and Ivermectin treatment for COVID-19 -->
 <!-- Updated June 18, 2021 12:00:00 AM Philippine Time - added video by Dr. John Campbell; and comments on cycle threshold of PCR tests -->
 <!-- Updated June 27, 2021 11:00:00 AM Philippine Time - added quotes by C.S. Lewis -->
+<!-- Updated June 28, 2021 06:30:00 AM Philippine Time - added more quotes from different sources -->
 
 
-<div class="alert alert-danger small" markdown="1">
+<div class="alert alert-info small" markdown="1">
 
 Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-libertarian/) usahay... kay basin himuon mandatory ang vaccinations :grin:
 
@@ -31,6 +32,16 @@ Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-liberta
 ... og kay [Frédéric Bastiat](https://fee.org/articles/was-cs-lewis-a-libertarian/)
 
 > If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? **Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?**
+
+
+... og kay Thomas Sowell
+
+> It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong.
+
+
+... og kay [Matt Kibbe](https://youtu.be/P1WKcaIbOjM) <!-- "The Deadly Isms \| S1 Ep 4: Things Dictators Don't Know" -->
+
+> ... top down control fails because those at the top can never have enough knowledge to coordinate the activities of millions of people, not even with all the supercomputers in the world. And even when they try, the results have been some of the worst cases of human suffering in history. The only other option is to let people plan their own lives as long as they don't hurt people or take their stuff. Trust that these individual plans will come together into a whole that is greater than the sum of its parts, and that none of us knows as much as all of us.
 
 </div>
 
@@ -52,6 +63,8 @@ During the early days of the pandemic (April 2020), Dr. John Ioannidis gave this
 
 <!--more-->
 
+<div class="small" markdown="1">
+
 <small>(35:00)</small>
 
 > I would like to be optimistic that we should be able to regain much of our functional life before vaccine becomes available, if ever a vaccine becomes available because, as we discussed, there is all these caveats about the ability to get a vaccine done and get it out there in massive production.
@@ -63,6 +76,8 @@ During the early days of the pandemic (April 2020), Dr. John Ioannidis gave this
 > We need to understand what is the exact mechanism that is leading to severe outcome in humans and death, and **we need to understand whether it is the virus itself, or is it the immune response to the virus that is doing more damage in different cases**. If it is the virus, and the problem is that we don't get enough of an immune response, then we need to have a vaccine. **If the problem is that it's the overreaction of our immune system, that eventually leads to accidentally to destroying our own cells like lung cells, then a vaccine may actually be a bad idea.** Bottom line: a vaccine needs to be very thoroughly tested. We need to have solid evidence that it works, solid evidence that it makes things better, solid evidence that it will save lives. And this cannot be done overnight.
 >
 > I wish that we could do it very fast, and I want to see these studies done, and I know that lots of brilliant scientists are working on this front, and I want to remain optimistic. But it's unlikely that we will be able to wait for 12 or 18 or 24 months to get a vaccine, and even more so under such uncertainty. I don't think that we can remain in lockdown states for so long and not just destroy ourselves, destroy our communities, destroy our societies, create huge problems for health, for unemployment, for out economy, for our society, that are much worse than even the worst and most pessimistic scenario of what corona virus can do.
+
+</div>
 
 
 
@@ -81,6 +96,8 @@ A few days ago (June 2021) I heard this from Dr. Pierre Kory, in his [interview 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tn_b4NRTB6k?start=880" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  -->
 
+<div class="small" markdown="1">
+
 <small>(14:40)</small>
 
 > What was recognized early on is that it was a disease of phases. So it started out as a general viral syndrome --- most people recovered, self-limited, it
@@ -95,6 +112,8 @@ and fluids. And as they did supportive care only --- because there was no random
 > ...
 >
 > ... **It's incorrect to say that they were dying of the virus.** We knew relatively early on by the time they get to the ICU, and they're that sick, there's not a lot of viral replication going on. In fact you can't culture virus after about day seven or eight. **And so it's actually disease of inflammation, not viral invasion.** In fact in autopsy series only 20 percent do they find what's called cytopathic changes from the virus into the lung. And so you didn't have to go after the virus at that point. You had to actually check the inflammation.
+
+</div>
 
 
 
@@ -112,6 +131,7 @@ If I understood those statements correctly, they seem to sound like "if ones imm
 </small>
  -->
 
+<br />
 
 -----
 
@@ -125,6 +145,9 @@ If I understood those statements correctly, they seem to sound like "if ones imm
 
 
 This video by Mobeen Syed also talks about Ivermectin dosage, side-effects and contraindications: [Ivermectin Dose For COVID (Prophylaxis, Acute Disease, Long Haulers)](https://www.youtube.com/watch?v=f7RqPjDZyeg&ab_channel=MobeenSyed)
+
+
+<br />
 
 -----
 
@@ -176,9 +199,19 @@ The paper contains this:
  
 
 <div class="alert alert-info ml-5 small" markdown="1">
+
 Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyGR1NXz1_B2X6Z4AaABAg.9LyC60LkrtC9NqWK5BE8OY) from another youtube video:
 
 > PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
+
+</div>
+
+
+<div class="alert alert-info ml-5 small" markdown="1">
+
+Also [this](https://covidcalltohumanity.org/2021/05/24/sweden-pcr-cannot-be-used-for-diagnosis/), from the COVID Call to Humanity website:
+
+> “The PCR technology used in tests to detect viruses cannot distinguish between viruses capable of infecting cells and viruses that have been neutralized by the immune system and therefore these tests cannot be used to determine whether someone is contagious or not. RNA from viruses can often be detected for weeks (sometimes months) after the illness but that does not mean that you are still contagious.”
 
 </div>
 
@@ -192,15 +225,38 @@ You might ask why I am putting these here... It's because s
 Sometimes (or maybe most of the times), [when we try to control things we are not supposed to control, we are actually making things worse.](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/)
 
 
-<!-- 
+
+
+<div class="alert alert-info small" markdown="1">
+
+
 > We who favor liberty over lockdowns don’t pretend to have all the answers. We don’t pretend to know exactly how a more free society would deal with COVID-19. If we did, we would be just as epistemically arrogant as the central planners we criticize.
 > 
 > But one thing we definitely know better than even the most scientifically knowledgable lockdowner is how little any one of us knows about such a complex challenge.
 > 
 > Thus, we also know that the response of free people to complex emergencies like COVID-19, whatever it may be, will be better informed and better for us all than anything scientific central planners can come up with.
 > 
-> --- Dan Sanchez, ["Why Most Fell for the Lockdowns, While a Few Stood for Liberty: Central planning, science, and the pretense of omniscience"](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/)
- -->
+> --- Dan Sanchez, ["Why Most Fell for the Lockdowns, While a Few Stood for Liberty: Central planning, science, and the pretense of omniscience"](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/), FEE (Freedom for Economic Education )
+
+
+
+> ... The problem here is not that public health officials are wicked. Let’s assume they are all noble and well-meaning. The problem is that they are bound to maximize a certain kind of safety, to the neglect of other goods...
+>
+> ... putting medical specialists in charge of nations – or the whole globe – is asking for overly cautious and even oppressive policies. These experts tend to become fixated on the single malady in front of them, to the exclusion of any other concern – with tragic results for us...
+>
+> --- from ["COVID-19: the tyranny of experts"](https://www.acton.org/religion-liberty/volume-30-number-4/covid-19-tyranny-experts) of Acton Institute
+
+
+> Public health officials certainly have a role to play, but they themselves are not experts at everything. By definition, they do not fully understand the other consequences and considerations that must be weighed and balanced, and they, of course, are lacking in the local dispersed knowledge needed to make such decisions. Yet that does not stop them from making declarations dripping with arrogance...
+>
+> The phenomenon of the learned ignoramus can be seen in every field and at all levels of intellectual life and popular punditry. However, the current crisis reveals the damage such “experts” can wreak upon civilization itself.
+>
+> --- from [an article](https://mises.org/wire/anthony-fauci-learned-ignoramus) from Mises Institute
+
+</div>
+
+
+
 
 
 
