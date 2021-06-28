@@ -272,6 +272,19 @@ Also [this](https://covidcalltohumanity.org/2021/05/24/sweden-pcr-cannot-be-used
 
 </div>
 
+<div class="alert alert-info ml-5 small" markdown="1">
+
+And [this](https://mises.org/wire/absurdity-covid-cases), by Jeff Deist:
+
+> ... the tests themselves are almost laughably unreliable in producing both false positives and negatives. And what is the point? Are we going to test people again and again, every time they go out to the grocery or bump into a neighbor? Second, detecting virus particles or droplets in a human's respiratory tract tells us very little. It certainly does not tell us they are sick, or transmitting sickness to anyone. 
+> 
+> Take a perfectly healthy person with no particular symptoms and swab the inside of their nose. If the culture shows the presence of _staphylococcus aureus_, do we insist they have a staph infection? When someone drives to work without incident or accident, do we create statistics about their exposure to traffic?
+> 
+> — A virus is not a disease. Only a very small percentage of those exposed to the virus itself — SARS-CoV-2 — show any kind of acute respiratory symptoms, or what we can call "coronavirus disease." 
+
+</div>
+
+
 
 -----
 
