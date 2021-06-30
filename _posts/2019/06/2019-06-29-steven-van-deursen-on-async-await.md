@@ -42,7 +42,7 @@ That means that I have to start to really really master asynchronous programming
 
 But... 
 
-A few weeks after reading Stephen Cleary's article(s), I read another hero-of-mine-to-be, Steven van Deursen, [recommending _against_ using async/await by default](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/#steven-11-october-15):
+A few weeks after reading Stephen Cleary's article(s), I read another hero-of-mine-to-be, Steven van Deursen, [recommending _against_ using async/await by default](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/#steven---11-october-15):
 
 > "Whether or not the use of async is useful and actually beneficial depends on a lot of factors, but in general **I’m against just making everything asynchronous by default**, as I explained [here](https://codereview.stackexchange.com/questions/84379/viewmodel-creator-design/84402#84402)."
 
@@ -56,15 +56,15 @@ But it's good to know what some of our master programmers has to say about async
 
 I'm going to paste the [entire statement of Steven van Deursen about asynchronous programming from codereview.stackexchange](https://codereview.stackexchange.com/questions/84379/viewmodel-creator-design/84402#84402), which he referred to in his quote above: 
 
-> A... suggestion I would like to make is to get rid of the complete async programming model. **Asynchronous methods tend to spread through your application like a virus and make both programming and debugging your application much harder.** Yes, this asynchronous programming has become WAY easier than it used to be, but it is STILL harder than synchronous programming and it will probably stay harder untill the .NET runtime has been rewritten from the ground up (if that's even possible).
-<br /><br />
-I know this is against popular opinion, but there is hardly ever a reason to polute your entire code base with this asynchronous programming model. Main reason for Microsoft to push this programming model really hard is because it is more efficient when running in the cloud. This makes sense, because in Azure, you pay per CPU cycle and per the number of machines you need. But on the other hand, asynchronous programming costs way more developer cycles, and because developers are quite expensive, it is quite unlikely that your savings on the Azure bills will actually compensate the extra developer costs. But obviously, you will have to do the math yourself.
-<br /><br />
-Don't get me wrong, of course we want --- and need --- responsive UIs so **we might need a few async/await calls inside your Window, Page or View Model classes in our presentation layer** built with WPF, Silverlight, Win Forms or some other client technology. **You can still do this, even though your whole code base below is synchronous, with synchonous calls to the database, web services and the file system.** When doing that, you will still be able to make your UI responsive, but the only difference is that you'll have a background thread sleeping most of the time, instead of using I/O completion ports. But I've never ever worked on an application where having this single extra background thread was a problem. Even for Windows Phone applications this is a non-issue.
-<br /><br />
-But since you're building an MVC application, don't bother in making your controller code asynchronous, **the user's browser will wait anyway, even if you make your controller asynchronous.**
-<br /><br />
-Asynchronous programming may be the new shiny thing in the .NET world, and with some training and experience, we can become quite effective as developers in applying it, but even than it is more painful than synchronous progamming (which is hard enough by itself), and **instead of spending money on training developers learning how to do async, I rather spend this money in training them to learn the SOLID design principles, Test Driven Development, Functional Programming or writing clean code**. There are so many other skills that are probably more important and more effective in reducing the total cost of ownership, that I rather have my money on that first.
+> A last suggestion I would like to make is to get rid of the complete async programming model. **Asynchronous methods tend to spread through your application like a virus and make both programming and debugging your application much harder.** Yes, this asynchronous programming has become WAY easier than it used to be, but it is STILL harder than synchronous programming and it will probably stay harder untill the .NET runtime has been rewritten from the ground up (if that's even possible).
+> 
+> I know this is against popular opinion, but there is hardly ever a reason to polute your entire code base with this asynchronous programming model. Main reason for Microsoft to push this programming model really hard is because it is more efficient when running in the cloud. This makes sense, because in Azure, you pay per CPU cycle and per the number of machines you need. But on the other hand, asynchronous programming costs way more developer cycles, and because developers are quite expensive, it is quite unlikely that your savings on the Azure bills will actually compensate the extra developer costs. But obviously, you will have to do the math yourself.
+> 
+> Don't get me wrong, of course we want --- and need --- responsive UIs so **we might need a few async/await calls inside your Window, Page or View Model classes in our presentation layer** built with WPF, Silverlight, Win Forms or some other client technology. **You can still do this, even though your whole code base below is synchronous, with synchonous calls to the database, web services and the file system.** When doing that, you will still be able to make your UI responsive, but the only difference is that you'll have a background thread sleeping most of the time, instead of using I/O completion ports. But I've never ever worked on an application where having this single extra background thread was a problem. Even for Windows Phone applications this is a non-issue.
+> 
+> But since you're building an MVC application, don't bother in making your controller code asynchronous, **the user's browser will wait anyway, even if you make your controller asynchronous.**
+> 
+> Asynchronous programming may be the new shiny thing in the .NET world, and with some training and experience, we can become quite effective as developers in applying it, but even than it is more painful than synchronous progamming (which is hard enough by itself), and **instead of spending money on training developers learning how to do async, I rather spend this money in training them to learn the SOLID design principles, Test Driven Development, Functional Programming or writing clean code**. There are so many other skills that are probably more important and more effective in reducing the total cost of ownership, that I rather have my money on that first.
 
 
 I like that idea of having async/await calls _only_ in the presentation layer and making everything else below it synchronous.
@@ -76,7 +76,7 @@ If possible, have async/await calls _only_ in the presentation layer and make ev
 
 I'm going to repeat it, in red:
 
-{:.message .text-danger}
+{:.message .text-danger .font-weight-bold}
 If possible, have async/await calls _only_ in the presentation layer and make everything else below it synchronous.
 
 Okay... :smile:
@@ -99,7 +99,7 @@ The caveat needs to be made that **sync will be faster during light load** but a
 
 He said those last March 2015. Today, we already have .NET Core. Like me, you might be also wondering what he has to say about using `async/await` in .NET Core.
 
-Here is what he has to say about that... from the same thread:
+Here is what he has to say about that... from the same comment thread:
 
 
 > `@Steven` have your thoughts on async changed in the re-writing/porting of netcore? 
