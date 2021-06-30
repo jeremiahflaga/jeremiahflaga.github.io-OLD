@@ -76,7 +76,7 @@ If possible, have async/await calls _only_ in the presentation layer and make ev
 
 I'm going to repeat it, in red:
 
-{:.message .red-text}
+{:.message .text-danger}
 If possible, have async/await calls _only_ in the presentation layer and make everything else below it synchronous.
 
 Okay... :smile:

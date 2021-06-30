@@ -14,7 +14,7 @@ First of all be careful before you reset your HP laptop because the [HP Help pag
 <br />
 If the size of the OS partition (usually C:) was reduced below a minimum size requirement, other user-created partitions will be removed and stored data will be destroyed.
 
-<span class="red-text">**You should backup your important files before doing the reset.**</span>
+<span class="text-danger">**You should backup your important files before doing the reset.**</span>
 
 <!--more-->
 
@@ -30,7 +30,7 @@ Twice did I encounter this error when I tried to **_shrink_** my system partitio
 
 I was only allowed to **_shrink_** it down to about 500GB.
 
-If you have less than 500GB in your existing system partition (C:), <span class="red-text">please be sure to backup your files in your other partitions before you proceed, taking note of the _WARNING_ mentioned above. If you will (or cannot) backup your files, proceed at your own risk.</span>
+If you have less than 500GB in your existing system partition (C:), <span class="text-danger">please be sure to backup your files in your other partitions before you proceed, taking note of the _WARNING_ mentioned above. If you will not (or cannot) backup your files, proceed at your own risk.</span>
 
 _(I had about 800GB for my system partition (C:), and 100GB user-created partition, before I did the steps below.)_
 
