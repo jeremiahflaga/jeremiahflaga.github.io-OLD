@@ -6,7 +6,8 @@ categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
 dateLastUpdated: 2021-06-28 06:30:00 PM UTC
-published: false
+published: true
+background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 ---
 
 <!-- June 9-10, 2021  Philippine Time -->
@@ -18,7 +19,7 @@ published: false
 <!-- Updated June 29, 2021 02:30:00 AM Philippine Time - added info about John Ioannidis believing in the efficacy of coronavirus vaccines; added possible reason for health officials being against the use of Ivermectin -->
 
 
-<div class="alert alert-info small" markdown="1">
+<div class="mr-5 ml-5 small border pr-3 pl-3" markdown="1">
 
 Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-libertarian/) usahay... kay basin himuon mandatory ang vaccinations :grin:
 
@@ -26,6 +27,23 @@ Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-liberta
 > 
 > On just the same ground I dread government in the name of science. That is how tyrannies come in. In every age the men who want us under their thumb, if they have any sense, will put forward the particular pretension which the hopes and fears of that age render most potent. They 'cash in'. **It has been magic, it has been Christianity. Now it will certainly be science.** Perhaps the real scientists may not think much of the tyrants' 'science'-- they didn't think much of Hitler's racial theories or Stalin's biology. But they can be muzzled.
 
+</div>
+
+
+<div class="accordion mr-5 ml-5 mt-2" id="against-mandatory-vaccinations-accordion">
+  <div class="card">
+    <div class="card-header p-0" id="against-mandatory-vaccinations-heading">
+      <span class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#against-mandatory-vaccinations-collapse" aria-expanded="false" aria-controls="against-mandatory-vaccinations-collapse">
+          More...
+          </button>
+      </span>
+    </div>
+    <div id="against-mandatory-vaccinations-collapse" class="collapse" aria-labelledby="against-mandatory-vaccinations-heading" data-parent="#against-mandatory-vaccinations-accordion">
+      <div class="card-body">
+        <div class="pr-3">
+
+<div class="small" markdown="1">
 
 > I am a democrat [proponent of democracy] because I believe in the Fall of Man.
 > 
@@ -41,23 +59,42 @@ Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-liberta
 > I am a democrat because I believe in the Fall of Man. I think most people are democrats for the opposite reason. A great deal of democratic enthusiasm descends from the ideas of people like Rousseau, who believed in democracy because they thought mankind so wise and good that everyone deserved a share in the government. The danger of defending democracy on those grounds is that they’re not true. And whenever their weakness is exposed, the people who prefer tyranny make capital out of the exposure... **The real reason for democracy is just the reverse. Mankind is so fallen that no man can be trusted with unchecked power over his fellows.** Aristotle said that some people were only fit to be slaves. I do not contradict him. But I reject slavery because I see no men fit to be masters.
  -->
 
-... og kay [Frédéric Bastiat](https://fee.org/articles/was-cs-lewis-a-libertarian/)
+
+-----
+
 
 > If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? **Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?**
+>
+> ---[Frédéric Bastiat](https://fee.org/articles/was-cs-lewis-a-libertarian/)
 
 
-... og kay [Thomas Sowell](https://fee.org/articles/how-states-turned-nursing-homes-into-slaughter-houses-by-forcing-them-to-admit-discharged-covid-19-patients/)
+-----
+
+
+> It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong.
+>
+> --- [Thomas Sowell](https://fee.org/articles/how-states-turned-nursing-homes-into-slaughter-houses-by-forcing-them-to-admit-discharged-covid-19-patients/)
+
 <!-- How States Turned Nursing Homes Into ‘Slaughter Houses’ By Forcing Them to Admit Discharged COVID-19 Patients -->
 <!-- As Oil Craters, Mexico's Government Still Bets on Its Oil Monopoly - https://mises.org/wire/oil-craters-mexicos-government-still-bets-its-oil-monopoly -->
 
-> It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong.
 
+-----
 
-... og kay [Matt Kibbe](https://youtu.be/P1WKcaIbOjM) <!-- "The Deadly Isms \| S1 Ep 4: Things Dictators Don't Know" -->
 
 > ... top down control fails because those at the top can never have enough knowledge to coordinate the activities of millions of people, not even with all the supercomputers in the world. And even when they try, the results have been some of the worst cases of human suffering in history. The only other option is to let people plan their own lives as long as they don't hurt people or take their stuff. Trust that these individual plans will come together into a whole that is greater than the sum of its parts, and that none of us knows as much as all of us.
+>
+> --- [Matt Kibbe](https://youtu.be/P1WKcaIbOjM) <!-- "The Deadly Isms \| S1 Ep 4: Things Dictators Don't Know" -->
 
 </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 
 
 
@@ -98,7 +135,7 @@ He said, "If the problem is that it's the overreaction of our immune system, tha
 
 He said _may_ ... Of course, because they would not release a vaccine that will cause short term damage to 50% of the people, or 40%, or even 20%, or 10%, I hope. :grin:
 
-The world was allowed to panic over the COVID-19 infection fatality rate of 3.4%. I wonder if we are allowed to panic when 3.4% of the vaccinated suffers from bad short-term effect. What about 3.4% suffereing from bad long-term effects?
+The world was allowed to panic over the [COVID-19 infection fatality rate of 3.4%](https://fee.org/articles/modelers-were-astronomically-wrong-in-covid-19-predictions-says-leading-epidemiologist-and-the-world-is-paying-the-price). I wonder if we are allowed to panic if the same percentage of the vaccinated suffers from bad short-term effect. What about the same percentage suffereing from bad long-term effects?
 
 Let's just hope that that will not happen.
 
@@ -149,7 +186,7 @@ I don't really know some of the terminologies used in those statements --- tylen
 </div>
 
 
-I would just like to note that Dr. Pierre Kory and Bret Weinstein are not against the use of the COVID-19 vaccines. They are just saying that Ivermectin is more safe than the vaccines. And that they don't understand why many are against the use of Ivermectin. 
+I would just like to note that Dr. Pierre Kory and Bret Weinstein are not against the use of the COVID-19 vaccines. They are just saying that Ivermectin is more safe than the vaccines. And that they don't understand why many health officials are against the use of Ivermectin. 
 
 Bret Weinstein and Heather Heying think that the push agains Ivermectin is because of this ["Emergency Use Authorization" thing](https://www.youtube.com/watch?v=zfqxCkJw0Rk&ab_channel=DarkHorsePodcastClips).
 
@@ -161,8 +198,9 @@ Or maybe it's because of this thing pointed out in [an article from FEE.org](htt
 <!-- ‘Pause’ on Johnson & Johnson Vaccine Reveals One Systemic Flaw Plaguing the FDA -->
 
 {: .small }
-> “The FDA has an incentive to delay the introduction of new drugs because approving a bad drug (Type I error) has more severe consequences for the FDA than does failing to approve a good drug (Type II error),” economics professor Alex Tabarrok has explained. “In the former case at least some victims are identifiable and the New York Times writes stories about them and how they died because the FDA failed. In the latter case, when the FDA fails to approve a good drug, people die but the bodies are buried in an invisible graveyard.”
+> "The FDA has an incentive to delay the introduction of new drugs because approving a bad drug (Type I error) has more severe consequences for the FDA than does failing to approve a good drug (Type II error)," economics professor Alex Tabarrok has explained. "In the former case at least some victims are identifiable and the New York Times writes stories about them and how they died because the FDA failed. In the latter case, when the FDA fails to approve a good drug, people die but the bodies are buried in an invisible graveyard."
 
+... don't know...
 
 -----
 
@@ -172,10 +210,8 @@ Or maybe it's because of this thing pointed out in [an article from FEE.org](htt
 
 In an article, ["Stanford’s Professor Ioannidis Weighs In on Coronavirus Vaccines"](https://greekreporter.com/2021/02/19/stanfords-professor-ioannidis-analyzes-current-coronavirus-vaccines/), from the Greek Reporter last February 19, 2021, Dr. John Ioannidis said this:
 
-{: .small }
 > The development of effective vaccines for COVID-19 was a major scientific achievement.
 
-{: .small }
 > The numbers of events for these severe outcomes are probably so small, however, that the uncertainty around these estimates is huge. In all, we can think positively that vaccines will be as effective as they seem to be (or even more), but we need to be very cautious, avoid over-promising and carefully collect long-term data for both effectiveness and safety, when these vaccines are widely used in the community.
 
 </div>
@@ -223,7 +259,24 @@ This video by Mobeen Syed also talks about Ivermectin dosage, side-effects and c
 
 - [Vaccination and ivermectin](https://www.youtube.com/watch?v=R0-90kvoQac&ab_channel=Dr.JohnCampbell) by Dr. John Campbell
 
-<div class="alert alert-info ml-5 small" markdown="1">
+
+
+
+
+<div class="accordion ml-5" id="cycle-threshold-accordion">
+  <div class="card">
+    <div class="card-header p-0" id="cycle-threshold-heading">
+      <span class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#cycle-threshold-collapse" aria-expanded="false" aria-controls="cycle-threshold-collapse">
+          More...
+          </button>
+      </span>
+    </div>
+    <div id="cycle-threshold-collapse" class="collapse" aria-labelledby="cycle-threshold-heading" data-parent="#cycle-threshold-accordion">
+      <div class="card-body">
+        <div class="pr-3">
+
+<div class="small" markdown="1">
 
 There is this part in the video where Dr. John Campbell talks about "Ct>30", or cycle threshold level of more than 30, being used in the Ivermectin study from Israel. He said,
 
@@ -231,11 +284,13 @@ There is this part in the video where Dr. John Campbell talks about "Ct>30", or 
 
 This gives me an idea in case we be tested using PCR test. We should ask the tester to test us using Ct=1 so that we will all test negative, and we can cross borders. :smile: Just joking.
 
+
+-----
+
+
 Also found an [interesting comment](https://www.youtube.com/watch?v=R0-90kvoQac&lc=Ugz37igvfE7gwCaIumd4AaABAg) regarding that:
 
 > Comment: Interesting that the paper says Ct>30 is a NON-infections level. Especially considering that the world wide PCR testing started with Ct=40 and eventually got down to Ct=33. Though Ct=30 vs Ct=33 is a HUGH difference (it is exponential). It more or less correlates with the French paper that showed a Ct of about 28 had only 20% of infectious virus in the samples, so 80% of the samples were non-infectious. You can also call it 80% false positive, if you decide that you want to actually detect active/"alive"/transmissible viral load, which I would say is what the PCR test should be used for as there is no point in forcing a person with inactive viral particles to quarantine if he cannot transmit disease. --- (Rikk Show)
-
-</div>
 
 <!-- 
 
@@ -252,27 +307,26 @@ The paper contains this:
 > If someone has heavy infection then they will test positive with lower Ct values.
 
  -->
- 
- 
 
-<div class="alert alert-info ml-5 small" markdown="1">
+
+-----
+
 
 Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyGR1NXz1_B2X6Z4AaABAg.9LyC60LkrtC9NqWK5BE8OY) from another youtube video:
 
 > PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
 
-</div>
 
+-----
 
-<div class="alert alert-info ml-5 small" markdown="1">
 
 Also [this](https://covidcalltohumanity.org/2021/05/24/sweden-pcr-cannot-be-used-for-diagnosis/), from the COVID Call to Humanity website:
 
 > “The PCR technology used in tests to detect viruses cannot distinguish between viruses capable of infecting cells and viruses that have been neutralized by the immune system and therefore these tests cannot be used to determine whether someone is contagious or not. RNA from viruses can often be detected for weeks (sometimes months) after the illness but that does not mean that you are still contagious.”
 
-</div>
 
-<div class="alert alert-info ml-5 small" markdown="1">
+-----
+
 
 And [this](https://mises.org/wire/absurdity-covid-cases), by Jeff Deist:
 
@@ -282,7 +336,14 @@ And [this](https://mises.org/wire/absurdity-covid-cases), by Jeff Deist:
 > 
 > — A virus is not a disease. Only a very small percentage of those exposed to the virus itself — SARS-CoV-2 — show any kind of acute respiratory symptoms, or what we can call "coronavirus disease." 
 
+
 </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -296,9 +357,20 @@ Sometimes (or maybe most of the times), [when we try to control things we are no
 
 
 
+<div class="accordion ml-5" id="controlling-things-makes-worse-accordion">
+  <div class="card">
+    <div class="card-header p-0" id="controlling-things-makes-worse-heading">
+      <span class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed subheading-small" type="button" data-toggle="collapse" data-target="#controlling-things-makes-worse-collapse" aria-expanded="false" aria-controls="controlling-things-makes-worse-collapse">
+          More...
+          </button>
+      </span>
+    </div>
+    <div id="controlling-things-makes-worse-collapse" class="collapse" aria-labelledby="controlling-things-makes-worse-heading" data-parent="#controlling-things-makes-worse-accordion">
+      <div class="card-body">
+        <div class="pr-3">
 
-<div class="alert alert-info small" markdown="1">
-
+<div class="small" markdown="1">
 
 > We who favor liberty over lockdowns don’t pretend to have all the answers. We don’t pretend to know exactly how a more free society would deal with COVID-19. If we did, we would be just as epistemically arrogant as the central planners we criticize.
 > 
@@ -309,6 +381,8 @@ Sometimes (or maybe most of the times), [when we try to control things we are no
 > --- Dan Sanchez, ["Why Most Fell for the Lockdowns, While a Few Stood for Liberty: Central planning, science, and the pretense of omniscience"](https://fee.org/articles/why-most-fell-for-the-lockdowns-while-a-few-stood-for-liberty/), FEE (Freedom for Economic Education )
 
 
+-----
+
 
 > ... The problem here is not that public health officials are wicked. Let’s assume they are all noble and well-meaning. The problem is that they are bound to maximize a certain kind of safety, to the neglect of other goods...
 >
@@ -317,12 +391,20 @@ Sometimes (or maybe most of the times), [when we try to control things we are no
 > --- from ["COVID-19: the tyranny of experts"](https://www.acton.org/religion-liberty/volume-30-number-4/covid-19-tyranny-experts) of Acton Institute
 
 
+-----
+
+
 > Public health officials certainly have a role to play, but they themselves are not experts at everything. By definition, they do not fully understand the other consequences and considerations that must be weighed and balanced, and they, of course, are lacking in the local dispersed knowledge needed to make such decisions. Yet that does not stop them from making declarations dripping with arrogance...
 >
 > The phenomenon of the learned ignoramus can be seen in every field and at all levels of intellectual life and popular punditry. However, the current crisis reveals the damage such “experts” can wreak upon civilization itself.
 >
 > --- from [an article](https://mises.org/wire/anthony-fauci-learned-ignoramus) from Mises Institute
 
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 
