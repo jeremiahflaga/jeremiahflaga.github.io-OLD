@@ -45,7 +45,9 @@ If nothing else, this will give you comfort knowing that "it is okay to not know
 
 PS:
 
-From a programmer's perspective, the idea presented above seems to match what Kent Beck calls "The Implementor's Rule" in his blog post titled ["Software Design is Human Relationships: Part 3 of 3, Changers & Changers"](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0).
+From a programmer's perspective, the idea presented above _seems_ to match what Kent Beck calls "The Implementor's Rule" in his blog post titled ["Software Design is Human Relationships: Part 3 of 3, Changers & Changers"](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0).
+
+> The Implementor’s Rule is that implementors rule. If you can’t agree and you don’t want to work together, agree a scope and whoever cares most goes and works within that scope.
 
 
 -----

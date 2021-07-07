@@ -113,7 +113,11 @@ In case you fear that I'm an autocratic kind of person, and so is not suited for
 
 Also, I like many of the ideas being espoused by [libertarians](https://blog.acton.org/archives/97660-living-in-tension-as-a-libertarian-christian.html), who likes freedom so much. That's another thing I can give as evidence that I don't have an autocratic kind of attitude towards other people.
 
-I can do some compromises if needed, or turn from my initial decisions when I discover that they are wrong.
+I can do compromises if needed; or turn from my initial decisions when I discover that they are wrong.
+
+And I know of [Kent Beck's "Implementors rule"](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0):
+
+> The Implementor’s Rule is that implementors rule. If you can’t agree and you don’t want to work together, agree a scope and whoever cares most goes and works within that scope.
 
 </div>
 
@@ -188,7 +192,7 @@ If the codebase does not have an architecture (it's a mess because there are hun
 
 <div class="ml-5 pl-3 border-left mb-4" markdown="1">
 
-Depending on the complexity and size of your codebase, it might take a few months of working on it before I can find an architectural vision which matches with the current state of the codebase --- that is, an architectural vision that will not require a big overhaul of the codebase, but still makes it maintainable. 
+Depending on the complexity and size of your codebase, it might take a few months of working on it (because I'm not a genius) before I can find an architectural vision which matches with the current state of the codebase --- that is, an architectural vision that will not require a big overhaul of the codebase, but still makes it maintainable. 
 
 Also, because I know that someone out there is better than me at doing things, I am ready to step down from the position of being in charge of the codebase if someone more competent than me is needed to take charge of it. 
 

@@ -18,6 +18,13 @@
             </p> 
             -->
         </div>
+        <p class="col-md-10 small">
+            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, Simple Injector
+        </p>
+        <p class="col-md-10 small">
+            ASP.NET Web API, Angular, MongoDB, Dapper
+            <!-- RabbitMQ, SignalR -->
+        </p>
     </div>
 </div>
 

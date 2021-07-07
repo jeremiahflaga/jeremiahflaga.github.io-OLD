@@ -11,7 +11,7 @@ date: 2019-06-29 03:00:00 PM UTC
 <!-- auto-publish later at specified datetime above -->
 
 
-I was surfing the web last April for articles on how to use `async/await` with ASP.NET Core WebAPI, because, you know, I want to know whether or not ASP.NET Core sends back _`"please wait"`_ response messages to the user/machine accross a network when it encounters an `await` in the code. :grin:
+I was surfing the web last April for articles on how to use `async/await` with ASP.NET Core WebAPI, because, you know, I want to know [whether or not ASP.NET Core sends back _`"please wait"`_ response messages](https://blog.stephencleary.com/2012/08/async-doesnt-change-http-protocol.html) to the user/machine accross a network when it encounters an `await` in the code. :grin:
 
 One of the articles I found was this: ["Building fully Asynchronous ASP.NET Core 2 Web API"](https://www.mithunvp.com/fully-asynchronous-aspnet-core-2-web-api/).
 

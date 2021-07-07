@@ -10,6 +10,9 @@
         <p class="col-md-10">
             I experienced being in a team working as outsource developers for another company, building contest pages for www.verizoninsider.com.
         </p>
+        <p class="col-md-10 small">
+            <strong>Technologies used:</strong> C#, Sitecore, ASP.NET Web Forms, CSS
+        </p>
     </div>
 </div>
 

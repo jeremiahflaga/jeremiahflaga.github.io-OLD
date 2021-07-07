@@ -8,6 +8,9 @@
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
         <p class="col-md-10">Involved in developing versions 2 and 3 of an Android app for a TV show.</p>
+        <p class="col-md-10 small">
+            <strong>Technologies used:</strong> Java, Android Framework, RxJava, SugarORM
+        </p>
     </div>
 </div>
 

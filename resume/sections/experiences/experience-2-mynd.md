@@ -10,6 +10,9 @@
         <p class="col-md-10">
             I was part of a team working for a client who develops apps for insurance companies. We were involved in the maintenance of a web app and a desktop app used for insurance enrollment and insurance records management.
         </p>
+        <p class="col-md-10 small">
+            <strong>Technologies used:</strong> VB.NET, C#, ASP.NET Web Forms, KnockoutJS, jQuery, Bootstrap, Unity, Entity Framework, some ASP.NET MVC, Moq
+        </p>
     </div>
 </div>
 

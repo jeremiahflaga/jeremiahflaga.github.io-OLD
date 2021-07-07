@@ -5,7 +5,7 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-06-28 06:30:00 PM UTC
+dateLastUpdated: 2021-07-07 05:50:00 PM UTC
 published: true
 background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 ---
@@ -17,7 +17,7 @@ background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 <!-- Updated June 27, 2021 11:00:00 AM Philippine Time - added quotes by C.S. Lewis -->
 <!-- Updated June 28, 2021 06:30:00 AM Philippine Time - added more quotes from different sources -->
 <!-- Updated June 29, 2021 02:30:00 AM Philippine Time - added info about John Ioannidis believing in the efficacy of coronavirus vaccines; added possible reason for health officials being against the use of Ivermectin -->
-
+<!-- Updated July 8, 2021 01:50:00 AM Philippine Time - some corrections -->
 
 <div class="mr-5 ml-5 small border pr-3 pl-3" markdown="1">
 
@@ -102,7 +102,7 @@ Quote-quote pod tang [C.S Lewis](https://fee.org/articles/was-cs-lewis-a-liberta
 
 
 
-### John Ioannidis on corona vaccines, April 2020
+### 1. John Ioannidis on corona vaccines, April 2020
 
 During the early days of the pandemic (April 2020), Dr. John Ioannidis gave this caution about corona vaccines in [an interview](https://www.youtube.com/watch?v=cwPqmLoZA4s&ab_channel=JourneymanPictures?t=2100):
 
@@ -135,7 +135,7 @@ He said, "If the problem is that it's the overreaction of our immune system, tha
 
 He said _may_ ... Of course, because they would not release a vaccine that will cause short term damage to 50% of the people, or 40%, or even 20%, or 10%, I hope. :grin:
 
-The world was allowed to panic over the [COVID-19 infection fatality rate of 3.4%](https://fee.org/articles/modelers-were-astronomically-wrong-in-covid-19-predictions-says-leading-epidemiologist-and-the-world-is-paying-the-price). I wonder if we are allowed to panic if the same percentage of the vaccinated suffers from bad short-term effect. What about the same percentage suffereing from bad long-term effects?
+The world was allowed to panic over the [COVID-19 infection fatality rate of 3.4%](https://fee.org/articles/modelers-were-astronomically-wrong-in-covid-19-predictions-says-leading-epidemiologist-and-the-world-is-paying-the-price) (which was later found to be an overestimate). I wonder if we are allowed to panic if the same percentage of the vaccinated suffers from bad short-term effect. What about the same percentage suffering from bad long-term effects?
 
 Let's just hope that that will not happen.
 
@@ -143,7 +143,7 @@ Let's just hope that that will not happen.
 
 
 
-### Pierre Kory on COVID-19, June 2021
+### 2. Pierre Kory on COVID-19, June 2021
 
 A few days ago (June 2021) I heard this from Dr. Pierre Kory, in his [interview with Bret Weinstein](https://www.youtube.com/watch?v=Tn_b4NRTB6k&ab_channel=BretWeinstein):
 
@@ -165,7 +165,7 @@ A few days ago (June 2021) I heard this from Dr. Pierre Kory, in his [interview 
 > What was recognized early on is that it was a disease of phases. So it started out as a general viral syndrome --- most people recovered, self-limited, it
 was like a cold. Sometimes a little bit more severe than a cold.
 >
-But everyone quickly realized that around day five, seven, eight, there was a proportion of patients who suddenly started dropping their oxygen levels, and basically their lungs were inflamed. And we now know that it's a cell called a macrophage, which gets activated and literally attacks the lungs. **And so you have this sort of immune response that is attacking the lungs, and the lungs start to fail... It causes a lot of inflammation, and so that inflammation injures the lung, and so you could see the lungs starting not to work. And so it's predominantly a severe lung disease.** 
+> But everyone quickly realized that around day five, seven, eight, there was a proportion of patients who suddenly started dropping their oxygen levels, and basically their lungs were inflamed. And we now know that it's a cell called a macrophage, which gets activated and literally attacks the lungs. **And so you have this sort of immune response that is attacking the lungs, and the lungs start to fail... It causes a lot of inflammation, and so that inflammation injures the lung, and so you could see the lungs starting not to work. And so it's predominantly a severe lung disease.** 
 >
 > And what I will never forget in my life is those early months because (and i'm going to go back to that steroid thing) we saw patients just this disease
 marching straight to the ventilator, and so many people were landing on ventilators. And you remember people were running out of ventilators and there was two reasons for that. One is because the entire health care community, globally, said this is a viral disease so supportive care only --- you're talking about tylenol
@@ -186,9 +186,9 @@ I don't really know some of the terminologies used in those statements --- tylen
 </div>
 
 
-I would just like to note that Dr. Pierre Kory and Bret Weinstein are not against the use of the COVID-19 vaccines. They are just saying that Ivermectin is more safe than the vaccines. And that they don't understand why many health officials are against the use of Ivermectin. 
+I would just like to note that Dr. Pierre Kory and Bret Weinstein are not against the use of the COVID-19 vaccines. They are just saying that Ivermectin have been proven to be safe, while we do not yet know of the long-term effects of the vaccines. Also, that they don't understand why many health officials are against the use of Ivermectin. 
 
-Bret Weinstein and Heather Heying think that the push agains Ivermectin is because of this ["Emergency Use Authorization" thing](https://www.youtube.com/watch?v=zfqxCkJw0Rk&ab_channel=DarkHorsePodcastClips).
+Bret Weinstein and Heather Heying think that the push against Ivermectin is because of this ["Emergency Use Authorization" thing](https://www.youtube.com/watch?v=zfqxCkJw0Rk&ab_channel=DarkHorsePodcastClips).
 
 {: .small }
 > By not doing the relevant large-scale clinical studies on Ivermectin and thus it not being approved by the FDA for use in covid, that opens the door for EUAs (Emergency Use Authorizations) for the vaccines that we are now living with.
@@ -198,24 +198,21 @@ Or maybe it's because of this thing pointed out in [an article from FEE.org](htt
 <!-- ‘Pause’ on Johnson & Johnson Vaccine Reveals One Systemic Flaw Plaguing the FDA -->
 
 {: .small }
-> "The FDA has an incentive to delay the introduction of new drugs because approving a bad drug (Type I error) has more severe consequences for the FDA than does failing to approve a good drug (Type II error)," economics professor Alex Tabarrok has explained. "In the former case at least some victims are identifiable and the New York Times writes stories about them and how they died because the FDA failed. In the latter case, when the FDA fails to approve a good drug, people die but the bodies are buried in an invisible graveyard."
+> "The FDA [in the US] has an incentive to delay the introduction of new drugs because approving a bad drug (Type I error) has more severe consequences for the FDA than does failing to approve a good drug (Type II error)," economics professor Alex Tabarrok has explained. "In the former case at least some victims are identifiable and the New York Times writes stories about them and how they died because the FDA failed. In the latter case, when the FDA fails to approve a good drug, people die but the bodies are buried in an invisible graveyard."
 
 ... don't know...
 
 -----
 
-<div class="message" markdown="1">
-
 ### Update: John Ioannidis seems to trust the efficacy of coronavirus vaccines, February 2021
 
 In an article, ["Stanford’s Professor Ioannidis Weighs In on Coronavirus Vaccines"](https://greekreporter.com/2021/02/19/stanfords-professor-ioannidis-analyzes-current-coronavirus-vaccines/), from the Greek Reporter last February 19, 2021, Dr. John Ioannidis said this:
 
+{: .small }
 > The development of effective vaccines for COVID-19 was a major scientific achievement.
 
+{: .small }
 > The numbers of events for these severe outcomes are probably so small, however, that the uncertainty around these estimates is huge. In all, we can think positively that vaccines will be as effective as they seem to be (or even more), but we need to be very cautious, avoid over-promising and carefully collect long-term data for both effectiveness and safety, when these vaccines are widely used in the community.
-
-</div>
-
 
 
 <!-- 
@@ -290,7 +287,7 @@ This gives me an idea in case we be tested using PCR test. We should ask the tes
 
 Also found an [interesting comment](https://www.youtube.com/watch?v=R0-90kvoQac&lc=Ugz37igvfE7gwCaIumd4AaABAg) regarding that:
 
-> Comment: Interesting that the paper says Ct>30 is a NON-infections level. Especially considering that the world wide PCR testing started with Ct=40 and eventually got down to Ct=33. Though Ct=30 vs Ct=33 is a HUGH difference (it is exponential). It more or less correlates with the French paper that showed a Ct of about 28 had only 20% of infectious virus in the samples, so 80% of the samples were non-infectious. You can also call it 80% false positive, if you decide that you want to actually detect active/"alive"/transmissible viral load, which I would say is what the PCR test should be used for as there is no point in forcing a person with inactive viral particles to quarantine if he cannot transmit disease. --- (Rikk Show)
+> Comment: Interesting that the paper says Ct>30 is a NON-infections level. Especially considering that the world wide PCR testing started with Ct=40 and eventually got down to Ct=33. Though Ct=30 vs Ct=33 is a HUGH difference (it is exponential). It more or less correlates with the French paper that showed a Ct of about 28 had only 20% of infectious virus in the samples, so 80% of the samples were non-infectious. You can also call it 80% false positive, if you decide that you want to actually detect active/"alive"/transmissible viral load, which I would say is what the PCR test should be used for as there is no point in forcing a person with inactive viral particles to quarantine if he cannot transmit disease. --- Rikk Show
 
 <!-- 
 
@@ -314,7 +311,7 @@ The paper contains this:
 
 Also found [this comment](https://www.youtube.com/watch?v=HBmmeTZgtIo&lc=UgwqhyGR1NXz1_B2X6Z4AaABAg.9LyC60LkrtC9NqWK5BE8OY) from another youtube video:
 
-> PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- (Phloxy Rock)
+> PCR does NOT detect infection or determine whether someone has disease neither can it determine infectiousness.. It, with amplification can detect RNA sequences which may be part of but not definitely [from] Sars Cov2 or any other coronavirus. Corman Drosten picked sequences from Genbank and admitted in their paper that it was not a diagnostic test, nor was it specific to Sars Cov2. PCR does NOT detect nor has it ever detected viral "infection". It detects viral material. At a CT of 18 or below we can assume enough viral material that some may be viable and in adequate quantity to cause disease in a contact. Above CT 20 the test results are pretty irrelevant. In a population,6-7  percent of people will test positive by PCR for coronavirus as it's an endemic virus --- Phloxy Rock
 
 
 -----

@@ -10,9 +10,11 @@ published: false
 <!-- December 10, 2017 11:30:00 PM Philippine Time -->
 
 
+<small>This was supposed to be posted years ago: December 2017; but did not have time to finish it during that time... here it goes...<small>
+
 TLDR: people will get angry at you for trying to change their minds; but they will eventually love you, when they already changed their minds.
 
-
+-----
 
 > "Greg, let’s be honest. This post is not about parallel fifths is it? This is about a philosophy. You love to do this. You talk about an technical or theory musical element but really you are trying influence how people think about music. That is not a bad thing unless you are trying to get them to think in a bad way but I have to say that I think much of what you promote is bad."
 
@@ -39,22 +41,24 @@ But I digress _(I always do this, right --- moving away from my main point?)_...
 That comment rings a bell to me because my _old self_ (or my _young self_ I would say) would have made comments similar to that.
 
 You see, when I first learned about Greg Howlett, I did not agree with him on his philosophy on music.
-I liked his tutorials so much and was very thankful that someone like him is very willing to share his knowledge for free. But when he talks about his opinions about whether a particular kind of music is bad or good...
+I liked his tutorials so much and was very thankful that someone like him is very willing to share his knowledge for free. But when he talked about his opinions about whether a particular kind of music is bad or good, I did not agree with him.
 
-"Wow... I think I need to reconsider my position on this..."
-
-
-
-If I am allowed to do this, I think we can categorize Two camps:
-
-1. Good or bad music depends on the culture of the people listening and the lyrics of the song, of course...
-
-2. There are absolute rules which determines bad music or good music, regardless of culture and reagardless of the lyrics (we might have not yet discovered the majority of those rules).
+But later on... _"I think I need to reconsider my position on this..."_
 
 
-Of ourse there is a third one...
 
-3. Good music are those that will make me popular or will make me lots of money
+<!-- If I am allowed to do this, I think we can categorize people's camps: -->
+
+Please allow me to categorize people into two camps with regards to their beliefs about music:
+
+\1. Good or bad music depends on the culture of the people listening and the lyrics of the song, of course...
+
+\2. There are absolute rules which determines bad music or good music, regardless of culture and reagardless of the lyrics (we might have not yet discovered the majority of those rules).
+
+
+Of course there is a third one...
+
+\3. Good music are those that will make me popular or will make me lots of money
 
 ... but who are we to judge other peoples intentions right?
 

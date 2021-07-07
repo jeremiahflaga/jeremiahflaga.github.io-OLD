@@ -15,6 +15,9 @@
                 Also involved in a team working on a Customer Relationship Management app for an online store. The CRM generates reports, allows searching for nearby clients, viewing quotes of clients, viewing products and number of stocks available, etc.
             </p>
         </div>
+        <p class="col-md-10 small">
+            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper
+        </p>
     </div>
 </div>
 

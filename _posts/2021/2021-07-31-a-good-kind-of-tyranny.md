@@ -11,6 +11,12 @@ published: false
 <!-- May 24, 2021  Philippine Time -->
 
 
+
+> By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher. --- Socrates
+
+> By all means, be a programmer. If you get a good codebase, you'll become happy; if you get a bad one, you'll become a philosopher. --- Anonymous
+
+
 <!--more-->
 
 I'm not yet sure about the truthfulnes of the things written in this post, but writing helps in the development of ideas, so i'm going to write them anyway and publish them (because publishing what I write is my only motivation to write things, for now)
