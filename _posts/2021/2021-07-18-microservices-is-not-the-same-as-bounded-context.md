@@ -12,7 +12,7 @@ date: 2021-07-18 12:00:00 AM UTC # happy 3rd month with mluv
 
 
 
-I heard someone in the past who said that the Building Microservices book is the "DDD: The good parts" version of the Domain Driven Design book of Eric Evans (please note that none of these book have I read yet :smile:). I took those words to heart, and later on interpreted it to mean that _microservices are the same as bounded contexts_.
+I heard someone in the past who said that the Building Microservices book is the "DDD: The good parts" version of the Domain Driven Design book of Eric Evans (please note that none of these book have I read yet :smile:). --- I tend to remember statements like that because it it a comparison between two famous books, and I prefer reading a smaller book than a large one, and I prefer buying a cheaper one, and a more recently published one. --- That statement, later on, I interpreted it to mean that _microservices are the same as bounded contexts_.
 
 But a few days ago, as I was watching an interview of Uncle Bob Martin --- ["A Path to Better Programming • Robert "Uncle Bob" Martin & Allen Holub • GOTO 2021](https://www.youtube.com/watch?v=QnmRpHFoYLk&t=747s&ab_channel=GOTOConferences) --- the interviewer, Allen Holub, made a statement which implies that microservices are not the same as bounded contexts! <small>(in time 5:00 in the video)</small>
 
