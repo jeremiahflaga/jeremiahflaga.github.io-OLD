@@ -7,7 +7,7 @@
         <div class="subheading mb-3">
             <a href="https://www.arcanys.com/">Arcanys</a>
         </div>
-        <div class="col-md-10">       
+        <div class="col-md-10">
             <p class="text-primary experience-date">July 2019 - April 2020:</p>
             <p>
                 Member of a team working on a social networking site used by employees and clients of a company whose services involves offering coworking spaces, meeting rooms and physical offices as well as virtual offices, to people and businesses.
@@ -20,10 +20,6 @@
         </div>
         <p class="col-md-10 small">
             <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, Simple Injector
-        </p>
-        <p class="col-md-10 small">
-            ASP.NET Web API, Angular, MongoDB, Dapper
-            <!-- RabbitMQ, SignalR -->
         </p>
     </div>
 </div>
@@ -76,6 +72,10 @@
         <p class="text-primary experience-date">February 2021 - Present:</p>
         <p>
             Being involved in maintaining an app which is being used to facilitate the flow of patients in a hospital.
+        </p>
+        <p class="small">
+            <strong>Technologies used:</strong> ASP.NET Web API, Angular, MongoDB, Dapper, 
+            RabbitMQ, SignalR
         </p>
     </div>
 </div>
