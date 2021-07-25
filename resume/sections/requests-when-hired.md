@@ -1,16 +1,17 @@
 <div class="resume-section-content col-md-9" markdown="1">
 
 
-
+<!-- 
 {: mb-5 }
 ## Some requests when hired
 
 These are just requests. Some nice-to-haves while working with you. But **you are not required to provide them**. :grin:
 
 But these might give you some insights about the experiences of programmers, in case you are not a programmer.
+ -->
 
-
-
+{: mb-5 }
+## Some helps I can offer you and you can offer me
 
 
 
