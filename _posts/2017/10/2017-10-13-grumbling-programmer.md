@@ -4,9 +4,11 @@ title:  Grumbling Programmer
 categories: [Programming, Thoughts]
 tags: [Grumbling, Legacy Code, Jonathan Boccara, Eric Evans]
 date: 2017-10-12 03:35:00 PM UTC
+dateLastUpdated: 2021-08-25 08:00:00 AM UTC
 ---
 
 <!-- October 13, 2017 11:35:00 PM Philippine Time -->
+<!-- Updated July 25, 2021 12:00 PM  Philippine Time - added sermon from Living Word IT Park -->
 
 
 Sometimes (or many times?), I am one of those grumbling programmers. (Read this [blog post](/2017/06/05/am_I_a_hypocrite/) of mine a few months ago)...
@@ -42,3 +44,11 @@ This statement from [infoq.com](https://www.infoq.com/news/2017/09/evans-ddd-rel
 <!--
 I also noticed that when someone criticizes but gives a solution to the problem, the criticism become less offensive; and it has become helpful to the one being criticized.
 -->
+
+-----
+
+**Update: July 25, 2021**: reminded of this through a sermon from the church I go to when in Cebu: Living Word, IT Park: ["Quit Complaining by Pastor Bryce Go Thong"](https://www.youtube.com/watch?v=nvEzda5XCKo&t=39s&ab_channel=LivingWordI.T.Park)
+
+> <small>(21:30)</small> Complaining comes from self-centeredness: Thinking you do not deserve what God has alloted for you.
+
+<!-- This really is for me because I have been complaining in the last few months about a software project... -->
