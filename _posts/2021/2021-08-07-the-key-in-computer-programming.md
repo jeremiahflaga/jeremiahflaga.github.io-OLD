@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The key to computer programming'
+title: 'The key in computer programming'
 subtitle: 
 categories: [Programming]
 tags: [Programming]
