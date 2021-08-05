@@ -1,13 +1,15 @@
 ---
 layout: post
-title: 'The key in computer programming'
+title: 'The key to clean code'
 subtitle: 
 categories: [Programming]
 tags: [Programming]
 date: 2021-08-08 12:00:00 AM UTC
+pinned: true
 ---
 
 <!-- July 24, 2021  09:30 PM Philippine Time -->
+<!-- Updated August 06, 2021  12:30 AM Philippine Time - knowledge is only potential power -->
 
 
 In the introduction videos of the [Nand2Tetris Part 1 course](https://www.coursera.org/learn/build-a-computer), Noam Nisan and Shimon Schocken said that _the main secret of computer science is this_:
@@ -36,9 +38,11 @@ Jonathan Boccara also said that it is [_"the principle to rule them all"_:](http
 > ...respecting levels of abstraction... , [focusing on] **what** a particular piece of code **intends** to do as opposed to **how** it is implemented... is the one principle to rule them all because it automatically applies all the best practices... When you follow it, you’ll find yourself naturally writing code with a high-quality design.
 
 
+<div class="message" markdown="1">
 
+But of course, knowledge is only potential power, so... sad life... but at least now we _can_ have a direction...
 
------
+</div>
 
 ## An example:
 

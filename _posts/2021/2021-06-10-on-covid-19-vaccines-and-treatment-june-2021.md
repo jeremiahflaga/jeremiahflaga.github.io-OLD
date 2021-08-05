@@ -5,7 +5,7 @@ subtitle:
 categories: [Miscellaneous]
 tags: [Miscellaneous]
 date: 2021-06-10 12:00:00 AM UTC
-dateLastUpdated: 2021-07-07 05:50:00 PM UTC
+dateLastUpdated: 2021-08-05 05:30:00 PM UTC
 published: true
 background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 ---
@@ -18,6 +18,7 @@ background: '/images/background/aaron-burden-xG8IQMqMITM-unsplash.jpg'
 <!-- Updated June 28, 2021 06:30:00 AM Philippine Time - added more quotes from different sources -->
 <!-- Updated June 29, 2021 02:30:00 AM Philippine Time - added info about John Ioannidis believing in the efficacy of coronavirus vaccines; added possible reason for health officials being against the use of Ivermectin -->
 <!-- Updated July 8, 2021 01:50:00 AM Philippine Time - some corrections -->
+<!-- Updated August 6, 2021 01:30:00 AM Philippine Time - some corrections -->
 
 <div class="mr-5 ml-5 small border pr-3 pl-3" markdown="1">
 
@@ -130,7 +131,7 @@ During the early days of the pandemic (April 2020), Dr. John Ioannidis gave this
 
 </div>
 
-
+<!-- 
 He said, "If the problem is that it's the overreaction of our immune system, that eventually leads to accidentally to destroying our own cells like lung cells, then a vaccine **_may_** actually be a bad idea".
 
 He said _may_ ... Of course, because they would not release a vaccine that will cause short term damage to 50% of the people, or 40%, or even 20%, or 10%, I hope. :grin:
@@ -138,7 +139,7 @@ He said _may_ ... Of course, because they would not release a vaccine that will 
 The world was allowed to panic over the [COVID-19 infection fatality rate of 3.4%](https://fee.org/articles/modelers-were-astronomically-wrong-in-covid-19-predictions-says-leading-epidemiologist-and-the-world-is-paying-the-price) (which was later found to be an overestimate). I wonder if we are allowed to panic if the same percentage of the vaccinated suffers from bad short-term effect. What about the same percentage suffering from bad long-term effects?
 
 Let's just hope that that will not happen.
-
+ -->
 
 
 
@@ -220,6 +221,30 @@ In an article, ["Stanford’s Professor Ioannidis Weighs In on Coronavirus Vacci
 If I understood those statements correctly, they seem to sound like "if ones immune system is able to handle the vaccine it would have been able to handle the SARS-CoV-2 virus itself". Not sure, but that's how they sound to me. :smiley: _(I heard that I can say anything on the internets as long as there is a smiley at the end.)_ Lots of smiley for you; please don't be angry with me. :smiley: :smiley: :smiley:
 </small>
  -->
+
+-----
+
+### Update: John Ioannidis is against mandatory vaccination for COVID-19, June 26, 2021
+
+In his talk, ["COVID-19 epidemiology: risks, measures, and ending the pandemic"](https://www.youtube.com/watch?v=B_ehqHQOBO0&ab_channel=Prof.ManuelSchabus), time [1:25:45](https://youtu.be/B_ehqHQOBO0?t=5150), he said this:
+
+{: .small }
+> ... Tell people what are the risks. Allow them to decide. **I'm not in favor of compulsory vaccination for something that has Emergency Use Authorization.** We don't have full licensing. Tell people that we need to push for vaccination; and those who are vulnerable, this is a higher priority, a much higher priority; and I think then they can decide on whether they want to do it for their children or not.
+
+
+Prof. Manuel Schabus, the host of that video linked to above, pinned [his comment](https://www.youtube.com/watch?v=B_ehqHQOBO0&lc=Ugy30m-dRvaQ-bK9Czl4AaABAg) on that video's page:
+
+{: .small }
+> Let me contribute to the discussion and the 2 most controversial points here. To my best knowledge Ivermectin has pretty weak evidence to date and there are no good randomized trials to suggest that it saves lives; to my understanding that is also what John tried to emphasize. Dexamethasone and tocilizumab have the strongest evidence for saving lives in COVID-19 so far.
+>
+> I think John generally remains optimistic on vaccines, but of course agrees that we need to continue to collect data on duration of effectiveness and on frequency of harms. **I think it is safe to say that both of us clearly remain against mandatory vaccination.** For healthy people below 40 or so, I think the difference in risks and benefits is very small, because both quantities are small. For children & adolescents the risks definitely outweigh the benefits! Check [https://qcovid.org/](https://qcovid.org/) and see what e.g., the risk for hospitalization is for a 19 year old with asthma: 1:40.000 (!!!).
+> Let‘s collect that, and objectively (!) discuss and follow what we learn from it!
+
+... to which comment, Anastas Spartan [responded with](https://www.youtube.com/watch?v=B_ehqHQOBO0&lc=Ugy30m-dRvaQ-bK9Czl4AaABAg.9QFXeOpCHu-9QTaQmnGcE1):
+
+{: .small }
+> Interesting, but my doctor says that since she began using ivermectin, she has lost zero patients. Also, a dozen of my friends who've caught covid, lost their taste and smell, had taken Ivermectin and within 24 hours, their ability to smell and taste returned. Perhaps you should do a trial specifically on Ivermectin.
+
 
 <br />
 

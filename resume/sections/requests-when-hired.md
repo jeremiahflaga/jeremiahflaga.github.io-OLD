@@ -197,9 +197,9 @@ Depending on the complexity and size of your codebase, it might take a few month
 
 Also, because I know that someone out there is better than me at doing things, I am ready to step down from the position of being in charge of the codebase if someone more competent than me is needed to take charge of it. 
 
-Also, because I know that I'm mortal and might die anytime, I will do my best to make everyone in the team understand the architectural vision, so that the codebase will move in that direction even when I'm already dead.
+<!-- Also, because I know that I'm mortal and might die anytime, I will do my best to make everyone in the team understand the architectural vision, so that the codebase will move in that direction even when I'm already dead. -->
 
-Also, if I see someone in the team who has design sense, I will try to make him a co-coach and give some of the responsibilities that I have, so that someday I can leave the project without worrying that it will go to a mess. Or, if I will not leave, at least I have contributed to the carrer of someone who might become a programming coach someday --- because I think we really need lots of programming coaches these days. Even I need a programming coach (I might be making  mistakes which I do not know are mistakes). I hope I can find one someday.
+Also, if I see someone in the team who has design sense, I will try to make him a co-coach and give some of the responsibilities that I have, so that someday I can leave the project without worrying that it will go to a mess. Or, if I will not leave, at least I have contributed to the carrer of someone who might become a programming coach someday --- because I think we really need lots of programming coaches these days. Even I need a programming coach (I might be making  mistakes which I do not know are mistakes). I hope I can find a coach someday.
 
 </div>
 

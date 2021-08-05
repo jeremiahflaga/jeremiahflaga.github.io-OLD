@@ -20,11 +20,12 @@ published: false
 <div class="clearfix"></div>
  -->
 
-My mother is a preschool teacher. I might have gotten from her this inclination or desire of wanting to find a way to make things understandable to beginners or children.
-
 <!-- A few weeks ago, I read [an article](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says this: -->
 
-So I'm very prone to finding [articles like this one](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says:
+
+My mother is a preschool teacher. I might have gotten from her this inclination or desire of wanting to find a way to make things understandable to beginners or children.
+
+So I think I'm very inclined to finding [articles like this one](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says:
 
 > the best way to learn a field is to know the overall structure, but not many single isolated points
 

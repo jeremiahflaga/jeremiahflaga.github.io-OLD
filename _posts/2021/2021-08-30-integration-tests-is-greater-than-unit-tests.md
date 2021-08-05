@@ -24,6 +24,43 @@ I had some success in doing that, but those tests were later abandoned because t
 
 
 
+
+
+## Some readings on the importance of integration (or functional) tests
+
+["Should you unit-test API/MVC controllers in ASP.NET Core?"](https://andrewlock.net/should-you-unit-test-controllers-in-aspnetcore/) by Andrew Lock
+
+["Why writing integration tests on a C# API is a productivity booster"](https://timdeschryver.dev/blog/why-writing-integration-tests-on-a-csharp-api-is-a-productivity-booster) by Tim Deschryver
+
+["one good integration test is worth 1,000 unit tests"](https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional) by Khalid Abuhakmeh
+
+
+
+## Writing integration tests in ASP.NET WebAPI
+
+["Self-hosted integration tests in ASP.NET"](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/) by Mark Seemann
+
+["How to test your C# Web API"](https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api) by Tim Deschryver
+
+
+
+### Terminology:
+
+["integration (or functional) tests"](https://timdeschryver.dev/blog/why-writing-integration-tests-on-a-csharp-api-is-a-productivity-booster)
+
+["Functional Test == Acceptance Test == End-to-End Test"](https://www.obeythetestinggoat.com/book/chapter_02_unittest.html)
+
+["Acceptance test... similar to an integration test, but with a focus on the use case rather than on the components involved."](http://www.getlaura.com/testing-unit-vs-integration-vs-regression-vs-acceptance/)
+
+
+
+=======================
+
+
+
+
+
+
 https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/
 
 
@@ -47,3 +84,11 @@ Little Mock from Uncle Bob
 "one good integration test is worth 1,000 unit tests" - https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional
 
 Writing .NET Database Integration Tests - https://khalidabuhakmeh.com/dotnet-database-integration-tests
+
+
+
+
+Why writing integration tests on a C# API is a productivity booster - https://timdeschryver.dev/blog/why-writing-integration-tests-on-a-csharp-api-is-a-productivity-booster
+
+
+How to test your C# Web API - https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api
