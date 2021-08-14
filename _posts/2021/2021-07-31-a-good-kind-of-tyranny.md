@@ -25,14 +25,18 @@ I'm not yet sure about the truthfulnes of the things written in this post, but w
 Why do software developers like to design things? - what you want to say here is that we want our designs to be the one used in the system because we think that we know better -- I'm guilty of this myself
 
 
-Because Fred Brooks said:
+_Maybe_ because Fred Brooks said:
 
 > My first proposal is that each software organization must determine and proclaim that great designers are as important to its success as great managers are, and that they can be expected to be similarly nurtured and rewarded. --- [No Silver Bullet](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html)
 
 
 Maybe not.
 
-Maybe the reason is because programming is an intellectual kind of work and and we want to use our knowledge to design things
+It might have been the other way around: _maybe_ Fred Brooks wrote that statement above because he observed that many softare developers like to design things...
+
+
+
+It could be that that the reason why developers want to design things is because programming is an intellectual kind of work...... and and we want to use our knowledge to design things
 
 
 (Just like the temptation of intellectuals in the real world, they want to design things instead of trusting what others have observed as the invisible hand.)
@@ -59,3 +63,16 @@ Back to chaos
 	
 	
 One solution might be to keep a separate copy of the project but with minimal features, where someone with design ideas can practice implementing his ideas there
+
+
+
+
+
+
+
+
+
+als, Uncle Bob said in his book Clean Architecture that architecture adds complexity but helps as the software grows, and it's harder if we add it a bit late in the project
+
+
+also include here the phrase which says that architecture is that part of the software which does not change that much... I'm not sure where I read that, maybe from Martin Fowler. I'm not sure also if that description is right or wrong.

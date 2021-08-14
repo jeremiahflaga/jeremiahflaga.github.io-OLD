@@ -49,6 +49,11 @@ But of course, knowledge is only potential power, so... sad life... but at least
 
 - ["Clean Architecture and Design - NDC 2013"](https://www.youtube.com/watch?v=Nsjsiz2A9mg&ab_channel=gnbitcom)
 
+- ["The Single Responsibility Principle"](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) by Uncle Bob Martin
+
+- ["Single Responsibility Principle – do you know the real one?"](https://www.e4developer.com/2018/10/04/single-responsibility-principle-do-you-know-the-real-one/) by Bartosz Jedrzejewski
+
+- ["The Single Responsibility Principle"](https://www.brainstobytes.com/the-single-responsibility-principle/) by Juan Orozco Villalobos
 
 
 -----
