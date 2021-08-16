@@ -4,11 +4,12 @@ title: '"Hello World" Layered Architecture vs Clean Architecture'
 subtitle: 
 categories: [Programming]
 tags: [Programming]
-date: 2021-06-01 12:00:00 AM UTC
-published: false
+date: 2021-09-12 12:00:00 AM UTC
+pinned: true
 ---
 
 <!-- Started May 7, 2021 12:00 AM Philippine Time -->
+<!-- Ended August 16, 2021 9:54 PM Philippine Time -->
 
 <!-- 
 {: .img-fluid .float-left .ml-5 .pl-5}
@@ -29,6 +30,12 @@ So I think I'm very inclined to finding [articles like this one](https://xianmin
 
 > the best way to learn a field is to know the overall structure, but not many single isolated points
 
+The article is saying that in learning something it's best to have a bird's eye view of what we want to learn before delving into the details (and maybe constantly review the bird's eye view while learning about the details). It's also very helpful if we [compare it with something we already know](https://betterexplained.com/articles/adept-method/).
+
+This article just contains a bird's eye view diagram of the Clean Architecture, and its comparison to the Layered Architecture which many programmers are already familiar with:
+
+{: .mb-0 }
+<small>(Layered Architecture on the left, Clean Architecture on the right)</small>
 
 <img width="300" class="float-left img-fluid" src="/images/2021/2021-05-22-hello-world-layered-architecture-code-with-diagram.png" alt="">
 
@@ -36,10 +43,36 @@ So I think I'm very inclined to finding [articles like this one](https://xianmin
 
 <div class="clearfix"></div>
 
-<!--more-->
+Notice that in the Clean Architecture diagram, the Presentation and Data layers are pointing towards the Domain layer. And that the Domain layer owns the interface for the data repository (because as what Uncle Bob Martin said, "the client is the owner of the abstract interface").
+
+And of course, the object construction will be done in the `main` or the entry point of the application,also called the [composition root](https://blog.ploeh.dk/2011/07/28/CompositionRoot/), using [Pure DI](https://blog.ploeh.dk/2014/06/10/pure-di/) in this case:
+
+{: .small }
+``` csharp
+static void Main(string[] args)
+{
+    var greetingsController = 
+        new GreetingsController(
+            new GreetingsService(
+                new GreetingsRepository()));
+
+    greetingsController.Execute();
+}
+```
 
 
-Bird's eye view
+If you want code you can execute, go [here](https://github.com/jeremiahflaga/hello-world-layered-vs-clean-architecture).
+
+For an artistic way of describing the Clean Architecture, read Uncle Bob Martin's article [here](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
+
+
+
+
+
+
+
+
+
 
 <!-- 
 

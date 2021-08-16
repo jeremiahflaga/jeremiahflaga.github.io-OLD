@@ -10,7 +10,7 @@ published: false
 
 <!-- July 15, 2021  5:00 AM Philippine Time -->
 
-About two years ago, I inherited this project which does not have unit tests. Now, because I was brainwashed to write tests so that 
+About two years ago, I inherited this project which does not have unit tests. During that time, because had been [brainwashed](/memorabilia/quotes/tdd/) (a [good kind of brainwashing](https://www.nikiflorica.com/post/the-hammering-process-too-hard-too-soft-or-just-right) I hope) to write tests so that 
 
 
 I started writing tests for the the services or use cases part. But I noticed that sometimes I still break existing functionality to those use cases I have written tests for... 

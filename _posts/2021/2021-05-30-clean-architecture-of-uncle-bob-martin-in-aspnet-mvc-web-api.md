@@ -257,7 +257,7 @@ the Presenter will put the ViewModel it produced into the `Result` property, the
 
 (That's the most awkward code in this implementation --- we have to remember to call the `interactor.Process()` before returning the `Result`. I might find a way someday to remove that awkward code. For now, writing a unit test to enforce that code sequence might help.)
 
-Then in the `main` or entry point of the application, we construct our objects and register them to our IoC container:
+Then in the [`main` or entry point of the application](https://blog.ploeh.dk/2011/07/28/CompositionRoot/), we construct our objects and register them to our IoC container:
 
 ``` csharp
 services.AddScoped<UseCaseHandler>();
@@ -267,7 +267,7 @@ services.AddScoped<IRepository, Repository>();
 
 <div class="small alert alert-danger" markdown="1">
 
-Please note that the clean architecture implementation presented in tis blog post --- an ASP.NET implementation where the Controller does not know about the Presenter --- might not be useful to softwares being built these days --- the client-server kinds of applications.
+Please note that the clean architecture implementation presented in this blog post --- an ASP.NET implementation where the Controller does not know about the Presenter --- might not be useful to softwares being built these days --- the client-server kinds of applications.
 
 Steven van Deursen's implementation presented [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/) and [here](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/) seems best for those kinds of applications. If you follow that implementation, there is no need for a Presenter (or an `IPresenter` interface); the Controller will be the one who will create the ViewModels.
 
