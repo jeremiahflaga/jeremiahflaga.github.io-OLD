@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Some guidelines and resources on how to write clean and readable code'
+title: 'Some guidelines and resources on writing clean and readable code'
 subtitle: 
 categories: [Programming]
 tags: [Programming]

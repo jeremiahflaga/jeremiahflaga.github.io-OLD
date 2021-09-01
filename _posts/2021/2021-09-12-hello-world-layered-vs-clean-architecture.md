@@ -21,18 +21,18 @@ pinned: true
 <div class="clearfix"></div>
  -->
 
-<!-- A few weeks ago, I read [an article](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says this: -->
-
-
-My mother is a preschool teacher. I might have gotten from her this inclination or desire of wanting to find a way to make things understandable to beginners or children.
-
-So I think I'm very inclined to finding [articles like this one](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says:
+Many weeks ago, I read [an article](https://xianminx.github.io/2013/02/28/computer-system-a-programmer-perspective/) which says this:
 
 > the best way to learn a field is to know the overall structure, but not many single isolated points
 
-The article is saying that in learning something it's best to have a bird's eye view of what we want to learn before delving into the details (and maybe constantly review the bird's eye view while learning about the details). It's also very helpful if we [compare it with something we already know](https://betterexplained.com/articles/adept-method/).
+I think I'm very inclined to finding articles like that one because my mother is a preschool teacher and I might have gotten from her this inclination or desire of wanting to find a way to make things understandable to beginners or children. :smile:
 
-This article just contains a bird's eye view diagram of the Clean Architecture, and its comparison to the Layered Architecture which many programmers are already familiar with:
+That thing aside...
+
+The article is saying that in learning something it's best to have a bird's eye view of what we want to learn before delving into the details (and maybe constantly review the bird's eye view while learning about the details). 
+<!-- It's also very helpful if we [compare it with something we already know](https://betterexplained.com/articles/adept-method/). -->
+
+And that's what this article is about. It just contains a bird's eye view diagram of the Clean Architecture (with sample code), and its [comparison](https://betterexplained.com/articles/adept-method/) to the Layered Architecture which many programmers are already familiar with:
 
 {: .mb-0 }
 <small>(Layered Architecture on the left, Clean Architecture on the right)</small>
@@ -45,7 +45,7 @@ This article just contains a bird's eye view diagram of the Clean Architecture, 
 
 Notice that in the Clean Architecture diagram, the Presentation and Data layers are pointing towards the Domain layer. And that the Domain layer owns the interface for the data repository (because as what Uncle Bob Martin said, "the client is the owner of the abstract interface").
 
-And of course, the object construction will be done in the `main` or the entry point of the application,also called the [composition root](https://blog.ploeh.dk/2011/07/28/CompositionRoot/), using [Pure DI](https://blog.ploeh.dk/2014/06/10/pure-di/) in this case:
+And of course, the object construction will be done in the `main` or the entry point of the application, also called the [composition root](https://blog.ploeh.dk/2011/07/28/CompositionRoot/):
 
 {: .small }
 ``` csharp
@@ -56,7 +56,7 @@ static void Main(string[] args)
             new GreetingsService(
                 new GreetingsRepository()));
 
-    greetingsController.Execute();
+    ...
 }
 ```
 

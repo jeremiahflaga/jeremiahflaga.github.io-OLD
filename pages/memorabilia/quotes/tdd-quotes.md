@@ -198,6 +198,18 @@ matter how pretty or object-oriented or well encapsulated it is.
 
 
 
+-----
+
+### J. B. Rainsberger <small>([on twitter](https://twitter.com/jbrains/status/167297606698008576))</small>
+
+> Worried that TDD will slow down your programmers?
+>
+> Don't. They probably need slowing down.
+
+
+
+-----
+
 
 ## Other useful TDD quotes
 

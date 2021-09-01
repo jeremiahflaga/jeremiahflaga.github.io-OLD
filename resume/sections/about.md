@@ -16,7 +16,7 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
 </h1>
 
 <div class="subheading mb-5">
-    <!-- <a href="https://www.google.com/maps/place/Kidapawan+City,+Cotabato/">Kidapawan, Cotabato, Philippines</a> &nbsp; ◦ &nbsp;   -->
+    <a href="https://www.google.com/maps/place/Kidapawan+City,+Cotabato/">Kidapawan, North Cotabato, Philippines</a> &nbsp; ◦ &nbsp;  
     <!-- 
     <a href="https://www.google.com/maps/place/Cebu+City,+Cebu/">Cebu, Philippines</a> &nbsp; ◦ &nbsp; 
     -->
@@ -24,11 +24,13 @@ I have already accepted my fate of working on legacy systems (mostly) in my life
     <a href="/">jeremiahflaga.github.io</a> 
 </div>
 
-<p class="lead">I'm a software developer,
-<!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
-with over eight years of experience, including:</p>
+<p class="lead" markdown="1">
+    I'm a software developer,
+    <!-- <a href="#lob-apps-footnote" id="lob-apps-footnote-indicator">*</a> -->
+    with about {{ site.time | date: '%Y' | minus:2013 }} of experience, including:
+</p>
 
-- About seven years of experience in C# & .NET Framework (this includes some experience of using JavaScript/TypeScript for the frontend side)
+- About {{ site.time | date: '%Y' | minus:2013 | minus:1}} years of experience in C# & .NET Framework (this includes some experience of using JavaScript/TypeScript for the frontend side)
 - More than one year of experience in mobile application development using Java & Android Platform
 <!-- - A few months of experience on Angular -->
 - Some experience in refactoring code and writing tests
