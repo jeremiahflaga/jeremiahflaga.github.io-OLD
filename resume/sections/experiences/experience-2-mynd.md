@@ -11,13 +11,13 @@
             I was part of a team working for a client who develops apps for insurance companies. We were involved in the maintenance of a web app and a desktop app used for insurance enrollment and insurance records management.
         </p>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> VB.NET, C#, ASP.NET Web Forms, KnockoutJS, jQuery, Bootstrap, Unity, Entity Framework, some ASP.NET MVC, Moq
+            <strong>Technologies used:</strong> VB.NET, C#, ASP.NET Web Forms, KnockoutJS, jQuery, Bootstrap, Unity, Entity Framework, SQL Server, some ASP.NET MVC, Moq
         </p>
     </div>
 </div>
 
 
-<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-2-mynd-accordion">
+<div class="col-md-10 accordion mt-2 d-print-none d-none" id="experience-2-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-2-mynd-heading-contributions">
             <p class="mb-0">
@@ -107,4 +107,8 @@
 	        </div>
         </div>
     </div>
+</div>
+
+<div class="mb-5">
+
 </div>

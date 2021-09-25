@@ -51,3 +51,28 @@ etc.
 [public-key cryptography for non-geeks](https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/) by Vrypan
 
 [What happens during a TLS handshake?](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/) from CloudFlare
+
+
+### Update August 2021: 
+
+I already forgot what this OAuth and OpenID Connect are... TLS handshake(?)... what is that?...
+
+But here are some very very good materials on authentication/authorisation in ASP.NET Core from Andrew Lock. He also gave examples on OAuth 2.0 and OpenID Connect:
+
+1. [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+2. Exploring the cookie authentication middleware in ASP.NET Core
+3. A look behind the JWT bearer authentication middleware in ASP.NET Core
+4. An introduction to OAuth 2.0 using Facebook in ASP.NET Core
+5. An introduction to OpenID Connect in ASP.NET Core
+6. Introduction to Authorisation in ASP.NET Core MVC
+7. Custom authorisation policies and requirements in ASP.NET Core
+8. Modifying the UI based on user authorisation in ASP.NET Core
+9. Resource-based authorisation in ASP.NET Core
+
+> **Authentication** is the process of determining who you are, while **Authorisation** revolves around what you are allowed to do, i.e. permissions
+
+> You can think of **claims** as being a statement about, or a property of, a particular identity. That statement consists of a name and a value. For example you could have a DateOfBirth claim, FirstName claim, EmailAddress claim or IsVIP claim. Note that these statements are about what or who the identity **is**, not what they can **do**.
+
+And here's ["No! You don't need to use ASP.NET Identity!"](https://weblogs.asp.net/jeff/no-you-don-t-need-to-use-asp-net-identity) by Jeff Putz
+
+> The problem, as I see it, is that developers are confusing the act of persisting user information with authentication... ... under the covers, there is code that first verifies the user/password against the database, then sets the auth cookie to indicate who the user is for future requests.

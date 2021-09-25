@@ -21,150 +21,41 @@
                 <td>.NET/.NET Core</td>
                 <td>
                     <p>C#, ASP.NET Web API, ASP.NET MVC, Entity Framework, Dapper, xUnit, Moq</p>
-                    <!-- <p>C#, <small>VB.NET</small></p>
-                    <p>ASP.NET MVC, ASP.NET Web API, <small>ASP.NET Web Forms</small>, etc.</p> -->
                 </td>
             </tr>
-            <!-- <tr>
-                <td>Other Languages:</td>
-                <td>
-                    <p>Java, <small>JavaScript, TypeScript, Python</small></p>
-                </td>
-            </tr> -->
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p>KnockoutJS, Angular, JavaScript/TypeScript</p>
+                    <p>KnockoutJS, <small>Angular</small>, JavaScript/TypeScript</p>
                 </td>
             </tr>
             <tr>
-                <td>Other</td>
+                <td>Software Architecture & Design</td>
                 <td>
-                    <p>SQL, REST, Git, <a href="/2018/05/23/rxjava-is-not-intuitive/">Rx</a></p>
-                    <p>
-                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
+                    <p markdown="1">
+                        [The SOLID principles](https://www.youtube.com/watch?v=oar-T2KovwE&t=1425s), 
+                        [Some design patterns](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/), 
+                        [Layered Architecture](https://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping), 
+                        [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html),
+                        [Principle of least astonishment (POLA)](https://www.aristeia.com/Papers/IEEE_Software_JulAug_2004_revised.htm),
+                        [Focus on the what not on the how](https://simpleprogrammer.com/respecting-abstraction/)
                     </p>
-                </td>
-            </tr>
-            <!-- <tr>
-                <td>Databases, ORM:</td>
-                <td>
-                    <p>SQL, Entity Framework</p>
-                </td>
-            </tr> -->
-            <!-- <tr>
-                <td>Other Platforms</td>
-                <td>
-                    <p>I think I can work on software systems made using platforms other than .NET, even when I have no experience working on those platform, as long as the codebase of the system adheres to good architectural guidelines and best practices on coding. You just need to assign someone to pair program with me for a few weeks or months for 2 to 3 hours per day, so that I will become familiar with the coding styles of your programming team, and so that the values of your team will be passed on to me.</p>
-                </td>
-            </tr> -->
-            <tr>
-                <td>Software Architecture/Design</td>
-                <td>
-                    <p>
-                        <a href="https://www.youtube.com/watch?v=oar-T2KovwE">The SOLID principles</a>
-                    </p>
-                    <p>
-                        <a href="https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/">Some design Patterns</a>
-                    </p>
-                    <p>
-                        <a href="/2017/09/07/architecture-is-the-art-of-drawing-lines">Clean Architecture</a> of Uncle Bob Martin
-                    </p>
-                    <!-- <p>
-                        <small>Some DDD concepts</small>
-                    </p> -->
-                </td>
-            </tr>
-            <!-- <tr>
-                <td>Working with Legacy Code:</td>
-                <td>
-                    <p>
-                        <a href="https://simpleprogrammer.com/deal-with-legacy-code/">"The Right Attitude to Deal with Legacy Code"</a> by Jonathan Boccara
-                    </p>
-                    <p>
-                        <small>I had read "Working Effectively with Legacy Code" by Michael Feathers last 2018</small>
-                    </p>
-                    <p>
-                        Please refer also to the section in my Anti-résumé titled <a href="/resume/anti-resume/#if-your-codebase-is-messy">"If your codebase is messy"</a>.
-                    </p>
-                    <p>
-                        <small>I had read <a href="/2018/04/30/welc-book-by-micheal-feathers/">"Working Effectively with Legacy Code"</a> by Michael Feathers last 2018</small>
-                    </p>
-                    <p>
-                        (I'm currently reading <a href="http://scg.unibe.ch/download/oorp/">"Object-Oriented Reengineering Patterns"</a>)
-                    </p>
-                    <p>
-                        The majority of the code bases I have been involved in since I started working as a programmer were legacy code bases.
-                    </p>
-                </td>
-            </tr> -->
-            <tr>
-                <td>Basic Computer Science Concepts:</td>
-                <td>
-                    <p>
-                    Learned fundamentals of CS through free materials of
-                    <a  href="http://jeremiahflaga.blogspot.com/2012/05/cs106b-free-course-from-stanford.html">Stanford's CS106B</a> last 2012, through <a href="/files/certificates/Nand2Tetris-Cert-Coursera.pdf">"Nand to Tetris (Part 1)" course</a> last 2015, and through 
-                    <a href="/2017/08/05/finished-mit-ocw-6.0001/">MIT OpenCourseWare 6.0001</a> last 2017
-                    </p>
-                    <!-- <p>
-                    ... also through <a href="/2017/07/02/computer-science-distilled-feedback">"Computer Science Distilled"</a> of Wladston Filho
-                    </p> -->
-                </td>
-            </tr>
-             <!-- 
-            <tr>
-                <td>Other:</td>
-                <td>
-                    <p>
-                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
-                    </p>
-                    <p>
-                        I also tried solving <em>simple</em> algorithmic problems before. (<a href="/resume/anti-resume/#not-an-algorithmer">I'm not an Algorithmer</a>, so I do not have the ability to solve complex algorithmic problems.)                
-                        You can view my solutions to some simple problems
-                        <a href="https://github.com/jeremiahflaga/competitive-programming">here</a>.
-                    </p> 
-                    <p>
-                        <a href="/memorabilia/quotes/why-read/">I read</a>.
-                    </p>
-                    <p>
-                        GitHub: <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
-                    </p>
-                </td>
-            </tr>
-            -->
-            <!-- 
-            <tr>
-            <td>GitHub:</td>
-            <td>
-                <p>
-                <a href="https://github.com/jeremiahflaga">github.com/jeremiahflaga</a>
-                </p>
-                <small>Old GitHub:</small>
-                <br />
-                <p class="indented">
-                <small><a href="https://github.com/jboyflaga2">github.com/jboyflaga2</a></small>
-                <br />
-                <small><a href="https://github.com/jboyflaga">github.com/jboyflaga</a></small>
-                </p>
-            </td>
-            </tr>
-            -->
-            <!-- 
-            <tr>
-                <td></td>
-                <td>
-                    <p>
-                        I read <a href="https://www.bookdepository.com/book/9780091906818?a_aid=jflaga">"How to Win Friends and Influence People"</a> years ago.
-                        , and I am rereading it sometimes to review the things I learned from it.
-                    </p>
-                    <p>
+                    <p markdown="1">
                         <small>
-                            <em>(I included this here because this might give me plus points... because I saw a job post in the past which said that this book is a required reading if one is hired.)</em>
+                        I'm not saying that I _always_ write beautifully designed, readable, expressive code. I still write messy code during trying times, or during lazy times, with the intention of cleaning them up later of course. But I'm already aware, through experience and from what other programmers have written, that code that is easy to read is valuable code, because it is maintainable, and maintenance is where the majority of the cost of software lies (more [here](https://youtu.be/AeWbJ5LIFNg?t=200) and [here](https://www.goodreads.com/quotes/4535909-the-majority-of-the-cost-of-a-software-project-is)). So if your organization insists that I  never write messy code, I will do my best to comply.
                         </small>
                     </p>
                 </td>
-            </tr> 
-             -->
+            </tr>            
+            <tr>
+                <td>Other</td>
+                <td>
+                    <p>SQL, REST, Git</p>
+                    <p>
+                        <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
+                    </p>
+                </td>
+            </tr>
             <tr>
                 <td></td>
                 <td></td>
@@ -172,29 +63,13 @@
         </tbody>
     </table>
 
-<!-- 
-<div class="alert alert-secondary" markdown="1">
-
-> If I took a programmer from 1960 and brought him forward through time to sit at my laptop and write code; he’d need 24 hours to recover from the shock; but then he’ll be able to write the code. The concepts haven’t changed that much.
-> 
-> --- Uncle Bob Martin in his article ["Three Paradigms"](http://blog.cleancoder.com/uncle-bob/2012/12/19/Three-Paradigms.html)
-
-That quote from Uncle Bob seems to suggest that I can manage to work on any [LOB](https://blogs.msdn.microsoft.com/dragoman/2007/07/19/what-is-a-lob-application/) codebase, even those that use technologies I am not yet familiar with!!! 
-Not very sure yet...
-
-But if you cannot find anyone to work with your codebase, and if I also cannot find any job which uses technologies I am familiar with, I believe I can manage to work with your codebase. :blush: (Except when your codebase uses a functional language, I cannot work on it yet, because I have almost no knowledge about functional programming, at least for now.)
-
-</div> 
--->
-
-
 <div class="d-none d-print-block">
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
-    <br />
+    <br /><br /><br /><br />
 </div>
 
 

@@ -7,15 +7,15 @@
         <div class="subheading mb-3">
             <a href="http://www.myndconsulting.com/">Mynd Consulting</a>
         </div>
-        <p class="col-md-10">Involved in developing versions 2 and 3 of an Android app for a TV show.</p>
+        <p class="col-md-10">Involved in the maintenance of an Android app for a TV show.</p>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> Java, Android Framework, RxJava, SugarORM
+            <strong>Technologies used:</strong> Java, Android Framework, RxJava, SugarORM, etc.
         </p>
     </div>
 </div>
 
 
-<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-4-mynd-accordion">
+<div class="col-md-10 accordion mt-2 d-print-none d-none" id="experience-4-mynd-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-4-mynd-heading-contributions">
             <p class="mb-0">
@@ -81,4 +81,8 @@
 	        </div>
         </div>
     </div>
+</div>
+
+<div class="mb-5">
+
 </div>

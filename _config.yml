@@ -40,33 +40,6 @@ facebook_username:  jboyflaga
 instagram_username:  
 linkedin_username:  jeremiahflaga
 
-# Navigation (2nd level links supported)
-nav:
-  Home:
-    - '/'
-  Blog:
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-    - { Archive: '/blog/archive/' }
-  About:
-    - '/about/'
-  # Github Project: 
-    # - 'http://codinfox.github.io/'
-  Good Stuffs:
-    - '/good-stuffs/'
-  Free Books:
-    - '/free-books/'
-
-
-# Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
-
-hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
-
 google_analytics:   UA-93514486-1 # out your google-analytics code
 disqus_short_name: 'jeremiahflaga' # leave blank if you don't want disqus
 

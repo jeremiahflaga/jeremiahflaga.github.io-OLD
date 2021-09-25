@@ -16,7 +16,7 @@
 </div>
 
 
-<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-3-enlightenment-accordion">
+<div class="col-md-10 accordion mt-2 d-print-none" id="experience-3-enlightenment-accordion">
   <div class="card">
     <div class="card-header p-0" id="experience-3-enlightenment-heading-lessons-learned">
       <p class="mb-0">
@@ -114,3 +114,7 @@ from http://craftsmanshipcounts.com/policy-mechanism-preservation-business-value
  separate policy from mechanism
  
   -->
+
+<div class="mb-5">
+
+</div>

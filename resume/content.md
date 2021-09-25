@@ -22,17 +22,20 @@
         <div class="d-none d-print-block">
             <br /><br />
         </div>
+        <!-- 
+        {% comment %}
         {% include_relative sections/experiences/experience-3-enlightenment.md %}
         <div class="d-none d-print-block">
             <br /><br />
-        </div>
+        </div> 
+        {% endcomment %}
+        -->
         {% include_relative sections/experiences/experience-4-mynd.md %}
         <div class="d-none d-print-block">
             <br /><br />
         </div>
         {% include_relative sections/experiences/experience-5-four13.md %}
         <div class="d-none d-print-block">
-            <br /><br /><br /><br />
             <br /><br />
         </div>
         {% include_relative sections/experiences/experience-6-arcanys.md %}
@@ -55,13 +58,12 @@
 <section class="resume-section" id="software-ninja-class">
     {% include_relative sections/software-ninja-class.md %}
 </section>
-{% endcomment %}
- -->
  
 <hr class="m-0" />
 <section class="resume-section" id="learning-philosophy">
     {% include_relative sections/learning-philosophy.md %}
 </section>
+
 <hr class="m-0" />
 <section class="resume-section" id="interests">
     {% include_relative sections/interests.md %}
@@ -72,14 +74,10 @@
     {% include_relative sections/requests-when-hired.md %}
 </section>
 
-<!-- 
-{% comment %}
 <hr class="m-0" />
 <section class="resume-section" id="education">
     {% include_relative sections/education.md %}
 </section>
-{% endcomment %}
- -->
 
 <div class="d-print-none">
     <hr class="m-0" />
@@ -92,8 +90,6 @@
     </section>
 </div>
 
-<!-- 
-{% comment %}
 <p>
     I am someone more inclined to []  a supporting role instead of leadership role.
     <br />

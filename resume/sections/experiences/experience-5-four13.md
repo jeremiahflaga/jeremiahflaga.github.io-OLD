@@ -16,13 +16,13 @@
             </p>
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper
+            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper, SQL Server
         </p>
     </div>
 </div>
 
 
-<div class="col-md-10 accordion mb-5 mt-2 d-print-none" id="experience-5-four13-accordion">
+<div class="col-md-10 accordion mt-2 d-print-none d-none" id="experience-5-four13-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-5-four13-heading-contributions">
             <p class="mb-0">
@@ -122,4 +122,8 @@
 	        </div>
         </div>
     </div>
+</div>
+
+<div class="mb-5">
+
 </div>

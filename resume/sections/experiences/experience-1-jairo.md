@@ -8,7 +8,7 @@
             <a href="http://www.jairosolutions.com/">Jairosolutions</a>
         </div>
         <p class="col-md-10">
-            I experienced being in a team working as outsource developers for another company, building contest pages for www.verizoninsider.com.
+            I experienced being in a team working as outsource developers for another company, building contest pages on the company's website.
         </p>
         <p class="col-md-10 small">
             <strong>Technologies used:</strong> C#, Sitecore, ASP.NET Web Forms, CSS
@@ -16,7 +16,7 @@
     </div>
 </div>
 
-<div class="col-md-10 accordion mb-5 mt-2 d-print-none " id="experience-1-jairo-accordion">
+<div class="col-md-10 accordion mt-2 d-print-none d-none" id="experience-1-jairo-accordion">
     <div class="card">
         <div class="card-header p-0" id="experience-1-jairo-heading-contributions">
             <p class="mb-0">
@@ -55,4 +55,8 @@
             </div>
         </div>
     </div>
+</div>
+
+<div class="mb-5">
+
 </div>
