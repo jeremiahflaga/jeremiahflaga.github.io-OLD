@@ -19,7 +19,7 @@
             -->
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc.
+            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc., (Bitbucket, Azure DevOps)
         </p>
     </div>
 </div>
@@ -77,7 +77,7 @@
         </p>
         <p class="small">
             <strong>Technologies used:</strong> ASP.NET Web API, Angular, Bootstrap, MongoDB, Dapper, SQL Server, 
-            RabbitMQ, SignalR
+            RabbitMQ, SignalR, (Azure DevOps)
         </p>
     </div>
 </div>
