@@ -1,6 +1,6 @@
 <div class="">
     <div class="float-right">
-        <span class="text-primary experience-date">October 2016 - May 2018 (1 year, 7 months)</span>
+        <span class="text-primary experience-date">October 2016 - May 2018 (1 year, 8 months)</span>
     </div>
     <div class="">
         <h3 class="mb-0">Software Developer (Android)</h3>

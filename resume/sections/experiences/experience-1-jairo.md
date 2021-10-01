@@ -1,6 +1,6 @@
 <div class="">
     <div class="float-right">
-        <span class="text-primary experience-date">April 2012 - October 2012 (6 months)</span>
+        <span class="text-primary experience-date">April 2012 - October 2012 (7 months)</span>
     </div>
     <div class="">
         <h3 class="mb-0">Software Developer (.NET)</h3>
