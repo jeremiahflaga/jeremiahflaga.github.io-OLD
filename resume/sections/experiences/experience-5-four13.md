@@ -16,7 +16,7 @@
             </p>
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper, SQL Server, (Bitbucket)
+            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper, SQL Server, (Bitbucket, Basecamp)
         </p>
     </div>
 </div>

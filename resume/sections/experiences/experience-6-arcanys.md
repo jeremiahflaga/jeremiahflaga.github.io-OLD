@@ -19,7 +19,7 @@
             -->
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc., (Bitbucket, Azure DevOps)
+            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc., (Bitbucket, Jira, Azure DevOps)
         </p>
     </div>
 </div>
