@@ -63,7 +63,7 @@ static void Main(string[] args)
 
 If you want code you can execute, go [here](https://github.com/jeremiahflaga/hello-world-layered-vs-clean-architecture).
 
-For an artistic way of describing the Clean Architecture, read Uncle Bob Martin's article [here](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
+If you want to read an artistic way of describing the Clean Architecture, to go Uncle Bob Martin's article, titled "A Little Architecture", [here](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html).
 
 
 

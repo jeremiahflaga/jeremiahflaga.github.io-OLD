@@ -20,7 +20,7 @@ pinned: false
 
 The [DRY principle](/2021/09/01/guidelines-and-resources-on-how-to-write-clean-code) or guideline is one of the easiest of the coding guidelines to understand and remember. Maybe that is the reason why we easily conclude that there is duplication when we see code which look the same. And it seems to me that we have developed this instinct of wanting to remove duplication when we see them (or maybe it's just me :smile: ).
 
-But there are also times when we are hesitant to de-duplicate code which look the same, because it seems unnatural to do so in those cases --- we can somewhat foresee that if we de-duplicate a particular code, it might make our codebase messier and more difficult to maintain later.
+But there are also times when we are hesitant to de-duplicate code which look the same, because it seems unnatural to do so in those cases --- we want to keep the duplication, because we can somewhat foresee that if we de-duplicate this particular code it might make our codebase messier and more difficult to maintain later.
 
 In those cases, we are being pulled between following the DRY (Don't Repeat Yourself) principle and following the SRP (Single Responsibility Principle).
 
