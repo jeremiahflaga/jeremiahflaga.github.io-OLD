@@ -3,7 +3,7 @@
         <span class="text-primary experience-date">April 2012 - October 2012 (7 months)</span>
     </div>
     <div class="">
-        <h3 class="mb-0">Software Developer (.NET)</h3>
+        <h3 class="mb-0">Software Developer (.NET, Sitecore)</h3>
         <div class="subheading mb-3">
             <a href="http://www.jairosolutions.com/">Jairosolutions</a>
         </div>

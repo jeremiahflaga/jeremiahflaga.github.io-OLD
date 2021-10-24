@@ -16,7 +16,7 @@
             </p>
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper, SQL Server, (Bitbucket, Basecamp)
+            <strong>Technologies used:</strong> ASP.NET MVC, ASP.NET Web API, AngularJS, Entity Framework, Dapper, SQL Server
         </p>
     </div>
 </div>
@@ -35,7 +35,7 @@
 	        <div class="card-body">
                 <div class="pr-3">
                     <p>
-                        The first app I worked on has two ways for data access: one uses a database-first model of Entity Framework and the other one uses a code-first model of Entity Framework. This sometimes gets in the way when I'm searching for the model to use when adding features in the app. So I refactored the app so that it will only use the code-first model. Then, when the refactorings was finished, I was able to delete all of the the database-first models.
+                        The first app I worked on has two ways for data access: one uses a database-first model of Entity Framework and the other one uses a code-first model of Entity Framework. This sometimes gets in the way when I'm searching for the model to use when adding features in the app. So I refactored the app so that it will only use the code-first model. Then, when the refactorings was finished, I was able to delete all of the database-first models.
                     </p>
                     <p>
                         It was just a small app and not very complex, so it was doable within a short period of time. I do not advise doing that in medium sized or big apps.

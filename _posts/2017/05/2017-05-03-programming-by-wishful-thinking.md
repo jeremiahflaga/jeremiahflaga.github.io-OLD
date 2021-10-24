@@ -28,7 +28,7 @@ bookmark(item); or item.bookmark();
 ... or this ...
 
 ``` java
-int steps = someObject.getNumberOfStepsFor(date);
+int numberOfItems = someObject.getNumberOfItemsOn(date);
 ```
 
 ... even though they are not yet implemented.
@@ -62,8 +62,8 @@ public class SomeObject {
         ...
     }
 
-    public int getSteps(Date date) {
-        // get number of steps from somewhere
+    public int getNumberOfItemsOn(Date date) {
+        ...
     }
 }
 ```

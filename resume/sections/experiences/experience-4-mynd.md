@@ -9,7 +9,7 @@
         </div>
         <p class="col-md-10">Involved in the maintenance of an Android app for a TV show.</p>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> Java, Android Framework, RxJava, SugarORM, etc., (Trello)
+            <strong>Technologies used:</strong> Java, Android Framework, RxJava, SugarORM, etc.
         </p>
     </div>
 </div>

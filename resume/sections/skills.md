@@ -38,6 +38,7 @@
                         [Layered Architecture](https://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping), 
                         [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html),
                         [Principle of least astonishment (POLA)](https://www.aristeia.com/Papers/IEEE_Software_JulAug_2004_revised.htm),
+                        [KISS](https://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/),
                         [Focus on the what not on the how](https://simpleprogrammer.com/respecting-abstraction/)
                     </p>
                     <p markdown="1">

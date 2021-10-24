@@ -8,7 +8,7 @@
             <a href="https://www.arcanys.com/">Arcanys</a>
         </div>
         <div class="col-md-10">
-            <!-- <p class="text-primary experience-date">July 2019 - April 2020:</p> -->
+            <p class="text-primary experience-date">July 2019 - April 2020:</p>
             <p>
                 A backend developer of a team working on a social networking site used by employees and clients of a company whose services involves offering coworking spaces, meeting rooms and physical offices as well as virtual offices, to people and businesses.
             </p>
@@ -19,7 +19,7 @@
             -->
         </div>
         <p class="col-md-10 small">
-            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc., (Bitbucket, Jira, Azure DevOps)
+            <strong>Technologies used:</strong> ASP.NET Web API, Entity Framework, SQL Server, etc.
         </p>
     </div>
 </div>
@@ -51,33 +51,36 @@
 </div>
 
 
-<!-- 
+<div class="d-none d-print-block">
+    <br /><br /><br /><br />
+</div>
+
 <div class="col-md-10 d-flex flex-column flex-md-row justify-content-between">
     <div class="flex-grow-1">
         <h3 class="mb-0"></h3>
         <div class="subheading mb-3">
         </div>      
-        <p class="text-primary experience-date">May 2020 - Jan 2021:</p>
+        <p class="text-primary experience-date">May 2020 - January 2021:</p>
         <p>
-            Our client was affected by the lockdowns, so our work with them stopped (temporarily, I hope), and our team was put on bench. I was learning Angular, Microservices in .NET, and Domain-Driven Design during this time.
+            Our client was affected by the lockdowns, so our work with them stopped, and our team was put on bench. I was learning Angular, Microservices in .NET, and a little bit of Domain-Driven Design during this time.
         </p>
     </div>
 </div>
- -->
+
 
 
 <div class="col-md-10 d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
         <h3 class="mb-0"></h3>
         <div class="subheading mb-3">
-        </div>      
-        <!-- <p class="text-primary experience-date">February - September 2021:</p> -->
+        </div>
+        <p class="text-primary experience-date">February - September 2021:</p>
         <p>
             Involved in maintaining an app which is being used to facilitate the flow of patients in a hospital.
         </p>
         <p class="small">
             <strong>Technologies used:</strong> ASP.NET Web API, Angular, Bootstrap, MongoDB, Dapper, SQL Server, 
-            RabbitMQ, SignalR, (Azure DevOps)
+            RabbitMQ, SignalR
         </p>
     </div>
 </div>

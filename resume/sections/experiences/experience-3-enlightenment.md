@@ -11,6 +11,52 @@
       <p>
         <em><strong>I would say that this is the time of my enlightenment on how to structure software projects.</strong></em> 
       </p>
+      <blockquote>
+        "Architecture is <strong>not</strong> about frameworks and databases and web servers..."
+      </blockquote>
+      <p>
+        Before this period, I had been thinking that software architecture is about how to combine all these frameworks and libraries and tools together to form an application!
+      </p>
+      <div>
+        <ul>
+          <li>
+            <p>
+              <small>
+                <em>Windows Forms for presentation | ADO.NET for data access | SQL Server for database | etc.</em>
+              </small>
+            </p>
+          </li>
+          <li>
+            <p>
+              <small>
+                <em>ASP.NET Web MVC for presentation | Entity Framework for data access | etc. </em>
+              </small>
+            </p>
+          </li>
+          <li>
+            <p>
+              <small>
+                <em>Hot Towel SPA Template for frontend | ASP.NET Web API for backend | Entity Framework for data access | StructureMap as DI Container | SQL Server for database | etc. </em>
+              </small>
+            </p>
+          </li>
+        </ul>
+      </div>
+      <p>
+        ... have I been putting <em>much</em> of my time and attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you. :grin:
+      </p>
+      <div class="d-none d-print-block">
+          <br /><br />
+      </div>
+      <blockquote>
+        "The important decisions that a Software Architect makes are the ones that allow you to <strong>NOT</strong> make the decisions about the database, and the webserver, and the frameworks." &mdash; Uncle Bob Martin
+      </blockquote>
+      <p>
+        Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I acknowledge that there are lots of <em>other</em> materials (and experiences) that helped me come into this kind of enlightenment.
+      </p>
+      <p>
+        I have always been in search for the best way to structure software systems. Now I think I already know the gist of it: I just need to do my best to separate the business rules from the other parts of the software system, because this helps make the codebase easy to reason about (among other benefits).
+      </p>
     </div>
   </div>
 </div>
@@ -28,52 +74,6 @@
     <div id="experience-3-enlightenment-collapse-lessons-learned" class="collapse" aria-labelledby="experience-3-enlightenment-heading-lessons-learned" data-parent="#experience-3-enlightenment-accordion">
       <div class="card-body">
         <div class="pr-3">
-            <blockquote>
-              "Architecture is <strong>not</strong> about frameworks and databases and web servers..."
-            </blockquote>
-            <p>
-              Before this period, I had been thinking that software architecture is about how to combine all these frameworks and libraries and tools together to form an application!
-            </p>
-            <div>
-              <ul>
-                <li>
-                  <p>
-                    <small>
-                      <em>Windows Forms for presentation | ADO.NET for data access | SQL Server for database | etc.</em>
-                    </small>
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <small>
-                      <em>ASP.NET Web MVC for presentation | Entity Framework for data access | etc. </em>
-                    </small>
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <small>
-                      <em>Hot Towel SPA Template for frontend | ASP.NET Web API for backend | Entity Framework for data access | StructureMap as DI Container | SQL Server for database | etc. </em>
-                    </small>
-                  </p>
-                </li>
-              </ul>
-            </div>
-            <p>
-              ... have I been putting <em>much</em> of my time and attention in the wrong places!?... I'm not sure. Perhaps this is just part of growing up as a programmer through trial-and-error, with no one <em>personally</em> guiding you. :grin:
-            </p>
-            <blockquote>
-              "The important decisions that a Software Architect makes are the ones that allow you to <strong>NOT</strong> make the decisions about the database, and the webserver, and the frameworks." &mdash; Uncle Bob Martin
-            </blockquote>
-            <p>
-              Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I acknowledge that there are lots of <em>other</em> materials (and experiences) that helped me come into this kind of enlightenment.
-            </p> 
-            <p>
-              I have always been in search for the best way to structure software systems. Now I think I already know the gist of it:
-            </p>
-            <p>
-              <strong>Just do your best to separate the business rules from the other parts of the software system.</strong>
-            </p>
             
 <div markdown="1">
 
