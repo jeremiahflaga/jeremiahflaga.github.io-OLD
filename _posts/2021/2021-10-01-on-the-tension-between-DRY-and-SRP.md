@@ -5,7 +5,7 @@ subtitle: Code duplication is not always evil
 categories: [Programming]
 tags: [Programming]
 date: 2021-10-01 12:00:00 AM UTC
-pinned: false
+pinned: true
 ---
 
 <!-- Started August 13, 2021  11:13 PM Philippine Time -->
