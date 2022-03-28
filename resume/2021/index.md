@@ -2,7 +2,7 @@
 layout: resume
 title: Résumé
 permalink: /resume/2021
-published: true
+published: false
 ---
 
 <!-- Navigation-->

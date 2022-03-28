@@ -10,7 +10,7 @@
         <div class="col-md-10">
             <p class="text-primary experience-date">July 2019 - April 2020:</p>
             <p>
-                A backend developer of a team working on a social networking site used by employees and clients of a company whose services involves offering coworking spaces, meeting rooms and physical offices as well as virtual offices, to people and businesses.
+                A backend developer of a team working on an internal social networking site of a company whose services involves offering coworking spaces, meeting rooms and physical offices as well as virtual offices, to people and businesses.
             </p>
             <!-- 
             <p>
@@ -51,10 +51,6 @@
 </div>
 
 
-<div class="d-none d-print-block">
-    <br /><br /><br /><br />
-</div>
-
 <div class="col-md-10 d-flex flex-column flex-md-row justify-content-between">
     <div class="flex-grow-1">
         <h3 class="mb-0"></h3>
@@ -80,7 +76,8 @@
         </p>
         <p class="small">
             <strong>Technologies used:</strong> ASP.NET Web API, Angular, Bootstrap, MongoDB, Dapper, SQL Server, 
-            RabbitMQ, SignalR
+            etc.
+            <!-- RabbitMQ, SignalR -->
         </p>
     </div>
 </div>

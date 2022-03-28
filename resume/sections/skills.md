@@ -34,8 +34,10 @@
                 <td>
                     <p markdown="1">
                         [The SOLID principles](https://www.youtube.com/watch?v=oar-T2KovwE&t=1425s), 
+                        <!-- 
                         [Some design patterns](https://simpleprogrammer.com/2016/06/15/dont-get-obsessed-design-patterns/), 
-                        [Layered Architecture](https://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping), 
+                        [Layered Architecture](https://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping),  
+                        -->
                         [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html),
                         [Principle of least astonishment (POLA)](https://www.aristeia.com/Papers/IEEE_Software_JulAug_2004_revised.htm),
                         [KISS](https://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/),
@@ -73,8 +75,4 @@
     <br /><br /><br /><br />
 </div>
 
-
-
 </div>
-
-

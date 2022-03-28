@@ -35,13 +35,17 @@
 - Add new features.
 - Refactor and clean up codebase [little-by-little as I work on it daily](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23) ([if needed](/2020/07/31/some-legacy-code-lessons-and-resources/)).
 - Write tests, if needed
-- If there is a need, I think I can teach younger developers the concepts of clean coding and clean architecture while working on your software, perhaps through pair programming, or through code reviews. 
+- If there is a need, _I think_ I can teach younger developers the concepts of clean coding and clean architecture while working on your software, perhaps through pair programming, or through code reviews. 
 
+
+
+<p class="lead mt-5"><strong>Anti-résumé:</strong></p>
+
+- During my first six to seven years as a programmer, I mainly used _written_ English when communicating with clients. For that reason, my _spoken_ English is not yet very good. I'm still working on improving it. But I can understand English, even complex sentence constructions. I'm just not yet very confident when using it in spoken conversations.
 
 
 
 <div class="d-none d-print-block">
-    <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />
     <br /><br /><br /><br />

@@ -2,7 +2,7 @@
 layout: page
 title: Résumé
 permalink: /resume/2019
-published: true
+published: false
 ---
 
 <style>
