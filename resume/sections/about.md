@@ -39,7 +39,15 @@
 
 
 
-<p class="lead mt-5"><strong>Anti-résumé:</strong></p>
+<p class="lead mt-5" markdown="1">
+[**Anti-résumé:**](https://www.inc.com/jessica-stillman/why-you-should-stop-feeling-bad-about-all-those-books-you-buy-dont-read.html?cid=sf01002&sr_share=facebook#:~:text="People%20don't%20walk%20around%20with%20anti)
+</p>
+
+
+<!-- %2Dr%C3%A9sum%C3%A9s%20telling%20you%20what%20they%20have%20not%20studied%20or%20experienced 
+
+> "People don't walk around with anti-résumés telling you what they have not studied or experienced (it's the job of their competitors to do that), but it would be nice if they did," Taleb claims.
+-->
 
 - During my first six to seven years as a programmer, I mainly used _written_ English when communicating with clients. For that reason, my _spoken_ English is not yet very good. I'm still working on improving it. But I can understand English, even complex sentence constructions. I'm just not yet very confident when using it in spoken conversations.
 
