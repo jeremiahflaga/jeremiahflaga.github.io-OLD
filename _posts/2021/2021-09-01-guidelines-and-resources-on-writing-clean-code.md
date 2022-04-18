@@ -105,3 +105,13 @@ and [here](https://www.brainstobytes.com/the-single-responsibility-principle/)
 <!-- 
 Good names are skin-deep by Mark Seemann - https://blog.ploeh.dk/2020/11/23/good-names-are-skin-deep/
  -->
+
+["Readability verification"](https://blog.ploeh.dk/2021/10/18/readability-verification/) by Mark Seemann
+
+> In [Code That Fits in Your Head](https://blog.ploeh.dk/code-that-fits-in-your-head), I suggest heuristics for writing readable code, but ultimately, the only reliable test of readability that I can think of is simple:
+>
+> > Ask someone else to read the code.
+
+[Robert C. Martin's book "Clean Code" adapted with JavaScript examples](https://www.reddit.com/r/node/comments/5pvzo2/robert_c_martins_book_clean_code_adapted_with/)
+
+

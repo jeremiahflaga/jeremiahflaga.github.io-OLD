@@ -130,9 +130,30 @@ _What if_ the reason why God does not show himself physically all of the time is
 
 Will machines/programs be able to think for themselves, like we humans do? These resources greatly influenced my current stand on that issue:
 
-- ["Does 'Artificial Intelligence' Exist?"](https://answersingenesis.org/genetics/information-theory/language-creating-communicating-and-storing-information/) by Werner Gitt
-- ["Don't fear superintelligent AI"](https://www.youtube.com/watch?v=z0HsPBKfhoI&ab_channel=TED) by Grady Booch
-- ["Drive me to Toronto, Hal."](https://blog.cleancoder.com/uncle-bob/2017/07/24/DriveMeToTorontoHal.html) by Uncle Bob Martin (also, ["The Brain Problem"](https://blog.cleancoder.com/uncle-bob/2017/07/28/TheBrainProblem.html))
-- ["Will Computers Ever Be Able to Think on Their Own?"](https://www.computersciencedegreehub.com/faq/computers/)
+- **["Does 'Artificial Intelligence' Exist?"](https://answersingenesis.org/genetics/information-theory/language-creating-communicating-and-storing-information/) by Werner Gitt**
+
+{: .small }
+> Systems developed by “AI programmers” will become more meaningful in many areas, but in the light of our knowledge of the information concept, we should always keep in mind that **no machine, however well programmed, will ever be able to generate creative information** (see chapter 8), because this is fundamentally an intellectual process.
+
+- **["Don't fear superintelligent AI"](https://www.youtube.com/watch?v=z0HsPBKfhoI&ab_channel=TED) by Grady Booch**
+
+{: .small }
+> We are not building AIs that control the weather, that direct the tides, that command us capricious, chaotic humans. And furthermore, **if such an artificial intelligence existed, it would have to compete with human economies, and thereby compete for resources with us**. And in the end -- don't tell Siri this -- we can always unplug them.
+
+{: .small }
+> We are on an incredible journey of coevolution with our machines. The humans we are today are not the humans we will be then. **To worry now about the rise of a superintelligence is in many ways a dangerous distraction**, because the rise of computing itself brings to us a number of human and societal issues to which we must now attend: How shall I best organize society when the need for human labor diminishes? How can I bring understanding and education throughout the globe and still respect our differences? How might I extend and enhance human life through cognitive healthcare? How might I use computing to help take us to the stars?
+
+{: .small }
+> And that's the exciting thing. The opportunities to use computing to advance the human experience are within our reach, here and now, and we are just beginning.
+
+- **["Drive me to Toronto, Hal."](https://blog.cleancoder.com/uncle-bob/2017/07/24/DriveMeToTorontoHal.html) by Uncle Bob Martin** (also, ["The Brain Problem"](https://blog.cleancoder.com/uncle-bob/2017/07/28/TheBrainProblem.html))
+
+- **["Will Computers Ever Be Able to Think on Their Own?"](https://www.computersciencedegreehub.com/faq/computers/)**
+
+- **["Worried about AI taking over the world? You may be making some rather unscientific assumptions"](https://robohub.org/worried-about-ai-taking-over-the-world-you-may-be-making-some-rather-unscientific-assumptions/) by Eleni Vasilaki**
+
+{: .small }
+> **Machine learning and artificial intelligence are tools. They can be used in a right or a wrong way, like everything else.** It is the way that they are used that should concerns us, not the methods themselves. Human greed and human unintelligence scare me far more than artificial intelligence.
+
 
 </div>

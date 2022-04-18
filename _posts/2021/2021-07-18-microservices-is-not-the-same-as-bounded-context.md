@@ -59,3 +59,8 @@ I don't really know that much about microservices or bounded contexts. But becau
 **["Designing Microservice Architectures for People"](https://cloudnative.ly/designing-microservice-architectures-for-people-fcb4fb92397)**
 
 > **I would recommend starting with just one microservice per Bounded Context.** Others can be extracted out only when there is a good reason to do so... This way, you defer all the additional complications that microservices bring until you know you need to face them.
+
+
+
+**["Domain-driven design needn't be hard. Here's how to start"](https://www.thoughtworks.com/insights/blog/domain-driven-design-neednt-be-hard-heres-how-start)** by Andrew Hamel-Law
+

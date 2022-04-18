@@ -1,13 +1,13 @@
 <div class="">
   <div class="float-right">
-    <span class="text-primary experience-date">Novermber 2021 - March 2022 (5 months)</span>
+    <span class="text-primary experience-date">Novermber 2021 - </span>
   </div>
   <div class="">
     <h3 class="mb-3">Software Developer (NodeJS, .NET)</h3>
 
 <div class="col-md-10" markdown="1">
 
-Involved in the maintenance and bug fixing for a couple of eCommerce web applications.
+Involved in the maintenance of a couple of eCommerce web applications.
 
 </div>
 
