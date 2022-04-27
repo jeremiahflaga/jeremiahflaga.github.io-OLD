@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Testability and good systems'
-categories: ['What if?', Programming]
+categories: ['What-if', Programming]
 tags: [Gene Edwards, Testability]
 date: 2018-03-05 03:30:00 PM UTC
 ---

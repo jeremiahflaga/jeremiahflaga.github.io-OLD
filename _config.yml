@@ -12,7 +12,8 @@ background: /images/background/small/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg
 
 # Site configurations
 plugins:
-  - jekyll-paginate  
+  - jekyll-paginate
+  - jekyll-paginate-multiple # https://prashanthchengi.livejournal.com/80490.html | https://jekyllfieldguide.com/tutorials/jekyll-dual-language/
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jemoji # GitHub-flavored Emoji plugin for Jekyll
@@ -27,9 +28,15 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+# Pagination
 paginate: 10
 paginate_path: '/blog/page:num'
 permalink: /:year/:month/:day/:title/
+
+paginate_multiple:
+  - paginate: 2
+    paginate_path: '/reviews/page:num/'
+    sub_dir: '/reviews'
 
 timezone: UTC
 
@@ -49,3 +56,5 @@ exclude:
   - README.md
   - resume/sections
   - resume/anti-resume/sections
+  - resume/2021/sections
+  - resume/2021/anti-resume/sections

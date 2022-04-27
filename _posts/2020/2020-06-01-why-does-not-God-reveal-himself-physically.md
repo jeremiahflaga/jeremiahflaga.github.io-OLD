@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why doesn''t God physically reveal Himself?'
-categories: [Miscellaneous, 'What if?']
+categories: [Miscellaneous, 'What-if']
 tags: [William Lane Craig]
 date: 2020-06-01 01:00:00 AM UTC
 ---
