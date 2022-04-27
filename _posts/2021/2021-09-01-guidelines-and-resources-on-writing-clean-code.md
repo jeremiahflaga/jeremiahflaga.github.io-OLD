@@ -53,6 +53,8 @@ You can read about that
 [here](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 and [here](https://www.e4developer.com/2018/10/04/single-responsibility-principle-do-you-know-the-real-one/)
 and [here](https://www.brainstobytes.com/the-single-responsibility-principle/)
+and [here](http://www.softwareonthebrain.com/2022/01/the-misunderstood-single-responsibility.html) <!-- The Misunderstood Single Responsibility Principle by Joseph Lynch - from Uncle Bob's tweet - https://twitter.com/unclebobmartin/status/1485224521875562498 -->
+
 
 <!-- 
 ["The Single Responsibility Principle"](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) by Uncle Bob Martin

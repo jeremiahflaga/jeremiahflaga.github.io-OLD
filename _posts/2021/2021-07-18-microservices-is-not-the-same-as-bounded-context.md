@@ -54,6 +54,9 @@ I don't really know that much about microservices or bounded contexts. But becau
 
 **["The Single Responsibility Principle"](https://www.brainstobytes.com/the-single-responsibility-principle/)** by Juan Orozco Villalobos
 
+**[The Misunderstood Single Responsibility Principle](http://www.softwareonthebrain.com/2022/01/the-misunderstood-single-responsibility.html)** by Joseph Lynch
+
+<!-- from Uncle Bob's tweet - https://twitter.com/unclebobmartin/status/1485224521875562498 -->
 
 
 **["Designing Microservice Architectures for People"](https://cloudnative.ly/designing-microservice-architectures-for-people-fcb4fb92397)**

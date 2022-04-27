@@ -19,7 +19,7 @@ published: false
 
 <!--more-->
 
-I'm not yet sure about the truthfulnes of the things written in this post, but writing helps in the development of ideas, so i'm going to write them anyway and publish them (because publishing what I write is my only motivation to write things, for now)
+I'm not yet sure about the truthfulnes of the things written in this post, but writing helps in the development of ideas, so i'm going to write them anyway and publish them (because publishing what I write is a very good motivation for me to write things, for now)
 
 
 Why do software developers like to design things? - what you want to say here is that we want our designs to be the one used in the system because we think that we know better -- I'm guilty of this myself

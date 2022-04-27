@@ -1,11 +1,10 @@
 ---
-layout: page-with-no-comments
+layout: post
 title: Using Renovate in Gitlab
 subtitle:
 categories: [Programming]
 tags: [Programming]
-date: 2022-01-25 12:00:00 AM UTC
-published: false
+date: 2022-05-01 12:00:00 AM UTC
 ---
 
 This is a step-by-step guide to auto-update dependencies of GitLab projects using Renovate.
