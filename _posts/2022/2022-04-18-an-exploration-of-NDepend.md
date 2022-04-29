@@ -82,7 +82,7 @@ If you have programmed for so many years already, you might already know the rea
 
 Our limited memory prevents us from remembering everything we have experienced since we started programming. [NDepend](https://www.ndepend.com/) is a great tool that can constantly remind us of what we believe or experienced to be bad or good in our .NET code.
 
-We also have to remember that because tools like NDepend do not think like us humans do, they might suggest fixes that are not applicable to our application. So we also need to [understand the reasoning behind the rules](http://www.softwareonthebrain.com/2022/01/the-misunderstood-single-responsibility.html) that NDepend  
+Back to my point :smile: ... NDepend giving an explanation of why such rules exist is a good thing, because, as we all know, [tools like NDepend do not think like us humans do](https://www.youtube.com/watch?v=z0HsPBKfhoI&ab_channel=TED). They might suggest fixes that are not applicable to our application. We should not blindly follow everything NDepend tells us to follow. We also need to [understand the reasoning behind the rules](http://www.softwareonthebrain.com/2022/01/the-misunderstood-single-responsibility.html) that NDepend suggests for us to follow.
 
 <!-- 
 I do not know what the other implications of those changes are.
@@ -119,7 +119,7 @@ Now, if we try to reference and use the ASP.NET module from our Domain layer (wh
 
 ![](/images/2021/2021-11-07-ndepend-graph-of-referencing-aspnet-core-in-domain-layer.svg)
 
-The red box in the lower-right part of the diagram is the assembly named `Microsoft.AspNetCore.Mvc.Core`. We can see from that diagram that both the Presentation layer (`CleanAspNet.WebApi`) and the Domain layer (CleanAspNet.Domain) are pointing to that assembly. But that assembly is supposed to be used only in the Presentation layer of our application, because we want to follow the Clean Architecture idea in this case.
+The red box in the lower-right part of the diagram is the assembly named `Microsoft.AspNetCore.Mvc.Core`. We can see from that diagram that both the Presentation layer (`CleanAspNet.WebApi`) and the Domain layer (`CleanAspNet.Domain`) are pointing to that assembly. But that assembly is supposed to be used only in the Presentation layer of our application, because we want to follow the Clean Architecture idea in this case.
 
 We can see from these examples that NDepend can help us find out whether or not we are violating coding principles and architectural ideas we want to adhere to in our projects.
 

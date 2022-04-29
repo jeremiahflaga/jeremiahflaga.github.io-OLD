@@ -2,6 +2,7 @@
 layout: post
 title: 'Sample review 2'
 subtitle: 
+categories: [Review]
 date: 2022-04-27 12:05:00 AM UTC
 ---
 
