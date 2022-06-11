@@ -17,7 +17,9 @@ I studied Uncle Bob Martin's blog post titled ["A Little Architecture"](http://b
 
 I have always been in search for the best way to structure software projects. Now I think I already know the gist of it: **I just need to do my best to separate the business rules from the other parts of the software system**, because this helps make the codebase easy to reason about (among other benefits).
 
-Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I acknowledge that there are lots of other materials (and experiences) that helped me come into this kind of enlightenment.
+Of course I understand that the peak of an enlightenment comes from a series of little enlightenments. So even though this article of Uncle Bob is very special to me, I acknowledge that there are lots of other materials (and experiences) that helped me come into this kind of enlightenment. :smile:
+
+Please note that I also understand some of the **[tradeoffs](https://makeagif.com/gif/kent-becks-tradeoffs-ZULuNO)** of employing this kind of architecture in a software system (for an example, see ["Is Layering Worth the Mapping?"](https://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping/) by Mark Seemann). So I understand that this kind of an architecture is not a one-size-fits-all solution to all software systems.
 
 </div>
 

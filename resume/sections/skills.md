@@ -45,7 +45,7 @@
                     </p>
                     <p markdown="1">
                         <small>
-                        I'm not saying that I _always_ write beautifully designed, readable, expressive code. I still write messy code during trying times, or during lazy times, with the intention of cleaning them up later of course. But I'm already aware, through experience and from what other programmers have written, that code that is easy to read is valuable code, because it is maintainable, and maintenance is where the majority of the cost of software lies (more [here](https://youtu.be/AeWbJ5LIFNg?t=200) and [here](https://www.goodreads.com/quotes/4535909-the-majority-of-the-cost-of-a-software-project-is)). So if your organization insists that I  never write messy code, I will do my best to comply.
+                        I'm not saying that I _always_ write beautifully designed, readable, expressive code. I still write messy code during trying times, or during lazy times, with the intention of cleaning them up later of course. But I'm already aware, through experience and from what other programmers have written, that code that is easy to read is valuable code, because it is highly maintainable; and maintenance is where the majority of the cost of software lies (more [here](https://youtu.be/AeWbJ5LIFNg?t=200) and [here](https://www.goodreads.com/quotes/4535909-the-majority-of-the-cost-of-a-software-project-is)). So if your organization insists that I  never write messy code, I will do my best to comply.
                         </small>
                     </p>
                 </td>

@@ -88,7 +88,9 @@ img.emoji {
 
 // CSS Attribute Selectors: https://www.w3schools.com/css/css_attribute_selectors.asp
 iframe[src^="https://www.youtube.com/embed/"], // ^ means "starts with"
-embed[src$=".pdf"] // $ means "ends with"
+embed[src$=".pdf"],
+// $ means "ends with"
+div.youtube
 {
     box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
