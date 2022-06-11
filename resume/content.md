@@ -23,10 +23,12 @@
             <br /><br />
         </div>
         <!-- 
+        {% comment %}
         {% include_relative sections/experiences/experience-3-enlightenment.md %}
         <div class="d-none d-print-block">
             <br /><br />
         </div> 
+        {% endcomment %}
         -->
         {% include_relative sections/experiences/experience-4-mynd.md %}
         <div class="d-none d-print-block">
