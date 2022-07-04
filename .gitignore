@@ -49,7 +49,7 @@ bower_components
 .jekyll
 .jekyll-metadata
 .bundle
-Gemfile
+#Gemfile
 Gemfile.lock
 package.json
 .vscode

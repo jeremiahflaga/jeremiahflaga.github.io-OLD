@@ -16,6 +16,8 @@ While searching at youtube for Greg's
 
 Watched His eye is on the sparrow of playbyhear.com saved for offline viewing from YouTube
 
+https://www.youtube.com/watch?v=knaoU8hSteY&ab_channel=PlaybyHear
+
 	- He differentiates 5 from 5 major! Hmmmm
 	His 5 is IV/V. While his 5 major is the real V or V7
 	

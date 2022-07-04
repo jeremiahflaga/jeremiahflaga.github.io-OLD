@@ -20,13 +20,13 @@
             <tr>
                 <td>.NET/.NET Core</td>
                 <td>
-                    <p>C#, ASP.NET Web API, ASP.NET MVC, Entity Framework, Dapper, xUnit, Moq</p>
+                    <p>C#, ASP.NET MVC Web API, Entity Framework, Dapper, xUnit, Moq, etc.</p>
                 </td>
             </tr>
             <tr>
                 <td>Web (frontend)</td>
                 <td>
-                    <p>KnockoutJS, <small>Angular</small>, JavaScript/TypeScript</p>
+                    <p>JavaScript/TypeScript</p>
                 </td>
             </tr>
             <tr>
@@ -40,7 +40,7 @@
                         -->
                         [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html),
                         [Principle of least astonishment (POLA)](https://www.aristeia.com/Papers/IEEE_Software_JulAug_2004_revised.htm),
-                        [KISS](https://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/),
+                        <!-- [KISS](https://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/), -->
                         [Focus on the what not on the how](https://simpleprogrammer.com/respecting-abstraction/)
                     </p>
                     <p markdown="1">
@@ -53,7 +53,7 @@
             <tr>
                 <td>Other</td>
                 <td>
-                    <p>SQL, REST, Git</p>
+                    <p>SQL, REST, Git, <small>(some NoSQL)</small></p>
                     <p>
                         <a href="https://www.quora.com/Do-expert-programmers-use-Google-frequently-when-coding">Googling Stackoverflow</a> :grin:
                     </p>
